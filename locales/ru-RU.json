@@ -293,7 +293,6 @@
   },
   "settings": {
     "title": "Настройки",
-    "editor": "Редактор",
     "personalization": "Эффекты набора",
     "shortcuts": "Горячие клавиши",
     "about": "О программе",
@@ -561,7 +560,12 @@
     "importSuccess": "Переводы успешно импортированы",
     "clearSuccess": "Пользовательские переводы очищены",
     "importError": "Ошибка импорта, проверьте формат файла",
-    "selectTranslationFile": "Выберите файл перевода"
+    "selectTranslationFile": "Выберите файл перевода",
+    "general": "Редактор",
+    "clearError": "Не удалось очистить",
+    "noImportedTranslations": "Нет импортированных переводов",
+    "removeSuccess": "Удалено",
+    "removeError": "Не удалось удалить"
   },
   "shortcuts": {
     "categoryFile": "Файл",

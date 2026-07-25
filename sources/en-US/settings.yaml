@@ -1,6 +1,5 @@
 settings:
   title: Settings
-  editor: Editor
   personalization: Typing Effects
   shortcuts: Shortcuts
   about: About
@@ -263,3 +262,8 @@ settings:
   clearSuccess: Custom translations cleared
   importError: Import failed, please check the file format
   selectTranslationFile: Select Translation File
+  general: Editor
+  clearError: Failed to clear
+  noImportedTranslations: No imported translations
+  removeSuccess: Removed
+  removeError: Failed to remove

@@ -1,6 +1,5 @@
 settings:
   title: Einstellungen
-  editor: Editor
   personalization: Tipp-Effekte
   shortcuts: Tastenkürzel
   about: Über
@@ -282,3 +281,8 @@ settings:
   clearSuccess: Benutzerdefinierte Übersetzungen gelöscht
   importError: Import fehlgeschlagen, bitte Dateiformat prüfen
   selectTranslationFile: Übersetzungsdatei auswählen
+  general: Editor
+  clearError: Löschen fehlgeschlagen
+  noImportedTranslations: Keine importierten Übersetzungen
+  removeSuccess: Entfernt
+  removeError: Entfernen fehlgeschlagen

@@ -293,7 +293,6 @@
   },
   "settings": {
     "title": "Definições",
-    "editor": "Editor",
     "personalization": "Efeitos de digitação",
     "shortcuts": "Atalhos",
     "about": "Sobre",
@@ -561,7 +560,12 @@
     "importSuccess": "Traduções importadas com sucesso",
     "clearSuccess": "Traduções personalizadas limpas",
     "importError": "Falha na importação, verifique o formato do ficheiro",
-    "selectTranslationFile": "Selecionar ficheiro de tradução"
+    "selectTranslationFile": "Selecionar ficheiro de tradução",
+    "general": "Editor",
+    "clearError": "Falha ao limpar",
+    "noImportedTranslations": "Nenhuma tradução importada",
+    "removeSuccess": "Removido",
+    "removeError": "Falha ao remover"
   },
   "shortcuts": {
     "categoryFile": "Ficheiro",

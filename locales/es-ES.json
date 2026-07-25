@@ -293,7 +293,6 @@
   },
   "settings": {
     "title": "Configuración",
-    "editor": "Editor",
     "personalization": "Efectos de escritura",
     "shortcuts": "Atajos",
     "about": "Acerca de",
@@ -561,7 +560,12 @@
     "importSuccess": "Traducciones importadas correctamente",
     "clearSuccess": "Traducciones personalizadas borradas",
     "importError": "Error al importar, compruebe el formato del archivo",
-    "selectTranslationFile": "Seleccionar archivo de traducción"
+    "selectTranslationFile": "Seleccionar archivo de traducción",
+    "general": "Editor",
+    "clearError": "Error al borrar",
+    "noImportedTranslations": "No hay traducciones importadas",
+    "removeSuccess": "Eliminado",
+    "removeError": "Error al eliminar"
   },
   "shortcuts": {
     "categoryFile": "Archivo",

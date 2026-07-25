@@ -293,7 +293,6 @@
   },
   "settings": {
     "title": "Cài đặt",
-    "editor": "Trình soạn thảo",
     "personalization": "Hiệu ứng gõ",
     "shortcuts": "Phím tắt",
     "about": "Giới thiệu",
@@ -561,7 +560,12 @@
     "importSuccess": "Đã nhập bản dịch thành công",
     "clearSuccess": "Đã xóa bản dịch tùy chỉnh",
     "importError": "Nhập thất bại, vui lòng kiểm tra định dạng tệp",
-    "selectTranslationFile": "Chọn tệp bản dịch"
+    "selectTranslationFile": "Chọn tệp bản dịch",
+    "general": "Trình soạn thảo",
+    "clearError": "Xóa thất bại",
+    "noImportedTranslations": "Không có bản dịch nào được nhập",
+    "removeSuccess": "Đã xóa",
+    "removeError": "Xóa thất bại"
   },
   "shortcuts": {
     "categoryFile": "Tệp",

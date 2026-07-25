@@ -1,6 +1,5 @@
 settings:
   title: الإعدادات
-  editor: المحرر
   personalization: تأثيرات الكتابة
   shortcuts: الاختصارات
   about: حول
@@ -274,3 +273,8 @@ settings:
   clearSuccess: تم مسح الترجمات المخصصة
   importError: فشل الاستيراد، يرجى التحقق من تنسيق الملف
   selectTranslationFile: اختر ملف الترجمة
+  general: المحرر
+  clearError: فشل المسح
+  noImportedTranslations: لا توجد ترجمات مستوردة
+  removeSuccess: تمت الإزالة
+  removeError: فشلت الإزالة

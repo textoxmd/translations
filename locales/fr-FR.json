@@ -293,7 +293,6 @@
   },
   "settings": {
     "title": "Paramètres",
-    "editor": "Éditeur",
     "personalization": "Effets de frappe",
     "shortcuts": "Raccourcis",
     "about": "À propos",
@@ -561,7 +560,12 @@
     "importSuccess": "Traductions importées avec succès",
     "clearSuccess": "Traductions personnalisées effacées",
     "importError": "Échec de l'importation, vérifiez le format du fichier",
-    "selectTranslationFile": "Sélectionner le fichier de traduction"
+    "selectTranslationFile": "Sélectionner le fichier de traduction",
+    "general": "Éditeur",
+    "clearError": "Échec de l'effacement",
+    "noImportedTranslations": "Aucune traduction importée",
+    "removeSuccess": "Supprimé",
+    "removeError": "Échec de la suppression"
   },
   "shortcuts": {
     "categoryFile": "Fichier",

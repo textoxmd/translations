@@ -1,6 +1,5 @@
 settings:
   title: 設定
-  editor: 編輯器
   personalization: 打字效果
   shortcuts: 快捷鍵
   about: 關於
@@ -268,3 +267,8 @@ settings:
   clearSuccess: 自定義翻譯已清除
   importError: 導入失敗，請檢查文件格式
   selectTranslationFile: 選擇翻譯文件
+  general: 編輯器
+  clearError: 清除失敗
+  noImportedTranslations: 暫無已導入的翻譯
+  removeSuccess: 已刪除
+  removeError: 刪除失敗

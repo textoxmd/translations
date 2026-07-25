@@ -1,6 +1,5 @@
 settings:
   title: Impostazioni
-  editor: Editor
   personalization: Effetti di digitazione
   shortcuts: Scorciatoie
   about: Informazioni
@@ -280,3 +279,8 @@ settings:
   clearSuccess: Traduzioni personalizzate cancellate
   importError: Importazione fallita, controlla il formato del file
   selectTranslationFile: Seleziona file di traduzione
+  general: Editor
+  clearError: Cancellazione fallita
+  noImportedTranslations: Nessuna traduzione importata
+  removeSuccess: Rimosso
+  removeError: Rimozione fallita
