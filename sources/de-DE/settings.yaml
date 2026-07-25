@@ -270,7 +270,7 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
-  importRepoLink: 'Mehr erfahren oder eigene Ubersetzungen erstellen:'
+  importRepoLink: 'Ubersetzungsdateien sind Open Source. Tragen Sie Verbesserungen bei oder erstellen Sie eine eigene Version'
   importTranslations: Übersetzungen importieren
   importLabel: Übersetzungsdatei importieren
   importDesc: Benutzerdefinierte Übersetzungsdatei importieren, um Standardübersetzungen zu überschreiben

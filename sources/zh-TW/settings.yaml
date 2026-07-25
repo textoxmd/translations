@@ -256,7 +256,7 @@ settings:
   particleDeleteConfirm: 確認刪除
   particleConfigTooOld: 自訂粒子配置版本過舊，已重置為預設效果。
   particleConfigTooNew: 自訂粒子配置來自更新版本，已重置為預設效果。
-  importRepoLink: '了解更多或自定義翻譯：'
+  importRepoLink: '翻譯檔案已開源，歡迎參與改進或製作個性化版本'
   importTranslations: 導入翻譯
   importLabel: 導入翻譯文件
   importDesc: 導入自定義翻譯文件以覆蓋應用的默認翻譯

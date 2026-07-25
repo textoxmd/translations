@@ -267,7 +267,7 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
-  importRepoLink: 'Tim hieu them hoac tao ban dich tuy chinh:'
+  importRepoLink: 'Cac tep dich thuat la ma nguon mo. Dong gop cai tien hoac tao phien ban tuy chinh cua rieng ban'
   importTranslations: Nhập bản dịch
   importLabel: Nhập tệp bản dịch
   importDesc: Nhập tệp bản dịch tùy chỉnh để ghi đè bản dịch mặc định của ứng dụng
