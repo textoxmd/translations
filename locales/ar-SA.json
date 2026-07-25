@@ -550,7 +550,18 @@
     "particleDeleteDesc": "Delete config \"{{name}}\"? This action cannot be undone.",
     "particleDeleteConfirm": "Delete",
     "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
-    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults."
+    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+    "importTranslations": "استيراد الترجمات",
+    "importLabel": "استيراد ملف الترجمة",
+    "importDesc": "استيراد ملف ترجمة مخصص لتجاوز الترجمات الافتراضية للتطبيق",
+    "importButton": "اختيار ملف",
+    "clearLabel": "مسح الترجمات المخصصة",
+    "clearDesc": "إزالة جميع الترجمات المخصصة المستوردة واستعادة الإعدادات الافتراضية",
+    "clearButton": "مسح",
+    "importSuccess": "تم استيراد الترجمات بنجاح",
+    "clearSuccess": "تم مسح الترجمات المخصصة",
+    "importError": "فشل الاستيراد، يرجى التحقق من تنسيق الملف",
+    "selectTranslationFile": "اختر ملف الترجمة"
   },
   "shortcuts": {
     "categoryFile": "ملف",

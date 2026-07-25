@@ -513,7 +513,18 @@
     "particleDeleteDesc": "确定要删除配置「{{name}}」吗？此操作不可撤销。",
     "particleDeleteConfirm": "确认删除",
     "particleConfigTooOld": "自定义粒子配置版本过旧，已重置为默认效果。",
-    "particleConfigTooNew": "自定义粒子配置来自更新版本，已重置为默认效果。"
+    "particleConfigTooNew": "自定义粒子配置来自更新版本，已重置为默认效果。",
+    "importTranslations": "导入翻译",
+    "importLabel": "导入翻译文件",
+    "importDesc": "导入自定义翻译文件以覆盖应用的默认翻译",
+    "importButton": "选择文件",
+    "clearLabel": "清除自定义翻译",
+    "clearDesc": "移除所有已导入的自定义翻译，恢复为应用的默认翻译",
+    "clearButton": "清除",
+    "importSuccess": "翻译导入成功",
+    "clearSuccess": "自定义翻译已清除",
+    "importError": "导入失败，请检查文件格式",
+    "selectTranslationFile": "选择翻译文件"
   },
   "shortcuts": {
     "categoryFile": "文件操作",

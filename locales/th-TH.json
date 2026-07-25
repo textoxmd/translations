@@ -550,7 +550,18 @@
     "particleDeleteDesc": "Delete config \"{{name}}\"? This action cannot be undone.",
     "particleDeleteConfirm": "Delete",
     "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
-    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults."
+    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+    "importTranslations": "นำเข้าคำแปล",
+    "importLabel": "นำเข้าไฟล์คำแปล",
+    "importDesc": "นำเข้าไฟล์คำแปลที่กำหนดเองเพื่อแทนที่คำแปลเริ่มต้นของแอป",
+    "importButton": "เลือกไฟล์",
+    "clearLabel": "ล้างคำแปลที่กำหนดเอง",
+    "clearDesc": "ลบคำแปลที่กำหนดเองที่นำเข้าทั้งหมดและคืนค่าเริ่มต้น",
+    "clearButton": "ล้าง",
+    "importSuccess": "นำเข้าคำแปลสำเร็จแล้ว",
+    "clearSuccess": "ล้างคำแปลที่กำหนดเองแล้ว",
+    "importError": "การนำเข้าล้มเหลว โปรดตรวจสอบรูปแบบไฟล์",
+    "selectTranslationFile": "เลือกไฟล์คำแปล"
   },
   "shortcuts": {
     "categoryFile": "ไฟล์",

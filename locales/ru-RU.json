@@ -550,7 +550,18 @@
     "particleDeleteDesc": "Delete config \"{{name}}\"? This action cannot be undone.",
     "particleDeleteConfirm": "Delete",
     "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
-    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults."
+    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+    "importTranslations": "Импорт переводов",
+    "importLabel": "Импортировать файл перевода",
+    "importDesc": "Импортируйте файл перевода, чтобы переопределить переводы по умолчанию",
+    "importButton": "Выбрать файл",
+    "clearLabel": "Очистить пользовательские переводы",
+    "clearDesc": "Удалить все импортированные переводы и восстановить стандартные",
+    "clearButton": "Очистить",
+    "importSuccess": "Переводы успешно импортированы",
+    "clearSuccess": "Пользовательские переводы очищены",
+    "importError": "Ошибка импорта, проверьте формат файла",
+    "selectTranslationFile": "Выберите файл перевода"
   },
   "shortcuts": {
     "categoryFile": "Файл",

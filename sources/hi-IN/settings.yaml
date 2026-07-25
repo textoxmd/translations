@@ -265,3 +265,14 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
+  importTranslations: अनुवाद आयात करें
+  importLabel: अनुवाद फ़ाइल आयात करें
+  importDesc: डिफ़ॉल्ट अनुवादों को ओवरराइड करने के लिए एक कस्टम अनुवाद फ़ाइल आयात करें
+  importButton: फ़ाइल चुनें
+  clearLabel: कस्टम अनुवाद साफ़ करें
+  clearDesc: सभी आयातित कस्टम अनुवाद हटाएं और डिफ़ॉल्ट पुनर्स्थापित करें
+  clearButton: साफ़ करें
+  importSuccess: अनुवाद सफलतापूर्वक आयात किए गए
+  clearSuccess: कस्टम अनुवाद साफ़ कर दिए गए हैं
+  importError: आयात विफल, कृपया फ़ाइल प्रारूप जांचें
+  selectTranslationFile: अनुवाद फ़ाइल चुनें

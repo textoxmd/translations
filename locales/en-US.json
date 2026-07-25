@@ -513,7 +513,18 @@
     "particleDeleteDesc": "Delete config \"{{name}}\"? This action cannot be undone.",
     "particleDeleteConfirm": "Delete",
     "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
-    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults."
+    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+    "importTranslations": "Import Translations",
+    "importLabel": "Import Translation File",
+    "importDesc": "Import a custom translation file to override the app's default translations",
+    "importButton": "Select File",
+    "clearLabel": "Clear Custom Translations",
+    "clearDesc": "Remove all imported custom translations and restore defaults",
+    "clearButton": "Clear",
+    "importSuccess": "Translations imported successfully",
+    "clearSuccess": "Custom translations cleared",
+    "importError": "Import failed, please check the file format",
+    "selectTranslationFile": "Select Translation File"
   },
   "shortcuts": {
     "categoryFile": "File Operations",

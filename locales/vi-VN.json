@@ -550,7 +550,18 @@
     "particleDeleteDesc": "Delete config \"{{name}}\"? This action cannot be undone.",
     "particleDeleteConfirm": "Delete",
     "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
-    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults."
+    "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+    "importTranslations": "Nhập bản dịch",
+    "importLabel": "Nhập tệp bản dịch",
+    "importDesc": "Nhập tệp bản dịch tùy chỉnh để ghi đè bản dịch mặc định của ứng dụng",
+    "importButton": "Chọn tệp",
+    "clearLabel": "Xóa bản dịch tùy chỉnh",
+    "clearDesc": "Xóa tất cả bản dịch tùy chỉnh đã nhập và khôi phục mặc định",
+    "clearButton": "Xóa",
+    "importSuccess": "Đã nhập bản dịch thành công",
+    "clearSuccess": "Đã xóa bản dịch tùy chỉnh",
+    "importError": "Nhập thất bại, vui lòng kiểm tra định dạng tệp",
+    "selectTranslationFile": "Chọn tệp bản dịch"
   },
   "shortcuts": {
     "categoryFile": "Tệp",

@@ -271,3 +271,14 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
+  importTranslations: Importer les traductions
+  importLabel: Importer un fichier de traduction
+  importDesc: Importer un fichier de traduction personnalisé pour remplacer les traductions par défaut
+  importButton: Sélectionner un fichier
+  clearLabel: Effacer les traductions personnalisées
+  clearDesc: Supprimer toutes les traductions personnalisées importées et restaurer les valeurs par défaut
+  clearButton: Effacer
+  importSuccess: Traductions importées avec succès
+  clearSuccess: Traductions personnalisées effacées
+  importError: Échec de l'importation, vérifiez le format du fichier
+  selectTranslationFile: Sélectionner le fichier de traduction
