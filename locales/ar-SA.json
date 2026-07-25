@@ -187,6 +187,7 @@
     "windows": "النوافذ المفتوحة",
     "save": "حفظ",
     "open_location": "إظهار في Finder",
+    "import_translations": "استيراد الترجمات...",
     "export": "تصدير PDF...",
     "saveBeforeExport": "يرجى حفظ الملف قبل التصدير",
     "saveBeforeExportPrompt": "المستند يحتوي على تغييرات غير محفوظة. هل تريد الحفظ قبل التصدير؟",

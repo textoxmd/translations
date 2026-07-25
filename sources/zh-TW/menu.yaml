@@ -13,6 +13,7 @@ menu:
   windows: 開啟的視窗
   save: 儲存
   open_location: 在 Finder 中顯示
+  import_translations: 導入翻譯...
   export: 輸出 PDF...
   saveBeforeExport: 請先儲存檔案後再匯出
   saveBeforeExportPrompt: 文件有未儲存的修改，是否先儲存再匯出？

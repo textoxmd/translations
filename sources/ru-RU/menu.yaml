@@ -13,6 +13,7 @@ menu:
   windows: Открытые окна
   save: Сохранить
   open_location: Показать в Finder
+  import_translations: Импорт переводов...
   export: Экспорт в PDF...
   saveBeforeExport: Пожалуйста, сохраните файл перед экспортом
   saveBeforeExportPrompt: Документ имеет несохраненные изменения. Сохранить перед экспортом?

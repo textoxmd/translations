@@ -13,6 +13,7 @@ menu:
   windows: 開いているウィンドウ
   save: 保存
   open_location: Finder で表示
+  import_translations: 翻訳をインポート...
   export: PDF に書き出し...
   saveBeforeExport: 書き出す前にファイルを保存してください
   saveBeforeExportPrompt: 文書に未保存の変更があります。保存してから書き出しますか？

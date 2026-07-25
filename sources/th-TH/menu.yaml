@@ -13,6 +13,7 @@ menu:
   windows: หน้าต่างที่เปิดอยู่
   save: บันทึก
   open_location: แสดงใน Finder
+  import_translations: นำเข้าคำแปล...
   export: ส่งออก PDF...
   saveBeforeExport: โปรดบันทึกไฟล์ก่อนส่งออก
   saveBeforeExportPrompt: เอกสารมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก บันทึกก่อนส่งออกหรือไม่

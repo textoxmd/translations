@@ -187,6 +187,7 @@
     "windows": "खुली विंडो",
     "save": "सहेजें",
     "open_location": "Finder में दिखाएं",
+    "import_translations": "अनुवाद आयात करें...",
     "export": "PDF निर्यात...",
     "saveBeforeExport": "कृपया निर्यात करने से पहले फ़ाइल सहेजें",
     "saveBeforeExportPrompt": "दस्तावेज़ में बिना सहेजे गए बदलाव हैं। निर्यात करने से पहले सहेजें?",

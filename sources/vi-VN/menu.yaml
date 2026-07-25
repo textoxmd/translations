@@ -13,6 +13,7 @@ menu:
   windows: Cửa sổ đang mở
   save: Lưu
   open_location: Hiển thị trong Finder
+  import_translations: Nhập bản dịch...
   export: Xuất PDF...
   saveBeforeExport: Vui lòng lưu tệp trước khi xuất
   saveBeforeExportPrompt: Tài liệu có thay đổi chưa được lưu. Lưu trước khi xuất?

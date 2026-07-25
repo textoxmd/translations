@@ -187,6 +187,7 @@
     "windows": "Geöffnete Fenster",
     "save": "Speichern",
     "open_location": "Im Finder anzeigen",
+    "import_translations": "Übersetzungen importieren...",
     "export": "Als PDF exportieren...",
     "saveBeforeExport": "Bitte speichern Sie die Datei vor dem Export",
     "saveBeforeExportPrompt": "Das Dokument hat ungespeicherte Änderungen. Vor dem Export speichern?",

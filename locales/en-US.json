@@ -183,6 +183,7 @@
     "windows": "Open Windows",
     "save": "Save",
     "open_location": "Open File Location",
+    "import_translations": "Import Translations...",
     "export": "Export PDF...",
     "saveBeforeExport": "Please save the file before exporting",
     "saveBeforeExportPrompt": "The document has unsaved changes. Save before exporting?",

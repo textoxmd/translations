@@ -13,6 +13,7 @@ menu:
   windows: 打开的窗口
   save: 保存
   open_location: 打开文件位置
+  import_translations: 导入翻译...
   export: 导出 PDF...
   saveBeforeExport: 请先保存文件后再导出
   saveBeforeExportPrompt: 文档有未保存的修改，是否先保存再导出？

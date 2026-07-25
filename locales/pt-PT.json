@@ -187,6 +187,7 @@
     "windows": "Janelas abertas",
     "save": "Guardar",
     "open_location": "Mostrar no Finder",
+    "import_translations": "Importar traduções...",
     "export": "Exportar como PDF...",
     "saveBeforeExport": "Guarde o ficheiro antes de exportar",
     "saveBeforeExportPrompt": "O documento tem alterações não guardadas. Guardar antes de exportar?",
