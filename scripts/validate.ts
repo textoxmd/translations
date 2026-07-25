@@ -9,7 +9,7 @@ const langs = fs.readdirSync(SOURCES_DIR).filter(f =>
 
 // en-US 为标准模板
 const enDir = path.join(SOURCES_DIR, 'en-US');
-const enFiles = fs.readdirSync(enDir).filter(f => f.endsWith('.yaml')).sort();
+const enFiles = fs.readdirSync(enDir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
 const enKeys: Record<string, string[]> = {};
 
 for (const file of enFiles) {
@@ -25,7 +25,7 @@ for (const lang of langs) {
   const langDir = path.join(SOURCES_DIR, lang);
 
   // 检查模块文件完整性
-  const langFiles = fs.readdirSync(langDir).filter(f => f.endsWith('.yaml')).sort();
+  const langFiles = fs.readdirSync(langDir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
   for (const file of enFiles) {
     if (!langFiles.includes(file)) {
       console.error(`ERROR: ${lang}/${file} 缺失`);

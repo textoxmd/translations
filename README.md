@@ -20,8 +20,8 @@ make build
 # 为自定义翻译合并覆写
 make custom LANG=zh-CN FILE=my-overrides.yaml
 
-# 安装到桌面以便导入 Textox
-make install LANG=zh-CN
+# 构建自定义翻译（NAME 显示在语言选择器中）
+NAME='我的中文翻译' make custom LANG=zh-CN FILE=my-overrides.yaml
 ```
 
 ## 许可

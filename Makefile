@@ -1,4 +1,4 @@
-.PHONY: build build-lang init-lang validate validate-lang missing custom install
+.PHONY: build build-lang init-lang validate validate-lang missing custom
 
 build:
 	bun run build
@@ -11,14 +11,16 @@ build-lang:
 	const path = require('path');
 	const yaml = require('js-yaml');
 	const dir = path.join('sources', '$(LANG)');
-	const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml')).sort();
+	const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
 	const bundle = {};
 	for (const f of files) {
 		const ns = f.replace('.yaml', '');
 		const c = yaml.load(fs.readFileSync(path.join(dir, f), 'utf-8'));
 		bundle[ns] = c[ns];
 	}
-	fs.writeFileSync(path.join('locales', '$(LANG).json'), JSON.stringify(bundle, null, 2));
+	const meta = yaml.load(fs.readFileSync(path.join(dir, 'meta.yaml'), 'utf-8')) || {};
+	const wrapped = { version: 1, lang: '$(LANG)', name: meta.name || '$(LANG)', nativeName: meta.nativeName || meta.name || '$(LANG)', rtl: meta.rtl || false, translations: bundle };
+	fs.writeFileSync(path.join('locales', '$(LANG).json'), JSON.stringify(wrapped, null, 2));
 	console.log('Built locales/$(LANG).json');
 	"
 
@@ -82,7 +84,7 @@ custom:
 	const dir = path.join('sources', '$(LANG)');
 	let bundle = {};
 	if (fs.existsSync(dir)) {
-		const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml')).sort();
+		const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
 		for (const f of files) {
 			const ns = f.replace('.yaml', '');
 			const c = yaml.load(fs.readFileSync(path.join(dir, f), 'utf-8'));
@@ -94,12 +96,15 @@ custom:
 		bundle[ns] = { ...(bundle[ns] || {}), ...keys };
 	}
 	const out = 'custom-$(LANG).json';
-	fs.writeFileSync(out, JSON.stringify(bundle, null, 2));
+	const wrapped = {
+		version: 1,
+		lang: '$(LANG)',
+		name: process.env.NAME || '',
+		source: '$(FILE)',
+		imported_at: new Date().toISOString(),
+		translations: bundle,
+	};
+	fs.writeFileSync(out, JSON.stringify(wrapped, null, 2));
 	console.log('Wrote', out);
 	"
 
-install:
-	@if [ -z "$(LANG)" ]; then echo "Usage: make install LANG=zh-CN"; exit 1; fi
-	@cp custom-$(LANG).json ~/Desktop/custom-$(LANG).json 2>/dev/null || \
-		cp locales/$(LANG).json ~/Desktop/textox-$(LANG).json 2>/dev/null || true
-	@echo "Copied to Desktop for import into Textox"

@@ -1,9 +1,6 @@
 {
   "version": 1,
-  "lang": "zh-CN",
-  "name": "简体中文",
-  "nativeName": "简体中文",
-  "rtl": false,
+  "lang": "zh-CN-New",
   "translations": {
     "acknowledgments": {
       "title": "鸣谢",
@@ -530,7 +527,7 @@
       "clearSuccess": "自定义翻译已清除",
       "importError": "导入失败，请检查文件格式",
       "selectTranslationFile": "选择翻译文件",
-      "general": "通用",
+      "general": "通用设置",
       "clearError": "清除失败",
       "noImportedTranslations": "暂无已导入的翻译",
       "removeSuccess": "已删除",

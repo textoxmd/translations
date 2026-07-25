@@ -22,9 +22,23 @@ for (const lang of langs) {
     bundle[ns] = content[ns];
   }
 
+  // 读取语言目录下的元数据
+  const metaPath = path.join(langDir, 'meta.yaml');
+  const info = fs.existsSync(metaPath)
+    ? (yaml.load(fs.readFileSync(metaPath, 'utf-8')) as Record<string, any>)
+    : {};
+  const wrapped = {
+    version: 1,
+    lang,
+    name: info.name || lang,
+    nativeName: info.nativeName || info.name || lang,
+    rtl: info.rtl || false,
+    translations: bundle,
+  };
+
   fs.writeFileSync(
     path.join(OUTPUT_DIR, `${lang}.json`),
-    JSON.stringify(bundle, null, 2)
+    JSON.stringify(wrapped, null, 2)
   );
   console.log(`Built ${lang}.json`);
 }
