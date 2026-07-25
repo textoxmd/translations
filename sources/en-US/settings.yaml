@@ -251,6 +251,7 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
+  importRepoLink: 'Learn more or create custom translations:'
   importTranslations: Import Translations
   importLabel: Import Translation File
   importDesc: Import a custom translation file to override the app's default translations

@@ -264,6 +264,7 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
+  importRepoLink: 'aur jaanen ya kastam anuvaad banaen：'
   importTranslations: अनुवाद आयात करें
   importLabel: अनुवाद फ़ाइल आयात करें
   importDesc: डिफ़ॉल्ट अनुवादों को ओवरराइड करने के लिए एक कस्टम अनुवाद फ़ाइल आयात करें

@@ -556,6 +556,7 @@
       "particleDeleteConfirm": "Delete",
       "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
       "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+      "importRepoLink": "Uznaite bolshe ili sozdaite svoi perevody:",
       "importTranslations": "Импорт переводов",
       "importLabel": "Импортировать файл перевода",
       "importDesc": "Импортируйте файл перевода, чтобы переопределить переводы по умолчанию",

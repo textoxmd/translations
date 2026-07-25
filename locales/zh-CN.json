@@ -519,6 +519,7 @@
       "particleDeleteConfirm": "确认删除",
       "particleConfigTooOld": "自定义粒子配置版本过旧，已重置为默认效果。",
       "particleConfigTooNew": "自定义粒子配置来自更新版本，已重置为默认效果。",
+      "importRepoLink": "了解更多或自定义翻译：",
       "importTranslations": "导入翻译",
       "importLabel": "导入翻译文件",
       "importDesc": "导入自定义翻译文件以覆盖应用的默认翻译",

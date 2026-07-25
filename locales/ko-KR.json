@@ -556,6 +556,7 @@
       "particleDeleteConfirm": "Delete",
       "particleConfigTooOld": "Your custom particle config is from an older version and has been reset to defaults.",
       "particleConfigTooNew": "Your custom particle config is from a newer version and has been reset to defaults.",
+      "importRepoLink": "더 알아보거나 맞춤 번역：",
       "importTranslations": "번역 가져오기",
       "importLabel": "번역 파일 가져오기",
       "importDesc": "사용자 정의 번역 파일을 가져와 앱의 기본 번역을 덮어씁니다",

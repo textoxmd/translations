@@ -262,6 +262,7 @@ settings:
   particleDeleteConfirm: Delete
   particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
   particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
+  importRepoLink: 'taaraf ealaa almazid aw aanshih tarjumat mukhasasatan:'
   importTranslations: استيراد الترجمات
   importLabel: استيراد ملف الترجمة
   importDesc: استيراد ملف ترجمة مخصص لتجاوز الترجمات الافتراضية للتطبيق
