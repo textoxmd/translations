@@ -561,11 +561,12 @@
     "clearSuccess": "Đã xóa bản dịch tùy chỉnh",
     "importError": "Nhập thất bại, vui lòng kiểm tra định dạng tệp",
     "selectTranslationFile": "Chọn tệp bản dịch",
-    "general": "Trình soạn thảo",
+    "general": "Tổng quát",
     "clearError": "Xóa thất bại",
     "noImportedTranslations": "Không có bản dịch nào được nhập",
     "removeSuccess": "Đã xóa",
-    "removeError": "Xóa thất bại"
+    "removeError": "Xóa thất bại",
+    "customLabel": "Đã nhập"
   },
   "shortcuts": {
     "categoryFile": "Tệp",

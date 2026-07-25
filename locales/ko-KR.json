@@ -561,11 +561,12 @@
     "clearSuccess": "사용자 정의 번역이 지워졌습니다",
     "importError": "가져오기 실패, 파일 형식을 확인하세요",
     "selectTranslationFile": "번역 파일 선택",
-    "general": "편집기",
+    "general": "일반",
     "clearError": "지우기 실패",
     "noImportedTranslations": "가져온 번역이 없습니다",
     "removeSuccess": "삭제됨",
-    "removeError": "삭제 실패"
+    "removeError": "삭제 실패",
+    "customLabel": "가져옴"
   },
   "shortcuts": {
     "categoryFile": "파일",

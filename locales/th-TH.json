@@ -561,11 +561,12 @@
     "clearSuccess": "ล้างคำแปลที่กำหนดเองแล้ว",
     "importError": "การนำเข้าล้มเหลว โปรดตรวจสอบรูปแบบไฟล์",
     "selectTranslationFile": "เลือกไฟล์คำแปล",
-    "general": "ตัวแก้ไข",
+    "general": "ทั่วไป",
     "clearError": "ล้างไม่สำเร็จ",
     "noImportedTranslations": "ไม่มีคำแปลที่นำเข้า",
     "removeSuccess": "ลบแล้ว",
-    "removeError": "ลบล้มเหลว"
+    "removeError": "ลบล้มเหลว",
+    "customLabel": "นำเข้าแล้ว"
   },
   "shortcuts": {
     "categoryFile": "ไฟล์",

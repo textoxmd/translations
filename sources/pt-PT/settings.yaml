@@ -279,8 +279,9 @@ settings:
   clearSuccess: Traduções personalizadas limpas
   importError: Falha na importação, verifique o formato do ficheiro
   selectTranslationFile: Selecionar ficheiro de tradução
-  general: Editor
+  general: Geral
   clearError: Falha ao limpar
   noImportedTranslations: Nenhuma tradução importada
   removeSuccess: Removido
   removeError: Falha ao remover
+  customLabel: Importado

@@ -524,11 +524,12 @@
     "clearSuccess": "自定义翻译已清除",
     "importError": "导入失败，请检查文件格式",
     "selectTranslationFile": "选择翻译文件",
-    "general": "编辑器",
+    "general": "通用",
     "clearError": "清除失败",
     "noImportedTranslations": "暂无已导入的翻译",
     "removeSuccess": "已删除",
-    "removeError": "删除失败"
+    "removeError": "删除失败",
+    "customLabel": "已导入"
   },
   "shortcuts": {
     "categoryFile": "文件操作",

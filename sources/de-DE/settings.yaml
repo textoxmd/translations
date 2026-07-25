@@ -281,8 +281,9 @@ settings:
   clearSuccess: Benutzerdefinierte Übersetzungen gelöscht
   importError: Import fehlgeschlagen, bitte Dateiformat prüfen
   selectTranslationFile: Übersetzungsdatei auswählen
-  general: Editor
+  general: Allgemein
   clearError: Löschen fehlgeschlagen
   noImportedTranslations: Keine importierten Übersetzungen
   removeSuccess: Entfernt
   removeError: Entfernen fehlgeschlagen
+  customLabel: Importiert

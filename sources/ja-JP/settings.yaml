@@ -269,8 +269,9 @@ settings:
   clearSuccess: カスタム翻訳をクリアしました
   importError: インポートに失敗しました。ファイル形式を確認してください
   selectTranslationFile: 翻訳ファイルを選択
-  general: エディタ
+  general: 一般
   clearError: クリアに失敗しました
   noImportedTranslations: インポートされた翻訳はありません
   removeSuccess: 削除しました
   removeError: 削除に失敗しました
+  customLabel: インポート済み

@@ -262,8 +262,9 @@ settings:
   clearSuccess: Custom translations cleared
   importError: Import failed, please check the file format
   selectTranslationFile: Select Translation File
-  general: Editor
+  general: General
   clearError: Failed to clear
   noImportedTranslations: No imported translations
   removeSuccess: Removed
   removeError: Failed to remove
+  customLabel: Imported

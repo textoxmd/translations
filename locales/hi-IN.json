@@ -561,11 +561,12 @@
     "clearSuccess": "कस्टम अनुवाद साफ़ कर दिए गए हैं",
     "importError": "आयात विफल, कृपया फ़ाइल प्रारूप जांचें",
     "selectTranslationFile": "अनुवाद फ़ाइल चुनें",
-    "general": "संपादक",
+    "general": "सामान्य",
     "clearError": "साफ़ करने में विफल",
     "noImportedTranslations": "कोई आयातित अनुवाद नहीं",
     "removeSuccess": "हटा दिया गया",
-    "removeError": "हटाने में विफल"
+    "removeError": "हटाने में विफल",
+    "customLabel": "आयातित"
   },
   "shortcuts": {
     "categoryFile": "फाइल",
