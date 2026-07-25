@@ -17,11 +17,26 @@ Textox 的翻译数据源。社区可自由贡献和改进翻译。
 # 构建所有语言
 make build
 
-# 为自定义翻译合并覆写
-make custom LANG=zh-CN FILE=my-overrides.yaml
+# 构建单个语言
+make build-lang LANG=zh-CN
+```
 
-# 构建自定义翻译（NAME 显示在语言选择器中）
-NAME='我的中文翻译' make custom LANG=zh-CN FILE=my-overrides.yaml
+### 制作自定义翻译
+
+```bash
+# 1. 拷贝一个语言作为模板
+cp -r sources/zh-CN sources/my-custom
+
+# 2. 编辑 meta.yaml（改名字）
+vim sources/my-custom/meta.yaml
+
+# 3. 修改翻译值
+vim sources/my-custom/editor.yaml
+
+# 4. 构建
+make build-lang LANG=my-custom
+
+# 5. 导入 locales/my-custom.json 到 Textox
 ```
 
 ## 许可

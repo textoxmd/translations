@@ -1,4 +1,4 @@
-.PHONY: build build-lang init-lang validate validate-lang missing custom
+.PHONY: build build-lang init-lang validate validate-lang missing
 
 build:
 	bun run build
@@ -74,37 +74,5 @@ missing:
 	}
 	"
 
-custom:
-	@if [ -z "$(LANG)" ] || [ -z "$(FILE)" ]; then echo "Usage: make custom LANG=zh-CN FILE=my.yaml"; exit 1; fi
-	@mkdir -p locales
-	@bun -e "
-	const fs = require('fs');
-	const path = require('path');
-	const yaml = require('js-yaml');
-	const dir = path.join('sources', '$(LANG)');
-	let bundle = {};
-	if (fs.existsSync(dir)) {
-		const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
-		for (const f of files) {
-			const ns = f.replace('.yaml', '');
-			const c = yaml.load(fs.readFileSync(path.join(dir, f), 'utf-8'));
-			bundle[ns] = c[ns];
-		}
-	}
-	const custom = yaml.load(fs.readFileSync('$(FILE)', 'utf-8'));
-	for (const [ns, keys] of Object.entries(custom)) {
-		bundle[ns] = { ...(bundle[ns] || {}), ...keys };
-	}
-	const out = 'custom-$(LANG).json';
-	const wrapped = {
-		version: 1,
-		lang: '$(LANG)',
-		name: process.env.NAME || '',
-		source: '$(FILE)',
-		imported_at: new Date().toISOString(),
-		translations: bundle,
-	};
-	fs.writeFileSync(out, JSON.stringify(wrapped, null, 2));
-	console.log('Wrote', out);
-	"
+
 
