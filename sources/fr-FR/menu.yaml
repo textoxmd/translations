@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: À propos de Textox
+  preferences: Préférences...
+  quit: Quitter Textox
+  file: Fichier
+  new_window: Nouvelle fenêtre
+  open: Ouvrir...
+  open_folder: Ouvrir un dossier...
+  open_recent: Ouvrir les éléments récents
+  no_recent: Aucun élément récent
+  clear_recent: Effacer le menu
+  windows: Fenêtres ouvertes
+  save: Enregistrer
+  open_location: Afficher dans le Finder
+  export: Exporter en PDF...
+  saveBeforeExport: Veuillez enregistrer le fichier avant d'exporter
+  saveBeforeExportPrompt: Le document a des modifications non enregistrées. Enregistrer avant d'exporter ?
+  edit: Édition
+  undo: Annuler
+  redo: Rétablir
+  cut: Couper
+  copy: Copier
+  paste: Coller
+  select_all: Tout sélectionner
+  auto_fill: Remplissage automatique
+  start_dictation: Démarrer la dictée...
+  emoji_symbols: Émojis et symboles
+  paragraph: Paragraphe
+  heading_1: Titre 1
+  heading_2: Titre 2
+  heading_3: Titre 3
+  heading_4: Titre 4
+  heading_5: Titre 5
+  heading_6: Titre 6
+  bullet_list: Liste à puces
+  ordered_list: Liste numérotée
+  task_list: Liste de tâches
+  code_block: Bloc de code
+  math_block: Bloc mathématique
+  blockquote: Bloc de citation
+  horizontal_rule: Ligne horizontale
+  table: Tableau
+  mermaid: Diagramme Mermaid
+  footnote: Note de bas de page
+  image: Image
+  format: Format
+  bold: Gras
+  italic: Italique
+  underline: Souligné
+  strikethrough: Barré
+  inline_code: Code en ligne
+  highlight: Surligner
+  clear_formatting: Barré
+  view: Affichage
+  toggle_sidebar: Basculer la barre latérale
+  toggle_edit_mode: Basculer le mode édition
+  toggle_typewriter_mode: Mode machine à écrire
+  window: Fenêtre
+  minimize: Réduire
+  zoom: Zoom
+  fullscreen: Plein écran
+  center: Centrer
+  help: Aide
+  acknowledgments: Remerciements
+  changelog: Journal des modifications
+  privacy: Politique de confidentialité
+  website: Site web
+  feedback: Retour d'information
+  export_logs: Exporter les journaux...
+  auto_save: Enregistrement automatique
+  newFile: Nouveau fichier
+  openFile: Ouvrir un fichier...
+  openFolder: Ouvrir un dossier...
+  saveAs: Enregistrer sous...
+  closeFile: Fermer le fichier
+  closeWindow: Fermer la fenêtre
+  recentFiles: Fichiers récents
+  clearRecent: Effacer les éléments récents
+  noRecentFiles: Aucun fichier récent
+  selectAll: Tout sélectionner
+  find: Rechercher...
+  replace: Remplacer...
+  toggleSidebar: Basculer la barre latérale
+  toggleOutline: Basculer le plan
+  togglePreview: Basculer l'aperçu
+  toggleSourceMode: Basculer le mode source
+  fullScreen: Plein écran
+  settings: Paramètres...
+  checkForUpdates: Vérifier les mises à jour...

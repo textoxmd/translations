@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Informazioni su Textox
+  preferences: Preferenze...
+  quit: Esci da Textox
+  file: File
+  new_window: Nuova finestra
+  open: Apri...
+  open_folder: Apri cartella...
+  open_recent: Apri recenti
+  no_recent: Nessun recente
+  clear_recent: Cancella menu
+  windows: Finestre aperte
+  save: Salva
+  open_location: Mostra nel Finder
+  export: Esporta come PDF...
+  saveBeforeExport: Salva il file prima di esportare
+  saveBeforeExportPrompt: Il documento ha modifiche non salvate. Salvare prima di esportare?
+  edit: Modifica
+  undo: Annulla
+  redo: Ripristina
+  cut: Taglia
+  copy: Copia
+  paste: Incolla
+  select_all: Seleziona tutto
+  auto_fill: Compilazione automatica
+  start_dictation: Avvia dettatura...
+  emoji_symbols: Emoji e simboli
+  paragraph: Paragrafo
+  heading_1: Intestazione 1
+  heading_2: Intestazione 2
+  heading_3: Intestazione 3
+  heading_4: Intestazione 4
+  heading_5: Intestazione 5
+  heading_6: Intestazione 6
+  bullet_list: Elenco puntato
+  ordered_list: Elenco numerato
+  task_list: Elenco attività
+  code_block: Blocco codice
+  math_block: Blocco matematico
+  blockquote: Blocco citazione
+  horizontal_rule: Linea orizzontale
+  table: Tabella
+  mermaid: Diagramma Mermaid
+  footnote: Nota a piè di pagina
+  image: Immagine
+  format: Formato
+  bold: Grassetto
+  italic: Corsivo
+  underline: Sottolineato
+  strikethrough: Barrato
+  inline_code: Codice in linea
+  highlight: Evidenzia
+  clear_formatting: Barrato
+  view: Vista
+  toggle_sidebar: Attiva/disattiva barra laterale
+  toggle_edit_mode: Attiva/disattiva modalità modifica
+  toggle_typewriter_mode: Modalità macchina da scrivere
+  window: Finestra
+  minimize: Minimizza
+  zoom: Zoom
+  fullscreen: Schermo intero
+  center: Centra
+  help: Aiuto
+  acknowledgments: Ringraziamenti
+  changelog: Changelog
+  privacy: Informativa sulla privacy
+  website: Sito web
+  feedback: Feedback
+  export_logs: Esporta log...
+  auto_save: Salvataggio automatico
+  newFile: Nuovo file
+  openFile: Apri file...
+  openFolder: Apri cartella...
+  saveAs: Salva con nome...
+  closeFile: Chiudi file
+  closeWindow: Chiudi finestra
+  recentFiles: File recenti
+  clearRecent: Cancella recenti
+  noRecentFiles: Nessun file recente
+  selectAll: Seleziona tutto
+  find: Trova...
+  replace: Sostituisci...
+  toggleSidebar: Attiva/disattiva barra laterale
+  toggleOutline: Attiva/disattiva struttura
+  togglePreview: Attiva/disattiva anteprima
+  toggleSourceMode: Attiva/disattiva modalità sorgente
+  fullScreen: Schermo intero
+  settings: Impostazioni...
+  checkForUpdates: Controlla aggiornamenti...

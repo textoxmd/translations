@@ -1,0 +1,20 @@
+directoryTree:
+  title: ไฟล์
+  newFile: ไฟล์ใหม่
+  newFolder: โฟลเดอร์ใหม่
+  rename: เปลี่ยนชื่อ
+  delete: ลบ
+  loading: กำลังโหลด...
+  newFileDefaultName: ไฟล์ใหม่.md
+  newFolderDefaultName: โฟลเดอร์ใหม่
+  selectedCount: เลือก {{count}} รายการ
+  notOpenable: ไม่ได้กำหนดค่าเป็นประเภทไฟล์ที่สามารถเปิดได้
+  deleteConfirmTitle: แน่ใจหรือว่าต้องการลบ "{{name}}" และเนื้อหาทั้งหมด?
+  deleteConfirmTitleFile: แน่ใจหรือว่าต้องการลบ "{{name}}"?
+  deleteConfirmMultiple: แน่ใจหรือว่าต้องการลบ {{count}} รายการนี้?
+  deleteConfirmRecoveryHint: คุณสามารถกู้คืนรายการนี้จากถังขยะได้
+  deleteConfirmDontAskAgain: ไม่ต้องถามอีก
+  deleteConfirmMoveToTrash: ย้ายไปยังถังขยะ
+  showInFinder: แสดงใน Finder
+  dragToResize: ลากเพื่อปรับขนาด
+  closeFile: ปิดไฟล์

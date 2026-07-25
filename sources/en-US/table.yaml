@@ -1,0 +1,18 @@
+table:
+  insertTable: Insert Table
+  addColumnBefore: Add Column Before
+  addColumnAfter: Add Column After
+  deleteColumn: Delete Column
+  addRowBefore: Add Row Before
+  addRowAfter: Add Row After
+  deleteRow: Delete Row
+  mergeCells: Merge Cells
+  splitCell: Split Cell
+  deleteTable: Delete Table
+  rows: Rows
+  columns: Columns
+  alignLeft: Align Left
+  alignCenter: Align Center
+  alignRight: Align Right
+  editTable: Edit Table
+  applyChanges: Apply Changes

@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: कस्टम थीम
+    customParticles: Custom Particle Configs
+    importTheme: थीम आयात करें
+    autoSave: ऑटो सेव
+    pdfExport: PDF निर्यात
+  title: अपग्रेड करें
+  message: '"{{feature}}" केवल Textox के पूर्ण संस्करण में उपलब्ध है।'
+  confirm: क्या आप इसे App Store पर देखना चाहेंगे?
+  banner: कस्टम थीम Textox के पूर्ण संस्करण में उपलब्ध हैं।
+  okLabel: App Store पर देखें
+  cancelLabel: रद्द करें

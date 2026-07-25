@@ -1,0 +1,25 @@
+editor:
+  placeholder: Start typing...
+  heading: Heading
+  bold: Bold
+  italic: Italic
+  underline: Underline
+  strikethrough: Strikethrough
+  code: Inline Code
+  codeBlock: Code Block
+  blockquote: Blockquote
+  bulletList: Bullet List
+  orderedList: Ordered List
+  taskList: Task List
+  horizontalRule: Horizontal Rule
+  link: Link
+  image: Image
+  table: Table
+  math: Math Block
+  inlineMath: Inline Math
+  mermaid: Mermaid Diagram
+  footnote: Footnote
+  insert: Insert
+  format: Format
+  openLinkVisit: Visit
+  openLinkTitle: External Link

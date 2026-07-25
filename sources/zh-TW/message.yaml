@@ -1,0 +1,15 @@
+message:
+  linkCopied: 連結已複製到剪貼簿
+  codeCopied: 程式碼已複製到剪貼簿
+  saveSuccess: 儲存成功
+  saveFailed: 儲存失敗
+  imageUploadSuccess: 圖片上傳成功
+  imageUploadFailed: 圖片上傳失敗
+  imageInsertNotAllowed: 插入圖片前請先儲存檔案
+  imageInsertNotAllowedSingleFile: 單文件模式下不允許插入圖片，請先打開資料夾
+  imageInsertFailed: 插入圖片失敗
+  imageUploading: 正在上傳圖片到圖床…
+  recentFileNotFound: 最近開啟的檔案不存在，已清除記錄
+  recentFolderNotFound: 最近開啟的資料夾不存在，已清除記錄
+  typewriterEnabled: 打字機模式已開啟
+  typewriterDisabled: 打字機模式已關閉

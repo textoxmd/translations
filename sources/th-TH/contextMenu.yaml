@@ -1,0 +1,23 @@
+contextMenu:
+  cut: ตัด
+  copy: คัดลอก
+  paste: วาง
+  delete: ลบ
+  selectAll: เลือกทั้งหมด
+  insertLink: แทรกลิงก์
+  openLink: เปิดลิงก์
+  copyLink: คัดลอกที่อยู่ลิงก์
+  undo: เลิกทำ
+  redo: ทำซ้ำ
+  insertTable: แทรกตาราง
+  bold: ตัวหนา
+  cancelBold: ยกเลิกตัวหนา
+  italic: ตัวเอียง
+  cancelItalic: ยกเลิกตัวเอียง
+  strikethrough: ขีดฆ่า
+  cancelStrikethrough: ยกเลิกขีดฆ่า
+  inlineCode: โค้ดแทรก
+  cancelInlineCode: ยกเลิกโค้ดแทรก
+  copyCode: คัดลอกโค้ด
+  pasteAsPlainText: วางเป็นข้อความธรรมดา
+  copyAsHtml: คัดลอกเป็น HTML

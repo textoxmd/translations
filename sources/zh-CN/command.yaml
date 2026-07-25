@@ -1,0 +1,21 @@
+command:
+  searchPlaceholder: 搜索命令...
+  searchOutlinePlaceholder: 搜索大纲标题...
+  noResults: 未找到命令
+  file: 文件
+  view: 视图
+  insert: 插入
+  settings: 设置
+  outline: 大纲
+  newFile: 新建文件
+  openFile: 打开文件
+  openFolder: 打开文件夹
+  saveFile: 保存文件
+  toggleSidebar: 切换侧边栏
+  toggleEditMode: 切换编辑模式
+  toggleTypewriterMode: 切换打字机模式
+  insertImage: 插入图片
+  openSettings: 打开设置
+  noOutline: 当前文档暂无标题
+  openFileFirst: 请先打开文件
+  emptyHeading: （空标题）

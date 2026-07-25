@@ -1,0 +1,19 @@
+slash:
+  h1: Tiêu đề 1
+  h2: Tiêu đề 2
+  h3: Tiêu đề 3
+  h4: Tiêu đề 4
+  h5: Tiêu đề 5
+  h6: Tiêu đề 6
+  ul: Danh sách dấu đầu dòng
+  ol: Danh sách đánh số
+  task: Danh sách tác vụ
+  code: Khối mã
+  quote: Trích dẫn
+  hr: Đường ngang
+  table: Bảng
+  image: Hình ảnh
+  math: Khối toán
+  mermaid: Mermaid
+  link: Liên kết
+  noMatch: Không có lệnh phù hợp

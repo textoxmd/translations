@@ -1,0 +1,15 @@
+message:
+  linkCopied: Link in die Zwischenablage kopiert
+  codeCopied: Code in die Zwischenablage kopiert
+  saveSuccess: Speichern erfolgreich
+  saveFailed: Speichern fehlgeschlagen
+  imageUploadSuccess: Bild-Upload erfolgreich
+  imageUploadFailed: Bild-Upload fehlgeschlagen
+  imageInsertNotAllowed: Bitte speichern Sie die Datei, bevor Sie Bilder einfügen
+  imageInsertNotAllowedSingleFile: Im Einzeldateimodus können keine Bilder eingefügt werden. Bitte öffnen Sie zuerst einen Ordner.
+  imageInsertFailed: Bildeinfügung fehlgeschlagen
+  imageUploading: Bild wird auf Hosting hochgeladen…
+  recentFileNotFound: Zuletzt verwendete Datei nicht gefunden, Eintrag gelöscht
+  recentFolderNotFound: Zuletzt verwendeter Ordner nicht gefunden, Eintrag gelöscht
+  typewriterEnabled: Schreibmaschinenmodus aktiviert
+  typewriterDisabled: Schreibmaschinenmodus deaktiviert

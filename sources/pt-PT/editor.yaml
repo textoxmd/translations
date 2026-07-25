@@ -1,0 +1,25 @@
+editor:
+  placeholder: Comece a digitar...
+  heading: Título
+  bold: Negrito
+  italic: Itálico
+  underline: Sublinhado
+  strikethrough: Rasurado
+  code: Código inline
+  codeBlock: Bloco de código
+  blockquote: Bloco de citação
+  bulletList: Lista com marcadores
+  orderedList: Lista numerada
+  taskList: Lista de tarefas
+  horizontalRule: Linha horizontal
+  link: Link
+  image: Imagem
+  table: Tabela
+  math: Bloco matemático
+  inlineMath: Matemática inline
+  mermaid: Diagrama Mermaid
+  footnote: Nota de rodapé
+  insert: Inserir
+  format: Formato
+  openLinkVisit: Visitar
+  openLinkTitle: Link externo

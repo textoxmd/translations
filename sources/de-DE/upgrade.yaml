@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: Benutzerdefinierte Designs
+    customParticles: Custom Particle Configs
+    importTheme: Design importieren
+    autoSave: Automatisches Speichern
+    pdfExport: PDF-Export
+  title: Upgrade
+  message: '"{{feature}}" ist nur in der Vollversion von Textox verfügbar.'
+  confirm: Möchten Sie es im App Store ansehen?
+  banner: Benutzerdefinierte Designs sind in der Vollversion von Textox verfügbar.
+  okLabel: Im App Store ansehen
+  cancelLabel: Abbrechen

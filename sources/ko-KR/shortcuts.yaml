@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: 파일
+  categoryEdit: 편집
+  categoryView: 보기
+  categoryParagraph: 문단
+  categoryFormat: 서식
+  categoryWindow: 창
+  categoryHelp: 도움말
+  searchPlaceholder: 단축키 검색...
+  resetToDefault: 기본값으로 복원
+  resetConfirm: 모든 단축키를 기본값으로 복원하시겠습니까?
+  conflictWarning: 이 단축키는 다른 기능과 충돌합니다. 계속하시겠습니까?
+  conflictDesc: 이 단축키는 다른 기능에서 사용 중입니다
+  conflictWith: '{{action}} 와(과) 충돌'
+  conflict: 충돌
+  pressEnterConfirm: Enter를 눌러 확인
+  pressShortcut: 단축키를 누르세요...
+  clickToEdit: 클릭하여 편집
+  builtIn: 내장 단축키 (수정 불가)
+  notSet: 설정되지 않음
+  clearShortcut: 단축키 지우기
+  hint: '힌트: 단축키를 클릭하여 편집하고 Delete를 눌러 지우기'
+  clickToCopy: 클릭하여 복사
+  resetToDefaultSingle: 기본값으로 복원
+  conflictOverride: 이 단축키는 "{{actions}}"에서 사용 중입니다. 덮어쓰시겠습니까?
+  forceOverride: 강제 덮어쓰기
+  conflictWithBuiltin: 이 단축키가 내장 기능과 충돌하여 사용할 수 없습니다
+  escToCancel: Esc 취소
+  pressKeys: 단축키를 누르세요
+  action:
+    newWindow: 새 창
+    newWindowDesc: 새 편집기 창 열기
+    openFile: 파일 열기
+    openFileDesc: 기존 파일 열기
+    saveFile: 파일 저장
+    saveFileDesc: 현재 파일 저장
+    toggleSidebar: 사이드바 전환
+    toggleSidebarDesc: 사이드바 표시/숨기기
+    toggleEditMode: 편집 모드 전환
+    toggleEditModeDesc: 소스 모드와 WYSIWYG 모드 전환
+    toggleTypewriterMode: 타자기 모드
+    toggleTypewriterModeDesc: 타자기 모드에서 커서 줄이 화면 중앙에 유지됩니다
+    openFolder: 폴더 열기
+    openFolderDesc: 폴더 열기
+    openFileLocation: 파일 위치 열기
+    openFileLocationDesc: 파일 관리자에서 현재 파일 보기
+    heading1: 제목 1
+    heading1Desc: 수준 1 제목
+    heading2: 제목 2
+    heading2Desc: 수준 2 제목
+    heading3: 제목 3
+    heading3Desc: 수준 3 제목
+    heading4: 제목 4
+    heading4Desc: 수준 4 제목
+    heading5: 제목 5
+    heading5Desc: 수준 5 제목
+    heading6: 제목 6
+    heading6Desc: 수준 6 제목
+    bulletList: 글머리 기호 목록
+    bulletListDesc: 글머리 기호 목록 삽입
+    orderedList: 번호 매기기 목록
+    orderedListDesc: 번호 매기기 목록 삽입
+    taskList: 작업 목록
+    taskListDesc: 작업 목록 삽입
+    codeBlock: 코드 블록
+    codeBlockDesc: 코드 블록 삽입
+    mathBlock: 수식 블록
+    mathBlockDesc: 수식 블록 삽입
+    blockquote: 인용 블록
+    blockquoteDesc: 인용 블록 삽입
+    horizontalRule: 수평선
+    horizontalRuleDesc: 수평선 삽입
+    table: 표
+    tableDesc: 표 삽입
+    mermaid: Mermaid 다이어그램
+    mermaidDesc: Mermaid 다이어그램 삽입
+    footnote: 각주
+    footnoteDesc: 각주 삽입
+    image: 이미지
+    imageDesc: 이미지 삽입
+    minimize: 최소화
+    minimizeDesc: 창 최소화
+    zoom: 확대/축소
+    zoomDesc: 창 확대/축소
+    fullscreen: 전체 화면
+    fullscreenDesc: 전체 화면 모드 전환
+    center: 가운데 맞춤
+    centerDesc: 창을 가운데로 표시
+    undo: 실행 취소
+    undoDesc: 마지막 작업 실행 취소
+    redo: 다시 실행
+    redoDesc: 마지막으로 실행 취소한 작업 다시 실행
+    redoAlt: 다시 실행 (대체)
+    redoAltDesc: 마지막으로 실행 취소한 작업 다시 실행 (대체 단축키)
+    selectLine: 줄 선택
+    selectLineDesc: 커서가 있는 줄의 전체 내용 선택
+    toggleUnderline: 밑줄 전환
+    toggleUnderlineDesc: 선택 텍스트에 밑줄 추가 또는 제거
+    toggleBold: 굵게 전환
+    toggleBoldDesc: 선택 텍스트에 굵게 추가 또는 제거
+    commandPalette: 명령 팔레트
+    commandPaletteDesc: 명령 팔레트를 열어 빠르게 작업 실행
+    cut: 잘라내기
+    cutDesc: 선택한 내용을 잘라내어 클립보드에 복사
+    copy: 복사
+    copyDesc: 선택한 내용을 클립보드에 복사
+    paste: 붙여넣기
+    pasteDesc: 클립보드에서 내용 붙여넣기
+    selectAll: 전체 선택
+    selectAllDesc: 현재 문서의 모든 내용 선택
+  title: 단축키
+  file: 파일
+  newFile: 새 파일
+  openFile: 파일 열기
+  save: 저장
+  saveAs: 다른 이름으로 저장
+  edit: 편집
+  undo: 실행 취소
+  redo: 다시 실행
+  cut: 잘라내기
+  copy: 복사
+  paste: 붙여넣기
+  selectAll: 모두 선택
+  find: 찾기
+  replace: 바꾸기
+  view: 보기
+  toggleSidebar: 사이드바 전환
+  toggleOutline: 개요 전환
+  togglePreview: 미리보기 전환
+  format: 서식
+  bold: 굵게
+  italic: 기울임
+  strikethrough: 취소선
+  inlineCode: 인라인 코드
+  heading: 제목
+  bulletList: 글머리 기호 목록
+  orderedList: 번호 매기기 목록
+  blockquote: 인용 블록
+  codeBlock: 코드 블록
+  horizontalRule: 수평선
+  link: 링크
+  image: 이미지
+  table: 표
+  taskList: 작업 목록

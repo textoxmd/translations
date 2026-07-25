@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: ファイル
+  categoryEdit: 編集
+  categoryView: 表示
+  categoryParagraph: 段落
+  categoryFormat: 書式
+  categoryWindow: ウィンドウ
+  categoryHelp: ヘルプ
+  searchPlaceholder: ショートカットを検索...
+  resetToDefault: デフォルトに戻す
+  resetConfirm: すべてのショートカットをデフォルトに戻してもよろしいですか？
+  conflictWarning: このショートカットは他の機能と競合しています。続行しますか？
+  conflictDesc: このショートカットは他の機能で使用されています
+  conflictWith: '{{action}} と競合'
+  conflict: 競合
+  pressEnterConfirm: Enter で確認
+  pressShortcut: ショートカットを押してください...
+  clickToEdit: クリックして編集
+  builtIn: 組み込みショートカット（変更不可）
+  notSet: 未設定
+  clearShortcut: ショートカットをクリア
+  hint: ヒント：ショートカットをクリックして編集、Delete でクリア
+  clickToCopy: クリックしてコピー
+  resetToDefaultSingle: デフォルトに戻す
+  conflictOverride: このショートカットは「{{actions}}」で使用されています。上書きしますか？
+  forceOverride: 強制上書き
+  conflictWithBuiltin: このショートカットは組み込み機能と競合しているため使用できません
+  escToCancel: Esc でキャンセル
+  pressKeys: ショートカットを押してください
+  action:
+    newWindow: 新規ウィンドウ
+    newWindowDesc: 新しいエディタウィンドウを開く
+    openFile: ファイルを開く
+    openFileDesc: 既存のファイルを開く
+    saveFile: ファイルを保存
+    saveFileDesc: 現在のファイルを保存
+    toggleSidebar: サイドバーの切り替え
+    toggleSidebarDesc: サイドバーの表示/非表示
+    toggleEditMode: 編集モードの切り替え
+    toggleEditModeDesc: ソースモードとWYSIWYGモードを切り替え
+    toggleTypewriterMode: タイプライターモード
+    toggleTypewriterModeDesc: タイプライターモードでは、カーソル行が画面中央に保たれます
+    openFolder: フォルダを開く
+    openFolderDesc: フォルダを開く
+    openFileLocation: ファイルの場所を開く
+    openFileLocationDesc: ファイルマネージャーで現在のファイルを表示
+    heading1: 見出し 1
+    heading1Desc: レベル 1 見出し
+    heading2: 見出し 2
+    heading2Desc: レベル 2 見出し
+    heading3: 見出し 3
+    heading3Desc: レベル 3 見出し
+    heading4: 見出し 4
+    heading4Desc: レベル 4 見出し
+    heading5: 見出し 5
+    heading5Desc: レベル 5 見出し
+    heading6: 見出し 6
+    heading6Desc: レベル 6 見出し
+    bulletList: 箇条書きリスト
+    bulletListDesc: 箇条書きリストを挿入
+    orderedList: 番号付きリスト
+    orderedListDesc: 番号付きリストを挿入
+    taskList: タスクリスト
+    taskListDesc: タスクリストを挿入
+    codeBlock: コードブロック
+    codeBlockDesc: コードブロックを挿入
+    mathBlock: 数式ブロック
+    mathBlockDesc: 数式ブロックを挿入
+    blockquote: 引用ブロック
+    blockquoteDesc: 引用ブロックを挿入
+    horizontalRule: 水平線
+    horizontalRuleDesc: 水平線を挿入
+    table: 表
+    tableDesc: 表を挿入
+    mermaid: Mermaid ダイアグラム
+    mermaidDesc: Mermaid ダイアグラムを挿入
+    footnote: 脚注
+    footnoteDesc: 脚注を挿入
+    image: 画像
+    imageDesc: 画像を挿入
+    minimize: 最小化
+    minimizeDesc: ウィンドウを最小化
+    zoom: ズーム
+    zoomDesc: ウィンドウをズーム
+    fullscreen: 全画面
+    fullscreenDesc: 全画面モードを切り替え
+    center: 中央揃え
+    centerDesc: ウィンドウを中央に表示
+    undo: 元に戻す
+    undoDesc: 最後の操作を元に戻す
+    redo: やり直す
+    redoDesc: 最後に元に戻した操作をやり直す
+    redoAlt: やり直す（別の方法）
+    redoAltDesc: 最後に元に戻した操作をやり直す（別のショートカット）
+    selectLine: 行を選択
+    selectLineDesc: カーソル行の全内容を選択
+    toggleUnderline: 下線の切り替え
+    toggleUnderlineDesc: 選択テキストに下線を追加/削除
+    toggleBold: 太字の切り替え
+    toggleBoldDesc: 選択テキストに太字を追加/削除
+    commandPalette: コマンドパレット
+    commandPaletteDesc: コマンドパレットを開いて操作をすばやく実行
+    cut: カット
+    cutDesc: 選択内容を切り取ってクリップボードにコピー
+    copy: コピー
+    copyDesc: 選択内容をクリップボードにコピー
+    paste: ペースト
+    pasteDesc: クリップボードから内容を貼り付け
+    selectAll: すべて選択
+    selectAllDesc: 現在のドキュメントのすべての内容を選択
+  title: ショートカット
+  file: ファイル
+  newFile: 新規ファイル
+  openFile: ファイルを開く
+  save: 保存
+  saveAs: 名前を付けて保存
+  edit: 編集
+  undo: 元に戻す
+  redo: やり直し
+  cut: 切り取り
+  copy: コピー
+  paste: 貼り付け
+  selectAll: すべて選択
+  find: 検索
+  replace: 置換
+  view: 表示
+  toggleSidebar: サイドバーの切り替え
+  toggleOutline: アウトラインの切り替え
+  togglePreview: プレビューの切り替え
+  format: 書式
+  bold: 太字
+  italic: 斜体
+  strikethrough: 取り消し線
+  inlineCode: インラインコード
+  heading: 見出し
+  bulletList: 箇条書きリスト
+  orderedList: 番号付きリスト
+  blockquote: 引用ブロック
+  codeBlock: コードブロック
+  horizontalRule: 水平線
+  link: リンク
+  image: 画像
+  table: 表
+  taskList: タスクリスト

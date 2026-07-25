@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: Thay đổi chưa lưu
+  closeUnsavedTitle: Đóng tệp chưa lưu
+  message: '"{{fileName}}" có thay đổi chưa lưu. Bạn có muốn lưu chúng không?'
+  closeUnsavedMessage: Tệp hiện tại có thay đổi chưa lưu. Bạn có muốn lưu chúng không?
+  simpleMessage: Bạn có thay đổi chưa lưu. Bạn có muốn lưu chúng không?
+  confirmExit: Bạn có chắc chắn muốn thoát không? Các thay đổi chưa lưu sẽ bị mất.
+  confirmClose: Bạn có chắc chắn muốn đóng không? Các thay đổi chưa lưu sẽ bị mất.
+  save: Lưu
+  dontSave: Không lưu
+  cancel: Hủy
+  untitledFile: Tệp chưa đặt tên

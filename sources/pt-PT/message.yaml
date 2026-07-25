@@ -1,0 +1,15 @@
+message:
+  linkCopied: Link copiado para a área de transferência
+  codeCopied: Código copiado para a área de transferência
+  saveSuccess: Guardado com sucesso
+  saveFailed: Falha ao guardar
+  imageUploadSuccess: Upload de imagem bem-sucedido
+  imageUploadFailed: Falha no upload de imagem
+  imageInsertNotAllowed: Guarde o ficheiro antes de inserir imagens
+  imageInsertNotAllowedSingleFile: Não é possível inserir imagens no modo de ficheiro único. Abra primeiro uma pasta.
+  imageInsertFailed: Falha ao inserir imagem
+  imageUploading: A enviar imagem para hospedagem…
+  recentFileNotFound: Ficheiro recente não encontrado, registo eliminado
+  recentFolderNotFound: Pasta recente não encontrada, registo eliminado
+  typewriterEnabled: Modo máquina de escrever ativado
+  typewriterDisabled: Modo máquina de escrever desativado

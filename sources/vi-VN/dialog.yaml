@@ -1,0 +1,7 @@
+dialog:
+  selectFolder: Chọn thư mục
+  fileModifiedTitle: Tệp đã được sửa đổi
+  fileModifiedDesc: >-
+    Tệp này đã được sửa đổi ở nơi khác. Bạn có thể tải lại để tải nội dung mới nhất hoặc tiếp tục chỉnh sửa phiên bản
+    hiện tại (có thể gây xung đột nội dung).
+  fileModifiedReload: Tải lại

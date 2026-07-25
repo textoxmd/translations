@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: Custom Themes
+    customParticles: Custom Particle Configs
+    importTheme: Import Theme
+    autoSave: Auto Save
+    pdfExport: PDF Export
+  title: Upgrade
+  message: '"{{feature}}" is only available in the full version of Textox.'
+  confirm: Would you like to view it on the App Store?
+  banner: Custom themes are available in the full version of Textox.
+  okLabel: View on App Store
+  cancelLabel: Cancel

@@ -1,0 +1,20 @@
+directoryTree:
+  title: ファイル
+  newFile: 新規ファイル
+  newFolder: 新規フォルダ
+  rename: 名前を変更
+  delete: 削除
+  loading: 読み込み中...
+  newFileDefaultName: 新規ファイル.md
+  newFolderDefaultName: 新規フォルダ
+  selectedCount: '{{count}} 個の項目を選択'
+  notOpenable: 開くことができるファイルタイプとして設定されていません
+  deleteConfirmTitle: '"{{name}}"とその内容を削除してもよろしいですか？'
+  deleteConfirmTitleFile: '"{{name}}"を削除してもよろしいですか？'
+  deleteConfirmMultiple: これらの {{count}} 個の項目を削除してもよろしいですか？
+  deleteConfirmRecoveryHint: このアイテムはゴミ箱から復元できます。
+  deleteConfirmDontAskAgain: 次回から確認しない
+  deleteConfirmMoveToTrash: ゴミ箱に移動
+  showInFinder: Finder で表示
+  dragToResize: ドラッグしてサイズを調整
+  closeFile: ファイルを閉じる

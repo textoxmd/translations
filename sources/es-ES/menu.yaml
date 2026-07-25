@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Acerca de Textox
+  preferences: Preferencias...
+  quit: Salir de Textox
+  file: Archivo
+  new_window: Nueva ventana
+  open: Abrir...
+  open_folder: Abrir carpeta...
+  open_recent: Abrir recientes
+  no_recent: No hay recientes
+  clear_recent: Borrar menú
+  windows: Ventanas abiertas
+  save: Guardar
+  open_location: Mostrar en Finder
+  export: Exportar como PDF...
+  saveBeforeExport: Guarda el archivo antes de exportar
+  saveBeforeExportPrompt: El documento tiene cambios sin guardar. ¿Guardar antes de exportar?
+  edit: Editar
+  undo: Deshacer
+  redo: Rehacer
+  cut: Cortar
+  copy: Copiar
+  paste: Pegar
+  select_all: Seleccionar todo
+  auto_fill: Autocompletar
+  start_dictation: Iniciar dictado...
+  emoji_symbols: Emoji y símbolos
+  paragraph: Párrafo
+  heading_1: Encabezado 1
+  heading_2: Encabezado 2
+  heading_3: Encabezado 3
+  heading_4: Encabezado 4
+  heading_5: Encabezado 5
+  heading_6: Encabezado 6
+  bullet_list: Lista con viñetas
+  ordered_list: Lista numerada
+  task_list: Lista de tareas
+  code_block: Bloque de código
+  math_block: Bloque matemático
+  blockquote: Bloque de cita
+  horizontal_rule: Línea horizontal
+  table: Tabla
+  mermaid: Diagrama Mermaid
+  footnote: Nota al pie
+  image: Imagen
+  format: Formato
+  bold: Negrita
+  italic: Cursiva
+  underline: Subrayado
+  strikethrough: Tachado
+  inline_code: Código en línea
+  highlight: Resaltar
+  clear_formatting: Tachado
+  view: Ver
+  toggle_sidebar: Alternar barra lateral
+  toggle_edit_mode: Alternar modo de edición
+  toggle_typewriter_mode: Modo máquina de escribir
+  window: Ventana
+  minimize: Minimizar
+  zoom: Zoom
+  fullscreen: Pantalla completa
+  center: Centrar
+  help: Ayuda
+  acknowledgments: Agradecimientos
+  changelog: Registro de cambios
+  privacy: Política de privacidad
+  website: Sitio web
+  feedback: Comentarios
+  export_logs: Exportar registros...
+  auto_save: Guardado automático
+  newFile: Nuevo archivo
+  openFile: Abrir archivo...
+  openFolder: Abrir carpeta...
+  saveAs: Guardar como...
+  closeFile: Cerrar archivo
+  closeWindow: Cerrar ventana
+  recentFiles: Archivos recientes
+  clearRecent: Borrar recientes
+  noRecentFiles: No hay archivos recientes
+  selectAll: Seleccionar todo
+  find: Buscar...
+  replace: Reemplazar...
+  toggleSidebar: Alternar barra lateral
+  toggleOutline: Alternar esquema
+  togglePreview: Alternar vista previa
+  toggleSourceMode: Alternar modo fuente
+  fullScreen: Pantalla completa
+  settings: Configuración...
+  checkForUpdates: Buscar actualizaciones...

@@ -1,0 +1,19 @@
+slash:
+  h1: Título 1
+  h2: Título 2
+  h3: Título 3
+  h4: Título 4
+  h5: Título 5
+  h6: Título 6
+  ul: Lista com marcadores
+  ol: Lista numerada
+  task: Lista de tarefas
+  code: Bloco de código
+  quote: Citação
+  hr: Linha horizontal
+  table: Tabela
+  image: Imagem
+  math: Bloco de matemática
+  mermaid: Mermaid
+  link: Link
+  noMatch: Nenhum comando correspondente

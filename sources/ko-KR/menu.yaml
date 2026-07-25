@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Textox 정보
+  preferences: 환경 설정...
+  quit: Textox 종료
+  file: 파일
+  new_window: 새 창
+  open: 열기...
+  open_folder: 폴더 열기...
+  open_recent: 최근 항목 열기
+  no_recent: 최근 항목 없음
+  clear_recent: 메뉴 지우기
+  windows: 열린 창
+  save: 저장
+  open_location: Finder에서 보기
+  export: PDF 내보내기...
+  saveBeforeExport: 내보내기 전에 파일을 저장하세요
+  saveBeforeExportPrompt: 문서에 저장되지 않은 변경 사항이 있습니다. 저장 후 내보내시겠습니까?
+  edit: 편집
+  undo: 실행 취소
+  redo: 다시 실행
+  cut: 잘라내기
+  copy: 복사
+  paste: 붙여넣기
+  select_all: 모두 선택
+  auto_fill: 자동 완성
+  start_dictation: 받아쓰기 시작...
+  emoji_symbols: 이모지 및 기호
+  paragraph: 단락
+  heading_1: 제목 1
+  heading_2: 제목 2
+  heading_3: 제목 3
+  heading_4: 제목 4
+  heading_5: 제목 5
+  heading_6: 제목 6
+  bullet_list: 글머리 기호 목록
+  ordered_list: 번호 매기기 목록
+  task_list: 작업 목록
+  code_block: 코드 블록
+  math_block: 수식 블록
+  blockquote: 인용 블록
+  horizontal_rule: 수평선
+  table: 표
+  mermaid: Mermaid 다이어그램
+  footnote: 각주
+  image: 이미지
+  format: 서식
+  bold: 굵게
+  italic: 기울임
+  underline: 밑줄
+  strikethrough: 취소선
+  inline_code: 인라인 코드
+  highlight: 강조 표시
+  clear_formatting: 취소선
+  view: 보기
+  toggle_sidebar: 사이드바 전환
+  toggle_edit_mode: 편집 모드 전환
+  toggle_typewriter_mode: 타자기 모드
+  window: 창
+  minimize: 최소화
+  zoom: 확대/축소
+  fullscreen: 전체 화면
+  center: 가운데 정렬
+  help: 도움말
+  acknowledgments: 감사의 글
+  changelog: 변경 로그
+  privacy: 개인정보 처리방침
+  website: 웹사이트
+  feedback: 피드백
+  export_logs: 로그 내보내기...
+  auto_save: 자동 저장
+  newFile: 새 파일
+  openFile: 파일 열기...
+  openFolder: 폴터 열기...
+  saveAs: 다른 이름으로 저장...
+  closeFile: 파일 닫기
+  closeWindow: 창 닫기
+  recentFiles: 최근 파일
+  clearRecent: 최근 항목 지우기
+  noRecentFiles: 최근 파일 없음
+  selectAll: 모두 선택
+  find: 찾기...
+  replace: 바꾸기...
+  toggleSidebar: 사이드바 전환
+  toggleOutline: 개요 전환
+  togglePreview: 미리보기 전환
+  toggleSourceMode: 소스 모드 전환
+  fullScreen: 전체 화면
+  settings: 설정...
+  checkForUpdates: 업데이트 확인...

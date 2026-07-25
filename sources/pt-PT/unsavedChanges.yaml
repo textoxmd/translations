@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: Alterações não guardadas
+  closeUnsavedTitle: Fechar ficheiro não guardado
+  message: '"{{fileName}}" tem alterações não guardadas. Deseja guardá-las?'
+  closeUnsavedMessage: O ficheiro atual tem alterações não guardadas. Deseja guardá-las?
+  simpleMessage: Tem alterações não guardadas. Deseja guardá-las?
+  confirmExit: Tem a certeza de que deseja sair? As alterações não guardadas serão perdidas.
+  confirmClose: Tem a certeza de que deseja fechar? As alterações não guardadas serão perdidas.
+  save: Guardar
+  dontSave: Não guardar
+  cancel: Cancelar
+  untitledFile: Ficheiro sem título

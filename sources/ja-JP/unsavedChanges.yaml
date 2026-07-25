@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: 保存されていない変更
+  closeUnsavedTitle: 保存されていないファイルを閉じる
+  message: '"{{fileName}}" に保存されていない変更があります。保存しますか？'
+  closeUnsavedMessage: 現在のファイルに保存されていない変更があります。保存しますか？
+  simpleMessage: 保存されていない変更があります。保存しますか？
+  confirmExit: 終了してもよろしいですか？保存されていない変更は失われます。
+  confirmClose: 閉じてもよろしいですか？保存されていない変更は失われます。
+  save: 保存
+  dontSave: 保存しない
+  cancel: キャンセル
+  untitledFile: 無題のファイル

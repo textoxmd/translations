@@ -1,0 +1,245 @@
+settings:
+  title: 设置
+  editor: 编辑器
+  personalization: 打字效果
+  shortcuts: 快捷键
+  about: 关于
+  editorFontFamily: 编辑器字体
+  editorFontFamilyDesc: 设置编辑器文本的字体
+  editorFontSize: 编辑器字体大小
+  editorFontSizeDesc: 拖动滑块调整编辑器文本大小
+  autoSave: 自动保存
+  autoSaveDesc: 修改内容后自动保存到文件
+  autoCapitalize: 自动首字母大写
+  showWordCount: 显示字数统计
+  showWordCountDesc: 在编辑器右下角显示字数统计悬浮按钮
+  showEditorToolbar: 显示格式工具栏
+  showEditorToolbarDesc: 在编辑器顶部显示格式工具栏
+  typewriterMode: 打字机模式
+  typewriterModeDesc: 在打字机模式下，光标行将保持在屏幕中央位置，提供专注的写作体验
+  autoCapitalizeDesc: 在编辑器中自动将英文句子首字母大写（关闭以提高 Markdown 编辑体验）
+  externalFileChangeAction: 外部文件修改处理
+  externalFileChangeActionDesc: 选择当文件在其他地方被修改时的处理方式
+  externalFileChangeIgnore: 忽略（不监听）
+  externalFileChangeSilent: 静默刷新
+  externalFileChangePrompt: 弹窗提示
+  codeBlockWordWrap: 代码块自动换行
+  codeBlockWordWrapDesc: 启用后代码块中的长行会自动换行显示
+  codeBlockWordWrapTooltip: 修改此设置后需要刷新页面或重启应用才能生效
+  showLineNumbers: 显示行号
+  showLineNumbersDesc: 在源码编辑器中显示行号
+  showLineNumbersTooltip: 启用后在源码编辑器左侧显示行号
+  codeEditorThemeLight: 代码块主题（亮色）
+  codeEditorThemeLightDesc: 选择亮色模式下代码块编辑器的主题风格
+  codeEditorThemeDark: 代码块主题（暗色）
+  codeEditorThemeDarkDesc: 选择暗色模式下代码块编辑器的主题风格
+  sourceCodeThemeLight: 源码模式主题（亮色）
+  sourceCodeThemeLightDesc: 选择亮色模式下源码编辑器的主题风格
+  sourceCodeThemeDark: 源码模式主题（暗色）
+  sourceCodeThemeDarkDesc: 选择暗色模式下源码编辑器的主题风格
+  syncEditorBg: 强制使用编辑器背景色
+  syncEditorBgDesc: 勾选后，源码编辑器将使用编辑器背景色而非主题背景色，使页面风格更统一
+  sidebarPosition: 目录树位置
+  sidebarPositionDesc: 选择目录树显示在编辑器的左侧或右侧
+  left: 左侧
+  right: 右侧
+  breatheColor: 未保存标记颜色
+  breatheColorDesc: 设置标题栏未保存标记的呼吸灯颜色
+  highlightColor: 高亮文本颜色
+  highlightColorDesc: 选择高亮文本的背景颜色
+  highlightColorYellow: 黄色
+  highlightColorGreen: 绿色
+  highlightColorBlue: 蓝色
+  highlightColorPink: 粉色
+  highlightColorOrange: 橙色
+  highlightColorPurple: 紫色
+  colorTheme: 颜色主题
+  colorThemeDesc: 选择应用的颜色主题
+  colorThemeDefault: 默认
+  colorThemePastel: 樱染
+  colorThemeSpring: 惊蛰
+  colorThemePastelStory: 很喜欢宜家的格拉维斯花瓶，有幸在 Typora 社区时遇见 phycat，漫天樱花般轻盈柔和的配色、松弛温暖的氛围感，完全贴合我心中理想模样。在原有配色基础上层层微调、适配优化，最终呈现出绵软治愈、舒心耐看的书写观感。
+  colorThemeSpringStory: 春日象征开端与期许，2026 年春 Textox 全新启程，是项目极具纪念意义的时光。惊蛰以柔和干净的草木绿为主视觉，色彩自带万物复苏的春日意境。经过针对性适配调整后落地 Textox，让每一次书写都拥有春日清晨通透轻快的氛围感。
+  appearance: 外观
+  appearanceDesc: 选择应用的亮暗模式
+  appearanceLight: 浅色
+  appearanceDark: 深色
+  appearanceSystem: 跟随系统
+  languageDesc: 选择您偏好的语言
+  shortcutsConfig: 快捷键配置
+  version: 版本
+  features: 主要特性
+  privacy: 隐私条款
+  allRightsReserved: 保留一切权利。
+  imageStorage: 图片存储
+  imageStorageMode: 图片存储方式
+  imageStorageModeDesc: 选择图片的存储位置
+  imageStorageAppData: 应用数据目录
+  imageStorageAlongside: 文档同级目录
+  imageStorageCustom: 自定义目录
+  imageFolderName: 图片文件夹名称
+  imageFolderNameDesc: 存储图片的文件夹名称（相对于文档）
+  imageStoragePath: 图片存储路径
+  imageStoragePathDesc: 选择图片的存储位置
+  selectImageStoragePath: 选择图片存储路径
+  imageAggregationMode: 图片聚合方式
+  imageAggregationModeDesc: 选择图片的聚合存储方式
+  imageAggregationNone: 不聚合
+  imageAggregationByDocument: 按文档名称
+  imageAggregationByDate: 按日期
+  imageDateFormat: 日期格式
+  imageDateFormatDesc: 选择按日期聚合时的文件夹格式
+  invalidImagePath: 无效的目录
+  invalidImagePathDesc: 请选择 Documents、Downloads 或用户主目录下的文件夹
+  imagePathSet: 图片存储路径设置成功
+  failedToSetImagePath: 设置图片存储路径失败
+  fontFamily: 界面字体
+  fontFamilyDesc: 选择应用界面显示的字体
+  fontSystemDefault: 系统默认
+  fontMono: 等宽字体
+  fontSampleText: Aa 中文
+  windowSize: 窗口大小
+  windowSizeDesc: 设置新窗口打开时的默认尺寸
+  resetSettings: 重置设置
+  resetToDefault: 恢复默认设置
+  resetToDefaultDesc: 将所有设置恢复为默认值
+  resetButton: 恢复默认
+  resetConfirm: 确定要将所有设置恢复为默认值吗？此操作不可撤销。
+  resetSuccess: 设置已恢复为默认值
+  resetFailed: 恢复默认设置失败
+  acknowledgments: 鸣谢
+  acknowledgmentsSubtitle: 基于以下优秀项目构建
+  thanksMessage: 感谢所有支持
+  slashCommands: 斜杠命令
+  themeManagement: 主题管理
+  themeManagementDesc: 从本地文件导入自定义主题
+  themePresets: 预设
+  themeCustomProfiles: 自定义配置
+  themeNew: 新建
+  themeNewFromPreset: 从当前预设新建主题
+  importTheme: 导入主题
+  importing: 导入中...
+  themeImportSuccess: 主题导入成功
+  themeAlreadyExists: 该主题已存在
+  themeImportFailed: 主题导入失败
+  deleteTheme: 删除
+  themeDeleteSuccess: 主题已删除
+  themeDeleteFailed: 删除主题失败
+  duplicateTheme: 复制主题
+  duplicateThemeSuffix: 副本
+  renameTheme: 重命名
+  themeDuplicateSuccess: 主题已复制
+  themeDuplicateFailed: 复制主题失败
+  themeStory: 主题故事
+  themeEditor: 个性化
+  loadTheme: 加载主题
+  applyPreview: 应用预览
+  applying: 应用中...
+  themeId: 主题ID
+  themeName: 主题名称
+  themeNamePlaceholder: 输入主题名称
+  saveAsTheme: 另存为主题
+  themePreviewApplied: 主题预览已应用
+  themePreviewFailed: 应用预览失败
+  themeNameRequired: 请输入主题ID和名称
+  themeSaveSuccess: 主题保存成功
+  themeSaveFailed: 主题保存失败
+  quickEdit: 快速编辑
+  codeDisplay: 代码显示
+  activeTheme: 当前主题
+  customThemes: 自定义主题
+  themeEdit: 主题编辑
+  cancelPreview: 取消预览
+  overwriteThemeConfirm: 确定要覆盖主题 "{{name}}" 吗？
+  deleteThemeConfirm: 确定要删除主题 "{{name}}" 吗？
+  exportTheme: 导出
+  themeExportSuccess: 主题导出成功
+  themeExportFailed: 主题导出失败
+  createCustomTheme: 创建自定义主题
+  readonlyThemeBanner: 内置主题（只读）— 创建自定义副本即可编辑
+  group:
+    surface: 表面
+    accents: 强调
+    feedback: 反馈
+    boundaries: 边界
+    charts: 图表
+    sidebar: 侧边栏
+  markdown: Markdown
+  markdownTitle: Markdown 语法
+  markdownEmpty: 没有可配置的语法功能
+  alertTitle: 警提示
+  alertDesc: blockquote 语法的扩展，支持 NOTE, TIP, IMPORTANT, WARNING, CAUTION 五种
+  html-commentTitle: HTML 注释
+  html-commentDesc: 渲染 <!-- --> HTML 注释块
+  html-inlineTitle: 内联 HTML
+  html-inlineDesc: 渲染 <span style>、<kbd>、<abbr> 等内联 HTML 标签
+  typing-particleTitle: 打字粒子效果
+  typing-particleDesc: 打字时从光标位置迸发出火花粒子
+  fileExtensions: 文件扩展名
+  fileExtensionsDesc: 管理在文件树中可点击打开的文件类型。未添加的扩展名将显示为不可点击。
+  fileExtensionsPlaceholder: 输入扩展名（如 md）
+  imageStoragePicgo: PicGo 图床
+  picgoServerUrl: PicGo 服务器地址
+  picgoServerUrlDesc: 详细请参考 PicGo Server
+  picgoTestConnection: 测试
+  picgoConnectionSuccess: PicGo 连接成功
+  picgoConnectionFailed: PicGo 连接失败，请确认 PicGo 客户端是否运行
+  typingParticles: 打字粒子
+  typingParticlesDesc: 打字时从光标位置迸发出粒子效果
+  particlePreset: 效果预设
+  particleCount: 粒子数量
+  particleSize: 粒子大小
+  particleSpeed: 速度
+  particleSpread: 扩散角度
+  particleGravity: 重力
+  particleDuration: 持续时间
+  particleDirection: 方向
+  particleDirUp: 向上
+  particleDirDown: 向下
+  particleDirRadial: 四周扩散
+  particleDirRandom: 随机
+  particleOn: 开启打字粒子
+  particleShape: 形状
+  particleShapeCircle: 圆形
+  particleShapeSquare: 方形
+  particleShapeStar: 星形
+  particleShapeDiamond: 菱形
+  particleShapeTriangle: 三角形
+  particlePaletteRainbow: 彩虹
+  particlePaletteWarm: 暖色
+  particlePaletteCool: 冷色
+  particlePalettePastel: 柔和
+  particlePaletteNeon: 霓虹
+  particleColorTheme: 跟随主题
+  particleColorFixed: 固定颜色
+  particleColorRandom: 随机彩色
+  particleColor: 颜色
+  particleColorDesc: 随机模式下每粒子独立取色，同批可呈现多色
+  particleCountDesc: 每次击键发射的粒子数量（3-20）
+  particleCountNote: 数量越多效果越华丽，但对低性能设备影响较大。
+  particleSizeDesc: 每个粒子的初始大小（1-6px）
+  particleSizeNote: 较大的粒子更醒目。
+  particleSpeedDesc: 粒子的初始飞行速度（30-250px/s）
+  particleSpeedNote: 速度越快扩散越远。
+  particleSpreadDesc: 粒子的发射角度范围（10-360°）
+  particleSpreadNote: 角度越大扩散越广。
+  particleGravityDesc: 粒子受到的重力加速度（0-300）
+  particleGravityNote: 重力越大粒子下落越快。
+  particleDurationDesc: 粒子从出现到消失的时间（0.1-1.5s）
+  particleDurationNote: 持续时间越长粒子轨迹越长。
+  particleDirectionDesc: 粒子的整体发射方向。向上/向下/四周扩散/随机。
+  particleShapeDesc: 粒子的形状。支持圆形、方形、星形、菱形和三角形。
+  particlePresets: 预设
+  particleCustomProfiles: 自定义配置
+  particleNewProfile: 新建
+  particleNewFromPreset: 从当前预设新建配置
+  particleReadOnlyHint: 只读，从预设新建配置后可编辑
+  particleCopySuffix: ' - 副本'
+  particleResetToPreset: 重置为预设默认值
+  particleResetDesc: 将当前自定义配置的参数恢复为来源预设的默认值
+  particleRenameTitle: 重命名配置
+  particleDeleteTitle: 删除配置
+  particleDeleteDesc: 确定要删除配置「{{name}}」吗？此操作不可撤销。
+  particleDeleteConfirm: 确认删除
+  particleConfigTooOld: 自定义粒子配置版本过旧，已重置为默认效果。
+  particleConfigTooNew: 自定义粒子配置来自更新版本，已重置为默认效果。

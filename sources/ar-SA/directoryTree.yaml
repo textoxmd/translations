@@ -1,0 +1,20 @@
+directoryTree:
+  title: الملفات
+  newFile: ملف جديد
+  newFolder: مجلد جديد
+  rename: إعادة تسمية
+  delete: حذف
+  loading: جاري التحميل...
+  newFileDefaultName: ملف جديد.md
+  newFolderDefaultName: مجلد جديد
+  selectedCount: تم تحديد {{count}} عناصر
+  notOpenable: لم يتم تكوينه كنوع ملف قابل للفتح
+  deleteConfirmTitle: هل أنت متأكد من أنك تريد حذف "{{name}}" ومحتوياته؟
+  deleteConfirmTitleFile: هل أنت متأكد من أنك تريد حذف "{{name}}"؟
+  deleteConfirmMultiple: هل أنت متأكد من أنك تريد حذف هذه العناصر {{count}}؟
+  deleteConfirmRecoveryHint: يمكنك استعادة هذا العنصر من سلة المهملات.
+  deleteConfirmDontAskAgain: لا تسأل مرة أخرى
+  deleteConfirmMoveToTrash: نقل إلى سلة المهملات
+  showInFinder: عرض في Finder
+  dragToResize: اسحب لتغيير الحجم
+  closeFile: إغلاق الملف

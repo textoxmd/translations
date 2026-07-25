@@ -1,0 +1,15 @@
+message:
+  linkCopied: คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว
+  codeCopied: คัดลอกโค้ดไปยังคลิปบอร์ดแล้ว
+  saveSuccess: บันทึกสำเร็จ
+  saveFailed: บันทึกล้มเหลว
+  imageUploadSuccess: อัปโหลดรูปภาพสำเร็จ
+  imageUploadFailed: อัปโหลดรูปภาพล้มเหลว
+  imageInsertNotAllowed: กรุณาบันทึกไฟล์ก่อนแทรกรูปภาพ
+  imageInsertNotAllowedSingleFile: ไม่สามารถแทรกรูปภาพในโหมดไฟล์เดียวได้ กรุณาเปิดโฟลเดอร์ก่อน
+  imageInsertFailed: แทรกรูปภาพล้มเหลว
+  imageUploading: กำลังอัปโหลดรูปภาพไปยังโฮสต์…
+  recentFileNotFound: ไม่พบไฟล์ล่าสุด ล้างบันทึกแล้ว
+  recentFolderNotFound: ไม่พบโฟลเดอร์ล่าสุด ล้างบันทึกแล้ว
+  typewriterEnabled: เปิดใช้งานโหมดเครื่องพิมพ์ดีดแล้ว
+  typewriterDisabled: ปิดใช้งานโหมดเครื่องพิมพ์ดีดแล้ว

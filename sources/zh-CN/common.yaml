@@ -1,0 +1,47 @@
+common:
+  save: 保存
+  cancel: 取消
+  confirm: 确认
+  delete: 删除
+  edit: 编辑
+  copy: 复制
+  paste: 粘贴
+  cut: 剪切
+  selectAll: 全选
+  undo: 撤销
+  redo: 重做
+  search: 搜索
+  replace: 替换
+  settings: 设置
+  close: 关闭
+  open: 打开
+  new: 新建
+  file: 文件
+  folder: 文件夹
+  recent: 最近
+  language: 语言
+  failed: 失败
+  reset: 恢复默认
+  clear: 清除
+  lock: 锁定
+  unlock: 解锁
+  bold: 加粗
+  italic: 斜体
+  strikethrough: 删除线
+  underline: 下划线
+  inlineCode: 行内代码
+  highlight: 高亮
+  blockquote: 引用
+  codeBlock: 代码块
+  horizontalRule: 分割线
+  bulletList: 无序列表
+  orderedList: 有序列表
+  taskList: 任务列表
+  table: 表格
+  image: 图片
+  link: 链接
+  mathBlock: 数学块
+  mermaid: Mermaid 图表
+  closeToolbar: 隐藏工具栏
+  exportPdf: 导出 PDF
+  more: 更多

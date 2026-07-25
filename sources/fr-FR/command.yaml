@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Rechercher des fichiers...
+  searchOutlinePlaceholder: Rechercher dans le plan...
+  noResults: Aucune commande trouvée
+  file: Fichier
+  view: Affichage
+  insert: Insertion
+  settings: Ouvrir les paramètres
+  outline: Ouvrir le plan
+  newFile: Nouveau fichier
+  openFile: Ouvrir un fichier
+  openFolder: Ouvrir un dossier
+  saveFile: Enregistrer le fichier
+  toggleSidebar: Basculer la barre latérale
+  toggleEditMode: Basculer le mode édition
+  toggleTypewriterMode: Basculer le mode machine à écrire
+  insertImage: Insérer une image
+  openSettings: Ouvrir les paramètres
+  noOutline: Aucun plan
+  openFileFirst: Veuillez d'abord ouvrir un fichier
+  emptyHeading: Titre vide
+  title: Palette de commandes
+  placeholder: Saisir une commande...
+  edit: Édition
+  format: Format

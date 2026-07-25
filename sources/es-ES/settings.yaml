@@ -1,0 +1,271 @@
+settings:
+  title: Configuración
+  editor: Editor
+  personalization: Efectos de escritura
+  shortcuts: Atajos
+  about: Acerca de
+  editorFontFamily: Fuente del editor
+  editorFontFamilyDesc: Establecer la fuente del texto del editor
+  editorFontSize: Tamaño de fuente del editor
+  editorFontSizeDesc: Ajustar el tamaño de fuente en el editor
+  autoSave: Guardado automático
+  autoSaveDesc: Frecuencia de guardado automático de archivos
+  autoCapitalize: Auto-mayúscula
+  showWordCount: Mostrar recuento de palabras
+  showWordCountDesc: Mostrar una insignia flotante de recuento de palabras en la esquina inferior derecha del editor
+  showEditorToolbar: Mostrar barra de herramientas de formato
+  showEditorToolbarDesc: Mostrar una barra de herramientas de formato en la parte superior del editor
+  typewriterMode: Modo máquina de escribir
+  typewriterModeDesc: En el modo máquina de escribir, la línea del cursor se mantiene centrada para una experiencia de escritura enfocada
+  autoCapitalizeDesc: Capitalizar automáticamente la primera letra de oraciones en inglés (desactivar para mejor edición Markdown)
+  externalFileChangeAction: Acción ante cambio de archivo externo
+  externalFileChangeActionDesc: Cómo manejar cuando el archivo es modificado por un programa externo
+  externalFileChangeIgnore: Ignorar
+  externalFileChangeSilent: Recargar automáticamente
+  externalFileChangePrompt: Preguntar
+  codeBlockWordWrap: Ajuste de línea automático del bloque de código
+  codeBlockWordWrapDesc: Habilitar ajuste de línea automático en el bloque de código
+  codeBlockWordWrapTooltip: Cuando está habilitado, las líneas largas en el bloque de código se ajustarán automáticamente
+  showLineNumbers: Mostrar números de línea
+  showLineNumbersDesc: Mostrar números de línea en el editor de código fuente
+  showLineNumbersTooltip: Cuando está habilitado, los números de línea se muestran en el lado izquierdo del editor de código fuente
+  codeEditorThemeLight: Tema del bloque de código (claro)
+  codeEditorThemeLightDesc: Elija el estilo de tema para el editor de bloques de código en modo claro
+  codeEditorThemeDark: Tema del bloque de código (oscuro)
+  codeEditorThemeDarkDesc: Elija el estilo de tema para el editor de bloques de código en modo oscuro
+  sourceCodeThemeLight: Tema del código fuente (claro)
+  sourceCodeThemeLightDesc: Elija el estilo de tema para el editor de código fuente en modo claro
+  sourceCodeThemeDark: Tema del código fuente (oscuro)
+  sourceCodeThemeDarkDesc: Elija el estilo de tema para el editor de código fuente en modo oscuro
+  syncEditorBg: Usar fondo del editor
+  syncEditorBgDesc: >-
+    Cuando está habilitado, el editor de código fuente usará el color de fondo del editor en lugar del fondo del tema
+    para una apariencia unificada
+  sidebarPosition: Posición de la barra lateral
+  sidebarPositionDesc: Establecer si la barra lateral se muestra a la izquierda o a la derecha
+  left: Izquierda
+  right: Derecha
+  breatheColor: Color de respiración
+  breatheColorDesc: Habilitar efecto de color de respiración dinámico para encabezados
+  highlightColor: Color de resaltado
+  highlightColorDesc: Seleccionar el color de fondo para texto resaltado
+  highlightColorYellow: Amarillo
+  highlightColorGreen: Verde
+  highlightColorBlue: Azul
+  highlightColorPink: Rosa
+  highlightColorOrange: Naranja
+  highlightColorPurple: Púrpura
+  colorTheme: Tema de color
+  colorThemeDesc: Seleccionar el tema de color de la aplicación
+  colorThemeDefault: Predeterminado
+  colorThemePastel: Cereza
+  colorThemeSpring: Primavera
+  colorThemePastelStory: >-
+    Inspirado por el jarrón GRÅVITS de IKEA, tuve la suerte de encontrar phycat en la comunidad de Typora. Su paleta
+    ligera y aérea de flor de cerezo, su atmósfera relajada y cálida, eran exactamente lo que tenía en mente. Mediante
+    refinamientos y adaptaciones capa por capa, se convirtió en una experiencia de escritura suave, reconfortante y
+    naturalmente placentera para Textox.
+  colorThemeSpringStory: >-
+    La primavera simboliza comienzos y esperanza. Textox se lanzó en la primavera de 2026, una temporada memorable para
+    el proyecto. El tema Jingzhe se centra en verdes botánicos suaves y limpios, cuyos colores evocan el despertar de la
+    naturaleza primaveral. Adaptado y ajustado para Textox, aporta una atmósfera fresca y ligera de mañana de primavera
+    a cada sesión de escritura.
+  appearance: Apariencia
+  appearanceDesc: Personalizar la apariencia de la aplicación
+  appearanceLight: Claro
+  appearanceDark: Oscuro
+  appearanceSystem: Seguir sistema
+  languageDesc: Selecciona tu idioma preferido
+  shortcutsConfig: Configuración de atajos
+  version: Versión
+  features: Funciones
+  privacy: Privacidad
+  allRightsReserved: Todos los derechos reservados
+  imageStorage: Almacenamiento de imágenes
+  imageStorageMode: Modo de almacenamiento de imágenes
+  imageStorageModeDesc: Seleccionar la ubicación de almacenamiento de imágenes
+  imageStorageAppData: Datos de la aplicación
+  imageStorageAlongside: Misma ubicación que el documento
+  imageStorageCustom: Ruta personalizada
+  imageFolderName: Nombre de la carpeta de imágenes
+  imageFolderNameDesc: 'Nombre de la carpeta de imágenes (predeterminado: images)'
+  imageStoragePath: Ruta de almacenamiento de imágenes
+  imageStoragePathDesc: Ruta de almacenamiento personalizada de imágenes
+  selectImageStoragePath: Seleccionar la ruta de almacenamiento de imágenes
+  imageAggregationMode: Modo de agregación de imágenes
+  imageAggregationModeDesc: Cómo organizar los archivos de imagen
+  imageAggregationNone: No clasificar
+  imageAggregationByDocument: Clasificar por documento
+  imageAggregationByDate: Clasificar por fecha
+  imageDateFormat: Formato de fecha de imagen
+  imageDateFormatDesc: Formato de fecha utilizado al clasificar por fecha
+  invalidImagePath: Ruta de imagen no válida
+  invalidImagePathDesc: Seleccione una ruta de carpeta válida
+  imagePathSet: Ruta de imagen establecida
+  failedToSetImagePath: Error al establecer la ruta de imagen
+  fontFamily: Fuente
+  fontFamilyDesc: Seleccionar la fuente del editor
+  fontSystemDefault: Predeterminado del sistema
+  fontMono: Fuente monoespaciada
+  fontSampleText: Aa Español
+  windowSize: Tamaño de la ventana
+  windowSizeDesc: Ajustar el tamaño predeterminado de la ventana del editor
+  resetSettings: Restablecer configuración
+  resetToDefault: Restaurar valores predeterminados
+  resetToDefaultDesc: Restaurar todas las configuraciones a los valores predeterminados
+  resetButton: Restablecer
+  resetConfirm: ¿Está seguro de que desea restablecer todas las configuraciones? Esta acción no se puede deshacer.
+  resetSuccess: Configuración restablecida
+  resetFailed: Error al restablecer
+  acknowledgments: Agradecimientos
+  acknowledgmentsSubtitle: Gracias a los siguientes proyectos de código abierto
+  thanksMessage: ¡Gracias por usar Textox!
+  theme: Tema
+  themeSystem: Seguir sistema
+  themeLight: Claro
+  themeDark: Oscuro
+  language: Idioma
+  interfaceFont: Fuente de interfaz
+  editorFont: Fuente del editor
+  autoSaveOff: Apagado
+  autoSaveOnFocusChange: Al cambiar el foco
+  autoSaveOnDelay: Después de retraso
+  autoSaveDelay: Retraso de guardado automático (seg)
+  author: Autor
+  license: Licencia
+  close: Cerrar
+  slashCommands: Comandos de barra
+  themeManagement: Gestión de temas
+  themeManagementDesc: Importar temas personalizados desde archivos locales
+  themePresets: Predefinidos
+  themeCustomProfiles: Configuraciones personalizadas
+  themeNew: Nuevo
+  themeNewFromPreset: Nuevo tema desde el predefinido actual
+  importTheme: Importar tema
+  importing: Importando...
+  themeImportSuccess: Tema importado correctamente
+  themeAlreadyExists: Este tema ya existe
+  themeImportFailed: Error al importar el tema
+  deleteTheme: Eliminar
+  themeDeleteSuccess: Tema eliminado
+  themeDeleteFailed: Error al eliminar el tema
+  duplicateTheme: Duplicar tema
+  duplicateThemeSuffix: Copia
+  renameTheme: Renombrar
+  themeDuplicateSuccess: Tema duplicado
+  themeDuplicateFailed: Error al duplicar el tema
+  themeStory: Historia del tema
+  themeEditor: Editor de temas
+  loadTheme: Cargar tema
+  applyPreview: Aplicar vista previa
+  applying: Aplicando...
+  themeId: ID del tema
+  themeName: Nombre del tema
+  themeNamePlaceholder: Ingrese el nombre del tema
+  saveAsTheme: Guardar como tema
+  themePreviewApplied: Vista previa del tema aplicada
+  themePreviewFailed: Vista previa fallida
+  themeNameRequired: Ingrese el ID y nombre del tema
+  themeSaveSuccess: Tema guardado exitosamente
+  themeSaveFailed: Error al guardar el tema
+  quickEdit: Edición rápida
+  codeDisplay: Visualización de código
+  activeTheme: Tema activo
+  customThemes: Temas personalizados
+  themeEdit: Edición de tema
+  cancelPreview: Cancelar vista previa
+  overwriteThemeConfirm: ¿Está seguro de que desea sobrescribir el tema "{{name}}"?
+  deleteThemeConfirm: ¿Está seguro de que desea eliminar el tema "{{name}}"?
+  exportTheme: Exportar
+  themeExportSuccess: Tema exportado correctamente
+  themeExportFailed: Error al exportar el tema
+  createCustomTheme: Crear tema personalizado
+  readonlyThemeBanner: Tema integrado (solo lectura) — Cree una copia personalizada para editar
+  group:
+    surface: Superficie
+    accents: Acentos
+    feedback: Retroalimentación
+    boundaries: Límites
+    charts: Gráficos
+    sidebar: Barra lateral
+  markdown: Markdown
+  markdownTitle: Sintaxis Markdown
+  markdownEmpty: No hay funciones de sintaxis configurables
+  alertTitle: Alerta
+  alertDesc: Extensión de sintaxis blockquote compatible con NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  html-commentTitle: Comentarios HTML
+  html-commentDesc: Renderizar bloques de comentarios <!-- -->
+  html-inlineTitle: HTML en línea
+  html-inlineDesc: Renderizar etiquetas HTML en línea como <span style>, <kbd>, <abbr>
+  typing-particleTitle: Partículas al escribir
+  typing-particleDesc: Emite partículas de chispa desde la posición del cursor al escribir
+  fileExtensions: Extensiones de archivo
+  fileExtensionsDesc: >-
+    Administre qué tipos de archivos se pueden hacer clic en el árbol de archivos. Las extensiones no incluidas se
+    mostrarán como deshabilitadas.
+  fileExtensionsPlaceholder: 'Ingrese la extensión (ej: md)'
+  imageStoragePicgo: Alojamiento de imágenes PicGo
+  picgoServerUrl: URL del servidor PicGo
+  picgoServerUrlDesc: Consulte PicGo Server
+  picgoTestConnection: Probar
+  picgoConnectionSuccess: Conexión PicGo exitosa
+  picgoConnectionFailed: Error de conexión PicGo. Verifique si el cliente PicGo está ejecutándose
+  typingParticles: Partículas al escribir
+  typingParticlesDesc: Emite partículas desde la posición del cursor al escribir
+  particlePreset: Preajuste
+  particleCount: Número de partículas
+  particleSize: Tamaño de partículas
+  particleSpeed: Velocidad
+  particleSpread: Dispersión
+  particleGravity: Gravedad
+  particleDuration: Duración
+  particleDirection: Dirección
+  particleDirUp: Arriba
+  particleDirDown: Abajo
+  particleDirRadial: Radial
+  particleDirRandom: Aleatorio
+  particleOn: Habilitar partículas al escribir
+  particleShape: Forma
+  particleShapeCircle: Círculo
+  particleShapeSquare: Cuadrado
+  particleShapeStar: Estrella
+  particleShapeDiamond: Diamante
+  particleShapeTriangle: Triángulo
+  particlePaletteRainbow: Arcoíris
+  particlePaletteWarm: Cálido
+  particlePaletteCool: Frío
+  particlePalettePastel: Pastel
+  particlePaletteNeon: Neón
+  particleColorTheme: Seguir tema
+  particleColorFixed: Color fijo
+  particleColorRandom: Aleatorio
+  particleColor: Color
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

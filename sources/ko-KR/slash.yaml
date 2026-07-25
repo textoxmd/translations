@@ -1,0 +1,19 @@
+slash:
+  h1: 제목 1
+  h2: 제목 2
+  h3: 제목 3
+  h4: 제목 4
+  h5: 제목 5
+  h6: 제목 6
+  ul: 글머리 기호 목록
+  ol: 번호 매기기 목록
+  task: 작업 목록
+  code: 코드 블록
+  quote: 인용
+  hr: 수평선
+  table: 표
+  image: 이미지
+  math: 수식
+  mermaid: Mermaid
+  link: 링크
+  noMatch: 일치하는 명령이 없습니다

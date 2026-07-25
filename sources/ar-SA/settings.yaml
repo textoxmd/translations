@@ -1,0 +1,265 @@
+settings:
+  title: الإعدادات
+  editor: المحرر
+  personalization: تأثيرات الكتابة
+  shortcuts: الاختصارات
+  about: حول
+  editorFontFamily: خط المحرر
+  editorFontFamilyDesc: تعيين خط نص المحرر
+  editorFontSize: حجم خط المحرر
+  editorFontSizeDesc: ضبط حجم الخط في المحرر
+  autoSave: الحفظ التلقائي
+  autoSaveDesc: تكرار الحفظ التلقائي للملفات
+  autoCapitalize: الأحرف الكبيرة التلقائية
+  showWordCount: إظهار عدد الكلمات
+  showWordCountDesc: إظهار شارة عائمة لعدد الكلمات في الزاوية السفلية اليمنى من المحرر
+  showEditorToolbar: إظهار شريط أدوات التنسيق
+  showEditorToolbarDesc: إظهار شريط أدوات التنسيق في أعلى المحرر
+  typewriterMode: وضع الآلة الكاتبة
+  typewriterModeDesc: في وضع الآلة الكاتبة، يبقى سطر المؤشر في منتصف الشاشة لتجربة كتابة مركزة
+  autoCapitalizeDesc: قم بكتابة الحرف الأول من الجمل الإنجليزية تلقائيًا بالأحرف الكبيرة (قم بتعطيله لتحسين تجربة تحرير Markdown)
+  externalFileChangeAction: الإجراء عند تغيير الملف الخارجي
+  externalFileChangeActionDesc: كيفية التعامل عندما يتم تعديل الملف بواسطة برنامج خارجي
+  externalFileChangeIgnore: تجاهل
+  externalFileChangeSilent: إعادة التحميل تلقائياً
+  externalFileChangePrompt: اسأل
+  codeBlockWordWrap: التفاف تلقائي لكتلة الكود
+  codeBlockWordWrapDesc: تمكين التفاف السطر التلقائي في كتلة الكود
+  codeBlockWordWrapTooltip: عند التمكين، سيتم التفاف الأسطر الطويلة في كتلة الكود تلقائيًا
+  showLineNumbers: إظهار أرقام الأسطر
+  showLineNumbersDesc: إظهار أرقام الأسطر في محرر الكود المصدر
+  showLineNumbersTooltip: عند التمكين، يتم عرض أرقام الأسطر على الجانب الأيسر من محرر الكود المصدر
+  codeEditorThemeLight: سمة كتلة الكود (فاتحة)
+  codeEditorThemeLightDesc: اختر نمط السمة لمحرر كتلة الكود في الوضع الفاتح
+  codeEditorThemeDark: سمة كتلة الكود (داكنة)
+  codeEditorThemeDarkDesc: اختر نمط السمة لمحرر كتلة الكود في الوضع الداكن
+  sourceCodeThemeLight: سمة الكود المصدر (فاتحة)
+  sourceCodeThemeLightDesc: اختر نمط السمة لمحرر الكود المصدر في الوضع الفاتح
+  sourceCodeThemeDark: سمة الكود المصدر (داكنة)
+  sourceCodeThemeDarkDesc: اختر نمط السمة لمحرر الكود المصدر في الوضع الداكن
+  syncEditorBg: استخدام خلفية المحرر
+  syncEditorBgDesc: عند التمكين، سيستخدم محرر الكود المصدر لون خلفية المحرر بدلاً من خلفية السمة لمظهر موحد
+  sidebarPosition: موضع الشريط الجانبي
+  sidebarPositionDesc: تعيين ما إذا كان الشريط الجانبي يظهر على اليسار أو اليمين
+  left: اليسار
+  right: اليمين
+  breatheColor: لون التنفس
+  breatheColorDesc: تمكين تأثير لون التنفس الديناميكي للعناوين
+  highlightColor: لون التمييز
+  highlightColorDesc: اختيار لون الخلفية للنص المميز
+  highlightColorYellow: أصفر
+  highlightColorGreen: أخضر
+  highlightColorBlue: أزرق
+  highlightColorPink: وردي
+  highlightColorOrange: برتقالي
+  highlightColorPurple: بنفسجي
+  colorTheme: سمة اللون
+  colorThemeDesc: اختيار سمة لون التطبيق
+  colorThemeDefault: افتراضي
+  colorThemePastel: كرز
+  colorThemeSpring: ربيع
+  colorThemePastelStory: >-
+    مستوحى من مزهرية GRÅVITS من ايكيا، كنت محظوظًا بلقاء phycat في مجتمع Typora. لوحة الألوان الخفيفة كأزهار الكرز
+    وأجواؤها الدافئة والمريحة كانت تمامًا ما تصورته. من خلال التحسينات والتعديلات المتتالية، تحولت إلى تجربة كتابة ناعمة
+    ومريحة للنظر تدعو للاسترخاء في Textox.
+  colorThemeSpringStory: >-
+    الربيع يرمز إلى البدايات والأمل. تم إطلاق Textox في ربيع 2026، وهو موسم لا يُنسى للمشروع. يتميز ثيم Jingzhe بالخضرة
+    النباتية الناعمة والنظيفة، حيث تنقل الألوان روح الصحوة الربيعية. بعد التعديل والتكييف لـ Textox، يمنح كل جلسة كتابة
+    أجواء منعشة وخفيفة كصباح الربيع.
+  appearance: المظهر
+  appearanceDesc: تخصيص مظهر التطبيق
+  appearanceLight: فاتح
+  appearanceDark: داكن
+  appearanceSystem: اتباع النظام
+  languageDesc: اختر لغتك المفضلة
+  shortcutsConfig: تكوين الاختصارات
+  version: الإصدار
+  features: الميزات
+  privacy: الخصوصية
+  allRightsReserved: جميع الحقوق محفوظة
+  imageStorage: تخزين الصور
+  imageStorageMode: وضع تخزين الصور
+  imageStorageModeDesc: اختيار موقع تخزين الصور
+  imageStorageAppData: بيانات التطبيق
+  imageStorageAlongside: نفس موقع المستند
+  imageStorageCustom: مسار مخصص
+  imageFolderName: اسم مجلد الصور
+  imageFolderNameDesc: 'اسم مجلد الصور (افتراضي: images)'
+  imageStoragePath: مسار تخزين الصور
+  imageStoragePathDesc: مسار تخزين الصور المخصص
+  selectImageStoragePath: اختيار مسار تخزين الصور
+  imageAggregationMode: وضع تجميع الصور
+  imageAggregationModeDesc: كيفية تنظيم ملفات الصور
+  imageAggregationNone: لا تصنف
+  imageAggregationByDocument: تصنيف حسب المستند
+  imageAggregationByDate: تصنيف حسب التاريخ
+  imageDateFormat: تنسيق تاريخ الصورة
+  imageDateFormatDesc: تنسيق التاريخ المستخدم عند التصنيف حسب التاريخ
+  invalidImagePath: مسار صورة غير صالح
+  invalidImagePathDesc: يرجى تحديد مسار مجلد صالح
+  imagePathSet: تم تعيين مسار الصورة
+  failedToSetImagePath: فشل في تعيين مسار الصورة
+  fontFamily: الخط
+  fontFamilyDesc: اختيار خط المحرر
+  fontSystemDefault: افتراضي النظام
+  fontMono: خط أحادي المسافة
+  fontSampleText: Aa العربية
+  windowSize: حجم النافذة
+  windowSizeDesc: ضبط الحجم الافتراضي لنافذة المحرر
+  resetSettings: إعادة تعيين الإعدادات
+  resetToDefault: استعادة القيم الافتراضية
+  resetToDefaultDesc: استعادة جميع الإعدادات إلى القيم الافتراضية
+  resetButton: إعادة تعيين
+  resetConfirm: هل أنت متأكد من أنك تريد إعادة تعيين جميع الإعدادات؟ لا يمكن التراجع عن هذا الإجراء.
+  resetSuccess: تم إعادة تعيين الإعدادات
+  resetFailed: فشل إعادة التعيين
+  acknowledgments: شكر وتقدير
+  acknowledgmentsSubtitle: شكرا للمشاريع مفتوحة المصدر التالية
+  thanksMessage: شكرا لاستخدام Textox!
+  theme: السمة
+  themeSystem: اتباع النظام
+  themeLight: فاتح
+  themeDark: داكن
+  language: اللغة
+  interfaceFont: خط الواجهة
+  editorFont: خط المحرر
+  autoSaveOff: إيقاف
+  autoSaveOnFocusChange: عند تغيير التركيز
+  autoSaveOnDelay: بعد التأخير
+  autoSaveDelay: تأخير الحفظ التلقائي (ثانية)
+  author: المؤلف
+  license: الترخيص
+  close: إغلاق
+  slashCommands: أوامر الشرطة
+  themeManagement: إدارة السمات
+  themeManagementDesc: استيراد السمات المخصصة من الملفات المحلية
+  themePresets: الإعدادات المسبقة
+  themeCustomProfiles: التكوينات المخصصة
+  themeNew: جديد
+  themeNewFromPreset: سمة جديدة من الإعداد المسبق الحالي
+  importTheme: استيراد السمة
+  importing: جارِ الاستيراد...
+  themeImportSuccess: تم استيراد السمة بنجاح
+  themeAlreadyExists: هذه السمة موجودة بالفعل
+  themeImportFailed: فشل استيراد السمة
+  deleteTheme: حذف
+  themeDeleteSuccess: تم حذف السمة
+  themeDeleteFailed: فشل حذف السمة
+  duplicateTheme: تكرير السمة
+  duplicateThemeSuffix: نسخة
+  renameTheme: إعادة تسمية
+  themeDuplicateSuccess: تم تكرير السمة
+  themeDuplicateFailed: فشل تكرير السمة
+  themeStory: قصة السمة
+  themeEditor: محرر السمات
+  loadTheme: تحميل السمة
+  applyPreview: تطبيق المعاينة
+  applying: جارٍ التطبيق...
+  themeId: معرف السمة
+  themeName: اسم السمة
+  themeNamePlaceholder: أدخل اسم السمة
+  saveAsTheme: حفظ كسمة
+  themePreviewApplied: تم تطبيق معاينة السمة
+  themePreviewFailed: فشلت المعاينة
+  themeNameRequired: يرجى إدخال معرف واسم السمة
+  themeSaveSuccess: تم حفظ السمة بنجاح
+  themeSaveFailed: فشل حفظ السمة
+  quickEdit: تحرير سريع
+  codeDisplay: عرض الكود
+  activeTheme: السمة النشطة
+  customThemes: السمات المخصصة
+  themeEdit: تحرير السمة
+  cancelPreview: إلغاء المعاينة
+  overwriteThemeConfirm: هل أنت متأكد أنك تريد استبدال السمة "{{name}}"؟
+  deleteThemeConfirm: هل أنت متأكد أنك تريد حذف السمة "{{name}}"؟
+  exportTheme: تصدير
+  themeExportSuccess: تم تصدير السمة بنجاح
+  themeExportFailed: فشل تصدير السمة
+  createCustomTheme: إنشاء سمة مخصصة
+  readonlyThemeBanner: سمة مضمنة (قراءة فقط) — أنشئ نسخة مخصصة للتعديل
+  group:
+    surface: السطح
+    accents: الألوان المميزة
+    feedback: التغذية الراجعة
+    boundaries: الحدود
+    charts: الرسوم البيانية
+    sidebar: الشريط الجانبي
+  markdown: ماركداون
+  markdownTitle: بناء جملة ماركداون
+  markdownEmpty: لا توجد ميزات بناء جملة قابلة للتكوين
+  alertTitle: تنبيه
+  alertDesc: امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  html-commentTitle: تعليقات HTML
+  html-commentDesc: عرض كتل التعليقات <!-- -->
+  html-inlineTitle: HTML مضمن
+  html-inlineDesc: عرض وسوم HTML المضمنة مثل <span style> و<kbd> و<abbr>
+  typing-particleTitle: جزيئات الكتابة
+  typing-particleDesc: إصدار جزيئات شرارة من موضع المؤشر أثناء الكتابة
+  fileExtensions: امتدادات الملفات
+  fileExtensionsDesc: إدارة أنواع الملفات التي يمكن النقر عليها في شجرة الملفات. سيتم عرض الامتدادات غير المدرجة على أنها معطلة.
+  fileExtensionsPlaceholder: أدخل الامتداد (مثل md)
+  imageStoragePicgo: استضافة صور PicGo
+  picgoServerUrl: عنوان URL لخادم PicGo
+  picgoServerUrlDesc: يرجى الرجوع إلى PicGo Server
+  picgoTestConnection: اختبار
+  picgoConnectionSuccess: تم الاتصال بـ PicGo بنجاح
+  picgoConnectionFailed: فشل الاتصال بـ PicGo. تحقق من تشغيل عميل PicGo
+  typingParticles: جزيئات الكتابة
+  typingParticlesDesc: إصدار جزيئات من موضع المؤشر أثناء الكتابة
+  particlePreset: الإعداد المسبق
+  particleCount: عدد الجزيئات
+  particleSize: حجم الجزيئات
+  particleSpeed: السرعة
+  particleSpread: الانتشار
+  particleGravity: الجاذبية
+  particleDuration: المدة
+  particleDirection: الاتجاه
+  particleDirUp: للأعلى
+  particleDirDown: للأسفل
+  particleDirRadial: شعاعي
+  particleDirRandom: عشوائي
+  particleOn: تمكين جزيئات الكتابة
+  particleShape: الشكل
+  particleShapeCircle: دائرة
+  particleShapeSquare: مربع
+  particleShapeStar: نجمة
+  particleShapeDiamond: ماسي
+  particleShapeTriangle: مثلث
+  particlePaletteRainbow: قوس قزح
+  particlePaletteWarm: دافئ
+  particlePaletteCool: بارد
+  particlePalettePastel: باستيل
+  particlePaletteNeon: نيون
+  particleColorTheme: اتباع السمة
+  particleColorFixed: لون ثابت
+  particleColorRandom: عشوائي
+  particleColor: اللون
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

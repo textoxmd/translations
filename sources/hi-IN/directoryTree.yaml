@@ -1,0 +1,20 @@
+directoryTree:
+  title: फाइलें
+  newFile: नई फाइल
+  newFolder: नया फ़ोल्डर
+  rename: नाम बदलें
+  delete: हटाएं
+  loading: लोड हो रहा है...
+  newFileDefaultName: नई फाइल.md
+  newFolderDefaultName: नया फ़ोल्डर
+  selectedCount: '{{count}} आइटम चुने गए'
+  notOpenable: खोलने योग्य फ़ाइल प्रकार के रूप में कॉन्फ़िगर नहीं किया गया
+  deleteConfirmTitle: क्या आप वाकई "{{name}}" और उसकी सामग्री को हटाना चाहते हैं?
+  deleteConfirmTitleFile: क्या आप वाकई "{{name}}" को हटाना चाहते हैं?
+  deleteConfirmMultiple: क्या आप वाकई इन {{count}} आइटम को हटाना चाहते हैं?
+  deleteConfirmRecoveryHint: आप इस आइटम को ट्रैश से पुनर्स्थापित कर सकते हैं।
+  deleteConfirmDontAskAgain: दोबारा न पूछें
+  deleteConfirmMoveToTrash: ट्रैश में ले जाएं
+  showInFinder: Finder में दिखाएँ
+  dragToResize: आकार बदलने के लिए खींचें
+  closeFile: फ़ाइल बंद करें

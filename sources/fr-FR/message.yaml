@@ -1,0 +1,15 @@
+message:
+  linkCopied: Lien copié dans le presse-papiers
+  codeCopied: Code copié dans le presse-papiers
+  saveSuccess: Enregistrement réussi
+  saveFailed: Échec de l'enregistrement
+  imageUploadSuccess: Téléchargement de l'image réussi
+  imageUploadFailed: Échec du téléchargement de l'image
+  imageInsertNotAllowed: Veuillez enregistrer le fichier avant d'insérer des images
+  imageInsertNotAllowedSingleFile: Impossible d'insérer des images en mode fichier unique. Veuillez d'abord ouvrir un dossier.
+  imageInsertFailed: Échec de l'insertion de l'image
+  imageUploading: Téléchargement de l'image vers l'hébergement…
+  recentFileNotFound: Fichier récent introuvable, enregistrement effacé
+  recentFolderNotFound: Dossier récent introuvable, enregistrement effacé
+  typewriterEnabled: Mode machine à écrire activé
+  typewriterDisabled: Mode machine à écrire désactivé

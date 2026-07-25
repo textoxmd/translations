@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: ธีมที่กำหนดเอง
+    customParticles: Custom Particle Configs
+    importTheme: นำเข้าธีม
+    autoSave: บันทึกอัตโนมัติ
+    pdfExport: ส่งออก PDF
+  title: อัปเกรด
+  message: '"{{feature}}" มีให้ใช้งานในเวอร์ชันเต็มของ Textox เท่านั้น'
+  confirm: คุณต้องการดูใน App Store หรือไม่?
+  banner: ธีมที่กำหนดเองมีให้ใช้งานในเวอร์ชันเต็มของ Textox
+  okLabel: ดูบน App Store
+  cancelLabel: ยกเลิก

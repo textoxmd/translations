@@ -1,0 +1,7 @@
+dialog:
+  selectFolder: Seleccionar carpeta
+  fileModifiedTitle: Archivo modificado
+  fileModifiedDesc: >-
+    Este archivo ha sido modificado en otro lugar. Puedes recargar para cargar el contenido más reciente o continuar
+    editando la versión actual (puede causar conflictos de contenido).
+  fileModifiedReload: Recargar

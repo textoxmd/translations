@@ -1,0 +1,47 @@
+common:
+  save: حفظ
+  cancel: إلغاء
+  confirm: تأكيد
+  delete: حذف
+  edit: تحرير
+  copy: نسخ
+  paste: لصق
+  cut: قص
+  selectAll: تحديد الكل
+  undo: تراجع
+  redo: إعادة
+  search: بحث
+  replace: استبدال
+  settings: الإعدادات
+  close: إغلاق
+  open: فتح
+  new: جديد
+  file: ملف
+  folder: مجلد
+  recent: الأخير
+  language: اللغة
+  failed: فشل
+  reset: استعادة الافتراضي
+  clear: مسح
+  lock: قفل
+  unlock: إلغاء القفل
+  bold: عريض
+  italic: مائل
+  strikethrough: يتوسطه خط
+  underline: تسطير
+  inlineCode: كود سطري
+  highlight: تمييز
+  blockquote: اقتباس
+  codeBlock: كتلة كود
+  horizontalRule: خط أفقي
+  bulletList: قائمة نقطية
+  orderedList: قائمة مرقمة
+  taskList: قائمة المهام
+  table: جدول
+  image: صورة
+  link: رابط
+  mathBlock: كتلة رياضية
+  mermaid: مخطط Mermaid
+  closeToolbar: إخفاء شريط الأدوات
+  exportPdf: تصدير PDF
+  more: المزيد

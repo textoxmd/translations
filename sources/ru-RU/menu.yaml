@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: О Textox
+  preferences: Настройки...
+  quit: Выйти из Textox
+  file: Файл
+  new_window: Новое окно
+  open: Открыть...
+  open_folder: Открыть папку...
+  open_recent: Открыть недавние
+  no_recent: Нет недавних
+  clear_recent: Очистить меню
+  windows: Открытые окна
+  save: Сохранить
+  open_location: Показать в Finder
+  export: Экспорт в PDF...
+  saveBeforeExport: Пожалуйста, сохраните файл перед экспортом
+  saveBeforeExportPrompt: Документ имеет несохраненные изменения. Сохранить перед экспортом?
+  edit: Правка
+  undo: Отменить
+  redo: Повторить
+  cut: Вырезать
+  copy: Копировать
+  paste: Вставить
+  select_all: Выбрать все
+  auto_fill: Автозаполнение
+  start_dictation: Начать диктовку...
+  emoji_symbols: Эмодзи и символы
+  paragraph: Абзац
+  heading_1: Заголовок 1
+  heading_2: Заголовок 2
+  heading_3: Заголовок 3
+  heading_4: Заголовок 4
+  heading_5: Заголовок 5
+  heading_6: Заголовок 6
+  bullet_list: Маркированный список
+  ordered_list: Нумерованный список
+  task_list: Список задач
+  code_block: Блок кода
+  math_block: Математический блок
+  blockquote: Блок цитаты
+  horizontal_rule: Горизонтальная линия
+  table: Таблица
+  mermaid: Диаграмма Mermaid
+  footnote: Сноска
+  image: Изображение
+  format: Формат
+  bold: Жирный
+  italic: Курсив
+  underline: Подчеркнутый
+  strikethrough: Зачеркнутый
+  inline_code: Встроенный код
+  highlight: Выделить
+  clear_formatting: Зачеркнутый
+  view: Вид
+  toggle_sidebar: Переключить боковую панель
+  toggle_edit_mode: Переключить режим редактирования
+  toggle_typewriter_mode: Режим пишущей машинки
+  window: Окно
+  minimize: Свернуть
+  zoom: Масштаб
+  fullscreen: Полный экран
+  center: По центру
+  help: Справка
+  acknowledgments: Благодарности
+  changelog: История изменений
+  privacy: Политика конфиденциальности
+  website: Веб-сайт
+  feedback: Обратная связь
+  export_logs: Экспортировать журналы...
+  auto_save: Автосохранение
+  newFile: Новый файл
+  openFile: Открыть файл...
+  openFolder: Открыть папку...
+  saveAs: Сохранить как...
+  closeFile: Закрыть файл
+  closeWindow: Закрыть окно
+  recentFiles: Недавние файлы
+  clearRecent: Очистить недавние
+  noRecentFiles: Нет недавних файлов
+  selectAll: Выбрать все
+  find: Найти...
+  replace: Заменить...
+  toggleSidebar: Переключить боковую панель
+  toggleOutline: Переключить структуру
+  togglePreview: Переключить предпросмотр
+  toggleSourceMode: Переключить режим исходного кода
+  fullScreen: Полный экран
+  settings: Настройки...
+  checkForUpdates: Проверить обновления...

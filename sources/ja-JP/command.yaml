@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: ファイルを検索...
+  searchOutlinePlaceholder: アウトラインを検索...
+  noResults: コマンドが見つかりません
+  file: ファイル
+  view: 表示
+  insert: 挿入
+  settings: 設定を開く
+  outline: アウトラインを開く
+  newFile: 新規ファイル
+  openFile: ファイルを開く
+  openFolder: フォルダを開く
+  saveFile: ファイルを保存
+  toggleSidebar: サイドバーの切り替え
+  toggleEditMode: 編集モードの切り替え
+  toggleTypewriterMode: タイプライターモードの切り替え
+  insertImage: 画像を挿入
+  openSettings: 設定を開く
+  noOutline: アウトラインがありません
+  openFileFirst: 先にファイルを開いてください
+  emptyHeading: 空の見出し
+  title: コマンドパレット
+  placeholder: コマンドを入力...
+  edit: 編集
+  format: 書式

@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: Ungespeicherte Änderungen
+  closeUnsavedTitle: Ungespeicherte Datei schließen
+  message: '"{{fileName}}" hat ungespeicherte Änderungen. Möchten Sie sie speichern?'
+  closeUnsavedMessage: Die aktuelle Datei hat ungespeicherte Änderungen. Möchten Sie sie speichern?
+  simpleMessage: Sie haben ungespeicherte Änderungen. Möchten Sie sie speichern?
+  confirmExit: Sind Sie sicher, dass Sie beenden möchten? Ungespeicherte Änderungen gehen verloren.
+  confirmClose: Sind Sie sicher, dass Sie schließen möchten? Ungespeicherte Änderungen gehen verloren.
+  save: Speichern
+  dontSave: Nicht speichern
+  cancel: Abbrechen
+  untitledFile: Unbenannte Datei

@@ -1,0 +1,15 @@
+message:
+  linkCopied: リンクをクリップボードにコピーしました
+  codeCopied: コードをクリップボードにコピーしました
+  saveSuccess: 保存成功
+  saveFailed: 保存失敗
+  imageUploadSuccess: 画像のアップロードに成功しました
+  imageUploadFailed: 画像のアップロードに失敗しました
+  imageInsertNotAllowed: 画像を挿入する前にファイルを保存してください
+  imageInsertNotAllowedSingleFile: 単一ファイルモードでは画像を挿入できません。フォルダを開いてください
+  imageInsertFailed: 画像の挿入に失敗しました
+  imageUploading: 画像をホスティングにアップロード中…
+  recentFileNotFound: 最近開いたファイルが見つかりません、記録をクリアしました
+  recentFolderNotFound: 最近開いたフォルダが見つかりません、記録をクリアしました
+  typewriterEnabled: タイプライターモードが有効になりました
+  typewriterDisabled: タイプライターモードが無効になりました

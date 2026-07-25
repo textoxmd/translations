@@ -1,0 +1,15 @@
+message:
+  linkCopied: Ссылка скопирована в буфер обмена
+  codeCopied: Код скопирован в буфер обмена
+  saveSuccess: Сохранение успешно
+  saveFailed: Ошибка сохранения
+  imageUploadSuccess: Загрузка изображения успешна
+  imageUploadFailed: Ошибка загрузки изображения
+  imageInsertNotAllowed: Сохраните файл перед вставкой изображений
+  imageInsertNotAllowedSingleFile: Вставка изображений невозможна в режиме одного файла. Сначала откройте папку.
+  imageInsertFailed: Ошибка вставки изображения
+  imageUploading: Загрузка изображения на хостинг…
+  recentFileNotFound: Недавний файл не найден, запись очищена
+  recentFolderNotFound: Недавняя папка не найдена, запись очищена
+  typewriterEnabled: Режим пишущей машинки включен
+  typewriterDisabled: Режим пишущей машинки выключен

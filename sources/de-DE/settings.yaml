@@ -1,0 +1,273 @@
+settings:
+  title: Einstellungen
+  editor: Editor
+  personalization: Tipp-Effekte
+  shortcuts: Tastenkürzel
+  about: Über
+  editorFontFamily: Editor-Schriftart
+  editorFontFamilyDesc: Schriftart für Editor-Text festlegen
+  editorFontSize: Editor-Schriftgröße
+  editorFontSizeDesc: Schriftgröße im Editor anpassen
+  autoSave: Automatisches Speichern
+  autoSaveDesc: Häufigkeit der automatischen Dateispeicherung
+  autoCapitalize: Automatische Großschreibung
+  showWordCount: Wortanzahl anzeigen
+  showWordCountDesc: Zeigt ein schwebendes Wortanzahl-Symbol in der unteren rechten Ecke des Editors an
+  showEditorToolbar: Formatierungssymbolleiste anzeigen
+  showEditorToolbarDesc: Eine Formatierungssymbolleiste oben im Editor anzeigen
+  typewriterMode: Schreibmaschinenmodus
+  typewriterModeDesc: Im Schreibmaschinenmodus bleibt die Cursorzeile zentriert für ein fokussiertes Schreiberlebnis
+  autoCapitalizeDesc: Automatische Großschreibung des ersten Buchstabens englischer Sätze (für bessere Markdown-Bearbeitung deaktivieren)
+  externalFileChangeAction: Aktion bei externer Dateiänderung
+  externalFileChangeActionDesc: Wie zu behandeln, wenn die Datei von einem externen Programm geändert wird
+  externalFileChangeIgnore: Ignorieren
+  externalFileChangeSilent: Automatisch neu laden
+  externalFileChangePrompt: Nachfragen
+  codeBlockWordWrap: Automatischer Zeilenumbruch im Codeblock
+  codeBlockWordWrapDesc: Automatischen Zeilenumbruch im Codeblock aktivieren
+  codeBlockWordWrapTooltip: Wenn aktiviert, werden lange Zeilen im Codeblock automatisch umbrochen
+  showLineNumbers: Zeilennummern anzeigen
+  showLineNumbersDesc: Zeilennummern im Quellcode-Editor anzeigen
+  showLineNumbersTooltip: Wenn aktiviert, werden Zeilennummern auf der linken Seite des Quellcode-Editors angezeigt
+  codeEditorThemeLight: Code-Block-Thema (Hell)
+  codeEditorThemeLightDesc: Wählen Sie den Themenstil für den Code-Block-Editor im hellen Modus
+  codeEditorThemeDark: Code-Block-Thema (Dunkel)
+  codeEditorThemeDarkDesc: Wählen Sie den Themenstil für den Code-Block-Editor im dunklen Modus
+  sourceCodeThemeLight: Quellcode-Thema (Hell)
+  sourceCodeThemeLightDesc: Wählen Sie den Themenstil für den Quellcode-Editor im hellen Modus
+  sourceCodeThemeDark: Quellcode-Thema (Dunkel)
+  sourceCodeThemeDarkDesc: Wählen Sie den Themenstil für den Quellcode-Editor im dunklen Modus
+  syncEditorBg: Editor-Hintergrund verwenden
+  syncEditorBgDesc: >-
+    Wenn aktiviert, verwendet der Quellcode-Editor die Hintergrundfarbe des Editors anstelle der Themenhintergrundfarbe
+    für ein einheitliches Erscheinungsbild
+  sidebarPosition: Position der Seitenleiste
+  sidebarPositionDesc: Festlegen, ob die Seitenleiste links oder rechts angezeigt wird
+  left: Links
+  right: Rechts
+  breatheColor: Atemfarbe
+  breatheColorDesc: Dynamischen Atemfarbeneffekt für Überschriften aktivieren
+  highlightColor: Markierungsfarbe
+  highlightColorDesc: Hintergrundfarbe für markierten Text auswählen
+  highlightColorYellow: Gelb
+  highlightColorGreen: Grün
+  highlightColorBlue: Blau
+  highlightColorPink: Rosa
+  highlightColorOrange: Orange
+  highlightColorPurple: Lila
+  colorTheme: Farbthema
+  colorThemeDesc: Farbthema der Anwendung auswählen
+  colorThemeDefault: Standard
+  colorThemePastel: Kirsche
+  colorThemeSpring: Frühling
+  colorThemePastelStory: >-
+    Inspiriert von IKEAs GRÅVITS-Vase hatte ich das Glück, in der Typora-Community auf phycat zu stoßen. Die leichte,
+    luftige Kirschblüten-Palette und die entspannte, warme Atmosphäre entsprachen genau meiner Vorstellung. Durch
+    schrittweise Verfeinerungen und Anpassungen entstand ein weiches, wohltuendes und mühelos angenehmes Schreiberlebnis
+    für Textox.
+  colorThemeSpringStory: >-
+    Der Frühling symbolisiert Neuanfänge und Hoffnung. Textox startete im Frühjahr 2026, einer denkwürdigen Zeit für das
+    Projekt. Das Jingzhe-Theme setzt auf sanfte, klare Pflanzengrüns, deren Farben die wiedererwachende Natur des
+    Frühlings einfangen. Für Textox angepasst und optimiert, verleiht es jedem Schreibmoment die frische, leichte
+    Atmosphäre eines Frühlingsmorgens.
+  appearance: Erscheinungsbild
+  appearanceDesc: Erscheinungsbild der Anwendung anpassen
+  appearanceLight: Hell
+  appearanceDark: Dunkel
+  appearanceSystem: System folgen
+  languageDesc: Wählen Sie Ihre bevorzugte Sprache
+  shortcutsConfig: Tastenkürzel-Konfiguration
+  version: Version
+  features: Funktionen
+  privacy: Datenschutz
+  allRightsReserved: Alle Rechte vorbehalten
+  imageStorage: Bildspeicherung
+  imageStorageMode: Bildspeichermodus
+  imageStorageModeDesc: Speicherort für Bilder auswählen
+  imageStorageAppData: Anwendungsdaten
+  imageStorageAlongside: Gleicher Speicherort wie das Dokument
+  imageStorageCustom: Benutzerdefinierter Pfad
+  imageFolderName: Name des Bildordners
+  imageFolderNameDesc: 'Name des Bildordners (Standard: images)'
+  imageStoragePath: Bildspeicherpfad
+  imageStoragePathDesc: Benutzerdefinierter Bildspeicherpfad
+  selectImageStoragePath: Bildspeicherpfad auswählen
+  imageAggregationMode: Bildaggregationsmodus
+  imageAggregationModeDesc: Wie Bilddateien organisiert werden
+  imageAggregationNone: Nicht sortieren
+  imageAggregationByDocument: Nach Dokument sortieren
+  imageAggregationByDate: Nach Datum sortieren
+  imageDateFormat: Bilddatumsformat
+  imageDateFormatDesc: Beim Sortieren nach Datum verwendetes Datumsformat
+  invalidImagePath: Ungültiger Bildpfad
+  invalidImagePathDesc: Bitte wählen Sie einen gültigen Ordnerpfad
+  imagePathSet: Bildpfad festgelegt
+  failedToSetImagePath: Fehler beim Festlegen des Bildpfads
+  fontFamily: Schriftart
+  fontFamilyDesc: Editor-Schriftart auswählen
+  fontSystemDefault: Systemstandard
+  fontMono: Nichtproportionale Schriftart
+  fontSampleText: Aa Deutsch
+  windowSize: Fenstergröße
+  windowSizeDesc: Standardgröße des Editor-Fensters anpassen
+  resetSettings: Einstellungen zurücksetzen
+  resetToDefault: Auf Standardwerte zurücksetzen
+  resetToDefaultDesc: Alle Einstellungen auf Standardwerte zurücksetzen
+  resetButton: Zurücksetzen
+  resetConfirm: >-
+    Sind Sie sicher, dass Sie alle Einstellungen zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht
+    werden.
+  resetSuccess: Einstellungen zurückgesetzt
+  resetFailed: Zurücksetzen fehlgeschlagen
+  acknowledgments: Danksagung
+  acknowledgmentsSubtitle: Danke an die folgenden Open-Source-Projekte
+  thanksMessage: Danke, dass Sie Textox verwenden!
+  theme: Thema
+  themeSystem: System folgen
+  themeLight: Hell
+  themeDark: Dunkel
+  language: Sprache
+  interfaceFont: Schnittstellen-Schriftart
+  editorFont: Editor-Schriftart
+  autoSaveOff: Aus
+  autoSaveOnFocusChange: Bei Fokusänderung
+  autoSaveOnDelay: Nach Verzögerung
+  autoSaveDelay: Automatische Speicherverzögerung (Sek)
+  author: Autor
+  license: Lizenz
+  close: Schließen
+  slashCommands: Slash-Befehle
+  themeManagement: Themenverwaltung
+  themeManagementDesc: Benutzerdefinierte Themen aus lokalen Dateien importieren
+  themePresets: Voreinstellungen
+  themeCustomProfiles: Benutzerdefinierte Konfigurationen
+  themeNew: Neu
+  themeNewFromPreset: Neues Thema aus aktueller Voreinstellung
+  importTheme: Thema importieren
+  importing: Importieren...
+  themeImportSuccess: Thema erfolgreich importiert
+  themeAlreadyExists: Dieses Thema existiert bereits
+  themeImportFailed: Themenimport fehlgeschlagen
+  deleteTheme: Löschen
+  themeDeleteSuccess: Thema gelöscht
+  themeDeleteFailed: Löschen des Themas fehlgeschlagen
+  duplicateTheme: Theme duplizieren
+  duplicateThemeSuffix: Kopie
+  renameTheme: Umbenennen
+  themeDuplicateSuccess: Thema dupliziert
+  themeDuplicateFailed: Duplizieren des Themas fehlgeschlagen
+  themeStory: Themengeschichte
+  themeEditor: Theme-Editor
+  loadTheme: Thema laden
+  applyPreview: Vorschau anwenden
+  applying: Wird angewendet...
+  themeId: Themen-ID
+  themeName: Themenname
+  themeNamePlaceholder: Themenname eingeben
+  saveAsTheme: Als Thema speichern
+  themePreviewApplied: Themenvorschau angewendet
+  themePreviewFailed: Vorschau fehlgeschlagen
+  themeNameRequired: Bitte geben Sie Themen-ID und -Namen ein
+  themeSaveSuccess: Thema erfolgreich gespeichert
+  themeSaveFailed: Fehler beim Speichern des Themas
+  quickEdit: Schnellbearbeitung
+  codeDisplay: Code-Anzeige
+  activeTheme: Aktives Theme
+  customThemes: Benutzerdefinierte Themes
+  themeEdit: Theme-Bearbeitung
+  cancelPreview: Vorschau abbrechen
+  overwriteThemeConfirm: Sind Sie sicher, dass Sie das Theme "{{name}}" überschreiben möchten?
+  deleteThemeConfirm: Sind Sie sicher, dass Sie das Theme "{{name}}" löschen möchten?
+  exportTheme: Exportieren
+  themeExportSuccess: Theme erfolgreich exportiert
+  themeExportFailed: Fehler beim Exportieren des Themes
+  createCustomTheme: Benutzerdefiniertes Theme erstellen
+  readonlyThemeBanner: Integriertes Theme (schreibgeschützt) — Erstellen Sie eine benutzerdefinierte Kopie zum Bearbeiten
+  group:
+    surface: Oberfläche
+    accents: Akzente
+    feedback: Rückmeldung
+    boundaries: Grenzen
+    charts: Diagramme
+    sidebar: Seitenleiste
+  markdown: Markdown
+  markdownTitle: Markdown-Syntax
+  markdownEmpty: Keine konfigurierbaren Syntax-Funktionen
+  alertTitle: Hinweis
+  alertDesc: Blockquote-Syntax-Erweiterung mit Unterstützung für NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  html-commentTitle: HTML-Kommentare
+  html-commentDesc: <!-- -->-Kommentarblöcke rendern
+  html-inlineTitle: Inline-HTML
+  html-inlineDesc: Inline-HTML-Tags wie <span style>, <kbd>, <abbr> rendern
+  typing-particleTitle: Tipp-Partikel
+  typing-particleDesc: Erzeugt Funkenpartikel an der Cursorposition beim Tippen
+  fileExtensions: Dateierweiterungen
+  fileExtensionsDesc: >-
+    Verwalten Sie, welche Dateitypen in der Dateibaum anklickbar sind. Nicht gelistete Erweiterungen werden deaktiviert
+    angezeigt.
+  fileExtensionsPlaceholder: Erweiterung eingeben (z.B. md)
+  imageStoragePicgo: PicGo Bild-Hosting
+  picgoServerUrl: PicGo-Server-URL
+  picgoServerUrlDesc: Bitte beachten Sie PicGo Server
+  picgoTestConnection: Test
+  picgoConnectionSuccess: PicGo-Verbindung erfolgreich
+  picgoConnectionFailed: PicGo-Verbindung fehlgeschlagen. Bitte prüfen Sie, ob der PicGo-Client ausgeführt wird
+  typingParticles: Tipp-Partikel
+  typingParticlesDesc: Erzeugt Partikel an der Cursorposition beim Tippen
+  particlePreset: Voreinstellung
+  particleCount: Partikelanzahl
+  particleSize: Partikelgröße
+  particleSpeed: Geschwindigkeit
+  particleSpread: Streuung
+  particleGravity: Schwerkraft
+  particleDuration: Dauer
+  particleDirection: Richtung
+  particleDirUp: Aufwärts
+  particleDirDown: Abwärts
+  particleDirRadial: Radial
+  particleDirRandom: Zufällig
+  particleOn: Tipp-Partikel aktivieren
+  particleShape: Form
+  particleShapeCircle: Kreis
+  particleShapeSquare: Quadrat
+  particleShapeStar: Stern
+  particleShapeDiamond: Raute
+  particleShapeTriangle: Dreieck
+  particlePaletteRainbow: Regenbogen
+  particlePaletteWarm: Warm
+  particlePaletteCool: Kalt
+  particlePalettePastel: Pastell
+  particlePaletteNeon: Neon
+  particleColorTheme: Design folgen
+  particleColorFixed: Feste Farbe
+  particleColorRandom: Zufällig
+  particleColor: Farbe
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

@@ -1,0 +1,23 @@
+contextMenu:
+  cut: Вырезать
+  copy: Копировать
+  paste: Вставить
+  delete: Удалить
+  selectAll: Выбрать все
+  insertLink: Вставить ссылку
+  openLink: Открыть ссылку
+  copyLink: Копировать адрес ссылки
+  undo: Отменить
+  redo: Повторить
+  insertTable: Вставить таблицу
+  bold: Жирный
+  cancelBold: Отменить жирный
+  italic: Курсив
+  cancelItalic: Отменить курсив
+  strikethrough: Зачеркнутый
+  cancelStrikethrough: Отменить зачеркнутый
+  inlineCode: Встроенный код
+  cancelInlineCode: Отменить встроенный код
+  copyCode: Копировать код
+  pasteAsPlainText: Вставить как обычный текст
+  copyAsHtml: Копировать как HTML

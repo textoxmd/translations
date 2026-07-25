@@ -1,0 +1,19 @@
+slash:
+  h1: 一級標題
+  h2: 二級標題
+  h3: 三級標題
+  h4: 四級標題
+  h5: 五級標題
+  h6: 六級標題
+  ul: 無序列表
+  ol: 有序列表
+  task: 任務列表
+  code: 程式碼區塊
+  quote: 引用
+  hr: 分隔線
+  table: 表格
+  image: 圖片
+  math: 數學公式
+  mermaid: Mermaid
+  link: 連結
+  noMatch: 無匹配命令

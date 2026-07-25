@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Dateien suchen...
+  searchOutlinePlaceholder: In der Gliederung suchen...
+  noResults: Kein Befehl gefunden
+  file: Datei
+  view: Ansicht
+  insert: Einfügen
+  settings: Einstellungen öffnen
+  outline: Gliederung öffnen
+  newFile: Neue Datei
+  openFile: Datei öffnen
+  openFolder: Ordner öffnen
+  saveFile: Datei speichern
+  toggleSidebar: Seitenleiste umschalten
+  toggleEditMode: Bearbeitungsmodus umschalten
+  toggleTypewriterMode: Schreibmaschinenmodus umschalten
+  insertImage: Bild einfügen
+  openSettings: Einstellungen öffnen
+  noOutline: Keine Gliederung
+  openFileFirst: Bitte zuerst eine Datei öffnen
+  emptyHeading: Leere Überschrift
+  title: Befehlspalette
+  placeholder: Befehl eingeben...
+  edit: Bearbeiten
+  format: Format

@@ -1,0 +1,47 @@
+common:
+  save: सहेजें
+  cancel: रद्द करें
+  confirm: पुष्टि करें
+  delete: हटाएं
+  edit: संपादित करें
+  copy: कॉपी करें
+  paste: पेस्ट करें
+  cut: काटें
+  selectAll: सभी चुनें
+  undo: पूर्ववत करें
+  redo: फिर से करें
+  search: खोजें
+  replace: बदलें
+  settings: सेटिंग्स
+  close: बंद करें
+  open: खोलें
+  new: नया
+  file: फ़ाइल
+  folder: फ़ोल्डर
+  recent: हाल का
+  language: भाषा
+  failed: विफल
+  reset: डिफ़ॉल्ट करें
+  clear: साफ़ करें
+  lock: लॉक करें
+  unlock: अनलॉक करें
+  bold: बोल्ड
+  italic: इटैलिक
+  strikethrough: स्ट्राइकथ्रू
+  underline: रेखांकित
+  inlineCode: इनलाइन कोड
+  highlight: हाइलाइट
+  blockquote: ब्लॉककोट
+  codeBlock: कोड ब्लॉक
+  horizontalRule: क्षैतिज रेखा
+  bulletList: बुलेट सूची
+  orderedList: क्रमांकित सूची
+  taskList: कार्य सूची
+  table: तालिका
+  image: छवि
+  link: लिंक
+  mathBlock: गणित ब्लॉक
+  mermaid: Mermaid आरेख
+  closeToolbar: टूलबार छुपाएं
+  exportPdf: PDF निर्यात करें
+  more: और

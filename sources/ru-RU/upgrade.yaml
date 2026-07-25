@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: Пользовательские темы
+    customParticles: Custom Particle Configs
+    importTheme: Импорт темы
+    autoSave: Автосохранение
+    pdfExport: Экспорт PDF
+  title: Обновить
+  message: «{{feature}}» доступна только в полной версии Textox.
+  confirm: Хотите посмотреть в App Store?
+  banner: Пользовательские темы доступны в полной версии Textox.
+  okLabel: Посмотреть в App Store
+  cancelLabel: Отмена

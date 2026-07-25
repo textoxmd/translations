@@ -1,0 +1,7 @@
+acknowledgments:
+  title: Acknowledgments
+  reset: Reset to Default
+  resetSuccess: Restored to default content
+  contentUpdated: Content updated
+  saveFailed: Failed to save
+  hint: You can edit this file to add your own acknowledgments

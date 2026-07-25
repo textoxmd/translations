@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Giới thiệu Textox
+  preferences: Tùy chọn...
+  quit: Thoát Textox
+  file: Tệp
+  new_window: Cửa sổ mới
+  open: Mở...
+  open_folder: Mở thư mục...
+  open_recent: Mở gần đây
+  no_recent: Không có gần đây
+  clear_recent: Xóa menu
+  windows: Cửa sổ đang mở
+  save: Lưu
+  open_location: Hiển thị trong Finder
+  export: Xuất PDF...
+  saveBeforeExport: Vui lòng lưu tệp trước khi xuất
+  saveBeforeExportPrompt: Tài liệu có thay đổi chưa được lưu. Lưu trước khi xuất?
+  edit: Chỉnh sửa
+  undo: Hoàn tác
+  redo: Làm lại
+  cut: Cắt
+  copy: Sao chép
+  paste: Dán
+  select_all: Chọn tất cả
+  auto_fill: Tự động điền
+  start_dictation: Bắt đầu nhập liệu bằng giọng nói...
+  emoji_symbols: Biểu tượng cảm xúc và ký hiệu
+  paragraph: Đoạn văn
+  heading_1: Tiêu đề 1
+  heading_2: Tiêu đề 2
+  heading_3: Tiêu đề 3
+  heading_4: Tiêu đề 4
+  heading_5: Tiêu đề 5
+  heading_6: Tiêu đề 6
+  bullet_list: Danh sách dấu đầu dòng
+  ordered_list: Danh sách đánh số
+  task_list: Danh sách công việc
+  code_block: Khối mã
+  math_block: Khối toán học
+  blockquote: Khối trích dẫn
+  horizontal_rule: Đường ngang
+  table: Bảng
+  mermaid: Sơ đồ Mermaid
+  footnote: Chú thích cuối trang
+  image: Hình ảnh
+  format: Định dạng
+  bold: In đậm
+  italic: In nghiêng
+  underline: Gạch chân
+  strikethrough: Gạch ngang
+  inline_code: Mã nội tuyến
+  highlight: Đánh dấu
+  clear_formatting: Gạch ngang
+  view: Xem
+  toggle_sidebar: Chuyển đổi thanh bên
+  toggle_edit_mode: Chuyển đổi chế độ chỉnh sửa
+  toggle_typewriter_mode: Chế độ máy đánh chữ
+  window: Cửa sổ
+  minimize: Thu nhỏ
+  zoom: Thu phóng
+  fullscreen: Toàn màn hình
+  center: Căn giữa
+  help: Trợ giúp
+  acknowledgments: Lời cảm ơn
+  changelog: Nhật ký thay đổi
+  privacy: Chính sách bảo mật
+  website: Trang web
+  feedback: Phản hồi
+  export_logs: Xuất nhật ký...
+  auto_save: Tự động lưu
+  newFile: Tệp mới
+  openFile: Mở tệp...
+  openFolder: Mở thư mục...
+  saveAs: Lưu thành...
+  closeFile: Đóng tệp
+  closeWindow: Đóng cửa sổ
+  recentFiles: Tệp gần đây
+  clearRecent: Xóa gần đây
+  noRecentFiles: Không có tệp gần đây
+  selectAll: Chọn tất cả
+  find: Tìm kiếm...
+  replace: Thay thế...
+  toggleSidebar: Chuyển đổi thanh bên
+  toggleOutline: Chuyển đổi dàn bài
+  togglePreview: Chuyển đổi xem trước
+  toggleSourceMode: Chuyển đổi chế độ nguồn
+  fullScreen: Toàn màn hình
+  settings: Cài đặt...
+  checkForUpdates: Kiểm tra cập nhật...

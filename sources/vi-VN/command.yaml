@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Tìm kiếm tệp...
+  searchOutlinePlaceholder: Tìm kiếm trong dàn bài...
+  noResults: Không tìm thấy lệnh
+  file: Tệp
+  view: Xem
+  insert: Chèn
+  settings: Mở cài đặt
+  outline: Mở dàn bài
+  newFile: Tệp mới
+  openFile: Mở tệp
+  openFolder: Mở thư mục
+  saveFile: Lưu tệp
+  toggleSidebar: Chuyển đổi thanh bên
+  toggleEditMode: Chuyển đổi chế độ chỉnh sửa
+  toggleTypewriterMode: Chuyển đổi chế độ máy đánh chữ
+  insertImage: Chèn hình ảnh
+  openSettings: Mở cài đặt
+  noOutline: Không có dàn bài
+  openFileFirst: Vui lòng mở tệp trước
+  emptyHeading: Tiêu đề trống
+  title: Bảng lệnh
+  placeholder: Nhập lệnh...
+  edit: Chỉnh sửa
+  format: Định dạng

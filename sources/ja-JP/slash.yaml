@@ -1,0 +1,19 @@
+slash:
+  h1: 見出し 1
+  h2: 見出し 2
+  h3: 見出し 3
+  h4: 見出し 4
+  h5: 見出し 5
+  h6: 見出し 6
+  ul: 箇条書き
+  ol: 番号付きリスト
+  task: タスクリスト
+  code: コードブロック
+  quote: 引用
+  hr: 水平線
+  table: テーブル
+  image: 画像
+  math: 数式
+  mermaid: Mermaid
+  link: リンク
+  noMatch: 一致するコマンドがありません

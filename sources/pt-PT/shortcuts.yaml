@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: Ficheiro
+  categoryEdit: Editar
+  categoryView: Ver
+  categoryParagraph: Parágrafo
+  categoryFormat: Formato
+  categoryWindow: Janela
+  categoryHelp: Ajuda
+  searchPlaceholder: Procurar atalhos...
+  resetToDefault: Restaurar valores padrão
+  resetConfirm: Tem a certeza de que deseja restaurar todos os atalhos aos valores padrão?
+  conflictWarning: Este atalho entra em conflito com outra função. Continuar?
+  conflictDesc: Este atalho já está a ser utilizado por outra função
+  conflictWith: Conflito com {{action}}
+  conflict: Conflito
+  pressEnterConfirm: Pressione Enter para confirmar
+  pressShortcut: Pressione o atalho...
+  clickToEdit: Clique para editar
+  builtIn: Atalho integrado (apenas leitura)
+  notSet: Não definido
+  clearShortcut: Limpar atalho
+  hint: 'Dica: clique no atalho para editar, pressione Delete para limpar'
+  clickToCopy: Clique para copiar
+  resetToDefaultSingle: Restaurar padrão
+  conflictOverride: Este atalho já está a ser utilizado por "{{actions}}". Forçar substituição?
+  forceOverride: Forçar substituição
+  conflictWithBuiltin: Este atalho está em conflito com uma função integrada e não pode ser utilizado
+  escToCancel: Esc para cancelar
+  pressKeys: Pressione o atalho
+  action:
+    newWindow: Nova janela
+    newWindowDesc: Abrir uma nova janela do editor
+    openFile: Abrir ficheiro
+    openFileDesc: Abrir ficheiro existente
+    saveFile: Guardar ficheiro
+    saveFileDesc: Guardar ficheiro atual
+    toggleSidebar: Alternar barra lateral
+    toggleSidebarDesc: Mostrar ou ocultar barra lateral
+    toggleEditMode: Alternar modo de edição
+    toggleEditModeDesc: Alternar entre modo fonte e WYSIWYG
+    toggleTypewriterMode: Modo máquina de escrever
+    toggleTypewriterModeDesc: No modo máquina de escrever, a linha do cursor permanece centrada
+    openFolder: Abrir pasta
+    openFolderDesc: Abrir uma pasta
+    openFileLocation: Abrir localização do ficheiro
+    openFileLocationDesc: Mostrar o ficheiro atual no gestor de ficheiros
+    heading1: Título 1
+    heading1Desc: Título de nível 1
+    heading2: Título 2
+    heading2Desc: Título de nível 2
+    heading3: Título 3
+    heading3Desc: Título de nível 3
+    heading4: Título 4
+    heading4Desc: Título de nível 4
+    heading5: Título 5
+    heading5Desc: Título de nível 5
+    heading6: Título 6
+    heading6Desc: Título de nível 6
+    bulletList: Lista com marcadores
+    bulletListDesc: Inserir lista com marcadores
+    orderedList: Lista numerada
+    orderedListDesc: Inserir lista numerada
+    taskList: Lista de tarefas
+    taskListDesc: Inserir lista de tarefas
+    codeBlock: Bloco de código
+    codeBlockDesc: Inserir bloco de código
+    mathBlock: Bloco matemático
+    mathBlockDesc: Inserir bloco matemático
+    blockquote: Bloco de citação
+    blockquoteDesc: Inserir bloco de citação
+    horizontalRule: Linha horizontal
+    horizontalRuleDesc: Inserir linha horizontal
+    table: Tabela
+    tableDesc: Inserir tabela
+    mermaid: Diagrama Mermaid
+    mermaidDesc: Inserir diagrama Mermaid
+    footnote: Nota de rodapé
+    footnoteDesc: Inserir nota de rodapé
+    image: Imagem
+    imageDesc: Inserir imagem
+    minimize: Minimizar
+    minimizeDesc: Minimizar a janela
+    zoom: Zoom
+    zoomDesc: Ampliar a janela
+    fullscreen: Ecrã inteiro
+    fullscreenDesc: Alternar modo de ecrã inteiro
+    center: Centrar
+    centerDesc: Centrar a janela
+    undo: Anular
+    undoDesc: Anular a última ação
+    redo: Refazer
+    redoDesc: Refazer a última ação anulada
+    redoAlt: Refazer (alternativo)
+    redoAltDesc: Refazer a última ação anulada (alternativo)
+    selectLine: Selecionar linha
+    selectLineDesc: Selecionar todo o conteúdo da linha atual
+    toggleUnderline: Alternar sublinhado
+    toggleUnderlineDesc: Adicionar ou remover sublinhado no texto selecionado
+    toggleBold: Alternar negrito
+    toggleBoldDesc: Adicionar ou remover negrito no texto selecionado
+    commandPalette: Paleta de comandos
+    commandPaletteDesc: Abrir a paleta de comandos para executar ações rapidamente
+    cut: Cortar
+    cutDesc: Cortar o conteúdo selecionado para a área de transferência
+    copy: Copiar
+    copyDesc: Copiar o conteúdo selecionado para a área de transferência
+    paste: Colar
+    pasteDesc: Colar conteúdo da área de transferência
+    selectAll: Selecionar tudo
+    selectAllDesc: Selecionar todo o conteúdo do documento atual
+  title: Atalhos
+  file: Ficheiro
+  newFile: Novo ficheiro
+  openFile: Abrir ficheiro
+  save: Guardar
+  saveAs: Guardar como
+  edit: Editar
+  undo: Desfazer
+  redo: Refazer
+  cut: Cortar
+  copy: Copiar
+  paste: Colar
+  selectAll: Selecionar tudo
+  find: Procurar
+  replace: Substituir
+  view: Ver
+  toggleSidebar: Alternar barra lateral
+  toggleOutline: Alternar esboço
+  togglePreview: Alternar pré-visualização
+  format: Formato
+  bold: Negrito
+  italic: Itálico
+  strikethrough: Rasurado
+  inlineCode: Código inline
+  heading: Título
+  bulletList: Lista com marcadores
+  orderedList: Lista numerada
+  blockquote: Bloco de citação
+  codeBlock: Bloco de código
+  horizontalRule: Linha horizontal
+  link: Link
+  image: Imagem
+  table: Tabela
+  taskList: Lista de tarefas

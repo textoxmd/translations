@@ -1,0 +1,25 @@
+editor:
+  placeholder: 开始输入...
+  heading: 标题
+  bold: 粗体
+  italic: 斜体
+  underline: 下划线
+  strikethrough: 删除线
+  code: 行内代码
+  codeBlock: 代码块
+  blockquote: 引用块
+  bulletList: 无序列表
+  orderedList: 有序列表
+  taskList: 任务列表
+  horizontalRule: 分割线
+  link: 链接
+  image: 图片
+  table: 表格
+  math: 数学公式
+  inlineMath: 行内公式
+  mermaid: Mermaid 图表
+  footnote: 脚注
+  insert: 插入
+  format: 格式
+  openLinkVisit: 前往
+  openLinkTitle: 外部链接

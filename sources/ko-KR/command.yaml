@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: 파일 검색...
+  searchOutlinePlaceholder: 개요 검색...
+  noResults: 명령을 찾을 수 없음
+  file: 파일
+  view: 보기
+  insert: 삽입
+  settings: 설정 열기
+  outline: 개요 열기
+  newFile: 새 파일
+  openFile: 파일 열기
+  openFolder: 폴더 열기
+  saveFile: 파일 저장
+  toggleSidebar: 사이드바 전환
+  toggleEditMode: 편집 모드 전환
+  toggleTypewriterMode: 타자기 모드 전환
+  insertImage: 이미지 삽입
+  openSettings: 설정 열기
+  noOutline: 개요 없음
+  openFileFirst: 먼저 파일을 열어주세요
+  emptyHeading: 빈 제목
+  title: 명령 팔레트
+  placeholder: 명령 입력...
+  edit: 편집
+  format: 서식

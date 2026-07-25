@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: Chủ đề tùy chỉnh
+    customParticles: Custom Particle Configs
+    importTheme: Nhập chủ đề
+    autoSave: Tự động lưu
+    pdfExport: Xuất PDF
+  title: Nâng cấp
+  message: '"{{feature}}" chỉ khả dụng trong phiên bản đầy đủ của Textox.'
+  confirm: Bạn có muốn xem trên App Store không?
+  banner: Chủ đề tùy chỉnh có sẵn trong phiên bản đầy đủ của Textox.
+  okLabel: Xem trên App Store
+  cancelLabel: Hủy

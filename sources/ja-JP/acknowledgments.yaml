@@ -1,0 +1,7 @@
+acknowledgments:
+  title: 謝辞
+  reset: デフォルトに戻す
+  resetSuccess: デフォルトの内容に戻しました
+  contentUpdated: 内容が更新されました
+  saveFailed: 保存に失敗しました
+  hint: このファイルを編集して、独自の謝辞を追加できます

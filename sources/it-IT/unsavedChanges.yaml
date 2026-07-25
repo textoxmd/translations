@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: Modifiche non salvate
+  closeUnsavedTitle: Chiudi file non salvato
+  message: '"{{fileName}}" ha modifiche non salvate. Vuoi salvarle?'
+  closeUnsavedMessage: Il file corrente ha modifiche non salvate. Vuoi salvarle?
+  simpleMessage: Hai modifiche non salvate. Vuoi salvarle?
+  confirmExit: Sei sicuro di voler uscire? Le modifiche non salvate andranno perse.
+  confirmClose: Sei sicuro di voler chiudere? Le modifiche non salvate andranno perse.
+  save: Salva
+  dontSave: Non salvare
+  cancel: Annulla
+  untitledFile: File senza titolo

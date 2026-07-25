@@ -1,0 +1,19 @@
+slash:
+  h1: 一级标题
+  h2: 二级标题
+  h3: 三级标题
+  h4: 四级标题
+  h5: 五级标题
+  h6: 六级标题
+  ul: 无序列表
+  ol: 有序列表
+  task: 任务列表
+  code: 代码块
+  quote: 引用
+  hr: 分割线
+  table: 表格
+  image: 图片
+  math: 数学公式
+  mermaid: Mermaid
+  link: 链接
+  noMatch: 无匹配命令

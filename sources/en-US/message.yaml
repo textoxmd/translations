@@ -1,0 +1,15 @@
+message:
+  linkCopied: Link copied to clipboard
+  codeCopied: Code copied to clipboard
+  saveSuccess: Save successful
+  saveFailed: Save failed
+  imageUploadSuccess: Image uploaded successfully
+  imageUploadFailed: Image upload failed
+  imageInsertNotAllowed: Please save the file before inserting images
+  imageInsertNotAllowedSingleFile: Cannot insert images in single-file mode. Please open a folder first.
+  imageInsertFailed: Failed to insert image
+  imageUploading: Uploading image to hosting…
+  recentFileNotFound: Recent file not found, record cleared
+  recentFolderNotFound: Recent folder not found, record cleared
+  typewriterEnabled: Typewriter mode enabled
+  typewriterDisabled: Typewriter mode disabled

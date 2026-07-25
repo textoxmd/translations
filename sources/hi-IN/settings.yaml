@@ -1,0 +1,267 @@
+settings:
+  title: सेटिंग्स
+  editor: संपादक
+  personalization: टाइपिंग इफेक्ट्स
+  shortcuts: शॉर्टकट
+  about: के बारे में
+  editorFontFamily: संपादक फ़ॉन्ट
+  editorFontFamilyDesc: संपादक टेक्स्ट के लिए फ़ॉन्ट सेट करें
+  editorFontSize: संपादक फ़ॉन्ट आकार
+  editorFontSizeDesc: संपादक में फ़ॉन्ट आकार समायोजित करें
+  autoSave: स्वचालित सहेजना
+  autoSaveDesc: फाइलों के स्वचालित सहेजने की आवृत्ति
+  autoCapitalize: स्वतः बड़े अक्षर
+  showWordCount: शब्द गणना दिखाएं
+  showWordCountDesc: संपादक के निचले-दाएं कोने में एक फ्लोटिंग शब्द गणना बैज दिखाएं
+  showEditorToolbar: फ़ॉर्मेटिंग टूलबार दिखाएं
+  showEditorToolbarDesc: संपादक के शीर्ष पर फ़ॉर्मेटिंग टूलबार दिखाएं
+  typewriterMode: टाइपराइटर मोड
+  typewriterModeDesc: टाइपराइटर मोड में कर्सर लाइन स्क्रीन के केंद्र में रहती है, केंद्रित लेखन अनुभव के लिए
+  autoCapitalizeDesc: अंग्रेजी वाक्यों के पहले अक्षर को स्वतः बड़े अक्षरों में बदलें (बेहतर Markdown संपादन के लिए बंद करें)
+  externalFileChangeAction: बाहरी फाइल परिवर्तन पर कार्रवाई
+  externalFileChangeActionDesc: जब फाइल को बाहरी प्रोग्राम द्वारा संशोधित किया जाता है तो कैसे संभालें
+  externalFileChangeIgnore: अनदेखा करें
+  externalFileChangeSilent: स्वचालित रूप से पुनः लोड करें
+  externalFileChangePrompt: पूछें
+  codeBlockWordWrap: कोड ब्लॉक स्वचालित लाइन रैप
+  codeBlockWordWrapDesc: कोड ब्लॉक में स्वचालित लाइन रैप सक्षम करें
+  codeBlockWordWrapTooltip: सक्षम होने पर, कोड ब्लॉक में लंबी पंक्तियाँ स्वचालित रूप से लपेट जाएंगी
+  showLineNumbers: लाइन नंबर दिखाएं
+  showLineNumbersDesc: स्रोत कोड संपादक में लाइन नंबर दिखाएं
+  showLineNumbersTooltip: सक्षम होने पर, लाइन नंबर स्रोत कोड संपादक के बाईं ओर प्रदर्शित होते हैं
+  codeEditorThemeLight: कोड ब्लॉक थीम (हल्की)
+  codeEditorThemeLightDesc: हल्के मोड में कोड ब्लॉक संपादक के लिए थीम शैली चुनें
+  codeEditorThemeDark: कोड ब्लॉक थीम (गहरी)
+  codeEditorThemeDarkDesc: गहरे मोड में कोड ब्लॉक संपादक के लिए थीम शैली चुनें
+  sourceCodeThemeLight: सोर्स कोड थीम (हल्की)
+  sourceCodeThemeLightDesc: हल्के मोड में सोर्स कोड संपादक के लिए थीम शैली चुनें
+  sourceCodeThemeDark: सोर्स कोड थीम (गहरी)
+  sourceCodeThemeDarkDesc: गहरे मोड में सोर्स कोड संपादक के लिए थीम शैली चुनें
+  syncEditorBg: एडिटर बैकग्राउंड का उपयोग करें
+  syncEditorBgDesc: सक्षम होने पर, स्रोत कोड संपादक एकीकृत रूप के लिए थीम पृष्ठभूमि के बजाय संपादक पृष्ठभूमि रंग का उपयोग करेगा
+  sidebarPosition: साइडबार की स्थिति
+  sidebarPositionDesc: सेट करें कि साइडबार बाईं या दाईं ओर प्रदर्शित होता है
+  left: बाईं ओर
+  right: दाईं ओर
+  breatheColor: सांस लेने का रंग
+  breatheColorDesc: शीर्षकों के लिए गतिशील सांस लेने के रंग प्रभाव को सक्षम करें
+  highlightColor: हाइलाइट रंग
+  highlightColorDesc: हाइलाइट किए गए टेक्स्ट के लिए पृष्ठभूमि रंग चुनें
+  highlightColorYellow: पीला
+  highlightColorGreen: हरा
+  highlightColorBlue: नीला
+  highlightColorPink: गुलाबी
+  highlightColorOrange: नारंगी
+  highlightColorPurple: बैंगनी
+  colorTheme: रंग थीम
+  colorThemeDesc: एप्लिकेशन का रंग थीम चुनें
+  colorThemeDefault: डिफ़ॉल्ट
+  colorThemePastel: चेरी
+  colorThemeSpring: वसंत
+  colorThemePastelStory: >-
+    IKEA के GRÅVITS फूलदान से प्रेरित होकर, मुझे Typora समुदाय में phycat से मिलने का सौभाग्य मिला। चेरी ब्लॉसम की तरह
+    हल्के, कोमल रंग और आरामदायक, गर्म माहौल बिल्कुल वैसा ही था जैसा मैंने कल्पना किया था। मूल रंगों में परत-दर-परत सुधार
+    और अनुकूलन के बाद, यह Textox के लिए एक नरम, सुखदायक और आरामदायक लेखन अनुभव बन गया।
+  colorThemeSpringStory: >-
+    वसंत शुरुआत और उम्मीद का प्रतीक है। 2026 के वसंत में Textox लॉन्च हुआ, जो परियोजना के लिए एक यादगार समय है। जिंग्जे
+    थीम में कोमल, साफ हरी पादप रंगों का उपयोग किया गया है, जो प्रकृति के वसंत जागरण की भावना को दर्शाते हैं। Textox के
+    लिए अनुकूलित और समायोजित, यह हर लेखन सत्र को वसंत की सुबह की ताज़ा और हल्की अनुभूति प्रदान करता है।
+  appearance: उपस्थिति
+  appearanceDesc: एप्लिकेशन की उपस्थिति अनुकूलित करें
+  appearanceLight: हल्का
+  appearanceDark: गहरा
+  appearanceSystem: सिस्टम का पालन करें
+  languageDesc: अपनी पसंदीदा भाषा चुनें
+  shortcutsConfig: शॉर्टकट कॉन्फ़िगरेशन
+  version: संस्करण
+  features: सुविधाएं
+  privacy: गोपनीयता
+  allRightsReserved: सर्वाधिकार सुरक्षित
+  imageStorage: छवि भंडारण
+  imageStorageMode: छवि भंडारण मोड
+  imageStorageModeDesc: छवियों के भंडारण स्थान का चयन करें
+  imageStorageAppData: एप्लिकेशन डेटा
+  imageStorageAlongside: दस्तावेज़ के समान स्थान
+  imageStorageCustom: कस्टम पथ
+  imageFolderName: छवि फ़ोल्डर का नाम
+  imageFolderNameDesc: 'छवि फ़ोल्डर का नाम (डिफ़ॉल्ट: images)'
+  imageStoragePath: छवि भंडारण पथ
+  imageStoragePathDesc: छवि का कस्टम भंडारण पथ
+  selectImageStoragePath: छवि भंडारण पथ चुनें
+  imageAggregationMode: छवि एकत्रीकरण मोड
+  imageAggregationModeDesc: छवि फाइलों को कैसे व्यवस्थित करें
+  imageAggregationNone: वर्गीकृत न करें
+  imageAggregationByDocument: दस्तावेज़ के अनुसार वर्गीकृत करें
+  imageAggregationByDate: तिथि के अनुसार वर्गीकृत करें
+  imageDateFormat: छवि दिनांक प्रारूप
+  imageDateFormatDesc: तिथि के अनुसार वर्गीकृत करते समय उपयोग किया जाने वाला दिनांक प्रारूप
+  invalidImagePath: अमान्य छवि पथ
+  invalidImagePathDesc: कृपया एक मान्य फ़ोल्डर पथ चुनें
+  imagePathSet: छवि पथ सेट कर दिया गया है
+  failedToSetImagePath: छवि पथ सेट करने में विफल
+  fontFamily: फ़ॉन्ट
+  fontFamilyDesc: संपादक फ़ॉन्ट चुनें
+  fontSystemDefault: सिस्टम डिफ़ॉल्ट
+  fontMono: मोनोस्पेस फ़ॉन्ट
+  fontSampleText: Aa हिन्दी
+  windowSize: विंडो आकार
+  windowSizeDesc: संपादक विंडो के डिफ़ॉल्ट आकार को समायोजित करें
+  resetSettings: सेटिंग्स रीसेट करें
+  resetToDefault: डिफ़ॉल्ट मान पुनर्स्थापित करें
+  resetToDefaultDesc: सभी सेटिंग्स को डिफ़ॉल्ट मानों पर पुनर्स्थापित करें
+  resetButton: रीसेट
+  resetConfirm: क्या आप सुनिश्चित हैं कि आप सभी सेटिंग्स रीसेट करना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता है।
+  resetSuccess: सेटिंग्स रीसेट कर दी गई हैं
+  resetFailed: रीसेट विफल
+  acknowledgments: आभार
+  acknowledgmentsSubtitle: निम्नलिखित ओपन सोर्स परियोजनाओं को धन्यवाद
+  thanksMessage: Textox का उपयोग करने के लिए धन्यवाद!
+  theme: थीम
+  themeSystem: सिस्टम का पालन करें
+  themeLight: हल्का
+  themeDark: गहरा
+  language: भाषा
+  interfaceFont: इंटरफ़ेस फ़ॉन्ट
+  editorFont: संपादक फ़ॉन्ट
+  autoSaveOff: बंद
+  autoSaveOnFocusChange: फोकस बदलने पर
+  autoSaveOnDelay: विलंब के बाद
+  autoSaveDelay: स्वचालित सहेजने में देरी (सेकंड)
+  author: लेखक
+  license: लाइसेंस
+  close: बंद करें
+  slashCommands: स्लैश कमांड
+  themeManagement: थीम प्रबंधन
+  themeManagementDesc: स्थानीय फ़ाइलों से कस्टम थीम आयात करें
+  themePresets: प्रीसेट
+  themeCustomProfiles: कस्टम कॉन्फ़िग
+  themeNew: नया
+  themeNewFromPreset: वर्तमान प्रीसेट से नई थीम
+  importTheme: थीम आयात करें
+  importing: आयात हो रहा है...
+  themeImportSuccess: थीम सफलतापूर्वक आयात किया गया
+  themeAlreadyExists: यह थीम पहले से मौजूद है
+  themeImportFailed: थीम आयात विफल
+  deleteTheme: हटाएं
+  themeDeleteSuccess: थीम हटा दिया गया
+  themeDeleteFailed: थीम हटाने में विफल
+  duplicateTheme: थीम डुप्लिकेट करें
+  duplicateThemeSuffix: प्रति
+  renameTheme: नाम बदलें
+  themeDuplicateSuccess: थीम डुप्लीकेट हो गया
+  themeDuplicateFailed: थीम डुप्लीकेट करने में विफल
+  themeStory: थीम की कहानी
+  themeEditor: थीम संपादक
+  loadTheme: थीम लोड करें
+  applyPreview: पूर्वावलोकन लागू करें
+  applying: लागू किया जा रहा है...
+  themeId: थीम ID
+  themeName: थीम का नाम
+  themeNamePlaceholder: थीम का नाम दर्ज करें
+  saveAsTheme: थीम के रूप में सहेजें
+  themePreviewApplied: थीम पूर्वावलोकन लागू किया गया
+  themePreviewFailed: पूर्वावलोकन विफल
+  themeNameRequired: कृपया थीम ID और नाम दर्ज करें
+  themeSaveSuccess: थीम सफलतापूर्वक सहेजी गई
+  themeSaveFailed: थीम सहेजने में विफल
+  quickEdit: त्वरित संपादन
+  codeDisplay: कोड प्रदर्शन
+  activeTheme: सक्रिय थीम
+  customThemes: कस्टम थीम
+  themeEdit: थीम संपादन
+  cancelPreview: पूर्वावलोकन रद्द करें
+  overwriteThemeConfirm: क्या आप वाकई थीम "{{name}}" को ओवरराइट करना चाहते हैं?
+  deleteThemeConfirm: क्या आप वाकई थीम "{{name}}" को हटाना चाहते हैं?
+  exportTheme: निर्यात
+  themeExportSuccess: थीम सफलतापूर्वक निर्यात हुई
+  themeExportFailed: थीम निर्यात विफल
+  createCustomTheme: कस्टम थीम बनाएं
+  readonlyThemeBanner: अंतर्निहित थीम (केवल पढ़ने योग्य) — संपादित करने के लिए कस्टम कॉपी बनाएं
+  group:
+    surface: सतह
+    accents: उच्चारण
+    feedback: प्रतिक्रिया
+    boundaries: सीमाएँ
+    charts: चार्ट
+    sidebar: साइडबार
+  markdown: Markdown
+  markdownTitle: Markdown सिंटैक्स
+  markdownEmpty: कोई कॉन्फ़िगर करने योग्य सिंटैक्स सुविधाएँ नहीं
+  alertTitle: अलर्ट
+  alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है
+  html-commentTitle: HTML टिप्पणियाँ
+  html-commentDesc: <!-- --> टिप्पणी ब्लॉक प्रस्तुत करें
+  html-inlineTitle: इनलाइन HTML
+  html-inlineDesc: <span style>, <kbd>, <abbr> जैसे इनलाइन HTML टैग प्रस्तुत करें
+  typing-particleTitle: टाइपिंग पार्टिकल्स
+  typing-particleDesc: टाइप करते समय कर्सर स्थिति से स्पार्क कण उत्सर्जित करें
+  fileExtensions: फ़ाइल एक्सटेंशन
+  fileExtensionsDesc: >-
+    फ़ाइल ट्री में क्लिक करने योग्य फ़ाइल प्रकारों को प्रबंधित करें। सूची में नहीं होने वाले एक्सटेंशन अक्षम के रूप में
+    दिखाए जाएंगे।
+  fileExtensionsPlaceholder: एक्सटेंशन दर्ज करें (जैसे md)
+  imageStoragePicgo: PicGo इमेज होस्टिंग
+  picgoServerUrl: PicGo सर्वर URL
+  picgoServerUrlDesc: कृपया PicGo Server देखें
+  picgoTestConnection: जांचें
+  picgoConnectionSuccess: PicGo से कनेक्शन सफल
+  picgoConnectionFailed: PicGo कनेक्शन विफल. कृपया जांचें कि PicGo क्लाइंट चल रहा है या नहीं
+  typingParticles: टाइपिंग पार्टिकल्स
+  typingParticlesDesc: टाइप करते समय कर्सर स्थिति से कण उत्सर्जित करें
+  particlePreset: प्रीसेट
+  particleCount: कणों की संख्या
+  particleSize: कण का आकार
+  particleSpeed: गति
+  particleSpread: फैलाव
+  particleGravity: गुरुत्वाकर्षण
+  particleDuration: अवधि
+  particleDirection: दिशा
+  particleDirUp: ऊपर
+  particleDirDown: नीचे
+  particleDirRadial: रेडियल
+  particleDirRandom: यादृच्छिक
+  particleOn: टाइपिंग पार्टिकल्स सक्षम करें
+  particleShape: आकार
+  particleShapeCircle: वृत्त
+  particleShapeSquare: वर्ग
+  particleShapeStar: तारा
+  particleShapeDiamond: हीरा
+  particleShapeTriangle: त्रिकोण
+  particlePaletteRainbow: इंद्रधनुष
+  particlePaletteWarm: गर्म
+  particlePaletteCool: ठंडा
+  particlePalettePastel: पेस्टल
+  particlePaletteNeon: नियॉन
+  particleColorTheme: थीम का पालन करें
+  particleColorFixed: निश्चित रंग
+  particleColorRandom: यादृच्छिक
+  particleColor: रंग
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

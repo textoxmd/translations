@@ -1,0 +1,15 @@
+message:
+  linkCopied: تم نسخ الرابط إلى الحافظة
+  codeCopied: تم نسخ الكود إلى الحافظة
+  saveSuccess: تم الحفظ بنجاح
+  saveFailed: فشل الحفظ
+  imageUploadSuccess: تم رفع الصورة بنجاح
+  imageUploadFailed: فشل رفع الصورة
+  imageInsertNotAllowed: يرجى حفظ الملف قبل إدراج الصور
+  imageInsertNotAllowedSingleFile: لا يمكن إدراج الصور في وضع الملف الفردي. يرجى فتح مجلد أولاً
+  imageInsertFailed: فشل إدراج الصورة
+  imageUploading: جارٍ رفع الصورة إلى الاستضافة…
+  recentFileNotFound: الملف الأخير غير موجود، تم مسح السجل
+  recentFolderNotFound: المجلد الأخير غير موجود، تم مسح السجل
+  typewriterEnabled: تم تمكين وضع الآلة الكاتبة
+  typewriterDisabled: تم تعطيل وضع الآلة الكاتبة

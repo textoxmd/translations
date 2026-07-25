@@ -1,0 +1,20 @@
+directoryTree:
+  title: Files
+  newFile: New File
+  newFolder: New Folder
+  rename: Rename
+  delete: Delete
+  loading: Loading...
+  newFileDefaultName: New File.md
+  newFolderDefaultName: New Folder
+  selectedCount: '{{count}} items selected'
+  notOpenable: Not configured as an openable file type
+  deleteConfirmTitle: Are you sure you want to delete "{{name}}" and its contents?
+  deleteConfirmTitleFile: Are you sure you want to delete "{{name}}"?
+  deleteConfirmMultiple: Are you sure you want to delete these {{count}} items?
+  deleteConfirmRecoveryHint: You can restore this item from the Trash.
+  deleteConfirmDontAskAgain: Don't ask again
+  deleteConfirmMoveToTrash: Move to Trash
+  showInFinder: Show in Finder
+  dragToResize: Drag to resize
+  closeFile: Close file

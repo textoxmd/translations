@@ -1,0 +1,7 @@
+dialog:
+  selectFolder: Ordner auswählen
+  fileModifiedTitle: Datei geändert
+  fileModifiedDesc: >-
+    Diese Datei wurde an anderer Stelle geändert. Sie können neu laden, um den aktuellsten Inhalt zu laden, oder die
+    aktuelle Version weiter bearbeiten (kann zu Inhaltskonflikten führen).
+  fileModifiedReload: Neu laden

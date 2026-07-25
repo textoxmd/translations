@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: Temas personalizados
+    customParticles: Custom Particle Configs
+    importTheme: Importar tema
+    autoSave: Guardado automático
+    pdfExport: Exportar PDF
+  title: Actualizar
+  message: '"{{feature}}" solo está disponible en la versión completa de Textox.'
+  confirm: ¿Quieres verlo en el App Store?
+  banner: Los temas personalizados están disponibles en la versión completa de Textox.
+  okLabel: Ver en App Store
+  cancelLabel: Cancelar

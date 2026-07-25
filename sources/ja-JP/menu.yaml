@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Textox について
+  preferences: 環境設定...
+  quit: Textox を終了
+  file: ファイル
+  new_window: 新規ウィンドウ
+  open: 開く...
+  open_folder: フォルダを開く...
+  open_recent: 最近使用した項目を開く
+  no_recent: 最近使用した項目はありません
+  clear_recent: メニューをクリア
+  windows: 開いているウィンドウ
+  save: 保存
+  open_location: Finder で表示
+  export: PDF に書き出し...
+  saveBeforeExport: 書き出す前にファイルを保存してください
+  saveBeforeExportPrompt: 文書に未保存の変更があります。保存してから書き出しますか？
+  edit: 編集
+  undo: 元に戻す
+  redo: やり直し
+  cut: 切り取り
+  copy: コピー
+  paste: 貼り付け
+  select_all: すべて選択
+  auto_fill: 自動入力
+  start_dictation: 音声入力を開始...
+  emoji_symbols: 絵文字と記号
+  paragraph: 段落
+  heading_1: 見出し 1
+  heading_2: 見出し 2
+  heading_3: 見出し 3
+  heading_4: 見出し 4
+  heading_5: 見出し 5
+  heading_6: 見出し 6
+  bullet_list: 箇条書きリスト
+  ordered_list: 番号付きリスト
+  task_list: タスクリスト
+  code_block: コードブロック
+  math_block: 数式ブロック
+  blockquote: 引用ブロック
+  horizontal_rule: 水平線
+  table: 表
+  mermaid: Mermaid ダイアグラム
+  footnote: 脚注
+  image: 画像
+  format: 書式
+  bold: 太字
+  italic: 斜体
+  underline: 下線
+  strikethrough: 取り消し線
+  inline_code: インラインコード
+  highlight: ハイライト
+  clear_formatting: 取り消し線
+  view: 表示
+  toggle_sidebar: サイドバーの切り替え
+  toggle_edit_mode: 編集モードの切り替え
+  toggle_typewriter_mode: タイプライターモード
+  window: ウィンドウ
+  minimize: 最小化
+  zoom: ズーム
+  fullscreen: 全画面
+  center: 中央揃え
+  help: ヘルプ
+  acknowledgments: 謝辞
+  changelog: 変更履歴
+  privacy: プライバシーポリシー
+  website: ウェブサイト
+  feedback: フィードバック
+  export_logs: ログを書き出し...
+  auto_save: 自動保存
+  newFile: 新規ファイル
+  openFile: ファイルを開く...
+  openFolder: フォルダを開く...
+  saveAs: 名前を付けて保存...
+  closeFile: ファイルを閉じる
+  closeWindow: ウィンドウを閉じる
+  recentFiles: 最近開いたファイル
+  clearRecent: 最近の項目をクリア
+  noRecentFiles: 最近開いたファイルはありません
+  selectAll: すべて選択
+  find: 検索...
+  replace: 置換...
+  toggleSidebar: サイドバーの切り替え
+  toggleOutline: アウトラインの切り替え
+  togglePreview: プレビューの切り替え
+  toggleSourceMode: ソースモードの切り替え
+  fullScreen: 全画面
+  settings: 設定...
+  checkForUpdates: 更新を確認...

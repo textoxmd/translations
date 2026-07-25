@@ -1,0 +1,23 @@
+contextMenu:
+  cut: 잘라내기
+  copy: 복사
+  paste: 붙여넣기
+  delete: 삭제
+  selectAll: 모두 선택
+  insertLink: 링크 삽입
+  openLink: 링크 열기
+  copyLink: 링크 주소 복사
+  undo: 실행 취소
+  redo: 다시 실행
+  insertTable: 표 삽입
+  bold: 굵게
+  cancelBold: 굵게 취소
+  italic: 기울임
+  cancelItalic: 기울임 취소
+  strikethrough: 취소선
+  cancelStrikethrough: 취소선 취소
+  inlineCode: 인라인 코드
+  cancelInlineCode: 인라인 코드 취소
+  copyCode: 코드 복사
+  pasteAsPlainText: 일반 텍스트로 붙여넣기
+  copyAsHtml: HTML로 복사

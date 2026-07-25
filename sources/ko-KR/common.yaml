@@ -1,0 +1,47 @@
+common:
+  save: 저장
+  cancel: 취소
+  confirm: 확인
+  delete: 삭제
+  edit: 편집
+  copy: 복사
+  paste: 붙여넣기
+  cut: 잘라내기
+  selectAll: 모두 선택
+  undo: 실행 취소
+  redo: 다시 실행
+  search: 검색
+  replace: 바꾸기
+  settings: 설정
+  close: 닫기
+  open: 열기
+  new: 새로 만들기
+  file: 파일
+  folder: 폴더
+  recent: 최근
+  language: 언어
+  failed: 실패
+  reset: 기본값으로 복원
+  clear: 지우기
+  lock: 잠금
+  unlock: 잠금 해제
+  bold: 굵게
+  italic: 기울임
+  strikethrough: 취소선
+  underline: 밑줄
+  inlineCode: 인라인 코드
+  highlight: 강조 표시
+  blockquote: 인용
+  codeBlock: 코드 블록
+  horizontalRule: 수평선
+  bulletList: 글머리 기호 목록
+  orderedList: 번호 매기기 목록
+  taskList: 작업 목록
+  table: 표
+  image: 이미지
+  link: 링크
+  mathBlock: 수식 블록
+  mermaid: Mermaid 다이어그램
+  closeToolbar: 도구 모음 숨기기
+  exportPdf: PDF 내보내기
+  more: 더보기

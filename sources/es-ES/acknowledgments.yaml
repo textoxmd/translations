@@ -1,0 +1,7 @@
+acknowledgments:
+  title: Agradecimientos
+  reset: Restablecer predeterminado
+  resetSuccess: Contenido predeterminado restaurado
+  contentUpdated: Contenido actualizado
+  saveFailed: Error al guardar
+  hint: Puede editar este archivo para agregar sus propios agradecimientos

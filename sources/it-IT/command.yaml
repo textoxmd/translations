@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Cerca file...
+  searchOutlinePlaceholder: Cerca nella struttura...
+  noResults: Nessun comando trovato
+  file: File
+  view: Vista
+  insert: Inserisci
+  settings: Apri impostazioni
+  outline: Apri struttura
+  newFile: Nuovo file
+  openFile: Apri file
+  openFolder: Apri cartella
+  saveFile: Salva file
+  toggleSidebar: Attiva/disattiva barra laterale
+  toggleEditMode: Attiva/disattiva modalità modifica
+  toggleTypewriterMode: Attiva/disattiva modalità macchina da scrivere
+  insertImage: Inserisci immagine
+  openSettings: Apri impostazioni
+  noOutline: Nessuna struttura
+  openFileFirst: Si prega di aprire prima un file
+  emptyHeading: Intestazione vuota
+  title: Tavolozza comandi
+  placeholder: Digita comando...
+  edit: Modifica
+  format: Formato

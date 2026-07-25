@@ -1,0 +1,25 @@
+editor:
+  placeholder: 入力を開始...
+  heading: 見出し
+  bold: 太字
+  italic: 斜体
+  underline: 下線
+  strikethrough: 取り消し線
+  code: インラインコード
+  codeBlock: コードブロック
+  blockquote: 引用ブロック
+  bulletList: 箇条書きリスト
+  orderedList: 番号付きリスト
+  taskList: タスクリスト
+  horizontalRule: 水平線
+  link: リンク
+  image: 画像
+  table: 表
+  math: 数式ブロック
+  inlineMath: インライン数式
+  mermaid: Mermaid ダイアグラム
+  footnote: 脚注
+  insert: 挿入
+  format: 書式
+  openLinkVisit: 移動
+  openLinkTitle: 外部リンク

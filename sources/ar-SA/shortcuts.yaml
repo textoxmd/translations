@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: ملف
+  categoryEdit: تحرير
+  categoryView: عرض
+  categoryParagraph: فقرة
+  categoryFormat: تنسيق
+  categoryWindow: نافذة
+  categoryHelp: مساعدة
+  searchPlaceholder: البحث في الاختصارات...
+  resetToDefault: استعادة القيم الافتراضية
+  resetConfirm: هل أنت متأكد من أنك تريد استعادة جميع الاختصارات إلى القيم الافتراضية؟
+  conflictWarning: هذا الاختصار يتعارض مع وظيفة أخرى. هل تريد المتابعة؟
+  conflictDesc: هذا الاختصار مستخدم بالفعل بوظيفة أخرى
+  conflictWith: تعارض مع {{action}}
+  conflict: تعارض
+  pressEnterConfirm: اضغط على Enter للتأكيد
+  pressShortcut: اضغط على الاختصار...
+  clickToEdit: انقر للتحرير
+  builtIn: اختصار مدمج (للقراءة فقط)
+  notSet: غير محدد
+  clearShortcut: مسح الاختصار
+  hint: 'تلميح: انقر على الاختصار للتحرير، اضغط على Delete للمسح'
+  clickToCopy: انقر للنسخ
+  resetToDefaultSingle: إعادة تعيين إلى الافتراضي
+  conflictOverride: هذا الاختصار مستخدم بالفعل بواسطة "{{actions}}". هل تريد الكتابة فوقه؟
+  forceOverride: الكتابة فوق بالقوة
+  conflictWithBuiltin: هذا الاختصار يتعارض مع وظيفة مدمجة ولا يمكن استخدامه
+  escToCancel: Esc للإلغاء
+  pressKeys: اضغط على الاختصار
+  action:
+    newWindow: نافذة جديدة
+    newWindowDesc: فتح نافذة محرر جديدة
+    openFile: فتح ملف
+    openFileDesc: فتح ملف موجود
+    saveFile: حفظ الملف
+    saveFileDesc: حفظ الملف الحالي
+    toggleSidebar: تبديل الشريط الجانبي
+    toggleSidebarDesc: إظهار أو إخفاء الشريط الجانبي
+    toggleEditMode: تبديل وضع التحرير
+    toggleEditModeDesc: التبديل بين وضع المصدر و WYSIWYG
+    toggleTypewriterMode: وضع الآلة الكاتبة
+    toggleTypewriterModeDesc: في وضع الآلة الكاتبة، يبقى سطر المؤشر في منتصف الشاشة
+    openFolder: فتح مجلد
+    openFolderDesc: فتح مجلد
+    openFileLocation: فتح موقع الملف
+    openFileLocationDesc: إظهار الملف الحالي في مدير الملفات
+    heading1: العنوان 1
+    heading1Desc: عنوان المستوى 1
+    heading2: العنوان 2
+    heading2Desc: عنوان المستوى 2
+    heading3: العنوان 3
+    heading3Desc: عنوان المستوى 3
+    heading4: العنوان 4
+    heading4Desc: عنوان المستوى 4
+    heading5: العنوان 5
+    heading5Desc: عنوان المستوى 5
+    heading6: العنوان 6
+    heading6Desc: عنوان المستوى 6
+    bulletList: قائمة نقطية
+    bulletListDesc: إدراج قائمة نقطية
+    orderedList: قائمة مرقمة
+    orderedListDesc: إدراج قائمة مرقمة
+    taskList: قائمة المهام
+    taskListDesc: إدراج قائمة المهام
+    codeBlock: كتلة كود
+    codeBlockDesc: إدراج كتلة كود
+    mathBlock: كتلة رياضية
+    mathBlockDesc: إدراج كتلة رياضية
+    blockquote: كتلة اقتباس
+    blockquoteDesc: إدراج كتلة اقتباس
+    horizontalRule: خط أفقي
+    horizontalRuleDesc: إدراج خط أفقي
+    table: جدول
+    tableDesc: إدراج جدول
+    mermaid: مخطط Mermaid
+    mermaidDesc: إدراج مخطط Mermaid
+    footnote: هامش
+    footnoteDesc: إدراج هامش
+    image: صورة
+    imageDesc: إدراج صورة
+    minimize: تصغير
+    minimizeDesc: تصغير النافذة
+    zoom: تكبير
+    zoomDesc: تكبير النافذة
+    fullscreen: ملء الشاشة
+    fullscreenDesc: تبديل وضع ملء الشاشة
+    center: توسيط
+    centerDesc: توسيط النافذة
+    undo: تراجع
+    undoDesc: تراجع عن آخر إجراء
+    redo: إعادة
+    redoDesc: إعادة آخر إجراء تم التراجع عنه
+    redoAlt: إعادة (بديل)
+    redoAltDesc: إعادة آخر إجراء تم التراجع عنه (بديل)
+    selectLine: تحديد السطر
+    selectLineDesc: تحديد المحتوى الكامل للسطر الحالي
+    toggleUnderline: تبديل التسطير
+    toggleUnderlineDesc: إضافة التسطير أو إزالته من النص المحدد
+    toggleBold: تبديل العريض
+    toggleBoldDesc: إضافة أو إزالة التنسيق العريض من النص المحدد
+    commandPalette: لوحة الأوامر
+    commandPaletteDesc: فتح لوحة الأوامر لتنفيذ الإجراءات بسرعة
+    cut: قص
+    cutDesc: قص المحتوى المحدد إلى الحافظة
+    copy: نسخ
+    copyDesc: نسخ المحتوى المحدد إلى الحافظة
+    paste: لصق
+    pasteDesc: لصق المحتوى من الحافظة
+    selectAll: تحديد الكل
+    selectAllDesc: تحديد كل المحتوى في المستند الحالي
+  title: الاختصارات
+  file: ملف
+  newFile: ملف جديد
+  openFile: فتح ملف
+  save: حفظ
+  saveAs: حفظ باسم
+  edit: تحرير
+  undo: تراجع
+  redo: إعادة
+  cut: قص
+  copy: نسخ
+  paste: لصق
+  selectAll: تحديد الكل
+  find: بحث
+  replace: استبدال
+  view: عرض
+  toggleSidebar: تبديل الشريط الجانبي
+  toggleOutline: تبديل المخطط
+  togglePreview: تبديل المعاينة
+  format: تنسيق
+  bold: عريض
+  italic: مائل
+  strikethrough: مشطوب
+  inlineCode: كود مضمن
+  heading: العنوان
+  bulletList: قائمة نقطية
+  orderedList: قائمة مرقمة
+  blockquote: كتلة اقتباس
+  codeBlock: كتلة كود
+  horizontalRule: خط أفقي
+  link: رابط
+  image: صورة
+  table: جدول
+  taskList: قائمة المهام

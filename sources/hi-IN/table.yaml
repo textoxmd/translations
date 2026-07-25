@@ -1,0 +1,18 @@
+table:
+  insertTable: तालिका सम्मिलित करें
+  addColumnBefore: पहले कॉलम जोड़ें
+  addColumnAfter: बाद कॉलम जोड़ें
+  deleteColumn: कॉलम हटाएं
+  addRowBefore: पहले पंक्ति जोड़ें
+  addRowAfter: बाद पंक्ति जोड़ें
+  deleteRow: पंक्ति हटाएं
+  mergeCells: सेल मर्ज करें
+  splitCell: सेल विभाजित करें
+  deleteTable: तालिका हटाएं
+  rows: पंक्तियाँ
+  columns: कॉलम
+  alignLeft: बाएं संरेखित करें
+  alignCenter: केंद्र में संरेखित करें
+  alignRight: दाएं संरेखित करें
+  editTable: तालिका संपादित करें
+  applyChanges: परिवर्तन लागू करें

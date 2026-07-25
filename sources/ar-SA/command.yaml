@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: البحث في الملفات...
+  searchOutlinePlaceholder: البحث في المخطط...
+  noResults: لم يتم العثور على أوامر
+  file: ملف
+  view: عرض
+  insert: إدراج
+  settings: فتح الإعدادات
+  outline: فتح المخطط
+  newFile: ملف جديد
+  openFile: فتح ملف
+  openFolder: فتح مجلد
+  saveFile: حفظ الملف
+  toggleSidebar: تبديل الشريط الجانبي
+  toggleEditMode: تبديل وضع التحرير
+  toggleTypewriterMode: تبديل وضع الآلة الكاتبة
+  insertImage: إدراج صورة
+  openSettings: فتح الإعدادات
+  noOutline: لا يوجد مخطط
+  openFileFirst: يرجى فتح ملف أولاً
+  emptyHeading: عنوان فارغ
+  title: لوحة الأوامر
+  placeholder: أدخل أمرًا...
+  edit: تحرير
+  format: تنسيق

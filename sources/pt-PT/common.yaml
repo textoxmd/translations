@@ -1,0 +1,47 @@
+common:
+  save: Guardar
+  cancel: Cancelar
+  confirm: Confirmar
+  delete: Eliminar
+  edit: Editar
+  copy: Copiar
+  paste: Colar
+  cut: Cortar
+  selectAll: Selecionar tudo
+  undo: Desfazer
+  redo: Refazer
+  search: Pesquisar
+  replace: Substituir
+  settings: Definições
+  close: Fechar
+  open: Abrir
+  new: Novo
+  file: Ficheiro
+  folder: Pasta
+  recent: Recente
+  language: Idioma
+  failed: Falhou
+  reset: Repor
+  clear: Limpar
+  lock: Bloquear
+  unlock: Desbloquear
+  bold: Negrito
+  italic: Itálico
+  strikethrough: Riscado
+  underline: Sublinhado
+  inlineCode: Código em linha
+  highlight: Destacar
+  blockquote: Citação
+  codeBlock: Bloco de código
+  horizontalRule: Linha horizontal
+  bulletList: Lista com marcadores
+  orderedList: Lista numerada
+  taskList: Lista de tarefas
+  table: Tabela
+  image: Imagem
+  link: Link
+  mathBlock: Bloco matemático
+  mermaid: Diagrama Mermaid
+  closeToolbar: Ocultar barra de ferramentas
+  exportPdf: Exportar para PDF
+  more: Mais

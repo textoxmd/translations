@@ -1,0 +1,3 @@
+error:
+  fileExists: फ़ाइल पहले से मौजूद है
+  maxRetriesReached: अधिकतम पुनः प्रयास सीमा तक पहुंच गया

@@ -1,0 +1,6 @@
+privacy:
+  title: 개인정보 처리방침
+  reset: 기본값으로 복원
+  resetSuccess: 기본 콘텐츠로 복원됨
+  contentUpdated: 콘텐츠가 업데이트됨
+  closeFailed: 창 닫기 실패

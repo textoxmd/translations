@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: File
+  categoryEdit: Modifica
+  categoryView: Vista
+  categoryParagraph: Paragrafo
+  categoryFormat: Formato
+  categoryWindow: Finestra
+  categoryHelp: Aiuto
+  searchPlaceholder: Cerca scorciatoie...
+  resetToDefault: Ripristina valori predefiniti
+  resetConfirm: Sei sicuro di voler ripristinare tutte le scorciatoie ai valori predefiniti?
+  conflictWarning: Questa scorciatoia è in conflitto con un'altra funzione. Continuare?
+  conflictDesc: Questa scorciatoia è già utilizzata da un'altra funzione
+  conflictWith: Conflitto con {{action}}
+  conflict: Conflitto
+  pressEnterConfirm: Premi Invio per confermare
+  pressShortcut: Premi la scorciatoia...
+  clickToEdit: Clicca per modificare
+  builtIn: Scorciatoia integrata (sola lettura)
+  notSet: Non impostato
+  clearShortcut: Cancella scorciatoia
+  hint: 'Suggerimento: clicca sulla scorciatoia per modificare, premi Delete per cancellare'
+  clickToCopy: Clicca per copiare
+  resetToDefaultSingle: Ripristina predefinito
+  conflictOverride: Questa scorciatoia è già utilizzata da "{{actions}}". Forzare la sovrascrittura?
+  forceOverride: Forza sovrascrittura
+  conflictWithBuiltin: Questa scorciatoia è in conflitto con una funzione integrata e non può essere utilizzata
+  escToCancel: Esc per annullare
+  pressKeys: Premi la scorciatoia
+  action:
+    newWindow: Nuova finestra
+    newWindowDesc: Apri una nuova finestra dell'editor
+    openFile: Apri file
+    openFileDesc: Apri file esistente
+    saveFile: Salva file
+    saveFileDesc: Salva file corrente
+    toggleSidebar: Attiva/disattiva barra laterale
+    toggleSidebarDesc: Mostra o nascondi barra laterale
+    toggleEditMode: Attiva/disattiva modalità modifica
+    toggleEditModeDesc: Passa dalla modalità sorgente a WYSIWYG
+    toggleTypewriterMode: Modalità macchina da scrivere
+    toggleTypewriterModeDesc: In modalità macchina da scrivere, la riga del cursore rimane centrata
+    openFolder: Apri cartella
+    openFolderDesc: Aprire una cartella
+    openFileLocation: Apri posizione file
+    openFileLocationDesc: Mostra il file corrente nel gestore file
+    heading1: Intestazione 1
+    heading1Desc: Intestazione di livello 1
+    heading2: Intestazione 2
+    heading2Desc: Intestazione di livello 2
+    heading3: Intestazione 3
+    heading3Desc: Intestazione di livello 3
+    heading4: Intestazione 4
+    heading4Desc: Intestazione di livello 4
+    heading5: Intestazione 5
+    heading5Desc: Intestazione di livello 5
+    heading6: Intestazione 6
+    heading6Desc: Intestazione di livello 6
+    bulletList: Elenco puntato
+    bulletListDesc: Inserisci elenco puntato
+    orderedList: Elenco numerato
+    orderedListDesc: Inserisci elenco numerato
+    taskList: Elenco attività
+    taskListDesc: Inserisci elenco attività
+    codeBlock: Blocco codice
+    codeBlockDesc: Inserisci blocco codice
+    mathBlock: Blocco matematico
+    mathBlockDesc: Inserisci blocco matematico
+    blockquote: Blocco citazione
+    blockquoteDesc: Inserisci blocco citazione
+    horizontalRule: Linea orizzontale
+    horizontalRuleDesc: Inserisci linea orizzontale
+    table: Tabella
+    tableDesc: Inserisci tabella
+    mermaid: Diagramma Mermaid
+    mermaidDesc: Inserisci diagramma Mermaid
+    footnote: Nota a piè di pagina
+    footnoteDesc: Inserisci nota a piè di pagina
+    image: Immagine
+    imageDesc: Inserisci immagine
+    minimize: Minimizza
+    minimizeDesc: Minimizza la finestra
+    zoom: Zoom
+    zoomDesc: Zoom sulla finestra
+    fullscreen: Schermo intero
+    fullscreenDesc: Attiva/disattiva modalità schermo intero
+    center: Centra
+    centerDesc: Centra la finestra
+    undo: Annulla
+    undoDesc: Annulla l'ultima azione
+    redo: Ripeti
+    redoDesc: Ripeti l'ultima azione annullata
+    redoAlt: Ripeti (alternativa)
+    redoAltDesc: Ripeti l'ultima azione annullata (alternativa)
+    selectLine: Seleziona riga
+    selectLineDesc: Seleziona l'intero contenuto della riga corrente
+    toggleUnderline: Attiva/disattiva sottolineatura
+    toggleUnderlineDesc: Aggiungi o rimuovi la sottolineatura dal testo selezionato
+    toggleBold: Attiva/disattiva grassetto
+    toggleBoldDesc: Aggiungi o rimuovi il grassetto dal testo selezionato
+    commandPalette: Palette dei comandi
+    commandPaletteDesc: Apri la palette dei comandi per eseguire rapidamente le azioni
+    cut: Taglia
+    cutDesc: Taglia il contenuto selezionato negli appunti
+    copy: Copia
+    copyDesc: Copia il contenuto selezionato negli appunti
+    paste: Incolla
+    pasteDesc: Incolla il contenuto dagli appunti
+    selectAll: Seleziona tutto
+    selectAllDesc: Seleziona tutto il contenuto del documento corrente
+  title: Scorciatoie
+  file: File
+  newFile: Nuovo file
+  openFile: Apri file
+  save: Salva
+  saveAs: Salva con nome
+  edit: Modifica
+  undo: Annulla
+  redo: Ripristina
+  cut: Taglia
+  copy: Copia
+  paste: Incolla
+  selectAll: Seleziona tutto
+  find: Trova
+  replace: Sostituisci
+  view: Vista
+  toggleSidebar: Attiva/disattiva barra laterale
+  toggleOutline: Attiva/disattiva struttura
+  togglePreview: Attiva/disattiva anteprima
+  format: Formato
+  bold: Grassetto
+  italic: Corsivo
+  strikethrough: Barrato
+  inlineCode: Codice inline
+  heading: Intestazione
+  bulletList: Elenco puntato
+  orderedList: Elenco numerato
+  blockquote: Blocco citazione
+  codeBlock: Blocco codice
+  horizontalRule: Linea orizzontale
+  link: Collegamento
+  image: Immagine
+  table: Tabella
+  taskList: Elenco attività

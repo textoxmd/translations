@@ -1,0 +1,5 @@
+dialog:
+  selectFolder: 选择文件夹
+  fileModifiedTitle: 文件已被修改
+  fileModifiedDesc: 该文件在其他地方被修改了。你可以选择刷新以加载最新内容，或者继续编辑当前版本（可能会导致内容冲突）。
+  fileModifiedReload: 重新加载

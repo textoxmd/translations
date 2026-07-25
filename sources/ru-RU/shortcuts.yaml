@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: Файл
+  categoryEdit: Правка
+  categoryView: Вид
+  categoryParagraph: Абзац
+  categoryFormat: Формат
+  categoryWindow: Окно
+  categoryHelp: Справка
+  searchPlaceholder: Поиск горячих клавиш...
+  resetToDefault: Восстановить значения по умолчанию
+  resetConfirm: Вы уверены, что хотите восстановить все горячие клавиши к значениям по умолчанию?
+  conflictWarning: Эта горячая клавиша конфликтует с другой функцией. Продолжить?
+  conflictDesc: Эта горячая клавиша уже используется другой функцией
+  conflictWith: Конфликт с {{action}}
+  conflict: Конфликт
+  pressEnterConfirm: Нажмите Enter для подтверждения
+  pressShortcut: Нажмите горячую клавишу...
+  clickToEdit: Нажмите для редактирования
+  builtIn: Встроенная комбинация (только чтение)
+  notSet: Не установлено
+  clearShortcut: Очистить горячую клавишу
+  hint: 'Подсказка: нажмите на горячую клавишу для редактирования, нажмите Delete для очистки'
+  clickToCopy: Нажмите, чтобы скопировать
+  resetToDefaultSingle: Сбросить на значение по умолчанию
+  conflictOverride: Эта горячая клавиша уже используется "{{actions}}". Принудительно перезаписать?
+  forceOverride: Принудительная перезапись
+  conflictWithBuiltin: Это сочетание клавиш конфликтует со встроенной функцией и не может быть использовано
+  escToCancel: Esc для отмены
+  pressKeys: Нажмите горячую клавишу
+  action:
+    newWindow: Новое окно
+    newWindowDesc: Открыть новое окно редактора
+    openFile: Открыть файл
+    openFileDesc: Открыть существующий файл
+    saveFile: Сохранить файл
+    saveFileDesc: Сохранить текущий файл
+    toggleSidebar: Переключить боковую панель
+    toggleSidebarDesc: Показать или скрыть боковую панель
+    toggleEditMode: Переключить режим редактирования
+    toggleEditModeDesc: Переключение между режимом исходного кода и WYSIWYG
+    toggleTypewriterMode: Режим пишущей машинки
+    toggleTypewriterModeDesc: В режиме пишущей машинки строка с курсором остается по центру
+    openFolder: Открыть папку
+    openFolderDesc: Открыть папку
+    openFileLocation: Открыть расположение файла
+    openFileLocationDesc: Показать текущий файл в файловом менеджере
+    heading1: Заголовок 1
+    heading1Desc: Заголовок уровня 1
+    heading2: Заголовок 2
+    heading2Desc: Заголовок уровня 2
+    heading3: Заголовок 3
+    heading3Desc: Заголовок уровня 3
+    heading4: Заголовок 4
+    heading4Desc: Заголовок уровня 4
+    heading5: Заголовок 5
+    heading5Desc: Заголовок уровня 5
+    heading6: Заголовок 6
+    heading6Desc: Заголовок уровня 6
+    bulletList: Маркированный список
+    bulletListDesc: Вставить маркированный список
+    orderedList: Нумерованный список
+    orderedListDesc: Вставить нумерованный список
+    taskList: Список задач
+    taskListDesc: Вставить список задач
+    codeBlock: Блок кода
+    codeBlockDesc: Вставить блок кода
+    mathBlock: Математический блок
+    mathBlockDesc: Вставить математический блок
+    blockquote: Блок цитаты
+    blockquoteDesc: Вставить блок цитаты
+    horizontalRule: Горизонтальная линия
+    horizontalRuleDesc: Вставить горизонтальную линию
+    table: Таблица
+    tableDesc: Вставить таблицу
+    mermaid: Диаграмма Mermaid
+    mermaidDesc: Вставить диаграмму Mermaid
+    footnote: Сноска
+    footnoteDesc: Вставить сноску
+    image: Изображение
+    imageDesc: Вставить изображение
+    minimize: Свернуть
+    minimizeDesc: Свернуть окно
+    zoom: Масштаб
+    zoomDesc: Масштабировать окно
+    fullscreen: Полный экран
+    fullscreenDesc: Переключить полноэкранный режим
+    center: По центру
+    centerDesc: Отобразить окно по центру
+    undo: Отменить
+    undoDesc: Отменить последнее действие
+    redo: Повторить
+    redoDesc: Повторить последнее отмененное действие
+    redoAlt: Повторить (альтернатива)
+    redoAltDesc: Повторить последнее отмененное действие (альтернатива)
+    selectLine: Выбрать строку
+    selectLineDesc: Выделить всё содержимое текущей строки
+    toggleUnderline: Переключить подчеркивание
+    toggleUnderlineDesc: Добавить или убрать подчеркивание выделенного текста
+    toggleBold: Переключить полужирный
+    toggleBoldDesc: Добавить или убрать полужирное начертание выделенного текста
+    commandPalette: Палитра команд
+    commandPaletteDesc: Открыть палитру команд для быстрого выполнения действий
+    cut: Вырезать
+    cutDesc: Вырезать выделенное содержимое в буфер обмена
+    copy: Копировать
+    copyDesc: Копировать выделенное содержимое в буфер обмена
+    paste: Вставить
+    pasteDesc: Вставить содержимое из буфера обмена
+    selectAll: Выбрать все
+    selectAllDesc: Выбрать все содержимое текущего документа
+  title: Горячие клавиши
+  file: Файл
+  newFile: Новый файл
+  openFile: Открыть файл
+  save: Сохранить
+  saveAs: Сохранить как
+  edit: Правка
+  undo: Отменить
+  redo: Повторить
+  cut: Вырезать
+  copy: Копировать
+  paste: Вставить
+  selectAll: Выбрать все
+  find: Найти
+  replace: Заменить
+  view: Вид
+  toggleSidebar: Переключить боковую панель
+  toggleOutline: Переключить структуру
+  togglePreview: Переключить предпросмотр
+  format: Формат
+  bold: Жирный
+  italic: Курсив
+  strikethrough: Зачеркнутый
+  inlineCode: Встроенный код
+  heading: Заголовок
+  bulletList: Маркированный список
+  orderedList: Нумерованный список
+  blockquote: Блок цитаты
+  codeBlock: Блок кода
+  horizontalRule: Горизонтальная линия
+  link: Ссылка
+  image: Изображение
+  table: Таблица
+  taskList: Список задач

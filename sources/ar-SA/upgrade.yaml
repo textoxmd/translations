@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: سمات مخصصة
+    customParticles: Custom Particle Configs
+    importTheme: استيراد سمة
+    autoSave: حفظ تلقائي
+    pdfExport: تصدير PDF
+  title: ترقية
+  message: «{{feature}}» متوفر فقط في الإصدار الكامل من Textox.
+  confirm: هل ترغب في مشاهدته على App Store؟
+  banner: السمات المخصصة متاحة في الإصدار الكامل من Textox.
+  okLabel: عرض على App Store
+  cancelLabel: إلغاء

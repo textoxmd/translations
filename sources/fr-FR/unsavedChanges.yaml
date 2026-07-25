@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: Modifications non enregistrées
+  closeUnsavedTitle: Fermer le fichier non enregistré
+  message: '"{{fileName}}" a des modifications non enregistrées. Voulez-vous les enregistrer ?'
+  closeUnsavedMessage: Le fichier actuel a des modifications non enregistrées. Voulez-vous les enregistrer ?
+  simpleMessage: Vous avez des modifications non enregistrées. Voulez-vous les enregistrer ?
+  confirmExit: Êtes-vous sûr de vouloir quitter ? Les modifications non enregistrées seront perdues.
+  confirmClose: Êtes-vous sûr de vouloir fermer ? Les modifications non enregistrées seront perdues.
+  save: Enregistrer
+  dontSave: Ne pas enregistrer
+  cancel: Annuler
+  untitledFile: Fichier sans titre

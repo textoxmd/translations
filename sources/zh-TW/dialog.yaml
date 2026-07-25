@@ -1,0 +1,5 @@
+dialog:
+  selectFolder: 選擇資料夾
+  fileModifiedTitle: 檔案已被修改
+  fileModifiedDesc: 該檔案在其他地方被修改了。你可以選擇重新整理以載入最新內容，或者繼續編輯當前版本（可能會導致內容衝突）。
+  fileModifiedReload: 重新載入

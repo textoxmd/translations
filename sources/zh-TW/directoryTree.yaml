@@ -1,0 +1,20 @@
+directoryTree:
+  title: 檔案
+  newFile: 新增檔案
+  newFolder: 新增資料夾
+  rename: 重新命名
+  delete: 刪除
+  loading: 載入中...
+  newFileDefaultName: 新增檔案.md
+  newFolderDefaultName: 新增資料夾
+  selectedCount: 已選擇 {{count}} 個項目
+  notOpenable: 未配置為可開啟的檔案類型
+  deleteConfirmTitle: 是否確實要刪除"{{name}}"及其內容？
+  deleteConfirmTitleFile: 是否確實要刪除"{{name}}"？
+  deleteConfirmMultiple: 是否確實要刪除這 {{count}} 項？
+  deleteConfirmRecoveryHint: 您可以從回收站還原此項目。
+  deleteConfirmDontAskAgain: 不再詢問
+  deleteConfirmMoveToTrash: 移動到垃圾桶
+  showInFinder: 在 Finder 中顯示
+  dragToResize: 拖曳以調整大小
+  closeFile: 關閉檔案

@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: 사용자 정의 테마
+    customParticles: Custom Particle Configs
+    importTheme: 테마 가져오기
+    autoSave: 자동 저장
+    pdfExport: PDF 내보내기
+  title: 업그레이드
+  message: '"{{feature}}"은(는) Textox 전체 버전에서만 사용할 수 있습니다.'
+  confirm: App Store에서 보시겠습니까?
+  banner: 사용자 정의 테마는 Textox 전체 버전에서 사용할 수 있습니다.
+  okLabel: App Store에서 보기
+  cancelLabel: 취소

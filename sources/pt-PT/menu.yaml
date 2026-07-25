@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Sobre Textox
+  preferences: Preferências...
+  quit: Sair do Textox
+  file: Ficheiro
+  new_window: Nova janela
+  open: Abrir...
+  open_folder: Abrir pasta...
+  open_recent: Abrir recentes
+  no_recent: Nenhum recente
+  clear_recent: Limpar menu
+  windows: Janelas abertas
+  save: Guardar
+  open_location: Mostrar no Finder
+  export: Exportar como PDF...
+  saveBeforeExport: Guarde o ficheiro antes de exportar
+  saveBeforeExportPrompt: O documento tem alterações não guardadas. Guardar antes de exportar?
+  edit: Editar
+  undo: Desfazer
+  redo: Refazer
+  cut: Cortar
+  copy: Copiar
+  paste: Colar
+  select_all: Selecionar tudo
+  auto_fill: Preenchimento automático
+  start_dictation: Iniciar ditado...
+  emoji_symbols: Emoji e símbolos
+  paragraph: Parágrafo
+  heading_1: Título 1
+  heading_2: Título 2
+  heading_3: Título 3
+  heading_4: Título 4
+  heading_5: Título 5
+  heading_6: Título 6
+  bullet_list: Lista com marcadores
+  ordered_list: Lista numerada
+  task_list: Lista de tarefas
+  code_block: Bloco de código
+  math_block: Bloco matemático
+  blockquote: Bloco de citação
+  horizontal_rule: Linha horizontal
+  table: Tabela
+  mermaid: Diagrama Mermaid
+  footnote: Nota de rodapé
+  image: Imagem
+  format: Formato
+  bold: Negrito
+  italic: Itálico
+  underline: Sublinhado
+  strikethrough: Rasurado
+  inline_code: Código em linha
+  highlight: Destacar
+  clear_formatting: Rasurado
+  view: Ver
+  toggle_sidebar: Alternar barra lateral
+  toggle_edit_mode: Alternar modo de edição
+  toggle_typewriter_mode: Modo máquina de escrever
+  window: Janela
+  minimize: Minimizar
+  zoom: Zoom
+  fullscreen: Ecrã inteiro
+  center: Centrar
+  help: Ajuda
+  acknowledgments: Agradecimentos
+  changelog: Registo de alterações
+  privacy: Política de privacidade
+  website: Website
+  feedback: Feedback
+  export_logs: Exportar registos...
+  auto_save: Guardar automaticamente
+  newFile: Novo ficheiro
+  openFile: Abrir ficheiro...
+  openFolder: Abrir pasta...
+  saveAs: Guardar como...
+  closeFile: Fechar ficheiro
+  closeWindow: Fechar janela
+  recentFiles: Ficheiros recentes
+  clearRecent: Limpar recentes
+  noRecentFiles: Nenhum ficheiro recente
+  selectAll: Selecionar tudo
+  find: Procurar...
+  replace: Substituir...
+  toggleSidebar: Alternar barra lateral
+  toggleOutline: Alternar esboço
+  togglePreview: Alternar pré-visualização
+  toggleSourceMode: Alternar modo fonte
+  fullScreen: Ecrã inteiro
+  settings: Definições...
+  checkForUpdates: Verificar atualizações...

@@ -1,0 +1,7 @@
+acknowledgments:
+  title: 致謝
+  reset: 恢復預設
+  resetSuccess: 已恢復預設內容
+  contentUpdated: 內容已更新
+  saveFailed: 儲存失敗
+  hint: 您可以編輯此檔案添加自己的致謝內容

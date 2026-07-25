@@ -1,0 +1,5 @@
+dialog:
+  selectFolder: フォルダを選択
+  fileModifiedTitle: ファイルが変更されました
+  fileModifiedDesc: このファイルは他の場所で変更されました。最新のコンテンツを読み込むために再読み込みするか、現在のバージョンを編集し続けることができます（コンテンツの競合が発生する可能性があります）。
+  fileModifiedReload: 再読み込み

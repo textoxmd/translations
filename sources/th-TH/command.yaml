@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: ค้นหาไฟล์...
+  searchOutlinePlaceholder: ค้นหาในโครงร่าง...
+  noResults: ไม่พบคำสั่ง
+  file: ไฟล์
+  view: มุมมอง
+  insert: แทรก
+  settings: เปิดการตั้งค่า
+  outline: เปิดโครงร่าง
+  newFile: ไฟล์ใหม่
+  openFile: เปิดไฟล์
+  openFolder: เปิดโฟลเดอร์
+  saveFile: บันทึกไฟล์
+  toggleSidebar: สลับแถบด้านข้าง
+  toggleEditMode: สลับโหมดการแก้ไข
+  toggleTypewriterMode: สลับโหมดเครื่องพิมพ์ดีด
+  insertImage: แทรกรูปภาพ
+  openSettings: เปิดการตั้งค่า
+  noOutline: ไม่มีโครงร่าง
+  openFileFirst: กรุณาเปิดไฟล์ก่อน
+  emptyHeading: หัวข้อว่าง
+  title: พาเลทคำสั่ง
+  placeholder: พิมพ์คำสั่ง...
+  edit: แก้ไข
+  format: รูปแบบ

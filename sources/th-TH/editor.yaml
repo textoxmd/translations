@@ -1,0 +1,25 @@
+editor:
+  placeholder: เริ่มพิมพ์...
+  heading: หัวข้อ
+  bold: ตัวหนา
+  italic: ตัวเอียง
+  underline: ขีดเส้นใต้
+  strikethrough: ขีดฆ่า
+  code: โค้ดแทรก
+  codeBlock: บล็อกโค้ด
+  blockquote: บล็อกคำพูด
+  bulletList: รายการหัวข้อย่อย
+  orderedList: รายการลำดับเลข
+  taskList: รายการงาน
+  horizontalRule: เส้นแบ่ง
+  link: ลิงก์
+  image: รูปภาพ
+  table: ตาราง
+  math: บล็อกคณิตศาสตร์
+  inlineMath: คณิตศาสตร์แทรก
+  mermaid: แผนภาพ Mermaid
+  footnote: อ้างอิง
+  insert: แทรก
+  format: รูปแบบ
+  openLinkVisit: ไป
+  openLinkTitle: ลิงก์ภายนอก

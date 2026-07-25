@@ -1,0 +1,71 @@
+menu:
+  texto: Textox
+  about: 关于 Textox
+  preferences: 偏好设置...
+  quit: 退出 Textox
+  file: 文件
+  new_window: 新建窗口
+  open: 打开...
+  open_folder: 打开文件夹
+  open_recent: 打开最近的项目
+  no_recent: 无最近项目
+  clear_recent: 清除最近项目
+  windows: 打开的窗口
+  save: 保存
+  open_location: 打开文件位置
+  export: 导出 PDF...
+  saveBeforeExport: 请先保存文件后再导出
+  saveBeforeExportPrompt: 文档有未保存的修改，是否先保存再导出？
+  edit: 编辑
+  undo: 撤销
+  redo: 重做
+  cut: 剪切
+  copy: 拷贝
+  paste: 粘贴
+  select_all: 全选
+  auto_fill: 自动填充
+  start_dictation: 开始听写...
+  emoji_symbols: 表情和符号
+  paragraph: 段落
+  heading_1: 标题 1
+  heading_2: 标题 2
+  heading_3: 标题 3
+  heading_4: 标题 4
+  heading_5: 标题 5
+  heading_6: 标题 6
+  bullet_list: 无序列表
+  ordered_list: 有序列表
+  task_list: 任务列表
+  code_block: 代码块
+  math_block: 公式块
+  blockquote: 引用
+  horizontal_rule: 水平线
+  table: 表格
+  mermaid: Mermaid 图表
+  footnote: 脚注
+  image: 插入图片
+  format: 格式
+  bold: 加粗
+  italic: 斜体
+  underline: 下划线
+  strikethrough: 删除线
+  inline_code: 行内代码
+  highlight: 高亮
+  clear_formatting: 清除格式
+  view: 视图
+  toggle_sidebar: 切换目录树
+  toggle_edit_mode: 切换编辑模式
+  toggle_typewriter_mode: 打字机模式
+  window: 窗口
+  minimize: 最小化
+  zoom: 缩放
+  fullscreen: 填充
+  center: 居中
+  help: 帮助
+  acknowledgments: 鸣谢
+  changelog: 更新日志
+  privacy: 隐私条款
+  website: 官方网站
+  feedback: 反馈
+  export_logs: 导出日志
+  auto_save: 自动保存

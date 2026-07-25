@@ -1,0 +1,110 @@
+shortcuts:
+  categoryFile: File Operations
+  categoryEdit: Edit Operations
+  categoryView: View Operations
+  categoryParagraph: Paragraph
+  categoryFormat: Format
+  categoryWindow: Window
+  categoryHelp: Help
+  searchPlaceholder: Search shortcuts...
+  resetToDefault: Reset to Default
+  resetConfirm: Are you sure you want to reset all shortcuts to default values?
+  conflictWarning: Shortcut Conflict Detected
+  conflictDesc: 'The following shortcuts are used by multiple actions, which may cause unexpected behavior:'
+  conflictWith: conflicts with
+  conflict: conflict
+  pressEnterConfirm: Press Enter to confirm
+  pressShortcut: Press shortcut key...
+  clickToEdit: Click to edit
+  builtIn: Built-in shortcut (read-only)
+  notSet: Not set
+  clearShortcut: Clear shortcut
+  hint: 'Tip: Click the shortcut value to modify, press the desired key combination and then press Enter to confirm.'
+  clickToCopy: Click to copy
+  resetToDefaultSingle: Reset to default
+  conflictOverride: This shortcut is already used by "{{actions}}". Override?
+  forceOverride: Force Override
+  conflictWithBuiltin: This shortcut conflicts with a built-in function and cannot be used
+  escToCancel: Esc to cancel
+  pressKeys: Press shortcut
+  action:
+    newWindow: New Window
+    newWindowDesc: Open a new editor window
+    openFile: Open File
+    openFileDesc: Open a single file
+    saveFile: Save File
+    saveFileDesc: Save the current file
+    toggleSidebar: Toggle Sidebar
+    toggleSidebarDesc: Show or hide the sidebar
+    toggleEditMode: Toggle Edit Mode
+    toggleEditModeDesc: Switch between instant render and split preview mode
+    toggleTypewriterMode: Typewriter Mode
+    toggleTypewriterModeDesc: Keep the cursor line centered while typing
+    openFolder: Open Folder
+    openFolderDesc: Open a folder
+    openFileLocation: Open File Location
+    openFileLocationDesc: Show the current file in file manager
+    heading1: Heading 1
+    heading1Desc: Level 1 heading
+    heading2: Heading 2
+    heading2Desc: Level 2 heading
+    heading3: Heading 3
+    heading3Desc: Level 3 heading
+    heading4: Heading 4
+    heading4Desc: Level 4 heading
+    heading5: Heading 5
+    heading5Desc: Level 5 heading
+    heading6: Heading 6
+    heading6Desc: Level 6 heading
+    bulletList: Bullet List
+    bulletListDesc: Insert bullet list
+    orderedList: Ordered List
+    orderedListDesc: Insert ordered list
+    taskList: Task List
+    taskListDesc: Insert task list
+    codeBlock: Code Block
+    codeBlockDesc: Insert code block
+    mathBlock: Math Block
+    mathBlockDesc: Insert math block
+    blockquote: Blockquote
+    blockquoteDesc: Insert blockquote
+    horizontalRule: Horizontal Rule
+    horizontalRuleDesc: Insert horizontal rule
+    table: Table
+    tableDesc: Insert table
+    mermaid: Mermaid Diagram
+    mermaidDesc: Insert Mermaid diagram
+    footnote: Footnote
+    footnoteDesc: Insert footnote
+    image: Image
+    imageDesc: Insert image
+    minimize: Minimize
+    minimizeDesc: Minimize the window
+    zoom: Zoom
+    zoomDesc: Zoom the window
+    fullscreen: Fullscreen
+    fullscreenDesc: Toggle fullscreen mode
+    center: Center
+    centerDesc: Center the window
+    undo: Undo
+    undoDesc: Undo the last action
+    redo: Redo
+    redoDesc: Redo the last undone action
+    redoAlt: Redo (Alternative)
+    redoAltDesc: Redo the last undone action (alternative shortcut)
+    selectLine: Select Line
+    selectLineDesc: Select the entire content of the current line
+    toggleUnderline: Toggle Underline
+    toggleUnderlineDesc: Add or remove underline on the selected text
+    toggleBold: Toggle Bold
+    toggleBoldDesc: Add or remove bold formatting on the selected text
+    commandPalette: Command Palette
+    commandPaletteDesc: Open the command palette to quickly execute actions
+    cut: Cut
+    cutDesc: Cut the selected content to the clipboard
+    copy: Copy
+    copyDesc: Copy the selected content to the clipboard
+    paste: Paste
+    pasteDesc: Paste content from the clipboard
+    selectAll: Select All
+    selectAllDesc: Select all content in the current document

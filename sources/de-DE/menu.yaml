@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Über Textox
+  preferences: Einstellungen...
+  quit: Textox beenden
+  file: Datei
+  new_window: Neues Fenster
+  open: Öffnen...
+  open_folder: Ordner öffnen...
+  open_recent: Zuletzt verwendete öffnen
+  no_recent: Keine zuletzt verwendeten
+  clear_recent: Menü löschen
+  windows: Geöffnete Fenster
+  save: Speichern
+  open_location: Im Finder anzeigen
+  export: Als PDF exportieren...
+  saveBeforeExport: Bitte speichern Sie die Datei vor dem Export
+  saveBeforeExportPrompt: Das Dokument hat ungespeicherte Änderungen. Vor dem Export speichern?
+  edit: Bearbeiten
+  undo: Rückgängig
+  redo: Wiederholen
+  cut: Ausschneiden
+  copy: Kopieren
+  paste: Einfügen
+  select_all: Alles auswählen
+  auto_fill: Automatisch ausfüllen
+  start_dictation: Diktat starten...
+  emoji_symbols: Emoji und Symbole
+  paragraph: Absatz
+  heading_1: Überschrift 1
+  heading_2: Überschrift 2
+  heading_3: Überschrift 3
+  heading_4: Überschrift 4
+  heading_5: Überschrift 5
+  heading_6: Überschrift 6
+  bullet_list: Aufzählungsliste
+  ordered_list: Nummerierte Liste
+  task_list: Aufgabenliste
+  code_block: Codeblock
+  math_block: Mathe-Block
+  blockquote: Zitatblock
+  horizontal_rule: Horizontale Linie
+  table: Tabelle
+  mermaid: Mermaid-Diagramm
+  footnote: Fußnote
+  image: Bild
+  format: Format
+  bold: Fett
+  italic: Kursiv
+  underline: Unterstrichen
+  strikethrough: Durchgestrichen
+  inline_code: Inline-Code
+  highlight: Hervorheben
+  clear_formatting: Durchgestrichen
+  view: Ansicht
+  toggle_sidebar: Seitenleiste umschalten
+  toggle_edit_mode: Bearbeitungsmodus umschalten
+  toggle_typewriter_mode: Schreibmaschinenmodus
+  window: Fenster
+  minimize: Minimieren
+  zoom: Zoomen
+  fullscreen: Vollbild
+  center: Zentrieren
+  help: Hilfe
+  acknowledgments: Danksagung
+  changelog: Änderungsprotokoll
+  privacy: Datenschutzrichtlinie
+  website: Webseite
+  feedback: Feedback
+  export_logs: Protokolle exportieren...
+  auto_save: Automatisches Speichern
+  newFile: Neue Datei
+  openFile: Datei öffnen...
+  openFolder: Ordner öffnen...
+  saveAs: Speichern unter...
+  closeFile: Datei schließen
+  closeWindow: Fenster schließen
+  recentFiles: Zuletzt verwendete Dateien
+  clearRecent: Zuletzt verwendete löschen
+  noRecentFiles: Keine zuletzt verwendeten Dateien
+  selectAll: Alles auswählen
+  find: Suchen...
+  replace: Ersetzen...
+  toggleSidebar: Seitenleiste umschalten
+  toggleOutline: Gliederung umschalten
+  togglePreview: Vorschau umschalten
+  toggleSourceMode: Quellmodus umschalten
+  fullScreen: Vollbild
+  settings: Einstellungen...
+  checkForUpdates: Nach Updates suchen...

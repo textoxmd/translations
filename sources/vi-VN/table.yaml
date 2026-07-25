@@ -1,0 +1,18 @@
+table:
+  insertTable: Chèn bảng
+  addColumnBefore: Thêm cột trước
+  addColumnAfter: Thêm cột sau
+  deleteColumn: Xóa cột
+  addRowBefore: Thêm hàng trước
+  addRowAfter: Thêm hàng sau
+  deleteRow: Xóa hàng
+  mergeCells: Gộp ô
+  splitCell: Tách ô
+  deleteTable: Xóa bảng
+  rows: Hàng
+  columns: Cột
+  alignLeft: Căn trái
+  alignCenter: Căn giữa
+  alignRight: Căn phải
+  editTable: Chỉnh sửa bảng
+  applyChanges: Áp dụng thay đổi

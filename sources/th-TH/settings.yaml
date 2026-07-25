@@ -1,0 +1,266 @@
+settings:
+  title: การตั้งค่า
+  editor: ตัวแก้ไข
+  personalization: เอฟเฟกต์การพิมพ์
+  shortcuts: ทางลัด
+  about: เกี่ยวกับ
+  editorFontFamily: ฟอนต์ตัวแก้ไข
+  editorFontFamilyDesc: ตั้งค่าฟอนต์สำหรับข้อความตัวแก้ไข
+  editorFontSize: ขนาดตัวอักษรตัวแก้ไข
+  editorFontSizeDesc: ปรับขนาดตัวอักษรในตัวแก้ไข
+  autoSave: บันทึกอัตโนมัติ
+  autoSaveDesc: ความถี่ในการบันทึกไฟล์อัตโนมัติ
+  autoCapitalize: ตัวพิมพ์ใหญ่อัตโนมัติ
+  showWordCount: แสดงจำนวนคำ
+  showWordCountDesc: แสดงป้ายนับจำนวนคำแบบลอยที่มุมล่างขวาของตัวแก้ไข
+  showEditorToolbar: แสดงแถบเครื่องมือจัดรูปแบบ
+  showEditorToolbarDesc: แสดงแถบเครื่องมือจัดรูปแบบที่ด้านบนของตัวแก้ไข
+  typewriterMode: โหมดเครื่องพิมพ์ดีด
+  typewriterModeDesc: ในโหมดเครื่องพิมพ์ดีด บรรทัดเคอร์เซอร์จะอยู่กึ่งกลางหน้าจอเพื่อประสบการณ์การเขียนที่โฟกัส
+  autoCapitalizeDesc: เปลี่ยนตัวอักษรตัวแรกของประโยคภาษาอังกฤษเป็นตัวพิมพ์ใหญ่โดยอัตโนมัติ (ปิดเพื่อการแก้ไข Markdown ที่ดีขึ้น)
+  externalFileChangeAction: การดำเนินการเมื่อไฟล์ภายนอกเปลี่ยนแปลง
+  externalFileChangeActionDesc: วิธีจัดการเมื่อไฟล์ถูกแก้ไขโดยโปรแกรมภายนอก
+  externalFileChangeIgnore: ละเว้น
+  externalFileChangeSilent: โหลดใหม่อัตโนมัติ
+  externalFileChangePrompt: ถาม
+  codeBlockWordWrap: การตัดบรรทัดอัตโนมัติของบล็อกโค้ด
+  codeBlockWordWrapDesc: เปิดใช้งานการตัดบรรทัดอัตโนมัติในบล็อกโค้ด
+  codeBlockWordWrapTooltip: เมื่อเปิดใช้งาน บรรทัดที่ยาวในบล็อกโค้ดจะถูกตัดบรรทัดโดยอัตโนมัติ
+  showLineNumbers: แสดงหมายเลขบรรทัด
+  showLineNumbersDesc: แสดงหมายเลขบรรทัดในโปรแกรมแก้ไขซอร์สโค้ด
+  showLineNumbersTooltip: เมื่อเปิดใช้งาน หมายเลขบรรทัดจะแสดงทางด้านซ้ายของโปรแกรมแก้ไขซอร์สโค้ด
+  codeEditorThemeLight: ธีมบล็อกโค้ด (สว่าง)
+  codeEditorThemeLightDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขบล็อกโค้ดในโหมดสว่าง
+  codeEditorThemeDark: ธีมบล็อกโค้ด (มืด)
+  codeEditorThemeDarkDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขบล็อกโค้ดในโหมดมืด
+  sourceCodeThemeLight: ธีมโค้ดต้นฉบับ (สว่าง)
+  sourceCodeThemeLightDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขโค้ดต้นฉบับในโหมดสว่าง
+  sourceCodeThemeDark: ธีมโค้ดต้นฉบับ (มืด)
+  sourceCodeThemeDarkDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขโค้ดต้นฉบับในโหมดมืด
+  syncEditorBg: ใช้พื้นหลังของตัวแก้ไข
+  syncEditorBgDesc: เมื่อเปิดใช้งาน ตัวแก้ไขโค้ดต้นฉบับจะใช้สีพื้นหลังของตัวแก้ไขแทนสีพื้นหลังของธีมเพื่อให้มีลักษณะที่เป็นเอกภาพ
+  sidebarPosition: ตำแหน่งแถบด้านข้าง
+  sidebarPositionDesc: ตั้งค่าให้แถบด้านข้างแสดงทางซ้ายหรือขวา
+  left: ด้านซ้าย
+  right: ด้านขวา
+  breatheColor: สีหายใจ
+  breatheColorDesc: เปิดใช้งานเอฟเฟกต์สีหายใจแบบไดนามิกสำหรับหัวข้อ
+  highlightColor: สีไฮไลท์
+  highlightColorDesc: เลือกสีพื้นหลังสำหรับข้อความที่ไฮไลท์
+  highlightColorYellow: สีเหลือง
+  highlightColorGreen: สีเขียว
+  highlightColorBlue: สีน้ำเงิน
+  highlightColorPink: สีชมพู
+  highlightColorOrange: สีส้ม
+  highlightColorPurple: สีม่วง
+  colorTheme: ธีมสี
+  colorThemeDesc: เลือกธีมสีของแอปพลิเคชัน
+  colorThemeDefault: ค่าเริ่มต้น
+  colorThemePastel: เชอร์รี่
+  colorThemeSpring: ฤดูใบไม้ผลิ
+  colorThemePastelStory: >-
+    ได้รับแรงบันดาลใจจากแจกัน GRÅVITS ของ IKEA ฉันโชคดีที่ได้พบ phycat ในชุมชน Typora จานสีอ่อนโยนดุจดอกซากุระโปรยปราย
+    บรรยากาศอบอุ่นและผ่อนคลาย ตรงกับที่ฉันจินตนาการไว้ทุกประการ ผ่านการปรับแต่งทีละชั้นและการปรับให้เหมาะสม
+    กลายเป็นประสบการณ์การเขียนที่นุ่มนวล ผ่อนคลาย และสบายตาสำหรับ Textox
+  colorThemeSpringStory: >-
+    ฤดูใบไม้ผลิเป็นสัญลักษณ์ของการเริ่มต้นและความหวัง Textox เปิดตัวในฤดูใบไม้ผลิปี 2026
+    ซึ่งเป็นช่วงเวลาที่น่าจดจำของโปรเจกต์ ธีม Jingzhe ใช้โทนสีเขียวของพืชพรรณที่นุ่มนวลและสะอาดตาเป็นหลัก
+    สีสันสื่อถึงบรรยากาศฤดูใบไม้ผลิที่ธรรมชาติฟื้นคืนชีพ หลังจากปรับแต่งให้เข้ากับ Textox แล้ว
+    มอบบรรยากาศสดชื่นและเบาสบายเหมือนเช้าวันฤดูใบไม้ผลิให้ทุกครั้งที่เขียน
+  appearance: รูปลักษณ์
+  appearanceDesc: ปรับแต่งรูปลักษณ์ของแอปพลิเคชัน
+  appearanceLight: สว่าง
+  appearanceDark: มืด
+  appearanceSystem: ตามระบบ
+  languageDesc: เลือกภาษาที่คุณต้องการ
+  shortcutsConfig: การตั้งค่าทางลัด
+  version: เวอร์ชัน
+  features: คุณสมบัติ
+  privacy: ความเป็นส่วนตัว
+  allRightsReserved: สงวนลิขสิทธิ์
+  imageStorage: การจัดเก็บรูปภาพ
+  imageStorageMode: โหมดการจัดเก็บรูปภาพ
+  imageStorageModeDesc: เลือกตำแหน่งจัดเก็บรูปภาพ
+  imageStorageAppData: ข้อมูลแอปพลิเคชัน
+  imageStorageAlongside: ตำแหน่งเดียวกับเอกสาร
+  imageStorageCustom: เส้นทางที่กำหนดเอง
+  imageFolderName: ชื่อโฟลเดอร์รูปภาพ
+  imageFolderNameDesc: 'ชื่อโฟลเดอร์รูปภาพ (ค่าเริ่มต้น: images)'
+  imageStoragePath: เส้นทางจัดเก็บรูปภาพ
+  imageStoragePathDesc: เส้นทางจัดเก็บรูปภาพที่กำหนดเอง
+  selectImageStoragePath: เลือกเส้นทางจัดเก็บรูปภาพ
+  imageAggregationMode: โหมดรวบรวมรูปภาพ
+  imageAggregationModeDesc: วิธีจัดระเบียบไฟล์รูปภาพ
+  imageAggregationNone: ไม่จัดหมวดหมู่
+  imageAggregationByDocument: จัดตามเอกสาร
+  imageAggregationByDate: จัดตามวันที่
+  imageDateFormat: รูปแบบวันที่รูปภาพ
+  imageDateFormatDesc: รูปแบบวันที่ที่ใช้เมื่อจัดตามวันที่
+  invalidImagePath: เส้นทางรูปภาพไม่ถูกต้อง
+  invalidImagePathDesc: กรุณาเลือกเส้นทางโฟลเดอร์ที่ถูกต้อง
+  imagePathSet: ตั้งค่าเส้นทางรูปภาพแล้ว
+  failedToSetImagePath: ไม่สามารถตั้งค่าเส้นทางรูปภาพ
+  fontFamily: ฟอนต์
+  fontFamilyDesc: เลือกฟอนต์ตัวแก้ไข
+  fontSystemDefault: ค่าเริ่มต้นของระบบ
+  fontMono: ฟอนต์แบบอักษรความกว้างคงที่
+  fontSampleText: Aa ไทย
+  windowSize: ขนาดหน้าต่าง
+  windowSizeDesc: ปรับขนาดเริ่มต้นของหน้าต่างตัวแก้ไข
+  resetSettings: รีเซ็ตการตั้งค่า
+  resetToDefault: คืนค่าเริ่มต้น
+  resetToDefaultDesc: คืนค่าการตั้งค่าทั้งหมดเป็นค่าเริ่มต้น
+  resetButton: รีเซ็ต
+  resetConfirm: คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตการตั้งค่าทั้งหมด? การดำเนินการนี้ไม่สามารถยกเลิกได้
+  resetSuccess: รีเซ็ตการตั้งค่าแล้ว
+  resetFailed: รีเซ็ตล้มเหลว
+  acknowledgments: ขอขอบคุณ
+  acknowledgmentsSubtitle: ขอบคุณโครงการโอเพ่นซอร์สต่อไปนี้
+  thanksMessage: ขอบคุณที่ใช้ Textox!
+  theme: ธีม
+  themeSystem: ตามระบบ
+  themeLight: สว่าง
+  themeDark: มืด
+  language: ภาษา
+  interfaceFont: ฟอนต์อินเทอร์เฟซ
+  editorFont: ฟอนต์ตัวแก้ไข
+  autoSaveOff: ปิด
+  autoSaveOnFocusChange: เมื่อเปลี่ยนโฟกัส
+  autoSaveOnDelay: หลังจากหน่วงเวลา
+  autoSaveDelay: ความล่าช้าการบันทึกอัตโนมัติ (วินาที)
+  author: ผู้เขียน
+  license: ใบอนุญาต
+  close: ปิด
+  slashCommands: คำสั่ง Slash
+  themeManagement: การจัดการธีม
+  themeManagementDesc: นำเข้าธีมที่กำหนดเองจากไฟล์ในเครื่อง
+  themePresets: ค่าที่ตั้งไว้
+  themeCustomProfiles: การกำหนดค่าที่กำหนดเอง
+  themeNew: ใหม่
+  themeNewFromPreset: ธีมใหม่จากค่าที่ตั้งไว้ปัจจุบัน
+  importTheme: นำเข้าธีม
+  importing: กำลังนำเข้า...
+  themeImportSuccess: นำเข้าธีมสำเร็จ
+  themeAlreadyExists: ธีมนี้มีอยู่แล้ว
+  themeImportFailed: การนำเข้าธีมล้มเหลว
+  deleteTheme: ลบ
+  themeDeleteSuccess: ลบธีมแล้ว
+  themeDeleteFailed: การลบธีมล้มเหลว
+  duplicateTheme: ทำซ้ำธีม
+  duplicateThemeSuffix: สำเนา
+  renameTheme: เปลี่ยนชื่อ
+  themeDuplicateSuccess: ทำซ้ำธีมแล้ว
+  themeDuplicateFailed: การทำซ้ำธีมล้มเหลว
+  themeStory: เรื่องราวของธีม
+  themeEditor: ตัวแก้ไขธีม
+  loadTheme: โหลดธีม
+  applyPreview: ใช้ตัวอย่าง
+  applying: กำลังใช้...
+  themeId: ID ธีม
+  themeName: ชื่อธีม
+  themeNamePlaceholder: ป้อนชื่อธีม
+  saveAsTheme: บันทึกเป็นธีม
+  themePreviewApplied: ใช้ตัวอย่างธีมแล้ว
+  themePreviewFailed: ตัวอย่างล้มเหลว
+  themeNameRequired: โปรดป้อน ID และชื่อธีม
+  themeSaveSuccess: บันทึกธีมสำเร็จ
+  themeSaveFailed: บันทึกธีมไม่สำเร็จ
+  quickEdit: แก้ไขด่วน
+  codeDisplay: การแสดงโค้ด
+  activeTheme: ชุดรูปแบบที่ใช้งาน
+  customThemes: ชุดรูปแบบที่กำหนดเอง
+  themeEdit: แก้ไขชุดรูปแบบ
+  cancelPreview: ยกเลิกการแสดงตัวอย่าง
+  overwriteThemeConfirm: คุณแน่ใจหรือไม่ว่าต้องการเขียนทับชุดรูปแบบ "{{name}}"
+  deleteThemeConfirm: คุณแน่ใจหรือไม่ว่าต้องการลบชุดรูปแบบ "{{name}}"
+  exportTheme: ส่งออก
+  themeExportSuccess: ส่งออกชุดรูปแบบสำเร็จ
+  themeExportFailed: ส่งออกชุดรูปแบบล้มเหลว
+  createCustomTheme: สร้างชุดรูปแบบที่กำหนดเอง
+  readonlyThemeBanner: ชุดรูปแบบในตัว (อ่านอย่างเดียว) — สร้างสำเนาที่กำหนดเองเพื่อแก้ไข
+  group:
+    surface: พื้นผิว
+    accents: สีเน้น
+    feedback: ข้อเสนอแนะ
+    boundaries: ขอบเขต
+    charts: แผนภูมิ
+    sidebar: แถบด้านข้าง
+  markdown: Markdown
+  markdownTitle: ไวยากรณ์ Markdown
+  markdownEmpty: ไม่มีคุณสมบัติไวยากรณ์ที่กำหนดค่าได้
+  alertTitle: การแจ้งเตือน
+  alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  html-commentTitle: ความคิดเห็น HTML
+  html-commentDesc: แสดงบล็อกความคิดเห็น <!-- -->
+  html-inlineTitle: HTML แบบอินไลน์
+  html-inlineDesc: แสดงแท็ก HTML แบบอินไลน์เช่น <span style>, <kbd>, <abbr>
+  typing-particleTitle: อนุภาคขณะพิมพ์
+  typing-particleDesc: ปล่อยอนุภาคประกายไฟจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
+  fileExtensions: นามสกุลไฟล์
+  fileExtensionsDesc: จัดการประเภทไฟล์ที่สามารถคลิกได้ในแผนผังไฟล์ นามสกุลที่ไม่อยู่ในรายการจะแสดงเป็นปิดใช้งาน
+  fileExtensionsPlaceholder: ป้อนนามสกุล (เช่น md)
+  imageStoragePicgo: โฮสต์รูปภาพ PicGo
+  picgoServerUrl: URL เซิร์ฟเวอร์ PicGo
+  picgoServerUrlDesc: โปรดดู PicGo Server
+  picgoTestConnection: ทดสอบ
+  picgoConnectionSuccess: เชื่อมต่อ PicGo สำเร็จ
+  picgoConnectionFailed: การเชื่อมต่อ PicGo ล้มเหลว โปรดตรวจสอบว่าไคลเอ็นต์ PicGo กำลังทำงานอยู่หรือไม่
+  typingParticles: อนุภาคขณะพิมพ์
+  typingParticlesDesc: ปล่อยอนุภาคจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
+  particlePreset: ค่าที่ตั้งไว้
+  particleCount: จำนวนอนุภาค
+  particleSize: ขนาดอนุภาค
+  particleSpeed: ความเร็ว
+  particleSpread: การกระจาย
+  particleGravity: แรงโน้มถ่วง
+  particleDuration: ระยะเวลา
+  particleDirection: ทิศทาง
+  particleDirUp: ขึ้น
+  particleDirDown: ลง
+  particleDirRadial: รัศมี
+  particleDirRandom: สุ่ม
+  particleOn: เปิดใช้งานอนุภาคขณะพิมพ์
+  particleShape: รูปร่าง
+  particleShapeCircle: วงกลม
+  particleShapeSquare: สี่เหลี่ยม
+  particleShapeStar: ดาว
+  particleShapeDiamond: เพชร
+  particleShapeTriangle: สามเหลี่ยม
+  particlePaletteRainbow: สายรุ้ง
+  particlePaletteWarm: อบอุ่น
+  particlePaletteCool: เย็น
+  particlePalettePastel: พาสเทล
+  particlePaletteNeon: นีออน
+  particleColorTheme: ตามธีม
+  particleColorFixed: สีคงที่
+  particleColorRandom: สุ่ม
+  particleColor: สี
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

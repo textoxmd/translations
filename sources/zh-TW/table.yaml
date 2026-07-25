@@ -1,0 +1,18 @@
+table:
+  insertTable: 插入表格
+  addColumnBefore: 在前方插入欄
+  addColumnAfter: 在後方插入欄
+  deleteColumn: 刪除欄
+  addRowBefore: 在上方插入列
+  addRowAfter: 在下方插入列
+  deleteRow: 刪除列
+  mergeCells: 合併儲存格
+  splitCell: 拆分儲存格
+  deleteTable: 刪除表格
+  rows: 列
+  columns: 欄
+  alignLeft: 左對齊
+  alignCenter: 置中對齊
+  alignRight: 右對齊
+  editTable: 編輯表格
+  applyChanges: 套用變更

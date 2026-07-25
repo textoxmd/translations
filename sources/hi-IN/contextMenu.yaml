@@ -1,0 +1,23 @@
+contextMenu:
+  cut: काटें
+  copy: कॉपी करें
+  paste: पेस्ट करें
+  delete: हटाएं
+  selectAll: सभी चुनें
+  insertLink: लिंक सम्मिलित करें
+  openLink: लिंक खोलें
+  copyLink: लिंक पता कॉपी करें
+  undo: पूर्ववत करें
+  redo: फिर से करें
+  insertTable: तालिका सम्मिलित करें
+  bold: बोल्ड
+  cancelBold: बोल्ड रद्द करें
+  italic: इटैलिक
+  cancelItalic: इटैलिक रद्द करें
+  strikethrough: स्ट्राइकथ्रू
+  cancelStrikethrough: स्ट्राइकथ्रू रद्द करें
+  inlineCode: इनलाइन कोड
+  cancelInlineCode: इनलाइन कोड रद्द करें
+  copyCode: कोड कॉपी करें
+  pasteAsPlainText: सादे पाठ के रूप में पेस्ट करें
+  copyAsHtml: HTML के रूप में कॉपी करें

@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: ไฟล์
+  categoryEdit: แก้ไข
+  categoryView: มุมมอง
+  categoryParagraph: ย่อหน้า
+  categoryFormat: รูปแบบ
+  categoryWindow: หน้าต่าง
+  categoryHelp: ความช่วยเหลือ
+  searchPlaceholder: ค้นหาทางลัด...
+  resetToDefault: คืนค่าเริ่มต้น
+  resetConfirm: คุณแน่ใจหรือไม่ว่าต้องการคืนค่าทางลัดทั้งหมดเป็นค่าเริ่มต้น?
+  conflictWarning: ทางลัดนี้ขัดแย้งกับฟังก์ชันอื่น ดำเนินการต่อ?
+  conflictDesc: ทางลัดนี้ถูกใช้โดยฟังก์ชันอื่นแล้ว
+  conflictWith: ขัดแย้งกับ {{action}}
+  conflict: ขัดแย้ง
+  pressEnterConfirm: กด Enter เพื่อยืนยัน
+  pressShortcut: กดทางลัด...
+  clickToEdit: คลิกเพื่อแก้ไข
+  builtIn: ทางลัดในตัว (อ่านอย่างเดียว)
+  notSet: ไม่ได้ตั้งค่า
+  clearShortcut: ล้างทางลัด
+  hint: 'เคล็ดลับ: คลิกที่ทางลัดเพื่อแก้ไข กด Delete เพื่อล้าง'
+  clickToCopy: คลิกเพื่อคัดลอก
+  resetToDefaultSingle: คืนค่าเริ่มต้น
+  conflictOverride: ทางลัดนี้ถูกใช้โดย "{{actions}}" อยู่แล้ว ต้องการเขียนทับหรือไม่?
+  forceOverride: บังคับเขียนทับ
+  conflictWithBuiltin: ทางลัดนี้ขัดแย้งกับฟังก์ชันในตัวและไม่สามารถใช้งานได้
+  escToCancel: Esc เพื่อยกเลิก
+  pressKeys: กดทางลัด
+  action:
+    newWindow: หน้าต่างใหม่
+    newWindowDesc: เปิดหน้าต่างตัวแก้ไขใหม่
+    openFile: เปิดไฟล์
+    openFileDesc: เปิดไฟล์ที่มีอยู่
+    saveFile: บันทึกไฟล์
+    saveFileDesc: บันทึกไฟล์ปัจจุบัน
+    toggleSidebar: สลับแถบด้านข้าง
+    toggleSidebarDesc: แสดงหรือซ่อนแถบด้านข้าง
+    toggleEditMode: สลับโหมดการแก้ไข
+    toggleEditModeDesc: สลับระหว่างโหมดซอร์สและ WYSIWYG
+    toggleTypewriterMode: โหมดเครื่องพิมพ์ดีด
+    toggleTypewriterModeDesc: ในโหมดเครื่องพิมพ์ดีด บรรทัดเคอร์เซอร์จะอยู่กึ่งกลางหน้าจอ
+    openFolder: เปิดโฟลเดอร์
+    openFolderDesc: เปิดโฟลเดอร์
+    openFileLocation: เปิดตำแหน่งไฟล์
+    openFileLocationDesc: แสดงไฟล์ปัจจุบันในตัวจัดการไฟล์
+    heading1: หัวข้อ 1
+    heading1Desc: หัวข้อระดับ 1
+    heading2: หัวข้อ 2
+    heading2Desc: หัวข้อระดับ 2
+    heading3: หัวข้อ 3
+    heading3Desc: หัวข้อระดับ 3
+    heading4: หัวข้อ 4
+    heading4Desc: หัวข้อระดับ 4
+    heading5: หัวข้อ 5
+    heading5Desc: หัวข้อระดับ 5
+    heading6: หัวข้อ 6
+    heading6Desc: หัวข้อระดับ 6
+    bulletList: รายการสัญลักษณ์แสดงหัวข้อ
+    bulletListDesc: แทรกรายการสัญลักษณ์แสดงหัวข้อ
+    orderedList: รายการลำดับเลข
+    orderedListDesc: แทรกรายการลำดับเลข
+    taskList: รายการงาน
+    taskListDesc: แทรกรายการงาน
+    codeBlock: บล็อกโค้ด
+    codeBlockDesc: แทรกบล็อกโค้ด
+    mathBlock: บล็อกคณิตศาสตร์
+    mathBlockDesc: แทรกบล็อกคณิตศาสตร์
+    blockquote: บล็อกคำพูด
+    blockquoteDesc: แทรกบล็อกคำพูด
+    horizontalRule: เส้นแนวนอน
+    horizontalRuleDesc: แทรกเส้นแนวนอน
+    table: ตาราง
+    tableDesc: แทรกตาราง
+    mermaid: แผนภาพ Mermaid
+    mermaidDesc: แทรกแผนภาพ Mermaid
+    footnote: อ้างอิง
+    footnoteDesc: แทรกอ้างอิงท้ายเรื่อง
+    image: รูปภาพ
+    imageDesc: แทรกรูปภาพ
+    minimize: ย่อเล็กสุด
+    minimizeDesc: ย่อหน้าต่างเล็กสุด
+    zoom: ซูม
+    zoomDesc: ซูมหน้าต่าง
+    fullscreen: เต็มหน้าจอ
+    fullscreenDesc: สลับโหมดเต็มหน้าจอ
+    center: จัดกึ่งกลาง
+    centerDesc: จัดกึ่งกลางหน้าต่าง
+    undo: เลิกทำ
+    undoDesc: เลิกทำการกระทำล่าสุด
+    redo: ทำซ้ำ
+    redoDesc: ทำซ้ำการกระทำที่เลิกทำล่าสุด
+    redoAlt: ทำซ้ำ (ทางเลือก)
+    redoAltDesc: ทำซ้ำการกระทำที่เลิกทำล่าสุด (ทางเลือก)
+    selectLine: เลือกบรรทัด
+    selectLineDesc: เลือกเนื้อหาทั้งหมดของบรรทัดปัจจุบัน
+    toggleUnderline: สลับขีดเส้นใต้
+    toggleUnderlineDesc: เพิ่มหรือลบขีดเส้นใต้บนข้อความที่เลือก
+    toggleBold: สลับตัวหนา
+    toggleBoldDesc: เพิ่มหรือลบการจัดรูปแบบตัวหนาบนข้อความที่เลือก
+    commandPalette: จานสีคำสั่ง
+    commandPaletteDesc: เปิดจานสีคำสั่งเพื่อดำเนินการอย่างรวดเร็ว
+    cut: ตัด
+    cutDesc: ตัดเนื้อหาที่เลือกไปยังคลิปบอร์ด
+    copy: คัดลอก
+    copyDesc: คัดลอกเนื้อหาที่เลือกไปยังคลิปบอร์ด
+    paste: วาง
+    pasteDesc: วางเนื้อหาจากคลิปบอร์ด
+    selectAll: เลือกทั้งหมด
+    selectAllDesc: เลือกเนื้อหาทั้งหมดในเอกสารปัจจุบัน
+  title: ทางลัด
+  file: ไฟล์
+  newFile: ไฟล์ใหม่
+  openFile: เปิดไฟล์
+  save: บันทึก
+  saveAs: บันทึกเป็น
+  edit: แก้ไข
+  undo: เลิกทำ
+  redo: ทำซ้ำ
+  cut: ตัด
+  copy: คัดลอก
+  paste: วาง
+  selectAll: เลือกทั้งหมด
+  find: ค้นหา
+  replace: แทนที่
+  view: มุมมอง
+  toggleSidebar: สลับแถบด้านข้าง
+  toggleOutline: สลับโครงร่าง
+  togglePreview: สลับตัวอย่าง
+  format: รูปแบบ
+  bold: ตัวหนา
+  italic: ตัวเอียง
+  strikethrough: ขีดฆ่า
+  inlineCode: โค้ดแทรก
+  heading: หัวข้อ
+  bulletList: รายการสัญลักษณ์แสดงหัวข้อ
+  orderedList: รายการลำดับเลข
+  blockquote: บล็อกคำพูด
+  codeBlock: บล็อกโค้ด
+  horizontalRule: เส้นแนวนอน
+  link: ลิงก์
+  image: รูปภาพ
+  table: ตาราง
+  taskList: รายการงาน

@@ -1,0 +1,20 @@
+directoryTree:
+  title: 파일
+  newFile: 새 파일
+  newFolder: 새 폴더
+  rename: 이름 바꾸기
+  delete: 삭제
+  loading: 로딩 중...
+  newFileDefaultName: 새 파일.md
+  newFolderDefaultName: 새 폴더
+  selectedCount: '{{count}}개 항목 선택'
+  notOpenable: 열 수 있는 파일 형식으로 구성되지 않음
+  deleteConfirmTitle: '"{{name}}" 및 그 내용을 삭제하시겠습니까?'
+  deleteConfirmTitleFile: '"{{name}}"을(를) 삭제하시겠습니까?'
+  deleteConfirmMultiple: 이 {{count}}개 항목을 삭제하시겠습니까?
+  deleteConfirmRecoveryHint: 이 항목은 휴지통에서 복원할 수 있습니다.
+  deleteConfirmDontAskAgain: 다시 묻지 않음
+  deleteConfirmMoveToTrash: 휴지통으로 이동
+  showInFinder: Finder에서 보기
+  dragToResize: 드래그하여 크기 조정
+  closeFile: 파일 닫기

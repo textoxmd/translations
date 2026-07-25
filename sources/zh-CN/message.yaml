@@ -1,0 +1,15 @@
+message:
+  linkCopied: 链接已复制到剪贴板
+  codeCopied: 代码已复制到剪贴板
+  saveSuccess: 保存成功
+  saveFailed: 保存失败
+  imageUploadSuccess: 图片上传成功
+  imageUploadFailed: 图片上传失败
+  imageInsertNotAllowed: 请先保存文件后再插入图片
+  imageInsertNotAllowedSingleFile: 单文件模式下不允许插入图片，请先打开文件夹
+  imageInsertFailed: 插入图片失败
+  imageUploading: 正在上传图片到图床…
+  recentFileNotFound: 最近打开的文件不存在，已清除记录
+  recentFolderNotFound: 最近打开的文件夹不存在，已清除记录
+  typewriterEnabled: 打字机模式已开启
+  typewriterDisabled: 打字机模式已关闭

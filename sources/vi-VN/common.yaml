@@ -1,0 +1,47 @@
+common:
+  save: Lưu
+  cancel: Hủy
+  confirm: Xác nhận
+  delete: Xóa
+  edit: Chỉnh sửa
+  copy: Sao chép
+  paste: Dán
+  cut: Cắt
+  selectAll: Chọn tất cả
+  undo: Hoàn tác
+  redo: Làm lại
+  search: Tìm kiếm
+  replace: Thay thế
+  settings: Cài đặt
+  close: Đóng
+  open: Mở
+  new: Mới
+  file: Tệp
+  folder: Thư mục
+  recent: Gần đây
+  language: Ngôn ngữ
+  failed: Thất bại
+  reset: Đặt lại
+  clear: Xóa
+  lock: Khóa
+  unlock: Mở khóa
+  bold: Đậm
+  italic: Nghiêng
+  strikethrough: Gạch ngang
+  underline: Gạch chân
+  inlineCode: Mã nội dòng
+  highlight: Đánh dấu
+  blockquote: Trích dẫn
+  codeBlock: Khối mã
+  horizontalRule: Đường kẻ ngang
+  bulletList: Danh sách không thứ tự
+  orderedList: Danh sách có thứ tự
+  taskList: Danh sách công việc
+  table: Bảng
+  image: Hình ảnh
+  link: Liên kết
+  mathBlock: Khối toán
+  mermaid: Sơ đồ Mermaid
+  closeToolbar: Ẩn thanh công cụ
+  exportPdf: Xuất PDF
+  more: Thêm

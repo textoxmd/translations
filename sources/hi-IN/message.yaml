@@ -1,0 +1,15 @@
+message:
+  linkCopied: लिंक क्लिपबोर्ड पर कॉपी किया गया
+  codeCopied: कोड क्लिपबोर्ड पर कॉपी किया गया
+  saveSuccess: सहेजना सफल
+  saveFailed: सहेजना विफल
+  imageUploadSuccess: छवि अपलोड सफल
+  imageUploadFailed: छवि अपलोड विफल
+  imageInsertNotAllowed: छवियाँ सम्मिलित करने से पहले फाइल सहेजें
+  imageInsertNotAllowedSingleFile: एकल फ़ाइल मोड में छवियाँ सम्मिलित नहीं की जा सकतीं। कृपया पहले एक फ़ोल्डर खोलें
+  imageInsertFailed: छवि सम्मिलित करना विफल
+  imageUploading: होस्टिंग पर इमेज अपलोड हो रही है…
+  recentFileNotFound: हाल की फाइल नहीं मिली, रिकॉर्ड साफ़ किया गया
+  recentFolderNotFound: हाल का फ़ोल्डर नहीं मिला, रिकॉर्ड साफ़ किया गया
+  typewriterEnabled: टाइपराइटर मोड सक्षम किया गया
+  typewriterDisabled: टाइपराइटर मोड अक्षम किया गया

@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: 檔案
+  categoryEdit: 編輯
+  categoryView: 檢視
+  categoryParagraph: 段落
+  categoryFormat: 格式
+  categoryWindow: 視窗
+  categoryHelp: 說明
+  searchPlaceholder: 搜尋快捷鍵...
+  resetToDefault: 恢復預設值
+  resetConfirm: 確定要恢復所有快捷鍵的預設值嗎？
+  conflictWarning: 此快捷鍵與其他功能衝突，是否繼續？
+  conflictDesc: 此快捷鍵已被其他功能使用
+  conflictWith: 與 {{action}} 衝突
+  conflict: 衝突
+  pressEnterConfirm: 按 Enter 確認
+  pressShortcut: 按下快捷鍵...
+  clickToEdit: 點擊編輯
+  builtIn: 內建快捷鍵（不可修改）
+  notSet: 未設定
+  clearShortcut: 清除快捷鍵
+  hint: 提示：點擊快捷鍵即可編輯，按 Delete 清除
+  clickToCopy: 點擊複製
+  resetToDefaultSingle: 恢復預設
+  conflictOverride: 此快捷鍵已被「{{actions}}」使用，是否強制覆蓋？
+  forceOverride: 強制覆蓋
+  conflictWithBuiltin: 此快捷鍵與內建功能衝突，無法使用
+  escToCancel: Esc 取消
+  pressKeys: 請按下快捷鍵
+  action:
+    newWindow: 新增視窗
+    newWindowDesc: 開啟一個新的編輯器視窗
+    openFile: 開啟檔案
+    openFileDesc: 開啟現有檔案
+    saveFile: 儲存檔案
+    saveFileDesc: 儲存目前檔案
+    toggleSidebar: 切換側邊欄
+    toggleSidebarDesc: 顯示或隱藏側邊欄
+    toggleEditMode: 切換編輯模式
+    toggleEditModeDesc: 在原始碼和所見即所得模式之間切換
+    toggleTypewriterMode: 打字機模式
+    toggleTypewriterModeDesc: 在打字機模式下，游標行將保持在螢幕中央位置
+    openFolder: 開啟資料夾
+    openFolderDesc: 開啟一個資料夾
+    openFileLocation: 開啟檔案位置
+    openFileLocationDesc: 在檔案管理員中顯示目前檔案
+    heading1: 標題 1
+    heading1Desc: 一級標題
+    heading2: 標題 2
+    heading2Desc: 二級標題
+    heading3: 標題 3
+    heading3Desc: 三級標題
+    heading4: 標題 4
+    heading4Desc: 四級標題
+    heading5: 標題 5
+    heading5Desc: 五級標題
+    heading6: 標題 6
+    heading6Desc: 六級標題
+    bulletList: 無序清單
+    bulletListDesc: 插入無序清單
+    orderedList: 有序清單
+    orderedListDesc: 插入有序清單
+    taskList: 任務清單
+    taskListDesc: 插入任務清單
+    codeBlock: 程式碼區塊
+    codeBlockDesc: 插入程式碼區塊
+    mathBlock: 數學公式
+    mathBlockDesc: 插入數學公式
+    blockquote: 引用區塊
+    blockquoteDesc: 插入引用區塊
+    horizontalRule: 分隔線
+    horizontalRuleDesc: 插入分隔線
+    table: 表格
+    tableDesc: 插入表格
+    mermaid: Mermaid 圖表
+    mermaidDesc: 插入 Mermaid 圖表
+    footnote: 註腳
+    footnoteDesc: 插入註腳
+    image: 圖片
+    imageDesc: 插入圖片
+    minimize: 最小化
+    minimizeDesc: 最小化視窗
+    zoom: 縮放
+    zoomDesc: 縮放視窗
+    fullscreen: 全螢幕
+    fullscreenDesc: 切換全螢幕模式
+    center: 置中
+    centerDesc: 將視窗置中顯示
+    undo: 復原
+    undoDesc: 復原上一步操作
+    redo: 重做
+    redoDesc: 重做上一步復原的操作
+    redoAlt: 重做（備選）
+    redoAltDesc: 重做上一步復原的操作（備選快捷鍵）
+    selectLine: 選擇整行
+    selectLineDesc: 選取游標所在行的全部內容
+    toggleUnderline: 切換底線
+    toggleUnderlineDesc: 為選取文字新增或移除底線
+    toggleBold: 切換粗體
+    toggleBoldDesc: 為選取文字新增或移除粗體格式
+    commandPalette: 命令面板
+    commandPaletteDesc: 開啟命令面板以快速執行操作
+    cut: 剪下
+    cutDesc: 將選取內容剪下到剪貼簿
+    copy: 複製
+    copyDesc: 將選取內容複製到剪貼簿
+    paste: 貼上
+    pasteDesc: 從剪貼簿貼上內容
+    selectAll: 全選
+    selectAllDesc: 選取目前文件中的所有內容
+  title: 快捷鍵
+  file: 檔案
+  newFile: 新增檔案
+  openFile: 開啟檔案
+  save: 儲存
+  saveAs: 另存新檔
+  edit: 編輯
+  undo: 復原
+  redo: 重做
+  cut: 剪下
+  copy: 複製
+  paste: 貼上
+  selectAll: 全選
+  find: 尋找
+  replace: 取代
+  view: 檢視
+  toggleSidebar: 切換側邊欄
+  toggleOutline: 切換大綱
+  togglePreview: 切換預覽
+  format: 格式
+  bold: 粗體
+  italic: 斜體
+  strikethrough: 刪除線
+  inlineCode: 行內程式碼
+  heading: 標題
+  bulletList: 項目符號清單
+  orderedList: 編號清單
+  blockquote: 引用區塊
+  codeBlock: 程式碼區塊
+  horizontalRule: 水平線
+  link: 連結
+  image: 圖片
+  table: 表格
+  taskList: 任務清單

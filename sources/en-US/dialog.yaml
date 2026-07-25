@@ -1,0 +1,7 @@
+dialog:
+  selectFolder: Select Folder
+  fileModifiedTitle: File Modified
+  fileModifiedDesc: >-
+    This file has been modified elsewhere. You can reload to load the latest content, or continue editing the current
+    version (may cause content conflicts).
+  fileModifiedReload: Reload

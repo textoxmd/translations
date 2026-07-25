@@ -1,0 +1,20 @@
+directoryTree:
+  title: Tệp
+  newFile: Tệp mới
+  newFolder: Thư mục mới
+  rename: Đổi tên
+  delete: Xóa
+  loading: Đang tải...
+  newFileDefaultName: Tệp mới.md
+  newFolderDefaultName: Thư mục mới
+  selectedCount: Đã chọn {{count}} mục
+  notOpenable: Chưa được cấu hình như một loại tệp có thể mở
+  deleteConfirmTitle: Bạn có chắc chắn muốn xóa "{{name}}" và nội dung của nó?
+  deleteConfirmTitleFile: Bạn có chắc chắn muốn xóa "{{name}}"?
+  deleteConfirmMultiple: Bạn có chắc chắn muốn xóa {{count}} mục này?
+  deleteConfirmRecoveryHint: Bạn có thể khôi phục mục này từ Thùng rác.
+  deleteConfirmDontAskAgain: Không hỏi lại
+  deleteConfirmMoveToTrash: Di chuyển đến Thùng rác
+  showInFinder: Hiển thị trong Finder
+  dragToResize: Kéo để thay đổi kích thước
+  closeFile: Đóng tệp

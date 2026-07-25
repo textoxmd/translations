@@ -1,0 +1,18 @@
+table:
+  insertTable: Inserir tabela
+  addColumnBefore: Adicionar coluna antes
+  addColumnAfter: Adicionar coluna depois
+  deleteColumn: Eliminar coluna
+  addRowBefore: Adicionar linha antes
+  addRowAfter: Adicionar linha depois
+  deleteRow: Eliminar linha
+  mergeCells: Mesclar células
+  splitCell: Dividir célula
+  deleteTable: Eliminar tabela
+  rows: Linhas
+  columns: Colunas
+  alignLeft: Alinhar à esquerda
+  alignCenter: Alinhar ao centro
+  alignRight: Alinhar à direita
+  editTable: Editar tabela
+  applyChanges: Aplicar alterações

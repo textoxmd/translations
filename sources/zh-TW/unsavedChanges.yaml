@@ -1,0 +1,12 @@
+unsavedChanges:
+  title: 未儲存的變更
+  closeUnsavedTitle: 關閉未儲存的檔案
+  message: '"{{fileName}}" 有未儲存的變更，是否儲存？'
+  closeUnsavedMessage: 目前檔案有未儲存的變更，是否儲存？
+  simpleMessage: 您有未儲存的變更，是否儲存？
+  confirmExit: 確定要退出嗎？未儲存的變更將遺失。
+  confirmClose: 確定要關閉嗎？未儲存的變更將遺失。
+  save: 儲存
+  dontSave: 不儲存
+  cancel: 取消
+  untitledFile: 未命名檔案

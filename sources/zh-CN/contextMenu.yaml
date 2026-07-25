@@ -1,0 +1,23 @@
+contextMenu:
+  cut: 剪切
+  copy: 复制
+  paste: 粘贴
+  delete: 删除
+  selectAll: 全选
+  insertLink: 插入链接
+  openLink: 打开链接
+  copyLink: 复制链接地址
+  undo: 撤销
+  redo: 重做
+  insertTable: 插入表格
+  bold: 加粗
+  cancelBold: 取消加粗
+  italic: 斜体
+  cancelItalic: 取消斜体
+  strikethrough: 删除线
+  cancelStrikethrough: 取消删除线
+  inlineCode: 行内代码
+  cancelInlineCode: 取消行内代码
+  copyCode: 复制代码
+  pasteAsPlainText: 粘贴为纯文本
+  copyAsHtml: 复制为 HTML

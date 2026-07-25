@@ -1,0 +1,18 @@
+table:
+  insertTable: 表を挿入
+  addColumnBefore: 前に列を挿入
+  addColumnAfter: 後に列を挿入
+  deleteColumn: 列を削除
+  addRowBefore: 上に行を挿入
+  addRowAfter: 下に行を挿入
+  deleteRow: 行を削除
+  mergeCells: セルを結合
+  splitCell: セルを分割
+  deleteTable: 表を削除
+  rows: 行
+  columns: 列
+  alignLeft: 左揃え
+  alignCenter: 中央揃え
+  alignRight: 右揃え
+  editTable: 表を編集
+  applyChanges: 変更を適用

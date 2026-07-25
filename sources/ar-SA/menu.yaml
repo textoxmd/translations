@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: حول Textox
+  preferences: التفضيلات...
+  quit: خروج من Textox
+  file: ملف
+  new_window: نافذة جديدة
+  open: فتح...
+  open_folder: فتح مجلد...
+  open_recent: فتح الأخيرة
+  no_recent: لا توجد أخيرة
+  clear_recent: مسح القائمة
+  windows: النوافذ المفتوحة
+  save: حفظ
+  open_location: إظهار في Finder
+  export: تصدير PDF...
+  saveBeforeExport: يرجى حفظ الملف قبل التصدير
+  saveBeforeExportPrompt: المستند يحتوي على تغييرات غير محفوظة. هل تريد الحفظ قبل التصدير؟
+  edit: تحرير
+  undo: تراجع
+  redo: إعادة
+  cut: قص
+  copy: نسخ
+  paste: لصق
+  select_all: تحديد الكل
+  auto_fill: التعبئة التلقائية
+  start_dictation: بدء الإملاء...
+  emoji_symbols: الرموز التعبيرية والرموز
+  paragraph: فقرة
+  heading_1: العنوان 1
+  heading_2: العنوان 2
+  heading_3: العنوان 3
+  heading_4: العنوان 4
+  heading_5: العنوان 5
+  heading_6: العنوان 6
+  bullet_list: قائمة نقطية
+  ordered_list: قائمة مرقمة
+  task_list: قائمة المهام
+  code_block: كتلة كود
+  math_block: كتلة رياضية
+  blockquote: كتلة اقتباس
+  horizontal_rule: خط أفقي
+  table: جدول
+  mermaid: مخطط Mermaid
+  footnote: هامش
+  image: صورة
+  format: تنسيق
+  bold: عريض
+  italic: مائل
+  underline: تحته خط
+  strikethrough: مشطوب
+  inline_code: كود مضمن
+  highlight: تمييز
+  clear_formatting: مشطوب
+  view: عرض
+  toggle_sidebar: تبديل الشريط الجانبي
+  toggle_edit_mode: تبديل وضع التحرير
+  toggle_typewriter_mode: وضع الآلة الكاتبة
+  window: نافذة
+  minimize: تصغير
+  zoom: تكبير
+  fullscreen: ملء الشاشة
+  center: توسيط
+  help: مساعدة
+  acknowledgments: شكر وتقدير
+  changelog: سجل التغييرات
+  privacy: سياسة الخصوصية
+  website: الموقع الإلكتروني
+  feedback: ملاحظات
+  export_logs: تصدير السجلات...
+  auto_save: الحفظ التلقائي
+  newFile: ملف جديد
+  openFile: فتح ملف...
+  openFolder: فتح مجلد...
+  saveAs: حفظ باسم...
+  closeFile: إغلاق الملف
+  closeWindow: إغلاق النافذة
+  recentFiles: الملفات الأخيرة
+  clearRecent: مسح الأخيرة
+  noRecentFiles: لا توجد ملفات أخيرة
+  selectAll: تحديد الكل
+  find: بحث...
+  replace: استبدال...
+  toggleSidebar: تبديل الشريط الجانبي
+  toggleOutline: تبديل المخطط
+  togglePreview: تبديل المعاينة
+  toggleSourceMode: تبديل وضع المصدر
+  fullScreen: ملء الشاشة
+  settings: الإعدادات...
+  checkForUpdates: التحقق من التحديثات...

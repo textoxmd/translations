@@ -1,0 +1,47 @@
+common:
+  save: 儲存
+  cancel: 取消
+  confirm: 確認
+  delete: 刪除
+  edit: 編輯
+  copy: 複製
+  paste: 貼上
+  cut: 剪下
+  selectAll: 全選
+  undo: 復原
+  redo: 重做
+  search: 搜尋
+  replace: 取代
+  settings: 設定
+  close: 關閉
+  open: 開啟
+  new: 新增
+  file: 檔案
+  folder: 資料夾
+  recent: 最近
+  language: 語言
+  failed: 失敗
+  reset: 恢復預設
+  clear: 清除
+  lock: 鎖定
+  unlock: 解鎖
+  bold: 粗體
+  italic: 斜體
+  strikethrough: 刪除線
+  underline: 底線
+  inlineCode: 行內程式碼
+  highlight: 高亮
+  blockquote: 引用
+  codeBlock: 程式碼區塊
+  horizontalRule: 分隔線
+  bulletList: 無序列表
+  orderedList: 有序列表
+  taskList: 任務清單
+  table: 表格
+  image: 圖片
+  link: 連結
+  mathBlock: 數學區塊
+  mermaid: Mermaid 圖表
+  closeToolbar: 隱藏工具列
+  exportPdf: 匯出 PDF
+  more: 更多

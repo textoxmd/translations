@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: เกี่ยวกับ Textox
+  preferences: การตั้งค่า...
+  quit: ออกจาก Textox
+  file: ไฟล์
+  new_window: หน้าต่างใหม่
+  open: เปิด...
+  open_folder: เปิดโฟลเดอร์...
+  open_recent: เปิดล่าสุด
+  no_recent: ไม่มีล่าสุด
+  clear_recent: ล้างเมนู
+  windows: หน้าต่างที่เปิดอยู่
+  save: บันทึก
+  open_location: แสดงใน Finder
+  export: ส่งออก PDF...
+  saveBeforeExport: โปรดบันทึกไฟล์ก่อนส่งออก
+  saveBeforeExportPrompt: เอกสารมีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก บันทึกก่อนส่งออกหรือไม่
+  edit: แก้ไข
+  undo: เลิกทำ
+  redo: ทำซ้ำ
+  cut: ตัด
+  copy: คัดลอก
+  paste: วาง
+  select_all: เลือกทั้งหมด
+  auto_fill: กรอกอัตโนมัติ
+  start_dictation: เริ่มพิมพ์ตามคำพูด...
+  emoji_symbols: อีโมจิและสัญลักษณ์
+  paragraph: ย่อหน้า
+  heading_1: หัวข้อ 1
+  heading_2: หัวข้อ 2
+  heading_3: หัวข้อ 3
+  heading_4: หัวข้อ 4
+  heading_5: หัวข้อ 5
+  heading_6: หัวข้อ 6
+  bullet_list: รายการสัญลักษณ์แสดงหัวข้อ
+  ordered_list: รายการลำดับเลข
+  task_list: รายการงาน
+  code_block: บล็อกโค้ด
+  math_block: บล็อกคณิตศาสตร์
+  blockquote: บล็อกคำพูด
+  horizontal_rule: เส้นแนวนอน
+  table: ตาราง
+  mermaid: แผนภาพ Mermaid
+  footnote: อ้างอิง
+  image: รูปภาพ
+  format: รูปแบบ
+  bold: ตัวหนา
+  italic: ตัวเอียง
+  underline: ขีดเส้นใต้
+  strikethrough: ขีดฆ่า
+  inline_code: โค้ดแบบอินไลน์
+  highlight: ไฮไลต์
+  clear_formatting: ขีดฆ่า
+  view: มุมมอง
+  toggle_sidebar: สลับแถบด้านข้าง
+  toggle_edit_mode: สลับโหมดการแก้ไข
+  toggle_typewriter_mode: โหมดเครื่องพิมพ์ดีต
+  window: หน้าต่าง
+  minimize: ย่อเล็กสุด
+  zoom: ซูม
+  fullscreen: เต็มจอ
+  center: จัดกึ่งกลาง
+  help: ความช่วยเหลือ
+  acknowledgments: ขอขอบคุณ
+  changelog: บันทึกการเปลี่ยนแปลง
+  privacy: นโยบายความเป็นส่วนตัว
+  website: เว็บไซต์
+  feedback: ข้อเสนอแนะ
+  export_logs: ส่งออกบันทึก...
+  auto_save: บันทึกอัตโนมัติ
+  newFile: ไฟล์ใหม่
+  openFile: เปิดไฟล์...
+  openFolder: เปิดโฟลเดอร์...
+  saveAs: บันทึกเป็น...
+  closeFile: ปิดไฟล์
+  closeWindow: ปิดหน้าต่าง
+  recentFiles: ไฟล์ล่าสุด
+  clearRecent: ล้างรายการล่าสุด
+  noRecentFiles: ไม่มีไฟล์ล่าสุด
+  selectAll: เลือกทั้งหมด
+  find: ค้นหา...
+  replace: แทนที่...
+  toggleSidebar: สลับแถบด้านข้าง
+  toggleOutline: สลับโครงร่าง
+  togglePreview: สลับตัวอย่าง
+  toggleSourceMode: สลับโหมดซอร์ส
+  fullScreen: เต็มจอ
+  settings: การตั้งค่า...
+  checkForUpdates: ตรวจสอบการอัปเดต...

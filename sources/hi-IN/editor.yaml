@@ -1,0 +1,25 @@
+editor:
+  placeholder: टाइप करना शुरू करें...
+  heading: शीर्षक
+  bold: बोल्ड
+  italic: इटैलिक
+  underline: अंडरलाइन
+  strikethrough: स्ट्राइकथ्रू
+  code: इनलाइन कोड
+  codeBlock: कोड ब्लॉक
+  blockquote: ब्लॉककोट
+  bulletList: बुलेट सूची
+  orderedList: क्रमांकित सूची
+  taskList: कार्य सूची
+  horizontalRule: क्षैतिज नियम
+  link: लिंक
+  image: छवि
+  table: तालिका
+  math: गणित ब्लॉक
+  inlineMath: इनलाइन गणित
+  mermaid: Mermaid आरेख
+  footnote: फुटनोट
+  insert: सम्मिलित करें
+  format: प्रारूप
+  openLinkVisit: विज़िट करें
+  openLinkTitle: बाहरी लिंक

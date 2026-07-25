@@ -1,0 +1,21 @@
+command:
+  searchPlaceholder: Search commands...
+  searchOutlinePlaceholder: Search outline headings...
+  noResults: No commands found
+  file: File
+  view: View
+  insert: Insert
+  settings: Settings
+  outline: Outline
+  newFile: New File
+  openFile: Open File
+  openFolder: Open Folder
+  saveFile: Save File
+  toggleSidebar: Toggle Sidebar
+  toggleEditMode: Toggle Edit Mode
+  toggleTypewriterMode: Toggle Typewriter Mode
+  insertImage: Insert Image
+  openSettings: Open Settings
+  noOutline: No headings in current document
+  openFileFirst: Please open a file first
+  emptyHeading: (Empty Heading)

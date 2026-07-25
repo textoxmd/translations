@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: 自訂主題
+    customParticles: 自訂粒子配置
+    importTheme: 導入主題
+    autoSave: 自動儲存
+    pdfExport: PDF 匯出
+  title: 升級
+  message: 「{{feature}}」功能僅在 Textox 完整版中可用。
+  confirm: 是否前往 App Store 查看？
+  banner: 自訂主題僅在 Textox 完整版中可用。
+  okLabel: 前往 App Store
+  cancelLabel: 取消

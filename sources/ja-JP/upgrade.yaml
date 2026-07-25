@@ -1,0 +1,13 @@
+upgrade:
+  features:
+    customThemes: カスタムテーマ
+    customParticles: Custom Particle Configs
+    importTheme: テーマのインポート
+    autoSave: 自動保存
+    pdfExport: PDF エクスポート
+  title: アップグレード
+  message: 「{{feature}}」は Textox の完全版でのみ利用可能です。
+  confirm: App Store で表示しますか？
+  banner: カスタムテーマは Textox の完全版でのみ利用可能です。
+  okLabel: App Store で見る
+  cancelLabel: キャンセル

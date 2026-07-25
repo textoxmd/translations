@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: 搜尋檔案...
+  searchOutlinePlaceholder: 搜尋大綱...
+  noResults: 找不到命令
+  file: 檔案
+  view: 檢視
+  insert: 插入
+  settings: 開啟設定
+  outline: 開啟大綱
+  newFile: 新增檔案
+  openFile: 開啟檔案
+  openFolder: 開啟資料夾
+  saveFile: 儲存檔案
+  toggleSidebar: 切換側邊欄
+  toggleEditMode: 切換編輯模式
+  toggleTypewriterMode: 切換打字機模式
+  insertImage: 插入圖片
+  openSettings: 開啟設定
+  noOutline: 沒有大綱
+  openFileFirst: 請先開啟檔案
+  emptyHeading: 空白標題
+  title: 命令面板
+  placeholder: 輸入命令...
+  edit: 編輯
+  format: 格式

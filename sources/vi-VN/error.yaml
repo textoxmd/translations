@@ -1,0 +1,3 @@
+error:
+  fileExists: Tệp đã tồn tại
+  maxRetriesReached: Đã đạt đến số lần thử tối đa

@@ -1,0 +1,25 @@
+editor:
+  placeholder: Bắt đầu nhập...
+  heading: Tiêu đề
+  bold: In đậm
+  italic: In nghiêng
+  underline: Gạch chân
+  strikethrough: Gạch ngang
+  code: Mã nội dòng
+  codeBlock: Khối mã
+  blockquote: Trích dẫn
+  bulletList: Danh sách gạch đầu dòng
+  orderedList: Danh sách có thứ tự
+  taskList: Danh sách công việc
+  horizontalRule: Đường kẻ ngang
+  link: Liên kết
+  image: Hình ảnh
+  table: Bảng
+  math: Khối toán học
+  inlineMath: Toán học nội dòng
+  mermaid: Sơ đồ Mermaid
+  footnote: Chú thích
+  insert: Chèn
+  format: Định dạng
+  openLinkVisit: Đi đến
+  openLinkTitle: Liên kết ngoài

@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: Tệp
+  categoryEdit: Chỉnh sửa
+  categoryView: Xem
+  categoryParagraph: Đoạn văn
+  categoryFormat: Định dạng
+  categoryWindow: Cửa sổ
+  categoryHelp: Trợ giúp
+  searchPlaceholder: Tìm kiếm phím tắt...
+  resetToDefault: Khôi phục giá trị mặc định
+  resetConfirm: Bạn có chắc chắn muốn khôi phục tất cả phím tắt về giá trị mặc định không?
+  conflictWarning: Phím tắt này xung đột với chức năng khác. Tiếp tục?
+  conflictDesc: Phím tắt này đã được sử dụng bởi chức năng khác
+  conflictWith: Xung đột với {{action}}
+  conflict: Xung đột
+  pressEnterConfirm: Nhấn Enter để xác nhận
+  pressShortcut: Nhấn phím tắt...
+  clickToEdit: Nhấp để chỉnh sửa
+  builtIn: Phím tắt tích hợp (chỉ đọc)
+  notSet: Chưa đặt
+  clearShortcut: Xóa phím tắt
+  hint: 'Gợi ý: nhấp vào phím tắt để chỉnh sửa, nhấn Delete để xóa'
+  clickToCopy: Nhấp để sao chép
+  resetToDefaultSingle: Khôi phục mặc định
+  conflictOverride: Phím tắt này đã được sử dụng bởi "{{actions}}". Ghi đè?
+  forceOverride: Ghi đè bắt buộc
+  conflictWithBuiltin: Phím tắt này xung đột với chức năng tích hợp và không thể sử dụng
+  escToCancel: Esc để hủy
+  pressKeys: Nhấn phím tắt
+  action:
+    newWindow: Cửa sổ mới
+    newWindowDesc: Mở cửa sổ trình soạn thảo mới
+    openFile: Mở tệp
+    openFileDesc: Mở tệp hiện có
+    saveFile: Lưu tệp
+    saveFileDesc: Lưu tệp hiện tại
+    toggleSidebar: Chuyển đổi thanh bên
+    toggleSidebarDesc: Hiển thị hoặc ẩn thanh bên
+    toggleEditMode: Chuyển đổi chế độ chỉnh sửa
+    toggleEditModeDesc: Chuyển đổi giữa chế độ nguồn và WYSIWYG
+    toggleTypewriterMode: Chế độ máy đánh chữ
+    toggleTypewriterModeDesc: Trong chế độ máy đánh chữ, dòng con trỏ được giữ ở giữa màn hình
+    openFolder: Mở thư mục
+    openFolderDesc: Mở một thư mục
+    openFileLocation: Mở vị trí tệp
+    openFileLocationDesc: Hiển thị tệp hiện tại trong trình quản lý tệp
+    heading1: Tiêu đề 1
+    heading1Desc: Tiêu đề cấp 1
+    heading2: Tiêu đề 2
+    heading2Desc: Tiêu đề cấp 2
+    heading3: Tiêu đề 3
+    heading3Desc: Tiêu đề cấp 3
+    heading4: Tiêu đề 4
+    heading4Desc: Tiêu đề cấp 4
+    heading5: Tiêu đề 5
+    heading5Desc: Tiêu đề cấp 5
+    heading6: Tiêu đề 6
+    heading6Desc: Tiêu đề cấp 6
+    bulletList: Danh sách dấu đầu dòng
+    bulletListDesc: Chèn danh sách dấu đầu dòng
+    orderedList: Danh sách đánh số
+    orderedListDesc: Chèn danh sách đánh số
+    taskList: Danh sách công việc
+    taskListDesc: Chèn danh sách công việc
+    codeBlock: Khối mã
+    codeBlockDesc: Chèn khối mã
+    mathBlock: Khối toán học
+    mathBlockDesc: Chèn khối toán học
+    blockquote: Khối trích dẫn
+    blockquoteDesc: Chèn khối trích dẫn
+    horizontalRule: Đường ngang
+    horizontalRuleDesc: Chèn đường ngang
+    table: Bảng
+    tableDesc: Chèn bảng
+    mermaid: Sơ đồ Mermaid
+    mermaidDesc: Chèn sơ đồ Mermaid
+    footnote: Chú thích cuối trang
+    footnoteDesc: Chèn chú thích cuối trang
+    image: Hình ảnh
+    imageDesc: Chèn hình ảnh
+    minimize: Thu nhỏ
+    minimizeDesc: Thu nhỏ cửa sổ
+    zoom: Thu phóng
+    zoomDesc: Phóng to cửa sổ
+    fullscreen: Toàn màn hình
+    fullscreenDesc: Chuyển đổi chế độ toàn màn hình
+    center: Căn giữa
+    centerDesc: Căn giữa cửa sổ
+    undo: Hoàn tác
+    undoDesc: Hoàn tác thao tác cuối
+    redo: Làm lại
+    redoDesc: Làm lại thao tác đã hoàn tác
+    redoAlt: Làm lại (thay thế)
+    redoAltDesc: Làm lại thao tác đã hoàn tác (phím tắt thay thế)
+    selectLine: Chọn dòng
+    selectLineDesc: Chọn toàn bộ nội dung của dòng hiện tại
+    toggleUnderline: Chuyển đổi gạch chân
+    toggleUnderlineDesc: Thêm hoặc xóa gạch chân trên văn bản đã chọn
+    toggleBold: Chuyển đổi in đậm
+    toggleBoldDesc: Thêm hoặc xóa định dạng in đậm trên văn bản đã chọn
+    commandPalette: Bảng lệnh
+    commandPaletteDesc: Mở bảng lệnh để thực hiện thao tác nhanh chóng
+    cut: Cắt
+    cutDesc: Cắt nội dung đã chọn vào bảng tạm
+    copy: Sao chép
+    copyDesc: Sao chép nội dung đã chọn vào bảng tạm
+    paste: Dán
+    pasteDesc: Dán nội dung từ bảng tạm
+    selectAll: Chọn tất cả
+    selectAllDesc: Chọn tất cả nội dung trong tài liệu hiện tại
+  title: Phím tắt
+  file: Tệp
+  newFile: Tệp mới
+  openFile: Mở tệp
+  save: Lưu
+  saveAs: Lưu thành
+  edit: Chỉnh sửa
+  undo: Hoàn tác
+  redo: Làm lại
+  cut: Cắt
+  copy: Sao chép
+  paste: Dán
+  selectAll: Chọn tất cả
+  find: Tìm kiếm
+  replace: Thay thế
+  view: Xem
+  toggleSidebar: Chuyển đổi thanh bên
+  toggleOutline: Chuyển đổi dàn bài
+  togglePreview: Chuyển đổi xem trước
+  format: Định dạng
+  bold: In đậm
+  italic: In nghiêng
+  strikethrough: Gạch ngang
+  inlineCode: Mã nội dòng
+  heading: Tiêu đề
+  bulletList: Danh sách dấu đầu dòng
+  orderedList: Danh sách đánh số
+  blockquote: Khối trích dẫn
+  codeBlock: Khối mã
+  horizontalRule: Đường ngang
+  link: Liên kết
+  image: Hình ảnh
+  table: Bảng
+  taskList: Danh sách công việc

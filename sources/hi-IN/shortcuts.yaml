@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: फाइल
+  categoryEdit: संपादित करें
+  categoryView: देखें
+  categoryParagraph: पैराग्राफ
+  categoryFormat: प्रारूप
+  categoryWindow: विंडो
+  categoryHelp: सहायता
+  searchPlaceholder: शॉर्टकट खोजें...
+  resetToDefault: डिफ़ॉल्ट मान पुनर्स्थापित करें
+  resetConfirm: क्या आप सुनिश्चित हैं कि आप सभी शॉर्टकट को डिफ़ॉल्ट मानों पर पुनर्स्थापित करना चाहते हैं?
+  conflictWarning: यह शॉर्टकट किसी अन्य फ़ंक्शन के साथ संघर्ष में है। जारी रखें?
+  conflictDesc: यह शॉर्टकट पहले से ही किसी अन्य फ़ंक्शन द्वारा उपयोग किया जा रहा है
+  conflictWith: '{{action}} के साथ संघर्ष'
+  conflict: संघर्ष
+  pressEnterConfirm: पुष्टि के लिए Enter दबाएं
+  pressShortcut: शॉर्टकट दबाएं...
+  clickToEdit: संपादित करने के लिए क्लिक करें
+  builtIn: बिल्ट-इन शॉर्टकट (केवल पढ़ने योग्य)
+  notSet: सेट नहीं किया गया
+  clearShortcut: शॉर्टकट साफ़ करें
+  hint: 'संकेत: संपादित करने के लिए शॉर्टकट पर क्लिक करें, साफ़ करने के लिए Delete दबाएं'
+  clickToCopy: कॉपी करने के लिए क्लिक करें
+  resetToDefaultSingle: डिफ़ॉल्ट पर रीसेट करें
+  conflictOverride: यह शॉर्टकट पहले से "{{actions}}" द्वारा उपयोग किया जा रहा है। ओवरराइड करें?
+  forceOverride: बलपूर्वक ओवरराइड करें
+  conflictWithBuiltin: यह शॉर्टकट बिल्ट-इन फ़ंक्शन के साथ विरोध करता है और इसका उपयोग नहीं किया जा सकता
+  escToCancel: Esc रद्द करें
+  pressKeys: शॉर्टकट दबाएं
+  action:
+    newWindow: नई विंडो
+    newWindowDesc: नई संपादक विंडो खोलें
+    openFile: फाइल खोलें
+    openFileDesc: मौजूदा फाइल खोलें
+    saveFile: फाइल सहेजें
+    saveFileDesc: वर्तमान फाइल सहेजें
+    toggleSidebar: साइडबार टॉगल करें
+    toggleSidebarDesc: साइडबार दिखाएं या छिपाएं
+    toggleEditMode: संपादन मोड टॉगल करें
+    toggleEditModeDesc: स्रोत और WYSIWYG मोड के बीच स्विच करें
+    toggleTypewriterMode: टाइपराइटर मोड
+    toggleTypewriterModeDesc: टाइपराइटर मोड में कर्सर लाइन स्क्रीन के केंद्र में रहती है
+    openFolder: फ़ोल्डर खोलें
+    openFolderDesc: एक फ़ोल्डर खोलें
+    openFileLocation: फ़ाइल स्थान खोलें
+    openFileLocationDesc: फ़ाइल प्रबंधक में वर्तमान फ़ाइल दिखाएं
+    heading1: शीर्षक 1
+    heading1Desc: स्तर 1 शीर्षक
+    heading2: शीर्षक 2
+    heading2Desc: स्तर 2 शीर्षक
+    heading3: शीर्षक 3
+    heading3Desc: स्तर 3 शीर्षक
+    heading4: शीर्षक 4
+    heading4Desc: स्तर 4 शीर्षक
+    heading5: शीर्षक 5
+    heading5Desc: स्तर 5 शीर्षक
+    heading6: शीर्षक 6
+    heading6Desc: स्तर 6 शीर्षक
+    bulletList: बुलेट सूची
+    bulletListDesc: बुलेट सूची सम्मिलित करें
+    orderedList: क्रमांकित सूची
+    orderedListDesc: क्रमांकित सूची सम्मिलित करें
+    taskList: कार्य सूची
+    taskListDesc: कार्य सूची सम्मिलित करें
+    codeBlock: कोड ब्लॉक
+    codeBlockDesc: कोड ब्लॉक सम्मिलित करें
+    mathBlock: गणित ब्लॉक
+    mathBlockDesc: गणित ब्लॉक सम्मिलित करें
+    blockquote: ब्लॉक उद्धरण
+    blockquoteDesc: ब्लॉक उद्धरण सम्मिलित करें
+    horizontalRule: क्षैतिज रेखा
+    horizontalRuleDesc: क्षैतिज रेखा सम्मिलित करें
+    table: तालिका
+    tableDesc: तालिका सम्मिलित करें
+    mermaid: Mermaid आरेख
+    mermaidDesc: Mermaid आरेख सम्मिलित करें
+    footnote: फुटनोट
+    footnoteDesc: फुटनोट सम्मिलित करें
+    image: छवि
+    imageDesc: छवि सम्मिलित करें
+    minimize: छोटा करें
+    minimizeDesc: विंडो छोटा करें
+    zoom: ज़ूम
+    zoomDesc: विंडो ज़ूम करें
+    fullscreen: पूर्ण स्क्रीन
+    fullscreenDesc: पूर्ण स्क्रीन मोड टॉगल करें
+    center: केंद्र
+    centerDesc: विंडो केंद्र में रखें
+    undo: पूर्ववत करें
+    undoDesc: पिछली क्रिया पूर्ववत करें
+    redo: पुनः करें
+    redoDesc: पिछली पूर्ववत की गई क्रिया पुनः करें
+    redoAlt: पुनः करें (वैकल्पिक)
+    redoAltDesc: पिछली पूर्ववत की गई क्रिया पुनः करें (वैकल्पिक)
+    selectLine: पंक्ति चुनें
+    selectLineDesc: वर्तमान पंक्ति की संपूर्ण सामग्री चुनें
+    toggleUnderline: रेखांकन टॉगल करें
+    toggleUnderlineDesc: चयनित पाठ पर रेखांकन जोड़ें या हटाएं
+    toggleBold: बोल्ड टॉगल करें
+    toggleBoldDesc: चयनित पाठ पर बोल्ड फ़ॉर्मेटिंग जोड़ें या हटाएं
+    commandPalette: कमांड पैलेट
+    commandPaletteDesc: क्रियाओं को त्वरित रूप से निष्पादित करने के लिए कमांड पैलेट खोलें
+    cut: काटें
+    cutDesc: चयनित सामग्री को क्लिपबोर्ड पर काटें
+    copy: कॉपी करें
+    copyDesc: चयनित सामग्री को क्लिपबोर्ड पर कॉपी करें
+    paste: चिपकाएं
+    pasteDesc: क्लिपबोर्ड से सामग्री चिपकाएं
+    selectAll: सभी चुनें
+    selectAllDesc: वर्तमान दस्तावेज़ में सभी सामग्री चुनें
+  title: शॉर्टकट
+  file: फाइल
+  newFile: नई फाइल
+  openFile: फाइल खोलें
+  save: सहेजें
+  saveAs: इस रूप में सहेजें
+  edit: संपादित करें
+  undo: पूर्ववत करें
+  redo: फिर से करें
+  cut: काटें
+  copy: कॉपी करें
+  paste: पेस्ट करें
+  selectAll: सभी चुनें
+  find: खोजें
+  replace: बदलें
+  view: देखें
+  toggleSidebar: साइडबार टॉगल करें
+  toggleOutline: रूपरेखा टॉगल करें
+  togglePreview: पूर्वावलोकन टॉगल करें
+  format: प्रारूप
+  bold: बोल्ड
+  italic: इटैलिक
+  strikethrough: स्ट्राइकथ्रू
+  inlineCode: इनलाइन कोड
+  heading: शीर्षक
+  bulletList: बुलेट सूची
+  orderedList: क्रमांकित सूची
+  blockquote: ब्लॉक उद्धरण
+  codeBlock: कोड ब्लॉक
+  horizontalRule: क्षैतिज रेखा
+  link: लिंक
+  image: छवि
+  table: तालिका
+  taskList: कार्य सूची

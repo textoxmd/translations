@@ -1,0 +1,7 @@
+dialog:
+  selectFolder: Selecionar pasta
+  fileModifiedTitle: Ficheiro modificado
+  fileModifiedDesc: >-
+    Este ficheiro foi modificado noutro local. Pode recarregar para carregar o conteúdo mais recente ou continuar a
+    editar a versão atual (pode causar conflitos de conteúdo).
+  fileModifiedReload: Recarregar

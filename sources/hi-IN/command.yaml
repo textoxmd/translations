@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: फाइलें खोजें...
+  searchOutlinePlaceholder: रूपरेखा में खोजें...
+  noResults: कोई कमांड नहीं मिली
+  file: फाइल
+  view: देखें
+  insert: सम्मिलित करें
+  settings: सेटिंग्स खोलें
+  outline: रूपरेखा खोलें
+  newFile: नई फाइल
+  openFile: फाइल खोलें
+  openFolder: फ़ोल्डर खोलें
+  saveFile: फाइल सहेजें
+  toggleSidebar: साइडबार टॉगल करें
+  toggleEditMode: संपादन मोड टॉगल करें
+  toggleTypewriterMode: टाइपराइटर मोड टॉगल करें
+  insertImage: छवि सम्मिलित करें
+  openSettings: सेटिंग्स खोलें
+  noOutline: कोई रूपरेखा नहीं
+  openFileFirst: कृपया पहले एक फाइल खोलें
+  emptyHeading: खाली शीर्षक
+  title: कमांड पैलेट
+  placeholder: कमांड दर्ज करें...
+  edit: संपादित करें
+  format: प्रारूप

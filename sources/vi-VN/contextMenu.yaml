@@ -1,0 +1,23 @@
+contextMenu:
+  cut: Cắt
+  copy: Sao chép
+  paste: Dán
+  delete: Xóa
+  selectAll: Chọn tất cả
+  insertLink: Chèn liên kết
+  openLink: Mở liên kết
+  copyLink: Sao chép địa chỉ liên kết
+  undo: Hoàn tác
+  redo: Làm lại
+  insertTable: Chèn bảng
+  bold: In đậm
+  cancelBold: Hủy in đậm
+  italic: In nghiêng
+  cancelItalic: Hủy in nghiêng
+  strikethrough: Gạch ngang
+  cancelStrikethrough: Hủy gạch ngang
+  inlineCode: Mã nội dòng
+  cancelInlineCode: Hủy mã nội dòng
+  copyCode: Sao chép mã
+  pasteAsPlainText: Dán dưới dạng văn bản thuần
+  copyAsHtml: Sao chép dưới dạng HTML

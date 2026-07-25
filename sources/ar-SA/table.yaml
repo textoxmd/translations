@@ -1,0 +1,18 @@
+table:
+  insertTable: إدراج جدول
+  addColumnBefore: إضافة عمود قبل
+  addColumnAfter: إضافة عمود بعد
+  deleteColumn: حذف العمود
+  addRowBefore: إضافة صف قبل
+  addRowAfter: إضافة صف بعد
+  deleteRow: حذف الصف
+  mergeCells: دمج الخلايا
+  splitCell: تقسيم الخلية
+  deleteTable: حذف الجدول
+  rows: صفوف
+  columns: أعمدة
+  alignLeft: محاذاة لليسار
+  alignCenter: محاذاة للوسط
+  alignRight: محاذاة لليمين
+  editTable: تحرير الجدول
+  applyChanges: تطبيق التغييرات

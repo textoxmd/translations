@@ -1,0 +1,23 @@
+contextMenu:
+  cut: Ausschneiden
+  copy: Kopieren
+  paste: Einfügen
+  delete: Löschen
+  selectAll: Alles auswählen
+  insertLink: Link einfügen
+  openLink: Link öffnen
+  copyLink: Link-Adresse kopieren
+  undo: Rückgängig
+  redo: Wiederholen
+  insertTable: Tabelle einfügen
+  bold: Fett
+  cancelBold: Fett aufheben
+  italic: Kursiv
+  cancelItalic: Kursiv aufheben
+  strikethrough: Durchgestrichen
+  cancelStrikethrough: Durchgestrichen aufheben
+  inlineCode: Inline-Code
+  cancelInlineCode: Inline-Code aufheben
+  copyCode: Code kopieren
+  pasteAsPlainText: Als reinen Text einfügen
+  copyAsHtml: Als HTML kopieren

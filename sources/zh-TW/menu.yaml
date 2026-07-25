@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: 關於 Textox
+  preferences: 偏好設定...
+  quit: 結束 Textox
+  file: 檔案
+  new_window: 新增視窗
+  open: 開啟...
+  open_folder: 開啟資料夾...
+  open_recent: 開啟最近使用過的檔案
+  no_recent: 沒有最近使用過的檔案
+  clear_recent: 清除選單
+  windows: 開啟的視窗
+  save: 儲存
+  open_location: 在 Finder 中顯示
+  export: 輸出 PDF...
+  saveBeforeExport: 請先儲存檔案後再匯出
+  saveBeforeExportPrompt: 文件有未儲存的修改，是否先儲存再匯出？
+  edit: 編輯
+  undo: 復原
+  redo: 重做
+  cut: 剪下
+  copy: 複製
+  paste: 貼上
+  select_all: 全選
+  auto_fill: 自動填寫
+  start_dictation: 開始聽寫...
+  emoji_symbols: 表情符號與符號
+  paragraph: 段落
+  heading_1: 標題 1
+  heading_2: 標題 2
+  heading_3: 標題 3
+  heading_4: 標題 4
+  heading_5: 標題 5
+  heading_6: 標題 6
+  bullet_list: 項目符號清單
+  ordered_list: 編號清單
+  task_list: 任務清單
+  code_block: 程式碼區塊
+  math_block: 數學公式
+  blockquote: 引用區塊
+  horizontal_rule: 水平線
+  table: 表格
+  mermaid: Mermaid 圖表
+  footnote: 註腳
+  image: 圖片
+  format: 格式
+  bold: 粗體
+  italic: 斜體
+  underline: 底線
+  strikethrough: 刪除線
+  inline_code: 行內代碼
+  highlight: 高亮
+  clear_formatting: 刪除線
+  view: 檢視
+  toggle_sidebar: 切換側邊欄
+  toggle_edit_mode: 切換編輯模式
+  toggle_typewriter_mode: 打字機模式
+  window: 視窗
+  minimize: 最小化
+  zoom: 縮放
+  fullscreen: 全螢幕
+  center: 置中
+  help: 說明
+  acknowledgments: 致謝
+  changelog: 更新日誌
+  privacy: 隱私政策
+  website: 網站
+  feedback: 意見回饋
+  export_logs: 輸出日誌...
+  auto_save: 自動儲存
+  newFile: 新增檔案
+  openFile: 開啟檔案...
+  openFolder: 開啟資料夾...
+  saveAs: 另存新檔...
+  closeFile: 關閉檔案
+  closeWindow: 關閉視窗
+  recentFiles: 最近開啟的檔案
+  clearRecent: 清除最近項目
+  noRecentFiles: 沒有最近開啟的檔案
+  selectAll: 全選
+  find: 尋找...
+  replace: 取代...
+  toggleSidebar: 切換側邊欄
+  toggleOutline: 切換大綱
+  togglePreview: 切換預覽
+  toggleSourceMode: 切換原始碼模式
+  fullScreen: 全螢幕
+  settings: 設定...
+  checkForUpdates: 檢查更新...

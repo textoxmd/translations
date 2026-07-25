@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: Datei
+  categoryEdit: Bearbeiten
+  categoryView: Ansicht
+  categoryParagraph: Absatz
+  categoryFormat: Format
+  categoryWindow: Fenster
+  categoryHelp: Hilfe
+  searchPlaceholder: Tastenkürzel suchen...
+  resetToDefault: Auf Standardwerte zurücksetzen
+  resetConfirm: Sind Sie sicher, dass Sie alle Tastenkürzel auf die Standardwerte zurücksetzen möchten?
+  conflictWarning: Dieses Tastenkürzel steht im Konflikt mit einer anderen Funktion. Fortfahren?
+  conflictDesc: Dieses Tastenkürzel wird bereits von einer anderen Funktion verwendet
+  conflictWith: Konflikt mit {{action}}
+  conflict: Konflikt
+  pressEnterConfirm: Drücken Sie Enter zum Bestätigen
+  pressShortcut: Tastenkürzel drücken...
+  clickToEdit: Klicken zum Bearbeiten
+  builtIn: Integrierte Tastenkürzel (schreibgeschützt)
+  notSet: Nicht festgelegt
+  clearShortcut: Tastenkürzel löschen
+  hint: 'Hinweis: Klicken Sie auf das Tastenkürzel zum Bearbeiten, drücken Sie Delete zum Löschen'
+  clickToCopy: Klicken zum Kopieren
+  resetToDefaultSingle: Auf Standard zurücksetzen
+  conflictOverride: Dieses Tastenkürzel wird bereits von "{{actions}}" verwendet. Überschreiben?
+  forceOverride: Überschreiben erzwingen
+  conflictWithBuiltin: Diese Tastenkombination steht in Konflikt mit einer integrierten Funktion und kann nicht verwendet werden
+  escToCancel: Esc zum Abbrechen
+  pressKeys: Tastenkürzel drücken
+  action:
+    newWindow: Neues Fenster
+    newWindowDesc: Neues Editor-Fenster öffnen
+    openFile: Datei öffnen
+    openFileDesc: Vorhandene Datei öffnen
+    saveFile: Datei speichern
+    saveFileDesc: Aktuelle Datei speichern
+    toggleSidebar: Seitenleiste umschalten
+    toggleSidebarDesc: Seitenleiste ein- oder ausblenden
+    toggleEditMode: Bearbeitungsmodus umschalten
+    toggleEditModeDesc: Zwischen Quellcode- und WYSIWYG-Modus wechseln
+    toggleTypewriterMode: Schreibmaschinenmodus
+    toggleTypewriterModeDesc: Im Schreibmaschinenmodus bleibt die Cursorzeile zentriert
+    openFolder: Ordner öffnen
+    openFolderDesc: Einen Ordner öffnen
+    openFileLocation: Dateispeicherort öffnen
+    openFileLocationDesc: Aktuelle Datei im Dateimanager anzeigen
+    heading1: Überschrift 1
+    heading1Desc: Überschrift Ebene 1
+    heading2: Überschrift 2
+    heading2Desc: Überschrift Ebene 2
+    heading3: Überschrift 3
+    heading3Desc: Überschrift Ebene 3
+    heading4: Überschrift 4
+    heading4Desc: Überschrift Ebene 4
+    heading5: Überschrift 5
+    heading5Desc: Überschrift Ebene 5
+    heading6: Überschrift 6
+    heading6Desc: Überschrift Ebene 6
+    bulletList: Aufzählungsliste
+    bulletListDesc: Aufzählungsliste einfügen
+    orderedList: Nummerierte Liste
+    orderedListDesc: Nummerierte Liste einfügen
+    taskList: Aufgabenliste
+    taskListDesc: Aufgabenliste einfügen
+    codeBlock: Codeblock
+    codeBlockDesc: Codeblock einfügen
+    mathBlock: Mathe-Block
+    mathBlockDesc: Mathe-Block einfügen
+    blockquote: Zitatblock
+    blockquoteDesc: Zitatblock einfügen
+    horizontalRule: Horizontale Linie
+    horizontalRuleDesc: Horizontale Linie einfügen
+    table: Tabelle
+    tableDesc: Tabelle einfügen
+    mermaid: Mermaid-Diagramm
+    mermaidDesc: Mermaid-Diagramm einfügen
+    footnote: Fußnote
+    footnoteDesc: Fußnote einfügen
+    image: Bild
+    imageDesc: Bild einfügen
+    minimize: Minimieren
+    minimizeDesc: Fenster minimieren
+    zoom: Zoomen
+    zoomDesc: Fenster zoomen
+    fullscreen: Vollbild
+    fullscreenDesc: Vollbildmodus umschalten
+    center: Zentrieren
+    centerDesc: Fenster zentrieren
+    undo: Rückgängig
+    undoDesc: Letzte Aktion rückgängig machen
+    redo: Wiederholen
+    redoDesc: Letzte rückgängig gemachte Aktion wiederholen
+    redoAlt: Wiederholen (Alternative)
+    redoAltDesc: Letzte rückgängig gemachte Aktion wiederholen (Alternative)
+    selectLine: Zeile auswählen
+    selectLineDesc: Gesamten Inhalt der aktuellen Zeile auswählen
+    toggleUnderline: Unterstreichung umschalten
+    toggleUnderlineDesc: Unterstreichung für ausgewählten Text hinzufügen oder entfernen
+    toggleBold: Fettschrift umschalten
+    toggleBoldDesc: Fettschrift für ausgewählten Text hinzufügen oder entfernen
+    commandPalette: Befehlspalette
+    commandPaletteDesc: Befehlspalette öffnen, um Aktionen schnell auszuführen
+    cut: Ausschneiden
+    cutDesc: Ausgewählten Inhalt ausschneiden und in die Zwischenablage kopieren
+    copy: Kopieren
+    copyDesc: Ausgewählten Inhalt in die Zwischenablage kopieren
+    paste: Einfügen
+    pasteDesc: Inhalt aus der Zwischenablage einfügen
+    selectAll: Alles auswählen
+    selectAllDesc: Gesamten Inhalt des aktuellen Dokuments auswählen
+  title: Tastenkürzel
+  file: Datei
+  newFile: Neue Datei
+  openFile: Datei öffnen
+  save: Speichern
+  saveAs: Speichern unter
+  edit: Bearbeiten
+  undo: Rückgängig
+  redo: Wiederholen
+  cut: Ausschneiden
+  copy: Kopieren
+  paste: Einfügen
+  selectAll: Alles auswählen
+  find: Suchen
+  replace: Ersetzen
+  view: Ansicht
+  toggleSidebar: Seitenleiste umschalten
+  toggleOutline: Gliederung umschalten
+  togglePreview: Vorschau umschalten
+  format: Format
+  bold: Fett
+  italic: Kursiv
+  strikethrough: Durchgestrichen
+  inlineCode: Inline-Code
+  heading: Überschrift
+  bulletList: Aufzählungsliste
+  orderedList: Nummerierte Liste
+  blockquote: Zitatblock
+  codeBlock: Codeblock
+  horizontalRule: Horizontale Linie
+  link: Link
+  image: Bild
+  table: Tabelle
+  taskList: Aufgabenliste

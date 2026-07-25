@@ -1,0 +1,15 @@
+message:
+  linkCopied: Collegamento copiato negli appunti
+  codeCopied: Codice copiato negli appunti
+  saveSuccess: Salvataggio riuscito
+  saveFailed: Salvataggio fallito
+  imageUploadSuccess: Caricamento immagine riuscito
+  imageUploadFailed: Caricamento immagine fallito
+  imageInsertNotAllowed: Salva il file prima di inserire immagini
+  imageInsertNotAllowedSingleFile: Impossibile inserire immagini in modalità file singolo. Apri prima una cartella.
+  imageInsertFailed: Inserimento immagine fallito
+  imageUploading: Caricamento immagine sull'hosting…
+  recentFileNotFound: File recente non trovato, record cancellato
+  recentFolderNotFound: Cartella recente non trovata, record cancellato
+  typewriterEnabled: Modalità macchina da scrivere attivata
+  typewriterDisabled: Modalità macchina da scrivere disattivata

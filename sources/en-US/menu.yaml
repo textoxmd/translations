@@ -1,0 +1,71 @@
+menu:
+  texto: Textox
+  about: About Textox
+  preferences: Preferences...
+  quit: Quit Textox
+  file: File
+  new_window: New Window
+  open: Open...
+  open_folder: Open Folder
+  open_recent: Open Recent
+  no_recent: No Recent Items
+  clear_recent: Clear Recent
+  windows: Open Windows
+  save: Save
+  open_location: Open File Location
+  export: Export PDF...
+  saveBeforeExport: Please save the file before exporting
+  saveBeforeExportPrompt: The document has unsaved changes. Save before exporting?
+  edit: Edit
+  undo: Undo
+  redo: Redo
+  cut: Cut
+  copy: Copy
+  paste: Paste
+  select_all: Select All
+  auto_fill: Auto Fill
+  start_dictation: Start Dictation...
+  emoji_symbols: Emoji & Symbols
+  paragraph: Paragraph
+  heading_1: Heading 1
+  heading_2: Heading 2
+  heading_3: Heading 3
+  heading_4: Heading 4
+  heading_5: Heading 5
+  heading_6: Heading 6
+  bullet_list: Bullet List
+  ordered_list: Ordered List
+  task_list: Task List
+  code_block: Code Block
+  math_block: Math Block
+  blockquote: Blockquote
+  horizontal_rule: Horizontal Rule
+  table: Table
+  mermaid: Mermaid Diagram
+  footnote: Footnote
+  image: Insert Image
+  format: Format
+  bold: Bold
+  italic: Italic
+  underline: Underline
+  strikethrough: Strikethrough
+  inline_code: Inline Code
+  highlight: Highlight
+  clear_formatting: Clear Formatting
+  view: View
+  toggle_sidebar: Toggle Sidebar
+  toggle_edit_mode: Toggle Edit Mode
+  toggle_typewriter_mode: Typewriter Mode
+  window: Window
+  minimize: Minimize
+  zoom: Zoom
+  fullscreen: Enter Full Screen
+  center: Center
+  help: Help
+  acknowledgments: Acknowledgments
+  changelog: Changelog
+  privacy: Privacy Policy
+  website: Official Website
+  feedback: Feedback
+  export_logs: Export Logs
+  auto_save: Auto Save

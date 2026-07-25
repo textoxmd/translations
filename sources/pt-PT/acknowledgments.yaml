@@ -1,0 +1,7 @@
+acknowledgments:
+  title: Agradecimentos
+  reset: Repor padrão
+  resetSuccess: Conteúdo padrão restaurado
+  contentUpdated: Conteúdo atualizado
+  saveFailed: Falha ao guardar
+  hint: Pode editar este ficheiro para adicionar os seus agradecimentos

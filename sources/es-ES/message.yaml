@@ -1,0 +1,15 @@
+message:
+  linkCopied: Enlace copiado al portapapeles
+  codeCopied: Código copiado al portapapeles
+  saveSuccess: Guardado exitoso
+  saveFailed: Error al guardar
+  imageUploadSuccess: Carga de imagen exitosa
+  imageUploadFailed: Error al cargar imagen
+  imageInsertNotAllowed: Guarde el archivo antes de insertar imágenes
+  imageInsertNotAllowedSingleFile: No se pueden insertar imágenes en modo de archivo único. Abra una carpeta primero.
+  imageInsertFailed: Error al insertar imagen
+  imageUploading: Subiendo imagen al alojamiento…
+  recentFileNotFound: Archivo reciente no encontrado, registro eliminado
+  recentFolderNotFound: Carpeta reciente no encontrada, registro eliminado
+  typewriterEnabled: Modo máquina de escribir activado
+  typewriterDisabled: Modo máquina de escribir desactivado

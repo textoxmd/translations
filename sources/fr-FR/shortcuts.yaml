@@ -1,0 +1,144 @@
+shortcuts:
+  categoryFile: Fichier
+  categoryEdit: Édition
+  categoryView: Affichage
+  categoryParagraph: Paragraphe
+  categoryFormat: Format
+  categoryWindow: Fenêtre
+  categoryHelp: Aide
+  searchPlaceholder: Rechercher des raccourcis...
+  resetToDefault: Restaurer les valeurs par défaut
+  resetConfirm: Êtes-vous sûr de vouloir restaurer tous les raccourcis aux valeurs par défaut ?
+  conflictWarning: Ce raccourci entre en conflit avec une autre fonction. Continuer ?
+  conflictDesc: Ce raccourci est déjà utilisé par une autre fonction
+  conflictWith: Conflit avec {{action}}
+  conflict: Conflit
+  pressEnterConfirm: Appuyez sur Entrée pour confirmer
+  pressShortcut: Appuyez sur le raccourci...
+  clickToEdit: Cliquez pour modifier
+  builtIn: Raccourci intégré (lecture seule)
+  notSet: Non défini
+  clearShortcut: Effacer le raccourci
+  hint: 'Astuce : cliquez sur le raccourci pour modifier, appuyez sur Delete pour effacer'
+  clickToCopy: Cliquez pour copier
+  resetToDefaultSingle: Rétablir la valeur par défaut
+  conflictOverride: Ce raccourci est déjà utilisé par "{{actions}}". Forcer le remplacement ?
+  forceOverride: Forcer le remplacement
+  conflictWithBuiltin: Ce raccourci est en conflit avec une fonction intégrée et ne peut pas être utilisé
+  escToCancel: Esc pour annuler
+  pressKeys: Appuyez sur le raccourci
+  action:
+    newWindow: Nouvelle fenêtre
+    newWindowDesc: Ouvrir une nouvelle fenêtre d'éditeur
+    openFile: Ouvrir un fichier
+    openFileDesc: Ouvrir un fichier existant
+    saveFile: Enregistrer le fichier
+    saveFileDesc: Enregistrer le fichier actuel
+    toggleSidebar: Basculer la barre latérale
+    toggleSidebarDesc: Afficher ou masquer la barre latérale
+    toggleEditMode: Basculer le mode édition
+    toggleEditModeDesc: Basculer entre le mode source et WYSIWYG
+    toggleTypewriterMode: Mode machine à écrire
+    toggleTypewriterModeDesc: En mode machine à écrire, la ligne du curseur reste centrée
+    openFolder: Ouvrir un dossier
+    openFolderDesc: Ouvrir un dossier
+    openFileLocation: Ouvrir l'emplacement du fichier
+    openFileLocationDesc: Afficher le fichier actuel dans le gestionnaire de fichiers
+    heading1: Titre 1
+    heading1Desc: Titre de niveau 1
+    heading2: Titre 2
+    heading2Desc: Titre de niveau 2
+    heading3: Titre 3
+    heading3Desc: Titre de niveau 3
+    heading4: Titre 4
+    heading4Desc: Titre de niveau 4
+    heading5: Titre 5
+    heading5Desc: Titre de niveau 5
+    heading6: Titre 6
+    heading6Desc: Titre de niveau 6
+    bulletList: Liste à puces
+    bulletListDesc: Insérer une liste à puces
+    orderedList: Liste numérotée
+    orderedListDesc: Insérer une liste numérotée
+    taskList: Liste de tâches
+    taskListDesc: Insérer une liste de tâches
+    codeBlock: Bloc de code
+    codeBlockDesc: Insérer un bloc de code
+    mathBlock: Bloc mathématique
+    mathBlockDesc: Insérer un bloc mathématique
+    blockquote: Bloc de citation
+    blockquoteDesc: Insérer un bloc de citation
+    horizontalRule: Ligne horizontale
+    horizontalRuleDesc: Insérer une ligne horizontale
+    table: Tableau
+    tableDesc: Insérer un tableau
+    mermaid: Diagramme Mermaid
+    mermaidDesc: Insérer un diagramme Mermaid
+    footnote: Note de bas de page
+    footnoteDesc: Insérer une note de bas de page
+    image: Image
+    imageDesc: Insérer une image
+    minimize: Minimiser
+    minimizeDesc: Minimiser la fenêtre
+    zoom: Zoom
+    zoomDesc: Zoomer la fenêtre
+    fullscreen: Plein écran
+    fullscreenDesc: Basculer en mode plein écran
+    center: Centrer
+    centerDesc: Centrer la fenêtre
+    undo: Annuler
+    undoDesc: Annuler la dernière action
+    redo: Rétablir
+    redoDesc: Rétablir la dernière action annulée
+    redoAlt: Rétablir (alternative)
+    redoAltDesc: Rétablir la dernière action annulée (alternative)
+    selectLine: Sélectionner la ligne
+    selectLineDesc: Sélectionner tout le contenu de la ligne actuelle
+    toggleUnderline: Basculer le soulignement
+    toggleUnderlineDesc: Ajouter ou supprimer le soulignement du texte sélectionné
+    toggleBold: Basculer en gras
+    toggleBoldDesc: Ajouter ou supprimer le gras du texte sélectionné
+    commandPalette: Palette de commandes
+    commandPaletteDesc: Ouvrir la palette de commandes pour exécuter rapidement des actions
+    cut: Couper
+    cutDesc: Couper le contenu sélectionné dans le presse-papiers
+    copy: Copier
+    copyDesc: Copier le contenu sélectionné dans le presse-papiers
+    paste: Coller
+    pasteDesc: Coller le contenu du presse-papiers
+    selectAll: Tout sélectionner
+    selectAllDesc: Sélectionner tout le contenu du document actuel
+  title: Raccourcis
+  file: Fichier
+  newFile: Nouveau fichier
+  openFile: Ouvrir un fichier
+  save: Enregistrer
+  saveAs: Enregistrer sous
+  edit: Édition
+  undo: Annuler
+  redo: Rétablir
+  cut: Couper
+  copy: Copier
+  paste: Coller
+  selectAll: Tout sélectionner
+  find: Rechercher
+  replace: Remplacer
+  view: Affichage
+  toggleSidebar: Basculer la barre latérale
+  toggleOutline: Basculer le plan
+  togglePreview: Basculer l'aperçu
+  format: Format
+  bold: Gras
+  italic: Italique
+  strikethrough: Barré
+  inlineCode: Code en ligne
+  heading: Titre
+  bulletList: Liste à puces
+  orderedList: Liste numérotée
+  blockquote: Bloc de citation
+  codeBlock: Bloc de code
+  horizontalRule: Ligne horizontale
+  link: Lien
+  image: Image
+  table: Tableau
+  taskList: Liste de tâches

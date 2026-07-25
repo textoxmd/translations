@@ -1,0 +1,3 @@
+error:
+  fileExists: Il file esiste già
+  maxRetriesReached: Raggiunto il numero massimo di tentativi

@@ -1,0 +1,25 @@
+editor:
+  placeholder: ابدأ الكتابة...
+  heading: العنوان
+  bold: عريض
+  italic: مائل
+  underline: تحته خط
+  strikethrough: مشطوب
+  code: كود مضمن
+  codeBlock: كتلة الكود
+  blockquote: اقتباس
+  bulletList: قائمة نقطية
+  orderedList: قائمة مرقمة
+  taskList: قائمة المهام
+  horizontalRule: خط أفقي
+  link: رابط
+  image: صورة
+  table: جدول
+  math: كتلة رياضية
+  inlineMath: رياضيات مضمنة
+  mermaid: مخطط Mermaid
+  footnote: حاشية
+  insert: إدراج
+  format: تنسيق
+  openLinkVisit: زيارة
+  openLinkTitle: رابط خارجي

@@ -1,0 +1,7 @@
+acknowledgments:
+  title: Remerciements
+  reset: Réinitialiser
+  resetSuccess: Contenu par défaut restauré
+  contentUpdated: Contenu mis à jour
+  saveFailed: Échec de l'enregistrement
+  hint: Vous pouvez modifier ce fichier pour ajouter vos propres remerciements

@@ -1,0 +1,47 @@
+common:
+  save: Save
+  cancel: Cancel
+  confirm: Confirm
+  delete: Delete
+  edit: Edit
+  copy: Copy
+  paste: Paste
+  cut: Cut
+  selectAll: Select All
+  undo: Undo
+  redo: Redo
+  search: Search
+  replace: Replace
+  settings: Settings
+  close: Close
+  open: Open
+  new: New
+  file: File
+  folder: Folder
+  recent: Recent
+  language: Language
+  failed: Failed
+  reset: Reset
+  clear: Clear
+  lock: Lock
+  unlock: Unlock
+  bold: Bold
+  italic: Italic
+  strikethrough: Strikethrough
+  underline: Underline
+  inlineCode: Inline Code
+  highlight: Highlight
+  blockquote: Blockquote
+  codeBlock: Code Block
+  horizontalRule: Horizontal Rule
+  bulletList: Bullet List
+  orderedList: Ordered List
+  taskList: Task List
+  table: Table
+  image: Image
+  link: Link
+  mathBlock: Math Block
+  mermaid: Mermaid Diagram
+  closeToolbar: Hide toolbar
+  exportPdf: Export PDF
+  more: More

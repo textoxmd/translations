@@ -1,0 +1,47 @@
+common:
+  save: Сохранить
+  cancel: Отмена
+  confirm: Подтвердить
+  delete: Удалить
+  edit: Редактировать
+  copy: Копировать
+  paste: Вставить
+  cut: Вырезать
+  selectAll: Выбрать все
+  undo: Отменить
+  redo: Повторить
+  search: Поиск
+  replace: Заменить
+  settings: Настройки
+  close: Закрыть
+  open: Открыть
+  new: Создать
+  file: Файл
+  folder: Папка
+  recent: Недавние
+  language: Язык
+  failed: Ошибка
+  reset: Сбросить
+  clear: Очистить
+  lock: Заблокировать
+  unlock: Разблокировать
+  bold: Жирный
+  italic: Курсив
+  strikethrough: Зачёркнутый
+  underline: Подчёркнутый
+  inlineCode: Встроенный код
+  highlight: Выделить
+  blockquote: Цитата
+  codeBlock: Блок кода
+  horizontalRule: Горизонтальная линия
+  bulletList: Маркированный список
+  orderedList: Нумерованный список
+  taskList: Список задач
+  table: Таблица
+  image: Изображение
+  link: Ссылка
+  mathBlock: Математический блок
+  mermaid: Диаграмма Mermaid
+  closeToolbar: Скрыть панель инструментов
+  exportPdf: Экспорт в PDF
+  more: Ещё

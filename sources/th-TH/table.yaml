@@ -1,0 +1,18 @@
+table:
+  insertTable: แทรกตาราง
+  addColumnBefore: เพิ่มคอลัมน์ก่อน
+  addColumnAfter: เพิ่มคอลัมน์หลัง
+  deleteColumn: ลบคอลัมน์
+  addRowBefore: เพิ่มแถวก่อน
+  addRowAfter: เพิ่มแถวหลัง
+  deleteRow: ลบแถว
+  mergeCells: รวมเซลล์
+  splitCell: แยกเซลล์
+  deleteTable: ลบตาราง
+  rows: แถว
+  columns: คอลัมน์
+  alignLeft: จัดชิดซ้าย
+  alignCenter: จัดกึ่งกลาง
+  alignRight: จัดชิดขวา
+  editTable: แก้ไขตาราง
+  applyChanges: ใช้การเปลี่ยนแปลง

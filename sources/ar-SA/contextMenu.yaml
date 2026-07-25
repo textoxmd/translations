@@ -1,0 +1,23 @@
+contextMenu:
+  cut: قص
+  copy: نسخ
+  paste: لصق
+  delete: حذف
+  selectAll: تحديد الكل
+  insertLink: إدراج رابط
+  openLink: فتح الرابط
+  copyLink: نسخ عنوان الرابط
+  undo: تراجع
+  redo: إعادة
+  insertTable: إدراج جدول
+  bold: عريض
+  cancelBold: إلغاء العريض
+  italic: مائل
+  cancelItalic: إلغاء المائل
+  strikethrough: مشطوب
+  cancelStrikethrough: إلغاء المشطوب
+  inlineCode: كود مضمن
+  cancelInlineCode: إلغاء الكود المضمن
+  copyCode: نسخ الكود
+  pasteAsPlainText: لصق كنص عادي
+  copyAsHtml: نسخ كـ HTML

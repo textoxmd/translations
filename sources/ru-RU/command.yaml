@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Поиск файлов...
+  searchOutlinePlaceholder: Поиск в структуре...
+  noResults: Команды не найдены
+  file: Файл
+  view: Вид
+  insert: Вставка
+  settings: Открыть настройки
+  outline: Открыть структуру
+  newFile: Новый файл
+  openFile: Открыть файл
+  openFolder: Открыть папку
+  saveFile: Сохранить файл
+  toggleSidebar: Переключить боковую панель
+  toggleEditMode: Переключить режим редактирования
+  toggleTypewriterMode: Переключить режим пишущей машинки
+  insertImage: Вставить изображение
+  openSettings: Открыть настройки
+  noOutline: Нет структуры
+  openFileFirst: Пожалуйста, сначала откройте файл
+  emptyHeading: Пустой заголовок
+  title: Палитра команд
+  placeholder: Введите команду...
+  edit: Правка
+  format: Формат

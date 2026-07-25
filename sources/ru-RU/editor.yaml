@@ -1,0 +1,25 @@
+editor:
+  placeholder: Начните вводить текст...
+  heading: Заголовок
+  bold: Жирный
+  italic: Курсив
+  underline: Подчеркнутый
+  strikethrough: Зачеркнутый
+  code: Встроенный код
+  codeBlock: Блок кода
+  blockquote: Цитата
+  bulletList: Маркированный список
+  orderedList: Нумерованный список
+  taskList: Список задач
+  horizontalRule: Горизонтальная линия
+  link: Ссылка
+  image: Изображение
+  table: Таблица
+  math: Математический блок
+  inlineMath: Встроенная математика
+  mermaid: Диаграмма Mermaid
+  footnote: Сноска
+  insert: Вставить
+  format: Формат
+  openLinkVisit: Перейти
+  openLinkTitle: Внешняя ссылка

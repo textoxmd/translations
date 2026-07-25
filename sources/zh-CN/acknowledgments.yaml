@@ -1,0 +1,7 @@
+acknowledgments:
+  title: 鸣谢
+  reset: 恢复默认
+  resetSuccess: 已恢复默认内容
+  contentUpdated: 内容已更新
+  saveFailed: 保存失败
+  hint: 您可以编辑此文件添加自己的鸣谢内容

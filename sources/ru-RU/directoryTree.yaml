@@ -1,0 +1,20 @@
+directoryTree:
+  title: Файлы
+  newFile: Новый файл
+  newFolder: Новая папка
+  rename: Переименовать
+  delete: Удалить
+  loading: Загрузка...
+  newFileDefaultName: Новый файл.md
+  newFolderDefaultName: Новая папка
+  selectedCount: Выбрано {{count}} элементов
+  notOpenable: Не настроен как открываемый тип файла
+  deleteConfirmTitle: Вы уверены, что хотите удалить "{{name}}" и его содержимое?
+  deleteConfirmTitleFile: Вы уверены, что хотите удалить "{{name}}"?
+  deleteConfirmMultiple: Вы уверены, что хотите удалить эти {{count}} элементов?
+  deleteConfirmRecoveryHint: Вы можете восстановить этот элемент из Корзины.
+  deleteConfirmDontAskAgain: Больше не спрашивать
+  deleteConfirmMoveToTrash: Переместить в Корзину
+  showInFinder: Показать в Finder
+  dragToResize: Перетащите для изменения размера
+  closeFile: Закрыть файл

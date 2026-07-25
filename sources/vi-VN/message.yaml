@@ -1,0 +1,15 @@
+message:
+  linkCopied: Đã sao chép liên kết vào bảng tạm
+  codeCopied: Đã sao chép mã vào bảng tạm
+  saveSuccess: Lưu thành công
+  saveFailed: Lưu thất bại
+  imageUploadSuccess: Tải lên hình ảnh thành công
+  imageUploadFailed: Tải lên hình ảnh thất bại
+  imageInsertNotAllowed: Vui lòng lưu tệp trước khi chèn hình ảnh
+  imageInsertNotAllowedSingleFile: Không thể chèn hình ảnh ở chế độ tệp đơn. Vui lòng mở thư mục trước
+  imageInsertFailed: Chèn hình ảnh thất bại
+  imageUploading: Đang tải hình ảnh lên máy chủ…
+  recentFileNotFound: Không tìm thấy tệp gần đây, đã xóa bản ghi
+  recentFolderNotFound: Không tìm thấy thư mục gần đây, đã xóa bản ghi
+  typewriterEnabled: Đã bật chế độ máy đánh chữ
+  typewriterDisabled: Đã tắt chế độ máy đánh chữ

@@ -1,0 +1,90 @@
+menu:
+  texto: Textox
+  about: Textox के बारे में
+  preferences: प्राथमिकताएं...
+  quit: Textox से बाहर निकलें
+  file: फाइल
+  new_window: नई विंडो
+  open: खोलें...
+  open_folder: फ़ोल्डर खोलें...
+  open_recent: हाल के खोलें
+  no_recent: कोई हाल का नहीं
+  clear_recent: मेनू साफ़ करें
+  windows: खुली विंडो
+  save: सहेजें
+  open_location: Finder में दिखाएं
+  export: PDF निर्यात...
+  saveBeforeExport: कृपया निर्यात करने से पहले फ़ाइल सहेजें
+  saveBeforeExportPrompt: दस्तावेज़ में बिना सहेजे गए बदलाव हैं। निर्यात करने से पहले सहेजें?
+  edit: संपादित करें
+  undo: पूर्ववत करें
+  redo: फिर से करें
+  cut: काटें
+  copy: कॉपी करें
+  paste: पेस्ट करें
+  select_all: सभी चुनें
+  auto_fill: स्वतः भरें
+  start_dictation: डिक्टेशन शुरू करें...
+  emoji_symbols: इमोजी और प्रतीक
+  paragraph: पैराग्राफ
+  heading_1: शीर्षक 1
+  heading_2: शीर्षक 2
+  heading_3: शीर्षक 3
+  heading_4: शीर्षक 4
+  heading_5: शीर्षक 5
+  heading_6: शीर्षक 6
+  bullet_list: बुलेट सूची
+  ordered_list: क्रमांकित सूची
+  task_list: कार्य सूची
+  code_block: कोड ब्लॉक
+  math_block: गणित ब्लॉक
+  blockquote: ब्लॉक उद्धरण
+  horizontal_rule: क्षैतिज रेखा
+  table: तालिका
+  mermaid: Mermaid आरेख
+  footnote: फुटनोट
+  image: छवि
+  format: प्रारूप
+  bold: बोल्ड
+  italic: इटैलिक
+  underline: अंडरलाइन
+  strikethrough: स्ट्राइकथ्रू
+  inline_code: इनलाइन कोड
+  highlight: हाइलाइट
+  clear_formatting: स्ट्राइकथ्रू
+  view: देखें
+  toggle_sidebar: साइडबार टॉगल करें
+  toggle_edit_mode: संपादन मोड टॉगल करें
+  toggle_typewriter_mode: टाइपराइटर मोड
+  window: विंडो
+  minimize: न्यूनतम करें
+  zoom: ज़ूम
+  fullscreen: पूर्ण स्क्रीन
+  center: केंद्र में
+  help: सहायता
+  acknowledgments: आभार
+  changelog: बदलाव लॉग
+  privacy: गोपनीयता नीति
+  website: वेबसाइट
+  feedback: प्रतिक्रिया
+  export_logs: लॉग निर्यात करें...
+  auto_save: स्वचालित सहेजना
+  newFile: नई फाइल
+  openFile: फाइल खोलें...
+  openFolder: फ़ोल्डर खोलें...
+  saveAs: इस रूप में सहेजें...
+  closeFile: फाइल बंद करें
+  closeWindow: विंडो बंद करें
+  recentFiles: हाल की फाइलें
+  clearRecent: हाल के साफ़ करें
+  noRecentFiles: कोई हाल की फाइल नहीं
+  selectAll: सभी चुनें
+  find: खोजें...
+  replace: बदलें...
+  toggleSidebar: साइडबार टॉगल करें
+  toggleOutline: रूपरेखा टॉगल करें
+  togglePreview: पूर्वावलोकन टॉगल करें
+  toggleSourceMode: स्रोत मोड टॉगल करें
+  fullScreen: पूर्ण स्क्रीन
+  settings: सेटिंग्स...
+  checkForUpdates: अपडेट के लिए जांचें...

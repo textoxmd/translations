@@ -1,0 +1,261 @@
+settings:
+  title: 設定
+  editor: エディタ
+  personalization: タイピングエフェクト
+  shortcuts: ショートカット
+  about: について
+  editorFontFamily: エディタフォント
+  editorFontFamilyDesc: エディタテキストのフォントを設定
+  editorFontSize: エディタフォントサイズ
+  editorFontSizeDesc: エディタのフォントサイズを調整
+  autoSave: 自動保存
+  autoSaveDesc: ファイルの自動保存頻度
+  autoCapitalize: 自動大文字化
+  showWordCount: 単語数を表示
+  showWordCountDesc: エディタの右下にフローティング単語数バッジを表示
+  showEditorToolbar: 書式ツールバーを表示
+  showEditorToolbarDesc: エディタ上部に書式ツールバーを表示
+  typewriterMode: タイプライターモード
+  typewriterModeDesc: タイプライターモードではカーソル行が画面中央に保たれ、集中して執筆できます
+  autoCapitalizeDesc: 英文の文頭を自動的に大文字にします（Markdown編集のため無効推奨）
+  externalFileChangeAction: 外部ファイル変更の処理
+  externalFileChangeActionDesc: ファイルが外部プログラムによって変更された場合の処理方法
+  externalFileChangeIgnore: 無視
+  externalFileChangeSilent: 自動再読み込み
+  externalFileChangePrompt: 確認
+  codeBlockWordWrap: コードブロックの折り返し
+  codeBlockWordWrapDesc: コードブロックで折り返しを有効にする
+  codeBlockWordWrapTooltip: 有効にすると、コードブロックの長い行が自動的に折り返されます
+  showLineNumbers: 行番号を表示
+  showLineNumbersDesc: ソースコードエディタで行番号を表示する
+  showLineNumbersTooltip: 有効にすると、ソースコードエディタの左側に行番号が表示されます
+  codeEditorThemeLight: コードブロックテーマ（ライト）
+  codeEditorThemeLightDesc: ライトモード時のコードブロックエディタのテーマスタイルを選択
+  codeEditorThemeDark: コードブロックテーマ（ダーク）
+  codeEditorThemeDarkDesc: ダークモード時のコードブロックエディタのテーマスタイルを選択
+  sourceCodeThemeLight: ソースコードテーマ（ライト）
+  sourceCodeThemeLightDesc: ライトモード時のソースコードエディタのテーマスタイルを選択
+  sourceCodeThemeDark: ソースコードテーマ（ダーク）
+  sourceCodeThemeDarkDesc: ダークモード時のソースコードエディタのテーマスタイルを選択
+  syncEditorBg: エディタ背景色を使用
+  syncEditorBgDesc: 有効にすると、ソースコードエディタはテーマ背景色の代わりにエディタ背景色を使用し、統一された外観にします
+  sidebarPosition: サイドバーの位置
+  sidebarPositionDesc: サイドバーを左側または右側に表示するか設定
+  left: 左側
+  right: 右側
+  breatheColor: ブリージングカラー
+  breatheColorDesc: 見出しに動的なブリージングカラー効果を有効にする
+  highlightColor: ハイライト色
+  highlightColorDesc: ハイライトテキストの背景色を選択
+  highlightColorYellow: 黄色
+  highlightColorGreen: 緑色
+  highlightColorBlue: 青色
+  highlightColorPink: ピンク色
+  highlightColorOrange: オレンジ色
+  highlightColorPurple: 紫色
+  colorTheme: カラーテーマ
+  colorThemeDesc: アプリケーションのカラーテーマを選択
+  colorThemeDefault: デフォルト
+  colorThemePastel: 桜染め
+  colorThemeSpring: 春
+  colorThemePastelStory: >-
+    IKEAのGRÅVITS（グラーヴィッツ）花瓶にインスパイアされ、Typoraコミュニティでphycatに出会いました。桜が舞い散るような軽やかで優しい配色、リラックスした温かい雰囲気が、まさに私の理想そのもの。元の配色をベースに幾重にも微調整と最適化を重ね、柔らかく心地よい、飽きのこない書き味を実現しました。
+  colorThemeSpringStory: >-
+    春は始まりと希望を象徴します。2026年春、Textoxは新たにスタートし、プロジェクトにとって記念すべき時期です。驚蛰は柔らかく清らかな草木のグリーンをメインビジュアルとし、色彩自体が万物復活の春の雰囲気を醸し出しています。Textox向けに調整を加え、春の朝のような透明感のある軽やかな雰囲気で、毎回の執筆を心地よいものにします。
+  appearance: 外観
+  appearanceDesc: アプリケーションの外観をカスタマイズ
+  appearanceLight: ライト
+  appearanceDark: ダーク
+  appearanceSystem: システムに従う
+  languageDesc: 希望の言語を選択してください
+  shortcutsConfig: ショートカット設定
+  version: バージョン
+  features: 機能
+  privacy: プライバシー
+  allRightsReserved: 全著作権所有
+  imageStorage: 画像の保存
+  imageStorageMode: 画像保存モード
+  imageStorageModeDesc: 画像の保存場所を選択
+  imageStorageAppData: アプリケーションデータ
+  imageStorageAlongside: ドキュメントと同じ場所
+  imageStorageCustom: カスタムパス
+  imageFolderName: 画像フォルダ名
+  imageFolderNameDesc: 画像フォルダの名前（デフォルト：images）
+  imageStoragePath: 画像保存パス
+  imageStoragePathDesc: 画像のカスタム保存パス
+  selectImageStoragePath: 画像保存パスを選択
+  imageAggregationMode: 画像集約モード
+  imageAggregationModeDesc: 画像ファイルをどのように整理するか
+  imageAggregationNone: 分類しない
+  imageAggregationByDocument: ドキュメントで分類
+  imageAggregationByDate: 日付で分類
+  imageDateFormat: 画像日付形式
+  imageDateFormatDesc: 日付で分類する際に使用する日付形式
+  invalidImagePath: 無効な画像パス
+  invalidImagePathDesc: 有効なフォルダパスを選択してください
+  imagePathSet: 画像パスが設定されました
+  failedToSetImagePath: 画像パスの設定に失敗しました
+  fontFamily: フォント
+  fontFamilyDesc: エディタフォントを選択
+  fontSystemDefault: システム既定
+  fontMono: 等幅フォント
+  fontSampleText: Aa 日本語
+  windowSize: ウィンドウサイズ
+  windowSizeDesc: エディタウィンドウのデフォルトサイズを調整
+  resetSettings: 設定をリセット
+  resetToDefault: デフォルトに戻す
+  resetToDefaultDesc: すべての設定をデフォルトに戻す
+  resetButton: リセット
+  resetConfirm: すべての設定をリセットしてもよろしいですか？この操作は元に戻せません。
+  resetSuccess: 設定がリセットされました
+  resetFailed: リセットに失敗しました
+  acknowledgments: 謝辞
+  acknowledgmentsSubtitle: 以下のオープンソースプロジェクトに感謝します
+  thanksMessage: Textox をご利用いただきありがとうございます！
+  theme: テーマ
+  themeSystem: システムに従う
+  themeLight: ライト
+  themeDark: ダーク
+  language: 言語
+  interfaceFont: インターフェースフォント
+  editorFont: エディタフォント
+  autoSaveOff: オフ
+  autoSaveOnFocusChange: フォーカス変更時
+  autoSaveOnDelay: 遅延後
+  autoSaveDelay: 自動保存遅延 (秒)
+  author: 作者
+  license: ライセンス
+  close: 閉じる
+  slashCommands: スラッシュコマンド
+  themeManagement: テーマ管理
+  themeManagementDesc: ローカルファイルからカスタムテーマをインポート
+  themePresets: プリセット
+  themeCustomProfiles: カスタム設定
+  themeNew: 新規
+  themeNewFromPreset: 現在のプリセットから新しいテーマ
+  importTheme: テーマをインポート
+  importing: インポート中...
+  themeImportSuccess: テーマがインポートされました
+  themeAlreadyExists: このテーマは既に存在します
+  themeImportFailed: テーマのインポートに失敗しました
+  deleteTheme: 削除
+  themeDeleteSuccess: テーマが削除されました
+  themeDeleteFailed: テーマの削除に失敗しました
+  duplicateTheme: テーマを複製
+  duplicateThemeSuffix: のコピー
+  renameTheme: 名前を変更
+  themeDuplicateSuccess: テーマが複製されました
+  themeDuplicateFailed: テーマの複製に失敗しました
+  themeStory: テーマストーリー
+  themeEditor: テーマエディタ
+  loadTheme: テーマを読み込む
+  applyPreview: プレビューを適用
+  applying: 適用中...
+  themeId: テーマID
+  themeName: テーマ名
+  themeNamePlaceholder: テーマ名を入力
+  saveAsTheme: テーマとして保存
+  themePreviewApplied: テーマプレビューを適用しました
+  themePreviewFailed: プレビューの適用に失敗しました
+  themeNameRequired: テーマIDと名前を入力してください
+  themeSaveSuccess: テーマを保存しました
+  themeSaveFailed: テーマの保存に失敗しました
+  quickEdit: クイック編集
+  codeDisplay: コード表示
+  activeTheme: アクティブテーマ
+  customThemes: カスタムテーマ
+  themeEdit: テーマ編集
+  cancelPreview: プレビューをキャンセル
+  overwriteThemeConfirm: テーマ "{{name}}" を上書きしてもよろしいですか？
+  deleteThemeConfirm: テーマ "{{name}}" を削除してもよろしいですか？
+  exportTheme: エクスポート
+  themeExportSuccess: テーマをエクスポートしました
+  themeExportFailed: テーマのエクスポートに失敗しました
+  createCustomTheme: カスタムテーマを作成
+  readonlyThemeBanner: 組み込みテーマ（読み取り専用）— 編集するにはカスタムコピーを作成
+  group:
+    surface: 表面
+    accents: アクセント
+    feedback: フィードバック
+    boundaries: 境界
+    charts: チャート
+    sidebar: サイドバー
+  markdown: Markdown
+  markdownTitle: Markdown 構文
+  markdownEmpty: 設定可能な構文機能はありません
+  alertTitle: アラート
+  alertDesc: blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート
+  html-commentTitle: HTML コメント
+  html-commentDesc: <!-- --> コメントブロックをレンダリング
+  html-inlineTitle: インライン HTML
+  html-inlineDesc: <span style>、<kbd>、<abbr> などのインライン HTML タグをレンダリング
+  typing-particleTitle: タイピングパーティクル
+  typing-particleDesc: タイピング時にカーソル位置から火花パーティクルを放出
+  fileExtensions: ファイル拡張子
+  fileExtensionsDesc: ファイルツリーでクリック可能なファイルタイプを管理します。リストにない拡張子は無効として表示されます。
+  fileExtensionsPlaceholder: 拡張子を入力（例：md）
+  imageStoragePicgo: PicGo 画像ホスティング
+  picgoServerUrl: PicGo サーバーURL
+  picgoServerUrlDesc: PicGo Server を参照してください
+  picgoTestConnection: テスト
+  picgoConnectionSuccess: PicGo 接続成功
+  picgoConnectionFailed: PicGo 接続に失敗しました。PicGo クライアントが実行されているか確認してください
+  typingParticles: タイピングパーティクル
+  typingParticlesDesc: タイピング時にカーソル位置からパーティクルを放出
+  particlePreset: プリセット
+  particleCount: パーティクル数
+  particleSize: パーティクルサイズ
+  particleSpeed: 速度
+  particleSpread: 拡散角度
+  particleGravity: 重力
+  particleDuration: 持続時間
+  particleDirection: 方向
+  particleDirUp: 上
+  particleDirDown: 下
+  particleDirRadial: 放射状
+  particleDirRandom: ランダム
+  particleOn: タイピングパーティクルを有効にする
+  particleShape: 形状
+  particleShapeCircle: 円
+  particleShapeSquare: 四角
+  particleShapeStar: 星
+  particleShapeDiamond: ダイヤ
+  particleShapeTriangle: 三角形
+  particlePaletteRainbow: レインボー
+  particlePaletteWarm: 暖色
+  particlePaletteCool: 寒色
+  particlePalettePastel: パステル
+  particlePaletteNeon: ネオン
+  particleColorTheme: テーマに従う
+  particleColorFixed: 固定色
+  particleColorRandom: ランダム色
+  particleColor: 色
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.

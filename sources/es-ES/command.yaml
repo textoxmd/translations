@@ -1,0 +1,25 @@
+command:
+  searchPlaceholder: Buscar archivos...
+  searchOutlinePlaceholder: Buscar en el esquema...
+  noResults: No se encontraron comandos
+  file: Archivo
+  view: Ver
+  insert: Insertar
+  settings: Abrir configuración
+  outline: Abrir esquema
+  newFile: Nuevo archivo
+  openFile: Abrir archivo
+  openFolder: Abrir carpeta
+  saveFile: Guardar archivo
+  toggleSidebar: Alternar barra lateral
+  toggleEditMode: Alternar modo de edición
+  toggleTypewriterMode: Alternar modo de máquina de escribir
+  insertImage: Insertar imagen
+  openSettings: Abrir configuración
+  noOutline: Sin esquema
+  openFileFirst: Por favor abra un archivo primero
+  emptyHeading: Encabezado vacío
+  title: Paleta de comandos
+  placeholder: Escribir comando...
+  edit: Editar
+  format: Formato

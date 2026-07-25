@@ -1,0 +1,6 @@
+codeBlock:
+  selectLanguage: 언어 선택
+  copyCode: 코드 복사
+  copied: 복사됨
+  fold: 접기
+  unfold: 펼치기

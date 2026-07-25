@@ -1,0 +1,20 @@
+directoryTree:
+  title: Dateien
+  newFile: Neue Datei
+  newFolder: Neuer Ordner
+  rename: Umbenennen
+  delete: Löschen
+  loading: Laden...
+  newFileDefaultName: Neue Datei.md
+  newFolderDefaultName: Neuer Ordner
+  selectedCount: '{{count}} Elemente ausgewählt'
+  notOpenable: Nicht als öffnbarer Dateityp konfiguriert
+  deleteConfirmTitle: Möchten Sie "{{name}}" und seinen Inhalt wirklich löschen?
+  deleteConfirmTitleFile: Möchten Sie "{{name}}" wirklich löschen?
+  deleteConfirmMultiple: Möchten Sie diese {{count}} Elemente wirklich löschen?
+  deleteConfirmRecoveryHint: Sie können dieses Element aus dem Papierkorb wiederherstellen.
+  deleteConfirmDontAskAgain: Nicht erneut nachfragen
+  deleteConfirmMoveToTrash: In den Papierkorb verschieben
+  showInFinder: Im Finder anzeigen
+  dragToResize: Zum Ändern der Größe ziehen
+  closeFile: Datei schließen

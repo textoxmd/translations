@@ -1,0 +1,20 @@
+directoryTree:
+  title: Ficheiros
+  newFile: Novo ficheiro
+  newFolder: Nova pasta
+  rename: Renomear
+  delete: Eliminar
+  loading: A carregar...
+  newFileDefaultName: Novo ficheiro.md
+  newFolderDefaultName: Nova pasta
+  selectedCount: '{{count}} itens selecionados'
+  notOpenable: Não configurado como um tipo de ficheiro abrível
+  deleteConfirmTitle: Tem a certeza de que pretende eliminar "{{name}}" e o seu conteúdo?
+  deleteConfirmTitleFile: Tem a certeza de que pretende eliminar "{{name}}"?
+  deleteConfirmMultiple: Tem a certeza de que pretende eliminar estes {{count}} itens?
+  deleteConfirmRecoveryHint: Pode restaurar este item a partir do Lixo.
+  deleteConfirmDontAskAgain: Não perguntar novamente
+  deleteConfirmMoveToTrash: Mover para o Lixo
+  showInFinder: Mostrar no Finder
+  dragToResize: Arraste para redimensionar
+  closeFile: Fechar ficheiro

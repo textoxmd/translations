@@ -1,0 +1,269 @@
+settings:
+  title: Настройки
+  editor: Редактор
+  personalization: Эффекты набора
+  shortcuts: Горячие клавиши
+  about: О программе
+  editorFontFamily: Шрифт редактора
+  editorFontFamilyDesc: Установить шрифт текста редактора
+  editorFontSize: Размер шрифта редактора
+  editorFontSizeDesc: Настроить размер шрифта в редакторе
+  autoSave: Автосохранение
+  autoSaveDesc: Частота автосохранения файлов
+  autoCapitalize: Авто-заглавные
+  showWordCount: Показывать количество слов
+  showWordCountDesc: Показывать плавающий значок количества слов в правом нижнем углу редактора
+  showEditorToolbar: Показать панель инструментов форматирования
+  showEditorToolbarDesc: Показать панель инструментов форматирования в верхней части редактора
+  typewriterMode: Режим пишущей машинки
+  typewriterModeDesc: В режиме пишущей машинки строка с курсором остается по центру для сфокусированного письма
+  autoCapitalizeDesc: Автоматически делать заглавной первую букву английских предложений (отключите для лучшего редактирования Markdown)
+  externalFileChangeAction: Действие при изменении внешнего файла
+  externalFileChangeActionDesc: Как обрабатывать, когда файл изменен внешней программой
+  externalFileChangeIgnore: Игнорировать
+  externalFileChangeSilent: Автоматически перезагрузить
+  externalFileChangePrompt: Спрашивать
+  codeBlockWordWrap: Автоматический перенос строки блока кода
+  codeBlockWordWrapDesc: Включить автоматический перенос строки в блоке кода
+  codeBlockWordWrapTooltip: При включении длинные строки в блоке кода будут автоматически переноситься
+  showLineNumbers: Показывать номера строк
+  showLineNumbersDesc: Показывать номера строк в редакторе исходного кода
+  showLineNumbersTooltip: При включении номера строк отображаются слева от редактора исходного кода
+  codeEditorThemeLight: Тема блока кода (светлая)
+  codeEditorThemeLightDesc: Выберите стиль темы для редактора блоков кода в светлом режиме
+  codeEditorThemeDark: Тема блока кода (темная)
+  codeEditorThemeDarkDesc: Выберите стиль темы для редактора блоков кода в темном режиме
+  sourceCodeThemeLight: Тема исходного кода (светлая)
+  sourceCodeThemeLightDesc: Выберите стиль темы для редактора исходного кода в светлом режиме
+  sourceCodeThemeDark: Тема исходного кода (темная)
+  sourceCodeThemeDarkDesc: Выберите стиль темы для редактора исходного кода в темном режиме
+  syncEditorBg: Использовать фон редактора
+  syncEditorBgDesc: >-
+    При включении редактор исходного кода будет использовать цвет фона редактора вместо фона темы для единообразного
+    вида
+  sidebarPosition: Положение боковой панели
+  sidebarPositionDesc: Установить, отображается ли боковая панель слева или справа
+  left: Слева
+  right: Справа
+  breatheColor: Цвет дыхания
+  breatheColorDesc: Включить динамический эффект цвета дыхания для заголовков
+  highlightColor: Цвет выделения
+  highlightColorDesc: Выбрать цвет фона для выделенного текста
+  highlightColorYellow: Желтый
+  highlightColorGreen: Зеленый
+  highlightColorBlue: Синий
+  highlightColorPink: Розовый
+  highlightColorOrange: Оранжевый
+  highlightColorPurple: Фиолетовый
+  colorTheme: Цветовая тема
+  colorThemeDesc: Выбрать цветовую тему приложения
+  colorThemeDefault: По умолчанию
+  colorThemePastel: Вишня
+  colorThemeSpring: Весна
+  colorThemePastelStory: >-
+    Вдохновившись вазой GRÅVITS от IKEA, мне посчастливилось встретить phycat в сообществе Typora. Её лёгкая, воздушная
+    палитра цветущей сакуры, расслабленная и тёплая атмосфера — именно то, что я представлял. Путём послойных доработок
+    и адаптации родился мягкий, уютный и визуально приятный опыт письма для Textox.
+  colorThemeSpringStory: >-
+    Весна символизирует начало и надежду. Textox запустился весной 2026 года — знаменательное время для проекта. Тема
+    Jingzhe выполнена в мягких, чистых растительных зелёных тонах, которые сами по себе передают весеннее пробуждение
+    природы. Адаптированная для Textox, она привносит в каждую сессию письма свежую, лёгкую атмосферу весеннего утра.
+  appearance: Внешний вид
+  appearanceDesc: Настроить внешний вид приложения
+  appearanceLight: Светлая
+  appearanceDark: Темная
+  appearanceSystem: Следовать системе
+  languageDesc: Выберите предпочитаемый язык
+  shortcutsConfig: Настройка горячих клавиш
+  version: Версия
+  features: Функции
+  privacy: Конфиденциальность
+  allRightsReserved: Все права защищены
+  imageStorage: Хранение изображений
+  imageStorageMode: Режим хранения изображений
+  imageStorageModeDesc: Выбрать место хранения изображений
+  imageStorageAppData: Данные приложения
+  imageStorageAlongside: То же место, что и документ
+  imageStorageCustom: Пользовательский путь
+  imageFolderName: Имя папки изображений
+  imageFolderNameDesc: 'Имя папки изображений (по умолчанию: images)'
+  imageStoragePath: Путь хранения изображений
+  imageStoragePathDesc: Пользовательский путь хранения изображений
+  selectImageStoragePath: Выбрать путь хранения изображений
+  imageAggregationMode: Режим агрегации изображений
+  imageAggregationModeDesc: Как организовать файлы изображений
+  imageAggregationNone: Не сортировать
+  imageAggregationByDocument: Сортировать по документу
+  imageAggregationByDate: Сортировать по дате
+  imageDateFormat: Формат даты изображения
+  imageDateFormatDesc: Формат даты, используемый при сортировке по дате
+  invalidImagePath: Недопустимый путь к изображению
+  invalidImagePathDesc: Выберите действительный путь к папке
+  imagePathSet: Путь к изображению установлен
+  failedToSetImagePath: Не удалось установить путь к изображению
+  fontFamily: Шрифт
+  fontFamilyDesc: Выбрать шрифт редактора
+  fontSystemDefault: Системный по умолчанию
+  fontMono: Моноширинный шрифт
+  fontSampleText: Aa Русский
+  windowSize: Размер окна
+  windowSizeDesc: Настроить размер окна редактора по умолчанию
+  resetSettings: Сбросить настройки
+  resetToDefault: Восстановить значения по умолчанию
+  resetToDefaultDesc: Восстановить все настройки к значениям по умолчанию
+  resetButton: Сбросить
+  resetConfirm: Вы уверены, что хотите сбросить все настройки? Это действие нельзя отменить.
+  resetSuccess: Настройки сброшены
+  resetFailed: Ошибка сброса
+  acknowledgments: Благодарности
+  acknowledgmentsSubtitle: Благодарность следующим проектам с открытым исходным кодом
+  thanksMessage: Спасибо за использование Textox!
+  theme: Тема
+  themeSystem: Следовать системе
+  themeLight: Светлая
+  themeDark: Темная
+  language: Язык
+  interfaceFont: Шрифт интерфейса
+  editorFont: Шрифт редактора
+  autoSaveOff: Выкл
+  autoSaveOnFocusChange: При смене фокуса
+  autoSaveOnDelay: После задержки
+  autoSaveDelay: Задержка автосохранения (сек)
+  author: Автор
+  license: Лицензия
+  close: Закрыть
+  slashCommands: Слэш-команды
+  themeManagement: Управление темами
+  themeManagementDesc: Импорт пользовательских тем из локальных файлов
+  themePresets: Предустановки
+  themeCustomProfiles: Пользовательские конфигурации
+  themeNew: Создать
+  themeNewFromPreset: Новая тема из текущей предустановки
+  importTheme: Импорт темы
+  importing: Импорт...
+  themeImportSuccess: Тема успешно импортирована
+  themeAlreadyExists: Эта тема уже существует
+  themeImportFailed: Не удалось импортировать тему
+  deleteTheme: Удалить
+  themeDeleteSuccess: Тема удалена
+  themeDeleteFailed: Не удалось удалить тему
+  duplicateTheme: Дублировать тему
+  duplicateThemeSuffix: Копия
+  renameTheme: Переименовать
+  themeDuplicateSuccess: Тема продублирована
+  themeDuplicateFailed: Не удалось дублировать тему
+  themeStory: История темы
+  themeEditor: Редактор тем
+  loadTheme: Загрузить тему
+  applyPreview: Применить предпросмотр
+  applying: Применение...
+  themeId: ID темы
+  themeName: Название темы
+  themeNamePlaceholder: Введите название темы
+  saveAsTheme: Сохранить как тему
+  themePreviewApplied: Предпросмотр темы применён
+  themePreviewFailed: Предпросмотр не удался
+  themeNameRequired: Введите ID и название темы
+  themeSaveSuccess: Тема успешно сохранена
+  themeSaveFailed: Не удалось сохранить тему
+  quickEdit: Быстрое редактирование
+  codeDisplay: Отображение кода
+  activeTheme: Активная тема
+  customThemes: Пользовательские темы
+  themeEdit: Редактирование темы
+  cancelPreview: Отменить предпросмотр
+  overwriteThemeConfirm: Вы уверены, что хотите перезаписать тему "{{name}}"?
+  deleteThemeConfirm: Вы уверены, что хотите удалить тему "{{name}}"?
+  exportTheme: Экспорт
+  themeExportSuccess: Тема успешно экспортирована
+  themeExportFailed: Не удалось экспортировать тему
+  createCustomTheme: Создать пользовательскую тему
+  readonlyThemeBanner: Встроенная тема (только чтение) — Создайте пользовательскую копию для редактирования
+  group:
+    surface: Поверхность
+    accents: Акценты
+    feedback: Обратная связь
+    boundaries: Границы
+    charts: Диаграммы
+    sidebar: Боковая панель
+  markdown: Markdown
+  markdownTitle: Синтаксис Markdown
+  markdownEmpty: Нет настраиваемых синтаксических функций
+  alertTitle: Уведомление
+  alertDesc: Расширение синтаксиса blockquote с поддержкой NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  html-commentTitle: HTML-комментарии
+  html-commentDesc: Отображать блоки комментариев <!-- -->
+  html-inlineTitle: Встроенный HTML
+  html-inlineDesc: Отображать встроенные HTML-теги, такие как <span style>, <kbd>, <abbr>
+  typing-particleTitle: Частицы при наборе
+  typing-particleDesc: Испускает искры частиц из позиции курсора при наборе текста
+  fileExtensions: Расширения файлов
+  fileExtensionsDesc: >-
+    Управляйте типами файлов, которые можно открыть кликом в дереве файлов. Расширения не из списка будут отображаться
+    как недоступные.
+  fileExtensionsPlaceholder: Введите расширение (например, md)
+  imageStoragePicgo: PicGo хостинг изображений
+  picgoServerUrl: URL сервера PicGo
+  picgoServerUrlDesc: Пожалуйста, обратитесь к PicGo Server
+  picgoTestConnection: Проверить
+  picgoConnectionSuccess: Подключение к PicGo успешно
+  picgoConnectionFailed: Ошибка подключения к PicGo. Проверьте, запущен ли клиент PicGo
+  typingParticles: Частицы при наборе
+  typingParticlesDesc: Испускает частицы из позиции курсора при наборе текста
+  particlePreset: Пресет
+  particleCount: Количество частиц
+  particleSize: Размер частиц
+  particleSpeed: Скорость
+  particleSpread: Разброс
+  particleGravity: Гравитация
+  particleDuration: Длительность
+  particleDirection: Направление
+  particleDirUp: Вверх
+  particleDirDown: Вниз
+  particleDirRadial: Радиально
+  particleDirRandom: Случайно
+  particleOn: Включить частицы при наборе
+  particleShape: Форма
+  particleShapeCircle: Круг
+  particleShapeSquare: Квадрат
+  particleShapeStar: Звезда
+  particleShapeDiamond: Ромб
+  particleShapeTriangle: Треугольник
+  particlePaletteRainbow: Радуга
+  particlePaletteWarm: Теплый
+  particlePaletteCool: Холодный
+  particlePalettePastel: Пастель
+  particlePaletteNeon: Неон
+  particleColorTheme: Следовать теме
+  particleColorFixed: Фиксированный цвет
+  particleColorRandom: Случайный
+  particleColor: Цвет
+  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
+  particleCountDesc: Particles per keystroke (3-20)
+  particleCountNote: Higher values create richer effects but may impact performance.
+  particleSizeDesc: Initial particle size (1-6px)
+  particleSizeNote: Larger particles are more visible.
+  particleSpeedDesc: Initial flight speed (30-250px/s)
+  particleSpeedNote: Higher speed spreads particles further.
+  particleSpreadDesc: Emission angle range (10-360°)
+  particleSpreadNote: Wider angle creates broader spread.
+  particleGravityDesc: Gravity acceleration (0-300)
+  particleGravityNote: Higher gravity pulls particles down faster.
+  particleDurationDesc: Particle lifetime (0.1-1.5s)
+  particleDurationNote: Longer duration creates longer trails.
+  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
+  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
+  particlePresets: Presets
+  particleCustomProfiles: Custom Configs
+  particleNewProfile: New
+  particleNewFromPreset: New config from current preset
+  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
+  particleCopySuffix: ' - Copy'
+  particleResetToPreset: Reset to Preset Defaults
+  particleResetDesc: Reset this config's parameters to the source preset defaults
+  particleRenameTitle: Rename Config
+  particleDeleteTitle: Delete Config
+  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
+  particleDeleteConfirm: Delete
+  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
+  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
