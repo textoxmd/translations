@@ -5,24 +5,7 @@ build:
 
 build-lang:
 	@if [ -z "$(LANG)" ]; then echo "Usage: make build-lang LANG=nb-NO"; exit 1; fi
-	@mkdir -p locales
-	@bun -e "
-	const fs = require('fs');
-	const path = require('path');
-	const yaml = require('js-yaml');
-	const dir = path.join('sources', '$(LANG)');
-	const files = fs.readdirSync(dir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
-	const bundle = {};
-	for (const f of files) {
-		const ns = f.replace('.yaml', '');
-		const c = yaml.load(fs.readFileSync(path.join(dir, f), 'utf-8'));
-		bundle[ns] = c[ns];
-	}
-	const meta = yaml.load(fs.readFileSync(path.join(dir, 'meta.yaml'), 'utf-8')) || {};
-	const wrapped = { version: 1, lang: '$(LANG)', name: meta.name || '$(LANG)', nativeName: meta.nativeName || meta.name || '$(LANG)', rtl: meta.rtl || false, translations: bundle };
-	fs.writeFileSync(path.join('locales', '$(LANG).json'), JSON.stringify(wrapped, null, 2));
-	console.log('Built locales/$(LANG).json');
-	"
+	@bun run scripts/build.ts --lang $(LANG)
 
 init-lang:
 	@if [ -z "$(LANG)" ]; then echo "Usage: make init-lang LANG=nb-NO"; exit 1; fi

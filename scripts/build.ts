@@ -1,18 +1,31 @@
 import fs from 'fs';
 import path from 'path';
 import yaml from 'js-yaml';
+import { parse as parseToml } from 'smol-toml';
 
 const SOURCES_DIR = path.resolve('sources');
 const OUTPUT_DIR = path.resolve('locales');
 
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
+const filterLang = process.argv.find(a => a.startsWith('--lang='))?.split('=')[1];
+
 const langs = fs.readdirSync(SOURCES_DIR).filter(f =>
-  fs.statSync(path.join(SOURCES_DIR, f)).isDirectory()
+  fs.statSync(path.join(SOURCES_DIR, f)).isDirectory() && (!filterLang || f === filterLang)
 );
 
-for (const lang of langs) {
-  const langDir = path.join(SOURCES_DIR, lang);
+for (const dir of langs) {
+  const langDir = path.join(SOURCES_DIR, dir);
+
+  // 读取 meta.toml
+  const metaPath = path.join(langDir, 'meta.toml');
+  if (!fs.existsSync(metaPath)) {
+    console.warn(`Skipping ${dir}: no meta.toml`);
+    continue;
+  }
+  const meta = parseToml(fs.readFileSync(metaPath, 'utf-8')) as Record<string, any>;
+  const lang = meta.lang || dir;
+
   const files = fs.readdirSync(langDir).filter(f => f.endsWith('.yaml')).sort();
   const bundle: Record<string, any> = {};
 
@@ -22,17 +35,12 @@ for (const lang of langs) {
     bundle[ns] = content[ns];
   }
 
-  // 读取语言目录下的元数据
-  const metaPath = path.join(langDir, 'meta.yaml');
-  const info = fs.existsSync(metaPath)
-    ? (yaml.load(fs.readFileSync(metaPath, 'utf-8')) as Record<string, any>)
-    : {};
   const wrapped = {
     version: 1,
     lang,
-    name: info.name || lang,
-    nativeName: info.nativeName || info.name || lang,
-    rtl: info.rtl || false,
+    name: meta.name || lang,
+    nativeName: meta.nativeName || meta.name || lang,
+    rtl: meta.rtl || false,
     translations: bundle,
   };
 

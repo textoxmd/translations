@@ -9,7 +9,7 @@ const langs = fs.readdirSync(SOURCES_DIR).filter(f =>
 
 // en-US 为标准模板
 const enDir = path.join(SOURCES_DIR, 'en-US');
-const enFiles = fs.readdirSync(enDir).filter(f => f.endsWith('.yaml') && f !== 'meta.yaml').sort();
+const enFiles = fs.readdirSync(enDir).filter(f => f.endsWith('.yaml')).sort();
 const enKeys: Record<string, string[]> = {};
 
 for (const file of enFiles) {
