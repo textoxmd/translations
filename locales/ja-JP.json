@@ -572,7 +572,7 @@
       "noImportedTranslations": "インポートされた翻訳はありません",
       "removeSuccess": "削除しました",
       "removeError": "削除に失敗しました",
-      "customLabel": "インポート済み"
+      "customLabel": "カスタム"
     },
     "shortcuts": {
       "categoryFile": "ファイル",

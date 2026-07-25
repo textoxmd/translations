@@ -267,4 +267,4 @@ settings:
   noImportedTranslations: No imported translations
   removeSuccess: Removed
   removeError: Failed to remove
-  customLabel: Imported
+  customLabel: Custom

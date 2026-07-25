@@ -572,7 +572,7 @@
       "noImportedTranslations": "가져온 번역이 없습니다",
       "removeSuccess": "삭제됨",
       "removeError": "삭제 실패",
-      "customLabel": "가져옴"
+      "customLabel": "사용자 정의"
     },
     "shortcuts": {
       "categoryFile": "파일",

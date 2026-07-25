@@ -45,8 +45,8 @@ for (const dir of langs) {
   };
 
   fs.writeFileSync(
-    path.join(OUTPUT_DIR, `${lang}.json`),
+    path.join(OUTPUT_DIR, `${dir}.json`),
     JSON.stringify(wrapped, null, 2)
   );
-  console.log(`Built ${lang}.json`);
+  console.log(`Built ${dir}.json`);
 }
