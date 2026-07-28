@@ -57,8 +57,6 @@ settings:
   colorThemeDefault: 默认
   colorThemePastel: 樱染
   colorThemeSpring: 惊蛰
-  colorThemePastelStory: 很喜欢宜家的格拉维斯花瓶，有幸在 Typora 社区时遇见 phycat，漫天樱花般轻盈柔和的配色、松弛温暖的氛围感，完全贴合我心中理想模样。在原有配色基础上层层微调、适配优化，最终呈现出绵软治愈、舒心耐看的书写观感。
-  colorThemeSpringStory: 春日象征开端与期许，2026 年春 Textox 全新启程，是项目极具纪念意义的时光。惊蛰以柔和干净的草木绿为主视觉，色彩自带万物复苏的春日意境。经过针对性适配调整后落地 Textox，让每一次书写都拥有春日清晨通透轻快的氛围感。
   appearance: 外观
   appearanceDesc: 选择应用的亮暗模式
   appearanceLight: 浅色
@@ -129,7 +127,6 @@ settings:
   renameTheme: 重命名
   themeDuplicateSuccess: 主题已复制
   themeDuplicateFailed: 复制主题失败
-  themeStory: 主题故事
   themeEditor: 个性化
   loadTheme: 加载主题
   applyPreview: 应用预览

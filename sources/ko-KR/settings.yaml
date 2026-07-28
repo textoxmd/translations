@@ -57,12 +57,6 @@ settings:
   colorThemeDefault: 기본값
   colorThemePastel: 체리
   colorThemeSpring: 봄
-  colorThemePastelStory: >-
-    IKEA의 GRÅVITS 꽃병에서 영감을 받아 Typora 커뮤니티에서 phycat을 발견하게 되었습니다. 벚꽃이 흩날리는 듯 가볍고 부드러운 색감과 편안하고 따뜻한 분위기가 제가 상상하던 그대로였습니다.
-    원래 색상을 기반으로 여러 겹의 미세 조정과 최적화를 거쳐 포근하고 힐링되는, 오래 봐도 질리지 않는 글쓰기 경험을 완성했습니다.
-  colorThemeSpringStory: >-
-    봄은 시작과 기대를 상징합니다. 2026년 봄 Textox가 새롭게 출범하여 프로젝트에 매우 의미 있는 시간입니다. 경칩 테마는 부드럽고 깨끗한 풀빛을 메인 비주얼로 하여, 색감 자체가 만물이 소생하는 봄의
-    분위기를 담고 있습니다. Textox에 맞게 조정하여 모든 글쓰기가 봄날 아침의 투명하고 가벼운 분위기를 느낄 수 있게 했습니다.
   appearance: 모양
   appearanceDesc: 애플리케이션 모양 사용자 지정
   appearanceLight: 밝은
@@ -147,7 +141,6 @@ settings:
   renameTheme: 이름 바꾸기
   themeDuplicateSuccess: 테마가 복제되었습니다
   themeDuplicateFailed: 테마 복제 실패
-  themeStory: 테마 이야기
   themeEditor: 테마 편집기
   loadTheme: 테마 로드
   applyPreview: 미리보기 적용

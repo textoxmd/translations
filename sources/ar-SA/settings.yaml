@@ -57,14 +57,6 @@ settings:
   colorThemeDefault: افتراضي
   colorThemePastel: كرز
   colorThemeSpring: ربيع
-  colorThemePastelStory: >-
-    مستوحى من مزهرية GRÅVITS من ايكيا، كنت محظوظًا بلقاء phycat في مجتمع Typora. لوحة الألوان الخفيفة كأزهار الكرز
-    وأجواؤها الدافئة والمريحة كانت تمامًا ما تصورته. من خلال التحسينات والتعديلات المتتالية، تحولت إلى تجربة كتابة ناعمة
-    ومريحة للنظر تدعو للاسترخاء في Textox.
-  colorThemeSpringStory: >-
-    الربيع يرمز إلى البدايات والأمل. تم إطلاق Textox في ربيع 2026، وهو موسم لا يُنسى للمشروع. يتميز ثيم Jingzhe بالخضرة
-    النباتية الناعمة والنظيفة، حيث تنقل الألوان روح الصحوة الربيعية. بعد التعديل والتكييف لـ Textox، يمنح كل جلسة كتابة
-    أجواء منعشة وخفيفة كصباح الربيع.
   appearance: المظهر
   appearanceDesc: تخصيص مظهر التطبيق
   appearanceLight: فاتح
@@ -149,7 +141,6 @@ settings:
   renameTheme: إعادة تسمية
   themeDuplicateSuccess: تم تكرير السمة
   themeDuplicateFailed: فشل تكرير السمة
-  themeStory: قصة السمة
   themeEditor: محرر السمات
   loadTheme: تحميل السمة
   applyPreview: تطبيق المعاينة

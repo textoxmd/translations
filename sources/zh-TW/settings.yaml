@@ -57,8 +57,6 @@ settings:
   colorThemeDefault: 預設
   colorThemePastel: 櫻染
   colorThemeSpring: 驚蟄
-  colorThemePastelStory: 很喜歡宜家的一款名為格拉維斯的花瓶，有幸在 Typora 社區遇見 phycat，漫天櫻花般輕盈柔和的配色、鬆弛溫暖的氛圍感，完全貼合我心中理想模樣。在原有配色基礎上層層微調、適配優化，最終呈現出綿軟治癒、舒心耐看的書寫觀感。
-  colorThemeSpringStory: 春日象徵開端與期許，2026 年春 Textox 全新啟程，是項目極具紀念意義的時光。驚蟄以柔和乾淨的草木綠為主視覺，色彩自帶萬物復甦的春日意境。經過針對性適配調整後落地 Textox，讓每一次書寫都擁有春日清晨通透輕快的氛圍感。
   appearance: 外觀
   appearanceDesc: 自訂應用程式的外觀
   appearanceLight: 淺色
@@ -143,7 +141,6 @@ settings:
   renameTheme: 重新命名
   themeDuplicateSuccess: 主題已複製
   themeDuplicateFailed: 複製主題失敗
-  themeStory: 主題故事
   themeEditor: 主題編輯器
   loadTheme: 載入主題
   applyPreview: 套用預覽

@@ -57,10 +57,6 @@ settings:
   colorThemeDefault: デフォルト
   colorThemePastel: 桜染め
   colorThemeSpring: 春
-  colorThemePastelStory: >-
-    IKEAのGRÅVITS（グラーヴィッツ）花瓶にインスパイアされ、Typoraコミュニティでphycatに出会いました。桜が舞い散るような軽やかで優しい配色、リラックスした温かい雰囲気が、まさに私の理想そのもの。元の配色をベースに幾重にも微調整と最適化を重ね、柔らかく心地よい、飽きのこない書き味を実現しました。
-  colorThemeSpringStory: >-
-    春は始まりと希望を象徴します。2026年春、Textoxは新たにスタートし、プロジェクトにとって記念すべき時期です。驚蛰は柔らかく清らかな草木のグリーンをメインビジュアルとし、色彩自体が万物復活の春の雰囲気を醸し出しています。Textox向けに調整を加え、春の朝のような透明感のある軽やかな雰囲気で、毎回の執筆を心地よいものにします。
   appearance: 外観
   appearanceDesc: アプリケーションの外観をカスタマイズ
   appearanceLight: ライト
@@ -145,7 +141,6 @@ settings:
   renameTheme: 名前を変更
   themeDuplicateSuccess: テーマが複製されました
   themeDuplicateFailed: テーマの複製に失敗しました
-  themeStory: テーマストーリー
   themeEditor: テーマエディタ
   loadTheme: テーマを読み込む
   applyPreview: プレビューを適用

@@ -59,15 +59,6 @@ settings:
   colorThemeDefault: Mặc định
   colorThemePastel: Anh đào
   colorThemeSpring: Mùa xuân
-  colorThemePastelStory: >-
-    Lấy cảm hứng từ chiếc bình GRÅVITS của IKEA, tôi may mắn tìm thấy phycat trong cộng đồng Typora. Bảng màu nhẹ nhàng,
-    thoảng như cánh hoa anh đào, bầu không khí thư thái và ấm áp, hoàn toàn phù hợp với những gì tôi hình dung. Qua từng
-    lớp tinh chỉnh và thích ứng, nó trở thành trải nghiệm viết êm dịu, nhẹ nhàng và dễ chịu cho Textox.
-  colorThemeSpringStory: >-
-    Mùa xuân tượng trưng cho sự khởi đầu và hy vọng. Textox ra mắt vào mùa xuân năm 2026, một thời điểm đáng nhớ của dự
-    án. Chủ đề Jingzhe sử dụng tông màu xanh lá cây dịu nhẹ, thanh khiết làm chủ đạo, màu sắc tự nhiên mang lại cảm giác
-    mùa xuân vạn vật hồi sinh. Sau khi điều chỉnh phù hợp cho Textox, mang đến bầu không khí trong lành, nhẹ nhàng của
-    buổi sáng mùa xuân cho mỗi lần viết.
   appearance: Giao diện
   appearanceDesc: Tùy chỉnh giao diện của ứng dụng
   appearanceLight: Sáng
@@ -152,7 +143,6 @@ settings:
   renameTheme: Đổi tên
   themeDuplicateSuccess: Đã sao chép chủ đề
   themeDuplicateFailed: Sao chép chủ đề thất bại
-  themeStory: Câu chuyện chủ đề
   themeEditor: Trình chỉnh sửa chủ đề
   loadTheme: Tải chủ đề
   applyPreview: Áp dụng xem trước

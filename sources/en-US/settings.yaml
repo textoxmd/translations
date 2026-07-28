@@ -59,15 +59,6 @@ settings:
   colorThemeDefault: Default
   colorThemePastel: Cherry
   colorThemeSpring: Spring
-  colorThemePastelStory: >-
-    Inspired by IKEA's GRÅVITS vase, I was fortunate to discover phycat in the Typora community. Its light, airy
-    cherry-blossom palette and relaxed, warm atmosphere were exactly what I had in mind. Through layer-by-layer
-    refinements and adaptations, it became a soft, soothing, and effortlessly comfortable writing experience for Textox.
-  colorThemeSpringStory: >-
-    Spring represents renewal and hope. Textox launched in spring 2026, a momentous season for the project. The Jingzhe
-    theme features clean, gentle botanical greens, perfectly echoing the community's spring theme with the vitality of
-    awakening nature. Adapted and refined for Textox, it brings a fresh, crisp spring morning atmosphere to every
-    writing session.
   appearance: Appearance
   appearanceDesc: Choose the light/dark mode for the application
   appearanceLight: Light
@@ -138,7 +129,6 @@ settings:
   renameTheme: Rename
   themeDuplicateSuccess: Theme duplicated
   themeDuplicateFailed: Failed to duplicate theme
-  themeStory: Theme Story
   themeEditor: Theme Editor
   loadTheme: Load Theme
   applyPreview: Apply Preview
