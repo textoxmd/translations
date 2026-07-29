@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: स्थानीय फ़ाइलों से कस्टम थीम आयात करें
   themePresets: प्रीसेट
   themeCustomProfiles: कस्टम कॉन्फ़िग
-  themeNew: नया
-  themeNewFromPreset: वर्तमान प्रीसेट से नई थीम
   importTheme: थीम आयात करें
   importing: आयात हो रहा है...
   themeImportSuccess: थीम सफलतापूर्वक आयात किया गया
   themeAlreadyExists: यह थीम पहले से मौजूद है
   themeImportFailed: थीम आयात विफल
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: हटाएं
   themeDeleteSuccess: थीम हटा दिया गया
   themeDeleteFailed: थीम हटाने में विफल

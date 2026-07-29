@@ -3,6 +3,7 @@ upgrade:
     customThemes: Temas personalizados
     customParticles: Custom Particle Configs
     importTheme: Importar tema
+    themeLimit: Import More Themes
     autoSave: Guardado automático
     pdfExport: Exportar PDF
   title: Actualizar

@@ -128,13 +128,13 @@ settings:
   themeManagementDesc: Nhập chủ đề tùy chỉnh từ tệp cục bộ
   themePresets: Cài đặt sẵn
   themeCustomProfiles: Cấu hình tùy chỉnh
-  themeNew: Mới
-  themeNewFromPreset: Chủ đề mới từ cài đặt sẵn hiện tại
   importTheme: Nhập chủ đề
   importing: Đang nhập...
   themeImportSuccess: Đã nhập chủ đề thành công
   themeAlreadyExists: Chủ đề này đã tồn tại
   themeImportFailed: Nhập chủ đề thất bại
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: Xóa
   themeDeleteSuccess: Đã xóa chủ đề
   themeDeleteFailed: Xóa chủ đề thất bại

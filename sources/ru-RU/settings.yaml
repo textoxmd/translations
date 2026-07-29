@@ -128,13 +128,13 @@ settings:
   themeManagementDesc: Импорт пользовательских тем из локальных файлов
   themePresets: Предустановки
   themeCustomProfiles: Пользовательские конфигурации
-  themeNew: Создать
-  themeNewFromPreset: Новая тема из текущей предустановки
   importTheme: Импорт темы
   importing: Импорт...
   themeImportSuccess: Тема успешно импортирована
   themeAlreadyExists: Эта тема уже существует
   themeImportFailed: Не удалось импортировать тему
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: Удалить
   themeDeleteSuccess: Тема удалена
   themeDeleteFailed: Не удалось удалить тему

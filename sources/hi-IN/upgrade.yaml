@@ -3,6 +3,7 @@ upgrade:
     customThemes: कस्टम थीम
     customParticles: Custom Particle Configs
     importTheme: थीम आयात करें
+    themeLimit: Import More Themes
     autoSave: ऑटो सेव
     pdfExport: PDF निर्यात
   title: अपग्रेड करें

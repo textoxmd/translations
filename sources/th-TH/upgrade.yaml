@@ -3,6 +3,7 @@ upgrade:
     customThemes: ธีมที่กำหนดเอง
     customParticles: Custom Particle Configs
     importTheme: นำเข้าธีม
+    themeLimit: Import More Themes
     autoSave: บันทึกอัตโนมัติ
     pdfExport: ส่งออก PDF
   title: อัปเกรด

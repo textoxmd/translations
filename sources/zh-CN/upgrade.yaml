@@ -3,6 +3,7 @@ upgrade:
     customThemes: 自定义主题
     customParticles: 自定义粒子配置
     importTheme: 导入主题
+    themeLimit: 导入更多主题
     autoSave: 自动保存
     pdfExport: PDF 导出
   title: 升级

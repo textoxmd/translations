@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: นำเข้าธีมที่กำหนดเองจากไฟล์ในเครื่อง
   themePresets: ค่าที่ตั้งไว้
   themeCustomProfiles: การกำหนดค่าที่กำหนดเอง
-  themeNew: ใหม่
-  themeNewFromPreset: ธีมใหม่จากค่าที่ตั้งไว้ปัจจุบัน
   importTheme: นำเข้าธีม
   importing: กำลังนำเข้า...
   themeImportSuccess: นำเข้าธีมสำเร็จ
   themeAlreadyExists: ธีมนี้มีอยู่แล้ว
   themeImportFailed: การนำเข้าธีมล้มเหลว
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: ลบ
   themeDeleteSuccess: ลบธีมแล้ว
   themeDeleteFailed: การลบธีมล้มเหลว

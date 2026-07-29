@@ -128,13 +128,13 @@ settings:
   themeManagementDesc: Importar temas personalizados a partir de ficheiros locais
   themePresets: Predefinições
   themeCustomProfiles: Configurações personalizadas
-  themeNew: Novo
-  themeNewFromPreset: Novo tema a partir do predefinido atual
   importTheme: Importar tema
   importing: A importar...
   themeImportSuccess: Tema importado com sucesso
   themeAlreadyExists: Este tema já existe
   themeImportFailed: Falha ao importar tema
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: Eliminar
   themeDeleteSuccess: Tema eliminado
   themeDeleteFailed: Falha ao eliminar tema

@@ -112,13 +112,13 @@ settings:
   themeManagementDesc: 从本地文件导入自定义主题
   themePresets: 预设
   themeCustomProfiles: 自定义配置
-  themeNew: 新建
-  themeNewFromPreset: 从当前预设新建主题
   importTheme: 导入主题
   importing: 导入中...
   themeImportSuccess: 主题导入成功
   themeAlreadyExists: 该主题已存在
   themeImportFailed: 主题导入失败
+  themeFreeLimitHint: 免费版最多支持导入2个自定义主题
+  themeRepoLink: 从社区获取更多主题
   deleteTheme: 删除
   themeDeleteSuccess: 主题已删除
   themeDeleteFailed: 删除主题失败

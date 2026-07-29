@@ -3,6 +3,7 @@ upgrade:
     customThemes: Chủ đề tùy chỉnh
     customParticles: Custom Particle Configs
     importTheme: Nhập chủ đề
+    themeLimit: Import More Themes
     autoSave: Tự động lưu
     pdfExport: Xuất PDF
   title: Nâng cấp

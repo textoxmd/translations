@@ -3,6 +3,7 @@ upgrade:
     customThemes: 사용자 정의 테마
     customParticles: Custom Particle Configs
     importTheme: 테마 가져오기
+    themeLimit: Import More Themes
     autoSave: 자동 저장
     pdfExport: PDF 내보내기
   title: 업그레이드

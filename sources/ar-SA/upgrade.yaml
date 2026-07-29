@@ -3,6 +3,7 @@ upgrade:
     customThemes: سمات مخصصة
     customParticles: Custom Particle Configs
     importTheme: استيراد سمة
+    themeLimit: Import More Themes
     autoSave: حفظ تلقائي
     pdfExport: تصدير PDF
   title: ترقية

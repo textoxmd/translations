@@ -114,13 +114,13 @@ settings:
   themeManagementDesc: Import custom themes from local files
   themePresets: Presets
   themeCustomProfiles: Custom Configs
-  themeNew: New
-  themeNewFromPreset: New theme from current preset
   importTheme: Import Theme
   importing: Importing...
   themeImportSuccess: Theme imported successfully
   themeAlreadyExists: This theme already exists
   themeImportFailed: Theme import failed
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: Delete
   themeDeleteSuccess: Theme deleted
   themeDeleteFailed: Failed to delete theme

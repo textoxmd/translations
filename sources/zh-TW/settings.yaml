@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: 從本機檔案匯入自訂主題
   themePresets: 預設
   themeCustomProfiles: 自訂配置
-  themeNew: 新建
-  themeNewFromPreset: 從當前預設新建主題
   importTheme: 匯入主題
   importing: 匯入中...
   themeImportSuccess: 主題匯入成功
   themeAlreadyExists: 該主題已存在
   themeImportFailed: 主題匯入失敗
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: 刪除
   themeDeleteSuccess: 主題已刪除
   themeDeleteFailed: 刪除主題失敗

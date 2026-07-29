@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: ローカルファイルからカスタムテーマをインポート
   themePresets: プリセット
   themeCustomProfiles: カスタム設定
-  themeNew: 新規
-  themeNewFromPreset: 現在のプリセットから新しいテーマ
   importTheme: テーマをインポート
   importing: インポート中...
   themeImportSuccess: テーマがインポートされました
   themeAlreadyExists: このテーマは既に存在します
   themeImportFailed: テーマのインポートに失敗しました
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: 削除
   themeDeleteSuccess: テーマが削除されました
   themeDeleteFailed: テーマの削除に失敗しました

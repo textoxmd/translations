@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: 로컬 파일에서 사용자 정의 테마 가져오기
   themePresets: 프리셋
   themeCustomProfiles: 사용자 정의 설정
-  themeNew: 새로 만들기
-  themeNewFromPreset: 현재 프리셋에서 새 테마
   importTheme: 테마 가져오기
   importing: 가져오는 중...
   themeImportSuccess: 테마를 가져왔습니다
   themeAlreadyExists: 이 테마가 이미 존재합니다
   themeImportFailed: 테마 가져오기 실패
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: 삭제
   themeDeleteSuccess: 테마가 삭제되었습니다
   themeDeleteFailed: 테마 삭제 실패

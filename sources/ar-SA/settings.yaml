@@ -126,13 +126,13 @@ settings:
   themeManagementDesc: استيراد السمات المخصصة من الملفات المحلية
   themePresets: الإعدادات المسبقة
   themeCustomProfiles: التكوينات المخصصة
-  themeNew: جديد
-  themeNewFromPreset: سمة جديدة من الإعداد المسبق الحالي
   importTheme: استيراد السمة
   importing: جارِ الاستيراد...
   themeImportSuccess: تم استيراد السمة بنجاح
   themeAlreadyExists: هذه السمة موجودة بالفعل
   themeImportFailed: فشل استيراد السمة
+  themeFreeLimitHint: Free version supports up to 2 custom themes
+  themeRepoLink: Get more themes from the community
   deleteTheme: حذف
   themeDeleteSuccess: تم حذف السمة
   themeDeleteFailed: فشل حذف السمة
