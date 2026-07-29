@@ -89,3 +89,14 @@ menu:
   fullScreen: Ecrã inteiro
   settings: Definições...
   checkForUpdates: Verificar atualizações...
+  appearance: Appearance
+  appearance_light: Light
+  appearance_dark: Dark
+  appearance_system: Follow System
+  theme_list: Theme List
+  theme_default: Default
+  theme_pastel: Cherry
+  theme_spring: Spring
+  theme_user_imported: Custom Themes
+  theme_settings: Theme Settings…
+  no_imported_themes: No imported themes

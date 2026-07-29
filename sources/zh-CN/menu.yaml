@@ -70,3 +70,14 @@ menu:
   feedback: 反馈
   export_logs: 导出日志
   auto_save: 自动保存
+  appearance: 外观
+  appearance_light: 浅色
+  appearance_dark: 深色
+  appearance_system: 跟随系统
+  theme_list: 主题列表
+  theme_default: 默认
+  theme_pastel: 樱染
+  theme_spring: 惊蛰
+  theme_user_imported: 自定义主题
+  theme_settings: 主题设置…
+  no_imported_themes: 暂无导入的主题

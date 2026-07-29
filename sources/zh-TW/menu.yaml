@@ -89,3 +89,14 @@ menu:
   fullScreen: 全螢幕
   settings: 設定...
   checkForUpdates: 檢查更新...
+  appearance: 外观
+  appearance_light: 浅色
+  appearance_dark: 深色
+  appearance_system: 跟随系统
+  theme_list: 主题列表
+  theme_default: 預設
+  theme_pastel: 櫻染
+  theme_spring: 驚蟄
+  theme_user_imported: 自定义主题
+  theme_settings: 主題設定…
+  no_imported_themes: 暫無導入的主題
