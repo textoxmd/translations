@@ -54,8 +54,8 @@ menu:
   highlight: ไฮไลต์
   clear_formatting: ขีดฆ่า
   view: มุมมอง
-  toggle_sidebar: สลับแถบด้านข้าง
-  toggle_edit_mode: สลับโหมดการแก้ไข
+  toggle_sidebar: ขยายแถบด้านข้าง
+  toggle_edit_mode: โหมดเรนเดอร์แบบทันที
   toggle_typewriter_mode: โหมดเครื่องพิมพ์ดีต
   window: หน้าต่าง
   minimize: ย่อเล็กสุด

@@ -54,8 +54,8 @@ menu:
   highlight: ハイライト
   clear_formatting: 取り消し線
   view: 表示
-  toggle_sidebar: サイドバーの切り替え
-  toggle_edit_mode: 編集モードの切り替え
+  toggle_sidebar: サイドバーを展開
+  toggle_edit_mode: 即時レンダリングモード
   toggle_typewriter_mode: タイプライターモード
   window: ウィンドウ
   minimize: 最小化

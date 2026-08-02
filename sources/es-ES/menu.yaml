@@ -54,8 +54,8 @@ menu:
   highlight: Resaltar
   clear_formatting: Tachado
   view: Ver
-  toggle_sidebar: Alternar barra lateral
-  toggle_edit_mode: Alternar modo de edición
+  toggle_sidebar: Expandir barra lateral
+  toggle_edit_mode: Modo renderizado instantáneo
   toggle_typewriter_mode: Modo máquina de escribir
   window: Ventana
   minimize: Minimizar

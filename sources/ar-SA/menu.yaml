@@ -54,8 +54,8 @@ menu:
   highlight: تمييز
   clear_formatting: مشطوب
   view: عرض
-  toggle_sidebar: تبديل الشريط الجانبي
-  toggle_edit_mode: تبديل وضع التحرير
+  toggle_sidebar: توسيع الشريط الجانبي
+  toggle_edit_mode: وضع العرض الفوري
   toggle_typewriter_mode: وضع الآلة الكاتبة
   window: نافذة
   minimize: تصغير

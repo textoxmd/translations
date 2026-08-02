@@ -54,8 +54,8 @@ menu:
   highlight: Highlight
   clear_formatting: Clear Formatting
   view: View
-  toggle_sidebar: Toggle Sidebar
-  toggle_edit_mode: Toggle Edit Mode
+  toggle_sidebar: Expand Sidebar
+  toggle_edit_mode: Instant Rendering Mode
   toggle_typewriter_mode: Typewriter Mode
   window: Window
   minimize: Minimize

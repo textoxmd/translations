@@ -54,8 +54,8 @@ menu:
   highlight: Выделить
   clear_formatting: Зачеркнутый
   view: Вид
-  toggle_sidebar: Переключить боковую панель
-  toggle_edit_mode: Переключить режим редактирования
+  toggle_sidebar: Развернуть боковую панель
+  toggle_edit_mode: Режим мгновенного рендеринга
   toggle_typewriter_mode: Режим пишущей машинки
   window: Окно
   minimize: Свернуть

@@ -54,8 +54,8 @@ menu:
   highlight: Evidenzia
   clear_formatting: Barrato
   view: Vista
-  toggle_sidebar: Attiva/disattiva barra laterale
-  toggle_edit_mode: Attiva/disattiva modalità modifica
+  toggle_sidebar: Espandi barra laterale
+  toggle_edit_mode: Modalità rendering istantaneo
   toggle_typewriter_mode: Modalità macchina da scrivere
   window: Finestra
   minimize: Minimizza

@@ -54,8 +54,8 @@ menu:
   highlight: Surligner
   clear_formatting: Barré
   view: Affichage
-  toggle_sidebar: Basculer la barre latérale
-  toggle_edit_mode: Basculer le mode édition
+  toggle_sidebar: Développer la barre latérale
+  toggle_edit_mode: Mode rendu instantané
   toggle_typewriter_mode: Mode machine à écrire
   window: Fenêtre
   minimize: Réduire

@@ -54,8 +54,8 @@ menu:
   highlight: Đánh dấu
   clear_formatting: Gạch ngang
   view: Xem
-  toggle_sidebar: Chuyển đổi thanh bên
-  toggle_edit_mode: Chuyển đổi chế độ chỉnh sửa
+  toggle_sidebar: Mở rộng thanh bên
+  toggle_edit_mode: Chế độ hiển thị tức thì
   toggle_typewriter_mode: Chế độ máy đánh chữ
   window: Cửa sổ
   minimize: Thu nhỏ

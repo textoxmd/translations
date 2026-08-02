@@ -54,8 +54,8 @@ menu:
   highlight: 高亮
   clear_formatting: 清除格式
   view: 视图
-  toggle_sidebar: 切换目录树
-  toggle_edit_mode: 切换编辑模式
+  toggle_sidebar: 展开侧边栏
+  toggle_edit_mode: 即时渲染模式
   toggle_typewriter_mode: 打字机模式
   window: 窗口
   minimize: 最小化

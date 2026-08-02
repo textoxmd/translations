@@ -54,8 +54,8 @@ menu:
   highlight: Hervorheben
   clear_formatting: Durchgestrichen
   view: Ansicht
-  toggle_sidebar: Seitenleiste umschalten
-  toggle_edit_mode: Bearbeitungsmodus umschalten
+  toggle_sidebar: Seitenleiste einblenden
+  toggle_edit_mode: Sofort-Rendermodus
   toggle_typewriter_mode: Schreibmaschinenmodus
   window: Fenster
   minimize: Minimieren

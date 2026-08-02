@@ -54,8 +54,8 @@ menu:
   highlight: हाइलाइट
   clear_formatting: स्ट्राइकथ्रू
   view: देखें
-  toggle_sidebar: साइडबार टॉगल करें
-  toggle_edit_mode: संपादन मोड टॉगल करें
+  toggle_sidebar: साइडबार का विस्तार करें
+  toggle_edit_mode: त्वरित रेंडरिंग मोड
   toggle_typewriter_mode: टाइपराइटर मोड
   window: विंडो
   minimize: न्यूनतम करें
