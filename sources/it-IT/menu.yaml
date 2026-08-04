@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: Espandi barra laterale
   toggle_edit_mode: Modalità rendering istantaneo
   toggle_typewriter_mode: Modalità macchina da scrivere
+  toggle_editor_toolbar: Mostra barra degli strumenti di formattazione
   window: Finestra
   minimize: Minimizza
   zoom: Zoom

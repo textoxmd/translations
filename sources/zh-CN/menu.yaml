@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: 展开侧边栏
   toggle_edit_mode: 即时渲染模式
   toggle_typewriter_mode: 打字机模式
+  toggle_editor_toolbar: 显示格式工具栏
   window: 窗口
   minimize: 最小化
   zoom: 缩放

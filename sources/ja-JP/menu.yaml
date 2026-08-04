@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: サイドバーを展開
   toggle_edit_mode: 即時レンダリングモード
   toggle_typewriter_mode: タイプライターモード
+  toggle_editor_toolbar: 書式ツールバーを表示
   window: ウィンドウ
   minimize: 最小化
   zoom: ズーム

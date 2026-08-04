@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: Expand Sidebar
   toggle_edit_mode: Instant Rendering Mode
   toggle_typewriter_mode: Typewriter Mode
+  toggle_editor_toolbar: Show Format Toolbar
   window: Window
   minimize: Minimize
   zoom: Zoom

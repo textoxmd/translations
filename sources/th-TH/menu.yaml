@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: ขยายแถบด้านข้าง
   toggle_edit_mode: โหมดเรนเดอร์แบบทันที
   toggle_typewriter_mode: โหมดเครื่องพิมพ์ดีต
+  toggle_editor_toolbar: แสดงแถบเครื่องมือจัดรูปแบบ
   window: หน้าต่าง
   minimize: ย่อเล็กสุด
   zoom: ซูม

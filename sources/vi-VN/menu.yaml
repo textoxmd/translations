@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: Mở rộng thanh bên
   toggle_edit_mode: Chế độ hiển thị tức thì
   toggle_typewriter_mode: Chế độ máy đánh chữ
+  toggle_editor_toolbar: Hiển thị thanh công cụ định dạng
   window: Cửa sổ
   minimize: Thu nhỏ
   zoom: Thu phóng

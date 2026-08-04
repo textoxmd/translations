@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: Развернуть боковую панель
   toggle_edit_mode: Режим мгновенного рендеринга
   toggle_typewriter_mode: Режим пишущей машинки
+  toggle_editor_toolbar: Показать панель форматирования
   window: Окно
   minimize: Свернуть
   zoom: Масштаб

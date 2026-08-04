@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: Seitenleiste einblenden
   toggle_edit_mode: Sofort-Rendermodus
   toggle_typewriter_mode: Schreibmaschinenmodus
+  toggle_editor_toolbar: Formatierungssymbolleiste anzeigen
   window: Fenster
   minimize: Minimieren
   zoom: Zoomen

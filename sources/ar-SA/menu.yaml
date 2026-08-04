@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: توسيع الشريط الجانبي
   toggle_edit_mode: وضع العرض الفوري
   toggle_typewriter_mode: وضع الآلة الكاتبة
+  toggle_editor_toolbar: إظهار شريط أدوات التنسيق
   window: نافذة
   minimize: تصغير
   zoom: تكبير

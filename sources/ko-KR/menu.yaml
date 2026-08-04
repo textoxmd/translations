@@ -57,6 +57,7 @@ menu:
   toggle_sidebar: 사이드바 펼치기
   toggle_edit_mode: 즉시 렌더링 모드
   toggle_typewriter_mode: 타자기 모드
+  toggle_editor_toolbar: 서식 도구 모음 표시
   window: 창
   minimize: 최소화
   zoom: 확대/축소
