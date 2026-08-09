@@ -58,6 +58,8 @@ menu:
   toggle_edit_mode: Modo renderizado instantáneo
   toggle_typewriter_mode: Modo máquina de escribir
   toggle_editor_toolbar: Mostrar barra de herramientas de formato
+  toggle_inline_format_toolbar: Mostrar barra de herramientas de formato flotante
+  toggle_outline_panel: Mostrar esquema
   window: Ventana
   minimize: Minimizar
   zoom: Zoom

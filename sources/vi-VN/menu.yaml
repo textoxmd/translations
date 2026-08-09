@@ -58,6 +58,8 @@ menu:
   toggle_edit_mode: Chế độ hiển thị tức thì
   toggle_typewriter_mode: Chế độ máy đánh chữ
   toggle_editor_toolbar: Hiển thị thanh công cụ định dạng
+  toggle_inline_format_toolbar: Hiển thị thanh công cụ định dạng nổi
+  toggle_outline_panel: Hiển thị dàn bài
   window: Cửa sổ
   minimize: Thu nhỏ
   zoom: Thu phóng

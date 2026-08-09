@@ -58,6 +58,8 @@ menu:
   toggle_edit_mode: 即时渲染模式
   toggle_typewriter_mode: 打字机模式
   toggle_editor_toolbar: 显示格式工具栏
+  toggle_inline_format_toolbar: 显示悬浮格式工具栏
+  toggle_outline_panel: 显示大纲
   window: 窗口
   minimize: 最小化
   zoom: 缩放

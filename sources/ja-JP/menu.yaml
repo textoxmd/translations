@@ -58,6 +58,8 @@ menu:
   toggle_edit_mode: 即時レンダリングモード
   toggle_typewriter_mode: タイプライターモード
   toggle_editor_toolbar: 書式ツールバーを表示
+  toggle_inline_format_toolbar: フローティング書式ツールバーを表示
+  toggle_outline_panel: アウトラインを表示
   window: ウィンドウ
   minimize: 最小化
   zoom: ズーム
