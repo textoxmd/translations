@@ -187,6 +187,8 @@ settings:
   html-commentDesc: <!-- -->-Kommentarblöcke rendern
   html-inlineTitle: Inline-HTML
   html-inlineDesc: Inline-HTML-Tags wie <span style>, <kbd>, <abbr> rendern
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: Tipp-Partikel
   typing-particleDesc: Erzeugt Funkenpartikel an der Cursorposition beim Tippen
   fileExtensions: Dateierweiterungen

@@ -185,6 +185,8 @@ settings:
   html-commentDesc: Renderizar bloques de comentarios <!-- -->
   html-inlineTitle: HTML en línea
   html-inlineDesc: Renderizar etiquetas HTML en línea como <span style>, <kbd>, <abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: Partículas al escribir
   typing-particleDesc: Emite partículas de chispa desde la posición del cursor al escribir
   fileExtensions: Extensiones de archivo

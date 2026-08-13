@@ -183,6 +183,8 @@ settings:
   html-commentDesc: عرض كتل التعليقات <!-- -->
   html-inlineTitle: HTML مضمن
   html-inlineDesc: عرض وسوم HTML المضمنة مثل <span style> و<kbd> و<abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: جزيئات الكتابة
   typing-particleDesc: إصدار جزيئات شرارة من موضع المؤشر أثناء الكتابة
   fileExtensions: امتدادات الملفات

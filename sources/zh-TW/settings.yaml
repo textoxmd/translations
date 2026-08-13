@@ -183,6 +183,8 @@ settings:
   html-commentDesc: 渲染 <!-- --> HTML 註釋區塊
   html-inlineTitle: 內聯 HTML
   html-inlineDesc: 渲染 <span style>、<kbd>、<abbr> 等內聯 HTML 標籤
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字時從游標位置迸發出火花粒子
   fileExtensions: 文件副檔名

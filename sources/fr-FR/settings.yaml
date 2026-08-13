@@ -187,6 +187,8 @@ settings:
   html-commentDesc: Afficher les blocs de commentaires <!-- -->
   html-inlineTitle: HTML en ligne
   html-inlineDesc: Afficher les balises HTML en ligne comme <span style>, <kbd>, <abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: Particules de frappe
   typing-particleDesc: Émet des particules d'étincelles depuis la position du curseur lors de la frappe
   fileExtensions: Extensions de fichier

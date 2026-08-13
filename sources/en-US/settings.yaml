@@ -171,6 +171,8 @@ settings:
   html-commentDesc: Render <!-- --> comment blocks
   html-inlineTitle: Inline HTML
   html-inlineDesc: Render inline HTML tags like <span style>, <kbd>, <abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: Typing Particles
   typing-particleDesc: Emit spark particles from the cursor position while typing
   fileExtensions: File Extensions

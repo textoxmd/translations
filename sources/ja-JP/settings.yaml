@@ -183,6 +183,8 @@ settings:
   html-commentDesc: <!-- --> コメントブロックをレンダリング
   html-inlineTitle: インライン HTML
   html-inlineDesc: <span style>、<kbd>、<abbr> などのインライン HTML タグをレンダリング
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: タイピングパーティクル
   typing-particleDesc: タイピング時にカーソル位置から火花パーティクルを放出
   fileExtensions: ファイル拡張子

@@ -185,6 +185,8 @@ settings:
   html-commentDesc: Отображать блоки комментариев <!-- -->
   html-inlineTitle: Встроенный HTML
   html-inlineDesc: Отображать встроенные HTML-теги, такие как <span style>, <kbd>, <abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: Частицы при наборе
   typing-particleDesc: Испускает искры частиц из позиции курсора при наборе текста
   fileExtensions: Расширения файлов

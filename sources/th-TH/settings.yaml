@@ -183,6 +183,8 @@ settings:
   html-commentDesc: แสดงบล็อกความคิดเห็น <!-- -->
   html-inlineTitle: HTML แบบอินไลน์
   html-inlineDesc: แสดงแท็ก HTML แบบอินไลน์เช่น <span style>, <kbd>, <abbr>
+  html-blockTitle: HTML Blocks
+  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
   typing-particleTitle: อนุภาคขณะพิมพ์
   typing-particleDesc: ปล่อยอนุภาคประกายไฟจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
   fileExtensions: นามสกุลไฟล์

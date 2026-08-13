@@ -169,6 +169,8 @@ settings:
   html-commentDesc: 渲染 <!-- --> HTML 注释块
   html-inlineTitle: 内联 HTML
   html-inlineDesc: 渲染 <span style>、<kbd>、<abbr> 等内联 HTML 标签
+  html-blockTitle: HTML 块
+  html-blockDesc: 渲染 GFM HTML 块，如 <div>、<details>、<table>
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字时从光标位置迸发出火花粒子
   fileExtensions: 文件扩展名
