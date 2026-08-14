@@ -181,7 +181,7 @@ settings:
   markdownTitle: Markdown 語法
   markdownEmpty: 沒有可配置的語法功能
   markdownRestartTitle: Restart Required
-  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
+  markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: 警示
   alertDesc: blockquote 語法的擴充，支援 NOTE, TIP, IMPORTANT, WARNING, CAUTION 五種
   html-commentTitle: HTML 註釋

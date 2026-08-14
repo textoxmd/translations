@@ -181,7 +181,7 @@ settings:
   markdownTitle: ไวยากรณ์ Markdown
   markdownEmpty: ไม่มีคุณสมบัติไวยากรณ์ที่กำหนดค่าได้
   markdownRestartTitle: Restart Required
-  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
+  markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: ความคิดเห็น HTML

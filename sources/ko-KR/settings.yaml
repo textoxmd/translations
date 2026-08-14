@@ -181,7 +181,7 @@ settings:
   markdownTitle: Markdown 구문
   markdownEmpty: 구성 가능한 구문 기능이 없습니다
   markdownRestartTitle: Restart Required
-  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
+  markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: 알림
   alertDesc: blockquote 구문 확장, NOTE, TIP, IMPORTANT, WARNING, CAUTION 5종 지원
   html-commentTitle: HTML 주석

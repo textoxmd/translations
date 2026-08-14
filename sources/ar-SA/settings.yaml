@@ -181,7 +181,7 @@ settings:
   markdownTitle: بناء جملة ماركداون
   markdownEmpty: لا توجد ميزات بناء جملة قابلة للتكوين
   markdownRestartTitle: Restart Required
-  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
+  markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: تنبيه
   alertDesc: امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: تعليقات HTML

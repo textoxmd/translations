@@ -167,7 +167,7 @@ settings:
   markdownTitle: Markdown 语法
   markdownEmpty: 没有可配置的语法功能
   markdownRestartTitle: 需要重启应用
-  markdownRestartDesc: 语法功能开关需要在重启应用后才会生效
+  markdownRestartDesc: 「{{feature}}」功能在编辑器启动时加载。重启应用后该更改才会生效。
   alertTitle: 警提示
   alertDesc: blockquote 语法的扩展，支持 NOTE, TIP, IMPORTANT, WARNING, CAUTION 五种
   html-commentTitle: HTML 注释
