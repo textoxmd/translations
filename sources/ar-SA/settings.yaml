@@ -180,7 +180,7 @@ settings:
   markdown: ماركداون
   markdownTitle: بناء جملة ماركداون
   markdownEmpty: لا توجد ميزات بناء جملة قابلة للتكوين
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: تنبيه
   alertDesc: امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION

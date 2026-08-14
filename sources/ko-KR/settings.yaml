@@ -180,7 +180,7 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown 구문
   markdownEmpty: 구성 가능한 구문 기능이 없습니다
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: 알림
   alertDesc: blockquote 구문 확장, NOTE, TIP, IMPORTANT, WARNING, CAUTION 5종 지원

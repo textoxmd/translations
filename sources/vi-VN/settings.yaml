@@ -182,7 +182,7 @@ settings:
   markdown: Markdown
   markdownTitle: Cú pháp Markdown
   markdownEmpty: Không có tính năng cú pháp nào có thể cấu hình
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Cảnh báo
   alertDesc: Mở rộng cú pháp blockquote hỗ trợ NOTE, TIP, IMPORTANT, WARNING, CAUTION

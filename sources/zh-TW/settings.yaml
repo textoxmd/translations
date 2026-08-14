@@ -180,7 +180,7 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown 語法
   markdownEmpty: 沒有可配置的語法功能
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: 警示
   alertDesc: blockquote 語法的擴充，支援 NOTE, TIP, IMPORTANT, WARNING, CAUTION 五種

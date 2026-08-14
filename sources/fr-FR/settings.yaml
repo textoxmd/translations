@@ -184,7 +184,7 @@ settings:
   markdown: Markdown
   markdownTitle: Syntaxe Markdown
   markdownEmpty: Aucune fonctionnalité de syntaxe configurable
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Alerte
   alertDesc: Extension de la syntaxe blockquote prenant en charge NOTE, TIP, IMPORTANT, WARNING, CAUTION

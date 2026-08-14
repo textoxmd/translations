@@ -180,7 +180,7 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown 構文
   markdownEmpty: 設定可能な構文機能はありません
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: アラート
   alertDesc: blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート

@@ -180,7 +180,7 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown सिंटैक्स
   markdownEmpty: कोई कॉन्फ़िगर करने योग्य सिंटैक्स सुविधाएँ नहीं
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: अलर्ट
   alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है

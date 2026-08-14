@@ -180,7 +180,7 @@ settings:
   markdown: Markdown
   markdownTitle: ไวยากรณ์ Markdown
   markdownEmpty: ไม่มีคุณสมบัติไวยากรณ์ที่กำหนดค่าได้
-  markdownRestartTitle: Changes require restart
+  markdownRestartTitle: Restart Required
   markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
