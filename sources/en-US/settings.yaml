@@ -171,13 +171,13 @@ settings:
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: Alerts
-  alertDesc: GitHub-style callout boxes using blockquote syntax like > [!NOTE]
+  alertDesc: GitHub-style callout boxes using blockquote syntax like <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML Comments
-  html-commentDesc: Show <!-- --> comment blocks as highlighted blocks
+  html-commentDesc: Show <code>&lt;!-- --&gt;</code> comment blocks as highlighted blocks
   html-inlineTitle: Inline HTML
-  html-inlineDesc: Display inline HTML tags like <span>, <kbd>, <abbr> directly in text
+  html-inlineDesc: Display inline HTML tags like <code>&lt;span&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code> directly in text
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Typing Particles
   typing-particleDesc: Emit spark particles from the cursor position while typing
   fileExtensions: File Extensions

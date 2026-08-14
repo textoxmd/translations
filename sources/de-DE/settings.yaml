@@ -189,11 +189,11 @@ settings:
   alertTitle: Hinweis
   alertDesc: Blockquote-Syntax-Erweiterung mit Unterstützung für NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: HTML-Kommentare
-  html-commentDesc: <!-- -->-Kommentarblöcke rendern
+  html-commentDesc: <code>&lt;!-- --&gt;</code>-Kommentarblöcke rendern
   html-inlineTitle: Inline-HTML
-  html-inlineDesc: Inline-HTML-Tags wie <span style>, <kbd>, <abbr> rendern
+  html-inlineDesc: Inline-HTML-Tags wie <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code> rendern
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Tipp-Partikel
   typing-particleDesc: Erzeugt Funkenpartikel an der Cursorposition beim Tippen
   fileExtensions: Dateierweiterungen

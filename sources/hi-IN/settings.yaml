@@ -185,11 +185,11 @@ settings:
   alertTitle: अलर्ट
   alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है
   html-commentTitle: HTML टिप्पणियाँ
-  html-commentDesc: <!-- --> टिप्पणी ब्लॉक प्रस्तुत करें
+  html-commentDesc: <code>&lt;!-- --&gt;</code> टिप्पणी ब्लॉक प्रस्तुत करें
   html-inlineTitle: इनलाइन HTML
-  html-inlineDesc: <span style>, <kbd>, <abbr> जैसे इनलाइन HTML टैग प्रस्तुत करें
+  html-inlineDesc: <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code> जैसे इनलाइन HTML टैग प्रस्तुत करें
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: टाइपिंग पार्टिकल्स
   typing-particleDesc: टाइप करते समय कर्सर स्थिति से स्पार्क कण उत्सर्जित करें
   fileExtensions: फ़ाइल एक्सटेंशन

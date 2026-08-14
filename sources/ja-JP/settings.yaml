@@ -185,11 +185,11 @@ settings:
   alertTitle: アラート
   alertDesc: blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート
   html-commentTitle: HTML コメント
-  html-commentDesc: <!-- --> コメントブロックをレンダリング
+  html-commentDesc: <code>&lt;!-- --&gt;</code> コメントブロックをレンダリング
   html-inlineTitle: インライン HTML
-  html-inlineDesc: <span style>、<kbd>、<abbr> などのインライン HTML タグをレンダリング
+  html-inlineDesc: <code>&lt;span style&gt;</code>、<code>&lt;kbd&gt;</code>、<code>&lt;abbr&gt;</code> などのインライン HTML タグをレンダリング
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: タイピングパーティクル
   typing-particleDesc: タイピング時にカーソル位置から火花パーティクルを放出
   fileExtensions: ファイル拡張子

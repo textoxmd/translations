@@ -185,11 +185,11 @@ settings:
   alertTitle: تنبيه
   alertDesc: امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: تعليقات HTML
-  html-commentDesc: عرض كتل التعليقات <!-- -->
+  html-commentDesc: عرض كتل التعليقات <code>&lt;!-- --&gt;</code>
   html-inlineTitle: HTML مضمن
-  html-inlineDesc: عرض وسوم HTML المضمنة مثل <span style> و<kbd> و<abbr>
+  html-inlineDesc: عرض وسوم HTML المضمنة مثل <code>&lt;span style&gt;</code> و<code>&lt;kbd&gt;</code> و<code>&lt;abbr&gt;</code>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: جزيئات الكتابة
   typing-particleDesc: إصدار جزيئات شرارة من موضع المؤشر أثناء الكتابة
   fileExtensions: امتدادات الملفات

@@ -187,11 +187,11 @@ settings:
   alertTitle: Alertsa
   alertDesc: Extensión de sintaxis blockquote compatible con NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Comentarios HTML
-  html-commentDesc: Renderizar bloques de comentarios <!-- -->
+  html-commentDesc: Renderizar bloques de comentarios <code>&lt;!-- --&gt;</code>
   html-inlineTitle: HTML en línea
-  html-inlineDesc: Renderizar etiquetas HTML en línea como <span style>, <kbd>, <abbr>
+  html-inlineDesc: Renderizar etiquetas HTML en línea como <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Partículas al escribir
   typing-particleDesc: Emite partículas de chispa desde la posición del cursor al escribir
   fileExtensions: Extensiones de archivo

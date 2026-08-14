@@ -169,13 +169,13 @@ settings:
   markdownRestartTitle: 需要重启应用
   markdownRestartDesc: '{{feature}}功能在编辑器启动时加载。重启应用后该更改才会生效。'
   alertTitle: 提醒框
-  alertDesc: GitHub 风格的提示框，使用引用语法，如 > [!NOTE]
+  alertDesc: GitHub 风格的提示框，使用引用语法，如 <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML 注释
-  html-commentDesc: 将 <!-- --> 注释作为高亮块显示
+  html-commentDesc: 将 <code>&lt;!-- --&gt;</code> 注释作为高亮块显示
   html-inlineTitle: 内联 HTML
-  html-inlineDesc: 在文本中直接显示 <span>、<kbd>、<abbr> 等内联 HTML 标签
+  html-inlineDesc: 在文本中直接显示 <code>&lt;span&gt;</code>、<code>&lt;kbd&gt;</code>、<code>&lt;abbr&gt;</code> 等内联 HTML 标签
   html-blockTitle: HTML 块
-  html-blockDesc: 将 <div>、<table>、<details> 等块级 HTML 作为独立块处理
+  html-blockDesc: 将 <code>&lt;div&gt;</code>、<code>&lt;table&gt;</code>、<code>&lt;details&gt;</code> 等块级 HTML 作为独立块处理
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字时从光标位置迸发出火花粒子
   fileExtensions: 文件扩展名

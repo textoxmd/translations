@@ -187,11 +187,11 @@ settings:
   alertTitle: Уведомление
   alertDesc: Расширение синтаксиса blockquote с поддержкой NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: HTML-комментарии
-  html-commentDesc: Отображать блоки комментариев <!-- -->
+  html-commentDesc: Отображать блоки комментариев <code>&lt;!-- --&gt;</code>
   html-inlineTitle: Встроенный HTML
-  html-inlineDesc: Отображать встроенные HTML-теги, такие как <span style>, <kbd>, <abbr>
+  html-inlineDesc: Отображать встроенные HTML-теги, такие как <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Частицы при наборе
   typing-particleDesc: Испускает искры частиц из позиции курсора при наборе текста
   fileExtensions: Расширения файлов

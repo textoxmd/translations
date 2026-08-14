@@ -183,13 +183,13 @@ settings:
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   alertTitle: 提醒框
-  alertDesc: GitHub 風格的提示框，使用引用語法，如 > [!NOTE]
+  alertDesc: GitHub 風格的提示框，使用引用語法，如 <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML 註解
-  html-commentDesc: 將 <!-- --> 註解作為高亮區塊顯示
+  html-commentDesc: 將 <code>&lt;!-- --&gt;</code> 註解作為高亮區塊顯示
   html-inlineTitle: 內聯 HTML
-  html-inlineDesc: 在文字中直接顯示 <span>、<kbd>、<abbr> 等內聯 HTML 標籤
+  html-inlineDesc: 在文字中直接顯示 <code>&lt;span&gt;</code>、<code>&lt;kbd&gt;</code>、<code>&lt;abbr&gt;</code> 等內聯 HTML 標籤
   html-blockTitle: HTML 區塊
-  html-blockDesc: 將 <div>、<table>、<details> 等區塊級 HTML 作為獨立區塊處理
+  html-blockDesc: 將 <code>&lt;div&gt;</code>、<code>&lt;table&gt;</code>、<code>&lt;details&gt;</code> 等區塊級 HTML 作為獨立區塊處理
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字時從游標位置迸發出火花粒子
   fileExtensions: 文件副檔名

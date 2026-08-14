@@ -185,11 +185,11 @@ settings:
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: ความคิดเห็น HTML
-  html-commentDesc: แสดงบล็อกความคิดเห็น <!-- -->
+  html-commentDesc: แสดงบล็อกความคิดเห็น <code>&lt;!-- --&gt;</code>
   html-inlineTitle: HTML แบบอินไลน์
-  html-inlineDesc: แสดงแท็ก HTML แบบอินไลน์เช่น <span style>, <kbd>, <abbr>
+  html-inlineDesc: แสดงแท็ก HTML แบบอินไลน์เช่น <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: อนุภาคขณะพิมพ์
   typing-particleDesc: ปล่อยอนุภาคประกายไฟจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
   fileExtensions: นามสกุลไฟล์

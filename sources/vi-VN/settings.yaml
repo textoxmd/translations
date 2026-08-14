@@ -187,11 +187,11 @@ settings:
   alertTitle: Cảnh báo
   alertDesc: Mở rộng cú pháp blockquote hỗ trợ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Bình luận HTML
-  html-commentDesc: Hiển thị khối bình luận <!-- -->
+  html-commentDesc: Hiển thị khối bình luận <code>&lt;!-- --&gt;</code>
   html-inlineTitle: HTML nội dòng
-  html-inlineDesc: Hiển thị thẻ HTML nội dòng như <span style>, <kbd>, <abbr>
+  html-inlineDesc: Hiển thị thẻ HTML nội dòng như <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Hiệu ứng hạt khi gõ
   typing-particleDesc: Phát ra các hạt lửa từ vị trí con trỏ khi gõ
   fileExtensions: Phần mở rộng tệp

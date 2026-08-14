@@ -185,11 +185,11 @@ settings:
   alertTitle: 알림
   alertDesc: blockquote 구문 확장, NOTE, TIP, IMPORTANT, WARNING, CAUTION 5종 지원
   html-commentTitle: HTML 주석
-  html-commentDesc: <!-- --> 주석 블록 렌더링
+  html-commentDesc: <code>&lt;!-- --&gt;</code> 주석 블록 렌더링
   html-inlineTitle: 인라인 HTML
-  html-inlineDesc: <span style>, <kbd>, <abbr> 같은 인라인 HTML 태그 렌더링
+  html-inlineDesc: <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code> 같은 인라인 HTML 태그 렌더링
   html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
+  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: 타이핑 파티클
   typing-particleDesc: 타이핑 시 커서 위치에서 불꽃 파티클 방출
   fileExtensions: 파일 확장자
