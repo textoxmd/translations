@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: Sofort-Rendermodus
   toggle_typewriter_mode: Schreibmaschinenmodus
   toggle_editor_toolbar: Formatierungssymbolleiste anzeigen
-  toggle_inline_format_toolbar: Schwebende Formatierungssymbolleiste anzeigen
+  toggle_inline_format_toolbar: Schwebende Symbolleiste anzeigen
   toggle_outline_panel: Gliederung anzeigen
+  developer: "Entwickleroptionen"
+  toggle_editor_hud: "Editor-HUD anzeigen"
   window: Fenster
   minimize: Minimieren
   zoom: Zoomen

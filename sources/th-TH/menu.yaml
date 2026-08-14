@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: โหมดเรนเดอร์แบบทันที
   toggle_typewriter_mode: โหมดเครื่องพิมพ์ดีต
   toggle_editor_toolbar: แสดงแถบเครื่องมือจัดรูปแบบ
-  toggle_inline_format_toolbar: แสดงแถบเครื่องมือจัดรูปแบบลอยตัว
+  toggle_inline_format_toolbar: แสดงแถบเครื่องมือลอยตัว
   toggle_outline_panel: แสดงโครงร่าง
+  developer: "ตัวเลือกนักพัฒนา"
+  toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
   window: หน้าต่าง
   minimize: ย่อเล็กสุด
   zoom: ซูม

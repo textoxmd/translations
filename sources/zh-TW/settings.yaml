@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: 在編輯器右下角顯示字數統計懸浮按鈕
   showEditorToolbar: 顯示格式工具列
   showEditorToolbarDesc: 在編輯器頂部顯示格式工具列
+  toolbar: 工具列
+  showInlineFormatToolbar: 顯示浮動工具列
+  showInlineFormatToolbarDesc: 選取文字時在游標附近顯示格式工具列
   typewriterMode: 打字機模式
   typewriterModeDesc: 在打字機模式下，游標行將保持在螢幕中央位置，提供專注的寫作體驗
   autoCapitalizeDesc: 在編輯器中自動將英文句子首字大寫（關閉以獲得更好的 Markdown 編輯體驗）
@@ -177,6 +180,8 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown 語法
   markdownEmpty: 沒有可配置的語法功能
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: 警示
   alertDesc: blockquote 語法的擴充，支援 NOTE, TIP, IMPORTANT, WARNING, CAUTION 五種
   html-commentTitle: HTML 註釋

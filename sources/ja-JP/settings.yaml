@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: エディタの右下にフローティング単語数バッジを表示
   showEditorToolbar: 書式ツールバーを表示
   showEditorToolbarDesc: エディタ上部に書式ツールバーを表示
+  toolbar: ツールバー
+  showInlineFormatToolbar: フローティングツールバーを表示
+  showInlineFormatToolbarDesc: テキスト選択時にカーソル近くに書式ツールバーを表示
   typewriterMode: タイプライターモード
   typewriterModeDesc: タイプライターモードではカーソル行が画面中央に保たれ、集中して執筆できます
   autoCapitalizeDesc: 英文の文頭を自動的に大文字にします（Markdown編集のため無効推奨）
@@ -177,6 +180,8 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown 構文
   markdownEmpty: 設定可能な構文機能はありません
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: アラート
   alertDesc: blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート
   html-commentTitle: HTML コメント

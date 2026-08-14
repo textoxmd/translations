@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: Instant Rendering Mode
   toggle_typewriter_mode: Typewriter Mode
   toggle_editor_toolbar: Show Format Toolbar
-  toggle_inline_format_toolbar: Show Floating Format Toolbar
+  toggle_inline_format_toolbar: Show Floating Toolbar
   toggle_outline_panel: Show Outline Panel
+  developer: "Developer Options"
+  toggle_editor_hud: "Show Editor HUD"
   window: Window
   minimize: Minimize
   zoom: Zoom

@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Hiển thị huy hiệu số từ nổi ở góc dưới bên phải của trình soạn thảo
   showEditorToolbar: Hiển thị thanh công cụ định dạng
   showEditorToolbarDesc: Hiển thị thanh công cụ định dạng ở đầu trình soạn thảo
+  toolbar: Thanh công cụ
+  showInlineFormatToolbar: Hiển thị thanh công cụ nổi
+  showInlineFormatToolbarDesc: Hiển thị thanh công cụ định dạng gần con trỏ khi chọn văn bản
   typewriterMode: Chế độ máy đánh chữ
   typewriterModeDesc: Trong chế độ máy đánh chữ, dòng con trỏ được giữ ở giữa màn hình để có trải nghiệm viết tập trung
   autoCapitalizeDesc: Tự động viết hoa chữ cái đầu tiên của câu tiếng Anh (tắt để chỉnh sửa Markdown tốt hơn)
@@ -179,6 +182,8 @@ settings:
   markdown: Markdown
   markdownTitle: Cú pháp Markdown
   markdownEmpty: Không có tính năng cú pháp nào có thể cấu hình
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Cảnh báo
   alertDesc: Mở rộng cú pháp blockquote hỗ trợ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Bình luận HTML

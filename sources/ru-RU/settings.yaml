@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Показывать плавающий значок количества слов в правом нижнем углу редактора
   showEditorToolbar: Показать панель инструментов форматирования
   showEditorToolbarDesc: Показать панель инструментов форматирования в верхней части редактора
+  toolbar: Панель инструментов
+  showInlineFormatToolbar: Показать плавающую панель
+  showInlineFormatToolbarDesc: Показывать панель форматирования рядом с курсором при выделении текста
   typewriterMode: Режим пишущей машинки
   typewriterModeDesc: В режиме пишущей машинки строка с курсором остается по центру для сфокусированного письма
   autoCapitalizeDesc: Автоматически делать заглавной первую букву английских предложений (отключите для лучшего редактирования Markdown)
@@ -179,6 +182,8 @@ settings:
   markdown: Markdown
   markdownTitle: Синтаксис Markdown
   markdownEmpty: Нет настраиваемых синтаксических функций
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Уведомление
   alertDesc: Расширение синтаксиса blockquote с поддержкой NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: HTML-комментарии

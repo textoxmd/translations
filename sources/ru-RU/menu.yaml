@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: Режим мгновенного рендеринга
   toggle_typewriter_mode: Режим пишущей машинки
   toggle_editor_toolbar: Показать панель форматирования
-  toggle_inline_format_toolbar: Показать плавающую панель форматирования
+  toggle_inline_format_toolbar: Показать плавающую панель
   toggle_outline_panel: Показать структуру
+  developer: "Параметры разработчика"
+  toggle_editor_hud: "Показать HUD редактора"
   window: Окно
   minimize: Свернуть
   zoom: Масштаб

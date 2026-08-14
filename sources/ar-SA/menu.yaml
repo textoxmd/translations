@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: وضع العرض الفوري
   toggle_typewriter_mode: وضع الآلة الكاتبة
   toggle_editor_toolbar: إظهار شريط أدوات التنسيق
-  toggle_inline_format_toolbar: إظهار شريط أدوات التنسيق العائم
+  toggle_inline_format_toolbar: إظهار شريط الأدوات العائم
   toggle_outline_panel: إظهار المخطط
+  developer: "خيارات المطور"
+  toggle_editor_hud: "إظهار HUD المحرر"
   window: نافذة
   minimize: تصغير
   zoom: تكبير

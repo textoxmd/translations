@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: त्वरित रेंडरिंग मोड
   toggle_typewriter_mode: टाइपराइटर मोड
   toggle_editor_toolbar: फ़ॉर्मेट टूलबार दिखाएं
-  toggle_inline_format_toolbar: फ़्लोटिंग फ़ॉर्मेटिंग टूलबार दिखाएं
+  toggle_inline_format_toolbar: फ़्लोटिंग टूलबार दिखाएं
   toggle_outline_panel: रूपरेखा दिखाएं
+  developer: "डेवलपर विकल्प"
+  toggle_editor_hud: "संपादक HUD दिखाएं"
   window: विंडो
   minimize: न्यूनतम करें
   zoom: ज़ूम

@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Zeigt ein schwebendes Wortanzahl-Symbol in der unteren rechten Ecke des Editors an
   showEditorToolbar: Formatierungssymbolleiste anzeigen
   showEditorToolbarDesc: Eine Formatierungssymbolleiste oben im Editor anzeigen
+  toolbar: Symbolleiste
+  showInlineFormatToolbar: Schwebende Symbolleiste anzeigen
+  showInlineFormatToolbarDesc: Bei Textauswahl eine Formatierungssymbolleiste nahe dem Cursor anzeigen
   typewriterMode: Schreibmaschinenmodus
   typewriterModeDesc: Im Schreibmaschinenmodus bleibt die Cursorzeile zentriert für ein fokussiertes Schreiberlebnis
   autoCapitalizeDesc: Automatische Großschreibung des ersten Buchstabens englischer Sätze (für bessere Markdown-Bearbeitung deaktivieren)
@@ -181,6 +184,8 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown-Syntax
   markdownEmpty: Keine konfigurierbaren Syntax-Funktionen
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Hinweis
   alertDesc: Blockquote-Syntax-Erweiterung mit Unterstützung für NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: HTML-Kommentare

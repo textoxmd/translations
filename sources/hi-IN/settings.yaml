@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: संपादक के निचले-दाएं कोने में एक फ्लोटिंग शब्द गणना बैज दिखाएं
   showEditorToolbar: फ़ॉर्मेटिंग टूलबार दिखाएं
   showEditorToolbarDesc: संपादक के शीर्ष पर फ़ॉर्मेटिंग टूलबार दिखाएं
+  toolbar: टूलबार
+  showInlineFormatToolbar: फ़्लोटिंग टूलबार दिखाएं
+  showInlineFormatToolbarDesc: टेक्स्ट चुनने पर कर्सर के पास फ़ॉर्मेटिंग टूलबार दिखाएं
   typewriterMode: टाइपराइटर मोड
   typewriterModeDesc: टाइपराइटर मोड में कर्सर लाइन स्क्रीन के केंद्र में रहती है, केंद्रित लेखन अनुभव के लिए
   autoCapitalizeDesc: अंग्रेजी वाक्यों के पहले अक्षर को स्वतः बड़े अक्षरों में बदलें (बेहतर Markdown संपादन के लिए बंद करें)
@@ -177,6 +180,8 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown सिंटैक्स
   markdownEmpty: कोई कॉन्फ़िगर करने योग्य सिंटैक्स सुविधाएँ नहीं
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: अलर्ट
   alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है
   html-commentTitle: HTML टिप्पणियाँ

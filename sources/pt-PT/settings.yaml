@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Mostrar um selo flutuante de contagem de palavras no canto inferior direito do editor
   showEditorToolbar: Mostrar barra de ferramentas de formatação
   showEditorToolbarDesc: Mostrar uma barra de ferramentas de formatação no topo do editor
+  toolbar: Barra de ferramentas
+  showInlineFormatToolbar: Mostrar barra de ferramentas flutuante
+  showInlineFormatToolbarDesc: Mostrar uma barra de ferramentas de formatação perto do cursor ao selecionar texto
   typewriterMode: Modo máquina de escrever
   typewriterModeDesc: No modo máquina de escrever, a linha do cursor permanece centrada para uma experiência de escrita focada
   autoCapitalizeDesc: Capitalizar automaticamente a primeira letra de frases em inglês (desativar para melhor edição Markdown)
@@ -179,6 +182,8 @@ settings:
   markdown: Markdown
   markdownTitle: Sintaxe Markdown
   markdownEmpty: Nenhum recurso de sintaxe configurável
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Alerta
   alertDesc: Extensão de sintaxe blockquote com suporte para NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Comentários HTML

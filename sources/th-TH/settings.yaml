@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: แสดงป้ายนับจำนวนคำแบบลอยที่มุมล่างขวาของตัวแก้ไข
   showEditorToolbar: แสดงแถบเครื่องมือจัดรูปแบบ
   showEditorToolbarDesc: แสดงแถบเครื่องมือจัดรูปแบบที่ด้านบนของตัวแก้ไข
+  toolbar: แถบเครื่องมือ
+  showInlineFormatToolbar: แสดงแถบเครื่องมือลอยตัว
+  showInlineFormatToolbarDesc: แสดงแถบเครื่องมือจัดรูปแบบใกล้เคอร์เซอร์เมื่อเลือกข้อความ
   typewriterMode: โหมดเครื่องพิมพ์ดีด
   typewriterModeDesc: ในโหมดเครื่องพิมพ์ดีด บรรทัดเคอร์เซอร์จะอยู่กึ่งกลางหน้าจอเพื่อประสบการณ์การเขียนที่โฟกัส
   autoCapitalizeDesc: เปลี่ยนตัวอักษรตัวแรกของประโยคภาษาอังกฤษเป็นตัวพิมพ์ใหญ่โดยอัตโนมัติ (ปิดเพื่อการแก้ไข Markdown ที่ดีขึ้น)
@@ -177,6 +180,8 @@ settings:
   markdown: Markdown
   markdownTitle: ไวยากรณ์ Markdown
   markdownEmpty: ไม่มีคุณสมบัติไวยากรณ์ที่กำหนดค่าได้
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: ความคิดเห็น HTML

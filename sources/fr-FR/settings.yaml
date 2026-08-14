@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Afficher un badge flottant du nombre de mots dans le coin inférieur droit de l'éditeur
   showEditorToolbar: Afficher la barre d'outils de mise en forme
   showEditorToolbarDesc: Afficher une barre d'outils de mise en forme en haut de l'éditeur
+  toolbar: Barre d'outils
+  showInlineFormatToolbar: Afficher la barre d'outils flottante
+  showInlineFormatToolbarDesc: Afficher une barre d'outils de mise en forme près du curseur lors de la sélection de texte
   typewriterMode: Mode machine à écrire
   typewriterModeDesc: En mode machine à écrire, la ligne du curseur reste centrée pour une expérience d'écriture concentrée
   autoCapitalizeDesc: >-
@@ -181,6 +184,8 @@ settings:
   markdown: Markdown
   markdownTitle: Syntaxe Markdown
   markdownEmpty: Aucune fonctionnalité de syntaxe configurable
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Alerte
   alertDesc: Extension de la syntaxe blockquote prenant en charge NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Commentaires HTML

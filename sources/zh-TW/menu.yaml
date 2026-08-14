@@ -58,8 +58,10 @@ menu:
   toggle_edit_mode: 即時渲染模式
   toggle_typewriter_mode: 打字機模式
   toggle_editor_toolbar: 顯示格式工具列
-  toggle_inline_format_toolbar: 顯示浮動格式工具列
+  toggle_inline_format_toolbar: 顯示浮動工具列
   toggle_outline_panel: 顯示大綱
+  developer: "開發者選項"
+  toggle_editor_hud: "顯示編輯器 HUD"
   window: 視窗
   minimize: 最小化
   zoom: 縮放

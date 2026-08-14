@@ -14,6 +14,9 @@ settings:
   showWordCountDesc: Show a floating word count badge in the bottom-right corner of the editor
   showEditorToolbar: Show Formatting Toolbar
   showEditorToolbarDesc: Show a formatting toolbar at the top of the editor
+  toolbar: Toolbar
+  showInlineFormatToolbar: Show Floating Toolbar
+  showInlineFormatToolbarDesc: Show a formatting toolbar near the cursor when text is selected
   typewriterMode: Typewriter Mode
   typewriterModeDesc: Keep the cursor line centered while typing for a focused writing experience
   autoCapitalizeDesc: Automatically capitalize the first letter of English sentences (disable for better Markdown editing)
@@ -165,6 +168,8 @@ settings:
   markdown: Markdown
   markdownTitle: Markdown Syntax
   markdownEmpty: No configurable syntax features
+  markdownRestartTitle: Changes require restart
+  markdownRestartDesc: Syntax feature toggles take effect after restarting the app
   alertTitle: Alert
   alertDesc: Blockquote syntax extension supporting NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: HTML Comments
