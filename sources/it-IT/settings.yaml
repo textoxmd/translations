@@ -191,7 +191,7 @@ settings:
   html-inlineTitle: HTML inline
   html-inlineDesc: Mostra tag HTML inline come <span style>, <kbd>, <abbr>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Particelle di digitazione
   typing-particleDesc: Emette particelle scintilla dalla posizione del cursore durante la digitazione
   fileExtensions: Estensioni file

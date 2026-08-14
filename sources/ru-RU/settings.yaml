@@ -191,7 +191,7 @@ settings:
   html-inlineTitle: Встроенный HTML
   html-inlineDesc: Отображать встроенные HTML-теги, такие как <span style>, <kbd>, <abbr>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Частицы при наборе
   typing-particleDesc: Испускает искры частиц из позиции курсора при наборе текста
   fileExtensions: Расширения файлов

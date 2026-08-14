@@ -191,7 +191,7 @@ settings:
   html-inlineTitle: HTML nội dòng
   html-inlineDesc: Hiển thị thẻ HTML nội dòng như <span style>, <kbd>, <abbr>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Hiệu ứng hạt khi gõ
   typing-particleDesc: Phát ra các hạt lửa từ vị trí con trỏ khi gõ
   fileExtensions: Phần mở rộng tệp

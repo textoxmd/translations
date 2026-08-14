@@ -189,7 +189,7 @@ settings:
   html-inlineTitle: 인라인 HTML
   html-inlineDesc: <span style>, <kbd>, <abbr> 같은 인라인 HTML 태그 렌더링
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: 타이핑 파티클
   typing-particleDesc: 타이핑 시 커서 위치에서 불꽃 파티클 방출
   fileExtensions: 파일 확장자

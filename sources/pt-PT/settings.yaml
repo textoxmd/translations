@@ -184,14 +184,14 @@ settings:
   markdownEmpty: Nenhum recurso de sintaxe configurável
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
-  alertTitle: Alerta
+  alertTitle: Alertsa
   alertDesc: Extensão de sintaxe blockquote com suporte para NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Comentários HTML
   html-commentDesc: Renderizar blocos de comentários <!-- -->
   html-inlineTitle: HTML em linha
   html-inlineDesc: Renderizar tags HTML em linha como <span style>, <kbd>, <abbr>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Partículas de digitação
   typing-particleDesc: Emite partículas de faísca a partir da posição do cursor ao digitar
   fileExtensions: Extensões de ficheiro

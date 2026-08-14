@@ -170,14 +170,14 @@ settings:
   markdownEmpty: No configurable syntax features
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
-  alertTitle: Alert
-  alertDesc: Blockquote syntax extension supporting NOTE, TIP, IMPORTANT, WARNING, CAUTION
+  alertTitle: Alerts
+  alertDesc: GitHub-style callout boxes using blockquote syntax like > [!NOTE]
   html-commentTitle: HTML Comments
-  html-commentDesc: Render <!-- --> comment blocks
+  html-commentDesc: Show <!-- --> comment blocks as highlighted blocks
   html-inlineTitle: Inline HTML
-  html-inlineDesc: Render inline HTML tags like <span style>, <kbd>, <abbr>
+  html-inlineDesc: Display inline HTML tags like <span>, <kbd>, <abbr> directly in text
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Typing Particles
   typing-particleDesc: Emit spark particles from the cursor position while typing
   fileExtensions: File Extensions

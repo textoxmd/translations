@@ -189,7 +189,7 @@ settings:
   html-inlineTitle: HTML مضمن
   html-inlineDesc: عرض وسوم HTML المضمنة مثل <span style> و<kbd> و<abbr>
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: جزيئات الكتابة
   typing-particleDesc: إصدار جزيئات شرارة من موضع المؤشر أثناء الكتابة
   fileExtensions: امتدادات الملفات

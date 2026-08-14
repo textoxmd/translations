@@ -189,7 +189,7 @@ settings:
   html-inlineTitle: इनलाइन HTML
   html-inlineDesc: <span style>, <kbd>, <abbr> जैसे इनलाइन HTML टैग प्रस्तुत करें
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: टाइपिंग पार्टिकल्स
   typing-particleDesc: टाइप करते समय कर्सर स्थिति से स्पार्क कण उत्सर्जित करें
   fileExtensions: फ़ाइल एक्सटेंशन

@@ -193,7 +193,7 @@ settings:
   html-inlineTitle: Inline-HTML
   html-inlineDesc: Inline-HTML-Tags wie <span style>, <kbd>, <abbr> rendern
   html-blockTitle: HTML Blocks
-  html-blockDesc: Render GFM HTML blocks like <div>, <details>, <table>
+  html-blockDesc: Treat block-level HTML like <div>, <table>, <details> as standalone blocks
   typing-particleTitle: Tipp-Partikel
   typing-particleDesc: Erzeugt Funkenpartikel an der Cursorposition beim Tippen
   fileExtensions: Dateierweiterungen
