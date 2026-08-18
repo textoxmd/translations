@@ -18,6 +18,7 @@ directoryTree:
   showInFinder: Show in Finder
   dragToResize: Drag to resize
   closeFile: Close file
+  search: Search files
   searchPlaceholder: Search file names...
   searchNoResults: No matching files found
   searchLimitReached: Too many results, please refine your query

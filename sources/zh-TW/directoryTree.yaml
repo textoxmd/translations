@@ -18,6 +18,7 @@ directoryTree:
   showInFinder: 在 Finder 中顯示
   dragToResize: 拖曳以調整大小
   closeFile: 關閉檔案
+  search: 搜尋檔案
   searchPlaceholder: 搜尋檔名...
   searchNoResults: 找不到相符的檔案
   searchLimitReached: 結果過多，請縮小關鍵字

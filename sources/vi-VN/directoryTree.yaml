@@ -18,6 +18,7 @@ directoryTree:
   showInFinder: Hiển thị trong Finder
   dragToResize: Kéo để thay đổi kích thước
   closeFile: Đóng tệp
+  search: Tìm kiếm tệp
   searchPlaceholder: Tìm kiếm tên tệp...
   searchNoResults: Không tìm thấy tệp khớp
   searchLimitReached: Quá nhiều kết quả, vui lòng thu hẹp tìm kiếm

@@ -18,6 +18,7 @@ directoryTree:
   showInFinder: Показать в Finder
   dragToResize: Перетащите для изменения размера
   closeFile: Закрыть файл
+  search: Поиск файлов
   searchPlaceholder: Поиск по именам файлов...
   searchNoResults: Совпадений не найдено
   searchLimitReached: Слишком много результатов, уточните запрос
