@@ -18,3 +18,6 @@ directoryTree:
   showInFinder: Finder で表示
   dragToResize: ドラッグしてサイズを調整
   closeFile: ファイルを閉じる
+  searchPlaceholder: ファイル名を検索...
+  searchNoResults: 一致するファイルが見つかりません
+  searchLimitReached: 結果が多すぎます。キーワードを絞り込んでください

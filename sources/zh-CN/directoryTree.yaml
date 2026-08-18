@@ -18,3 +18,6 @@ directoryTree:
   showInFinder: 在 Finder 中显示
   dragToResize: 拖动调整宽度
   closeFile: 关闭文件
+  searchPlaceholder: 搜索文件名...
+  searchNoResults: 未找到匹配的文件
+  searchLimitReached: 结果过多，请缩小关键词

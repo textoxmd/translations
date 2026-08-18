@@ -18,3 +18,6 @@ directoryTree:
   showInFinder: Afficher dans le Finder
   dragToResize: Faites glisser pour redimensionner
   closeFile: Fermer le fichier
+  searchPlaceholder: Rechercher des noms de fichiers...
+  searchNoResults: Aucun fichier correspondant trouvé
+  searchLimitReached: Trop de résultats, veuillez affiner votre recherche

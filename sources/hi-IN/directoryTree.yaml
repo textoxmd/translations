@@ -18,3 +18,6 @@ directoryTree:
   showInFinder: Finder में दिखाएँ
   dragToResize: आकार बदलने के लिए खींचें
   closeFile: फ़ाइल बंद करें
+  searchPlaceholder: फ़ाइल नाम खोजें...
+  searchNoResults: कोई मिलान फ़ाइल नहीं मिली
+  searchLimitReached: बहुत अधिक परिणाम, कृपया खोज को सीमित करें
