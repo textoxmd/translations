@@ -1,11 +1,14 @@
 directoryTree:
   title: Ficheiros
   newFile: Novo ficheiro
+  newFileMarkdown: Novo documento
+  newFileExcalidraw: Novo quadro branco
   newFolder: Nova pasta
   rename: Renomear
   delete: Eliminar
   loading: A carregar...
   newFileDefaultName: Novo ficheiro.md
+  newFileExcalidrawDefaultName: Novo desenho.excalidraw
   newFolderDefaultName: Nova pasta
   selectedCount: '{{count}} itens selecionados'
   notOpenable: Não configurado como um tipo de ficheiro abrível

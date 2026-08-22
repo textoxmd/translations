@@ -1,11 +1,14 @@
 directoryTree:
   title: ファイル
   newFile: 新規ファイル
+  newFileMarkdown: 新しいドキュメント
+  newFileExcalidraw: 新しいホワイトボード
   newFolder: 新規フォルダ
   rename: 名前を変更
   delete: 削除
   loading: 読み込み中...
   newFileDefaultName: 新規ファイル.md
+  newFileExcalidrawDefaultName: 新しい図面.excalidraw
   newFolderDefaultName: 新規フォルダ
   selectedCount: '{{count}} 個の項目を選択'
   notOpenable: 開くことができるファイルタイプとして設定されていません

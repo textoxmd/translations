@@ -1,11 +1,14 @@
 directoryTree:
   title: Файлы
   newFile: Новый файл
+  newFileMarkdown: Новый документ
+  newFileExcalidraw: Новая доска
   newFolder: Новая папка
   rename: Переименовать
   delete: Удалить
   loading: Загрузка...
   newFileDefaultName: Новый файл.md
+  newFileExcalidrawDefaultName: Новый рисунок.excalidraw
   newFolderDefaultName: Новая папка
   selectedCount: Выбрано {{count}} элементов
   notOpenable: Не настроен как открываемый тип файла

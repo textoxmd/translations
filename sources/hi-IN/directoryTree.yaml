@@ -1,11 +1,14 @@
 directoryTree:
   title: फाइलें
   newFile: नई फाइल
+  newFileMarkdown: नया दस्तावेज़
+  newFileExcalidraw: नया व्हाइटबोर्ड
   newFolder: नया फ़ोल्डर
   rename: नाम बदलें
   delete: हटाएं
   loading: लोड हो रहा है...
   newFileDefaultName: नई फाइल.md
+  newFileExcalidrawDefaultName: नया ड्रॉइंग.excalidraw
   newFolderDefaultName: नया फ़ोल्डर
   selectedCount: '{{count}} आइटम चुने गए'
   notOpenable: खोलने योग्य फ़ाइल प्रकार के रूप में कॉन्फ़िगर नहीं किया गया

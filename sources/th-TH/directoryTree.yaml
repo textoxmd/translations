@@ -1,11 +1,14 @@
 directoryTree:
   title: ไฟล์
   newFile: ไฟล์ใหม่
+  newFileMarkdown: เอกสารใหม่
+  newFileExcalidraw: ไวท์บอร์ดใหม่
   newFolder: โฟลเดอร์ใหม่
   rename: เปลี่ยนชื่อ
   delete: ลบ
   loading: กำลังโหลด...
   newFileDefaultName: ไฟล์ใหม่.md
+  newFileExcalidrawDefaultName: ภาพวาดใหม่.excalidraw
   newFolderDefaultName: โฟลเดอร์ใหม่
   selectedCount: เลือก {{count}} รายการ
   notOpenable: ไม่ได้กำหนดค่าเป็นประเภทไฟล์ที่สามารถเปิดได้

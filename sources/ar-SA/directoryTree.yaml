@@ -1,11 +1,14 @@
 directoryTree:
   title: الملفات
   newFile: ملف جديد
+  newFileMarkdown: مستند جديد
+  newFileExcalidraw: سبورة بيضاء جديدة
   newFolder: مجلد جديد
   rename: إعادة تسمية
   delete: حذف
   loading: جاري التحميل...
   newFileDefaultName: ملف جديد.md
+  newFileExcalidrawDefaultName: رسم جديد.excalidraw
   newFolderDefaultName: مجلد جديد
   selectedCount: تم تحديد {{count}} عناصر
   notOpenable: لم يتم تكوينه كنوع ملف قابل للفتح

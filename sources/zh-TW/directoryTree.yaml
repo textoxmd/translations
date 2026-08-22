@@ -1,11 +1,14 @@
 directoryTree:
   title: 檔案
   newFile: 新增檔案
+  newFileMarkdown: 新增文件
+  newFileExcalidraw: 新增白板
   newFolder: 新增資料夾
   rename: 重新命名
   delete: 刪除
   loading: 載入中...
   newFileDefaultName: 新增檔案.md
+  newFileExcalidrawDefaultName: 新增白板.excalidraw
   newFolderDefaultName: 新增資料夾
   selectedCount: 已選擇 {{count}} 個項目
   notOpenable: 未配置為可開啟的檔案類型

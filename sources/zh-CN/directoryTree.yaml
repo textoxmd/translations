@@ -1,11 +1,14 @@
 directoryTree:
   title: 文件
   newFile: 新建文件
+  newFileMarkdown: 新建文档
+  newFileExcalidraw: 新建白板
   newFolder: 新建文件夹
   rename: 重命名
   delete: 删除
   loading: 加载中...
   newFileDefaultName: 新建文件.md
+  newFileExcalidrawDefaultName: 新建白板.excalidraw
   newFolderDefaultName: 新建文件夹
   selectedCount: 已选择 {{count}} 项
   notOpenable: 未配置为可打开的文件类型

@@ -1,11 +1,14 @@
 directoryTree:
   title: Dateien
   newFile: Neue Datei
+  newFileMarkdown: Neues Dokument
+  newFileExcalidraw: Neues Whiteboard
   newFolder: Neuer Ordner
   rename: Umbenennen
   delete: Löschen
   loading: Laden...
   newFileDefaultName: Neue Datei.md
+  newFileExcalidrawDefaultName: Neue Zeichnung.excalidraw
   newFolderDefaultName: Neuer Ordner
   selectedCount: '{{count}} Elemente ausgewählt'
   notOpenable: Nicht als öffnbarer Dateityp konfiguriert

@@ -1,11 +1,14 @@
 directoryTree:
   title: Tệp
   newFile: Tệp mới
+  newFileMarkdown: Tài liệu mới
+  newFileExcalidraw: Bảng trắng mới
   newFolder: Thư mục mới
   rename: Đổi tên
   delete: Xóa
   loading: Đang tải...
   newFileDefaultName: Tệp mới.md
+  newFileExcalidrawDefaultName: Bản vẽ mới.excalidraw
   newFolderDefaultName: Thư mục mới
   selectedCount: Đã chọn {{count}} mục
   notOpenable: Chưa được cấu hình như một loại tệp có thể mở

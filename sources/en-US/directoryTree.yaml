@@ -1,11 +1,14 @@
 directoryTree:
   title: Files
   newFile: New File
+  newFileMarkdown: New Document
+  newFileExcalidraw: New whiteboard
   newFolder: New Folder
   rename: Rename
   delete: Delete
   loading: Loading...
   newFileDefaultName: New File.md
+  newFileExcalidrawDefaultName: New Drawing.excalidraw
   newFolderDefaultName: New Folder
   selectedCount: '{{count}} items selected'
   notOpenable: Not configured as an openable file type
