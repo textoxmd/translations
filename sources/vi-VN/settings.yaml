@@ -20,6 +20,13 @@ settings:
   typewriterMode: Chế độ máy đánh chữ
   typewriterModeDesc: Trong chế độ máy đánh chữ, dòng con trỏ được giữ ở giữa màn hình để có trải nghiệm viết tập trung
   autoCapitalizeDesc: Tự động viết hoa chữ cái đầu tiên của câu tiếng Anh (tắt để chỉnh sửa Markdown tốt hơn)
+  workspaceEnabled: Bật không gian làm việc
+  workspaceEnabledDesc: Tự động mở thư mục không gian làm việc đã chỉ định khi khởi động ứng dụng
+  workspaceFolder: Thư mục không gian làm việc
+  workspaceFolderDesc: Chọn thư mục không gian làm việc để mở khi khởi động
+  chooseWorkspaceFolder: Chọn thư mục không gian làm việc…
+  workspaceFolderSet: Đã đặt thư mục không gian làm việc
+  failedToSetWorkspaceFolder: Không thể đặt thư mục không gian làm việc
   externalFileChangeAction: Hành động khi tệp bên ngoài thay đổi
   externalFileChangeActionDesc: Cách xử lý khi tệp được sửa đổi bởi chương trình bên ngoài
   externalFileChangeIgnore: Bỏ qua

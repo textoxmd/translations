@@ -20,6 +20,13 @@ settings:
   typewriterMode: 打字機模式
   typewriterModeDesc: 在打字機模式下，游標行將保持在螢幕中央位置，提供專注的寫作體驗
   autoCapitalizeDesc: 在編輯器中自動將英文句子首字大寫（關閉以獲得更好的 Markdown 編輯體驗）
+  workspaceEnabled: 啟用工作區
+  workspaceEnabledDesc: 啟動應用時自動開啟指定的工作區目錄
+  workspaceFolder: 工作區目錄
+  workspaceFolderDesc: 選擇啟動時開啟的工作區目錄
+  chooseWorkspaceFolder: 選擇工作區目錄…
+  workspaceFolderSet: 工作區目錄設定成功
+  failedToSetWorkspaceFolder: 設定工作區目錄失敗
   externalFileChangeAction: 外部檔案變更處理
   externalFileChangeActionDesc: 當檔案被外部程式修改時的處理方式
   externalFileChangeIgnore: 忽略

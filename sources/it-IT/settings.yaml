@@ -20,6 +20,13 @@ settings:
   typewriterMode: Modalità macchina da scrivere
   typewriterModeDesc: In modalità macchina da scrivere, la riga del cursore rimane centrata per un'esperienza di scrittura focalizzata
   autoCapitalizeDesc: Capitalizza automaticamente la prima lettera delle frasi in inglese (disattiva per una migliore esperienza Markdown)
+  workspaceEnabled: Abilita area di lavoro
+  workspaceEnabledDesc: Apre automaticamente la cartella dell'area di lavoro specificata all'avvio dell'app
+  workspaceFolder: Cartella dell'area di lavoro
+  workspaceFolderDesc: Scegli la cartella dell'area di lavoro da aprire all'avvio
+  chooseWorkspaceFolder: Scegli cartella dell'area di lavoro…
+  workspaceFolderSet: Cartella dell'area di lavoro impostata
+  failedToSetWorkspaceFolder: Impossibile impostare la cartella dell'area di lavoro
   externalFileChangeAction: Azione su modifica file esterno
   externalFileChangeActionDesc: Come gestire quando il file viene modificato da un programma esterno
   externalFileChangeIgnore: Ignora

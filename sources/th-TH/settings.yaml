@@ -20,6 +20,13 @@ settings:
   typewriterMode: โหมดเครื่องพิมพ์ดีด
   typewriterModeDesc: ในโหมดเครื่องพิมพ์ดีด บรรทัดเคอร์เซอร์จะอยู่กึ่งกลางหน้าจอเพื่อประสบการณ์การเขียนที่โฟกัส
   autoCapitalizeDesc: เปลี่ยนตัวอักษรตัวแรกของประโยคภาษาอังกฤษเป็นตัวพิมพ์ใหญ่โดยอัตโนมัติ (ปิดเพื่อการแก้ไข Markdown ที่ดีขึ้น)
+  workspaceEnabled: เปิดใช้พื้นที่ทำงาน
+  workspaceEnabledDesc: เปิดโฟลเดอร์พื้นที่ทำงานที่ระบุโดยอัตโนมัติเมื่อเริ่มต้นแอป
+  workspaceFolder: โฟลเดอร์พื้นที่ทำงาน
+  workspaceFolderDesc: เลือกโฟลเดอร์พื้นที่ทำงานที่จะเปิดเมื่อเริ่มต้น
+  chooseWorkspaceFolder: เลือกโฟลเดอร์พื้นที่ทำงาน…
+  workspaceFolderSet: ตั้งค่าโฟลเดอร์พื้นที่ทำงานสำเร็จ
+  failedToSetWorkspaceFolder: ไม่สามารถตั้งค่าโฟลเดอร์พื้นที่ทำงานได้
   externalFileChangeAction: การดำเนินการเมื่อไฟล์ภายนอกเปลี่ยนแปลง
   externalFileChangeActionDesc: วิธีจัดการเมื่อไฟล์ถูกแก้ไขโดยโปรแกรมภายนอก
   externalFileChangeIgnore: ละเว้น

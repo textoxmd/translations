@@ -20,6 +20,13 @@ settings:
   typewriterMode: وضع الآلة الكاتبة
   typewriterModeDesc: في وضع الآلة الكاتبة، يبقى سطر المؤشر في منتصف الشاشة لتجربة كتابة مركزة
   autoCapitalizeDesc: قم بكتابة الحرف الأول من الجمل الإنجليزية تلقائيًا بالأحرف الكبيرة (قم بتعطيله لتحسين تجربة تحرير Markdown)
+  workspaceEnabled: تمكين مساحة العمل
+  workspaceEnabledDesc: فتح مجلد مساحة العمل المحدد تلقائيًا عند تشغيل التطبيق
+  workspaceFolder: مجلد مساحة العمل
+  workspaceFolderDesc: اختر مجلد مساحة العمل الذي سيتم فتحه عند التشغيل
+  chooseWorkspaceFolder: اختيار مجلد مساحة العمل…
+  workspaceFolderSet: تم تعيين مجلد مساحة العمل
+  failedToSetWorkspaceFolder: تعذّر تعيين مجلد مساحة العمل
   externalFileChangeAction: الإجراء عند تغيير الملف الخارجي
   externalFileChangeActionDesc: كيفية التعامل عندما يتم تعديل الملف بواسطة برنامج خارجي
   externalFileChangeIgnore: تجاهل

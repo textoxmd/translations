@@ -20,6 +20,13 @@ settings:
   typewriterMode: Режим пишущей машинки
   typewriterModeDesc: В режиме пишущей машинки строка с курсором остается по центру для сфокусированного письма
   autoCapitalizeDesc: Автоматически делать заглавной первую букву английских предложений (отключите для лучшего редактирования Markdown)
+  workspaceEnabled: Включить рабочую область
+  workspaceEnabledDesc: Автоматически открывать указанную папку рабочей области при запуске приложения
+  workspaceFolder: Папка рабочей области
+  workspaceFolderDesc: Выберите папку рабочей области для открытия при запуске
+  chooseWorkspaceFolder: Выбрать папку рабочей области…
+  workspaceFolderSet: Папка рабочей области установлена
+  failedToSetWorkspaceFolder: Не удалось установить папку рабочей области
   externalFileChangeAction: Действие при изменении внешнего файла
   externalFileChangeActionDesc: Как обрабатывать, когда файл изменен внешней программой
   externalFileChangeIgnore: Игнорировать

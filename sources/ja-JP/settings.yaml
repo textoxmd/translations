@@ -20,6 +20,13 @@ settings:
   typewriterMode: タイプライターモード
   typewriterModeDesc: タイプライターモードではカーソル行が画面中央に保たれ、集中して執筆できます
   autoCapitalizeDesc: 英文の文頭を自動的に大文字にします（Markdown編集のため無効推奨）
+  workspaceEnabled: ワークスペースを有効化
+  workspaceEnabledDesc: アプリ起動時に指定したワークスペースフォルダを自動的に開きます
+  workspaceFolder: ワークスペースフォルダ
+  workspaceFolderDesc: 起動時に開くワークスペースフォルダを選択します
+  chooseWorkspaceFolder: ワークスペースフォルダを選択…
+  workspaceFolderSet: ワークスペースフォルダを設定しました
+  failedToSetWorkspaceFolder: ワークスペースフォルダの設定に失敗しました
   externalFileChangeAction: 外部ファイル変更の処理
   externalFileChangeActionDesc: ファイルが外部プログラムによって変更された場合の処理方法
   externalFileChangeIgnore: 無視

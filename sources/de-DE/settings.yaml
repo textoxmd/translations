@@ -20,6 +20,13 @@ settings:
   typewriterMode: Schreibmaschinenmodus
   typewriterModeDesc: Im Schreibmaschinenmodus bleibt die Cursorzeile zentriert für ein fokussiertes Schreiberlebnis
   autoCapitalizeDesc: Automatische Großschreibung des ersten Buchstabens englischer Sätze (für bessere Markdown-Bearbeitung deaktivieren)
+  workspaceEnabled: Arbeitsbereich aktivieren
+  workspaceEnabledDesc: Öffnet den angegebenen Arbeitsbereich-Ordner automatisch beim Start der App
+  workspaceFolder: Arbeitsbereich-Ordner
+  workspaceFolderDesc: Wählen Sie den Arbeitsbereich-Ordner, der beim Start geöffnet werden soll
+  chooseWorkspaceFolder: Arbeitsbereich-Ordner auswählen…
+  workspaceFolderSet: Arbeitsbereich-Ordner festgelegt
+  failedToSetWorkspaceFolder: Fehler beim Festlegen des Arbeitsbereich-Ordners
   externalFileChangeAction: Aktion bei externer Dateiänderung
   externalFileChangeActionDesc: Wie zu behandeln, wenn die Datei von einem externen Programm geändert wird
   externalFileChangeIgnore: Ignorieren

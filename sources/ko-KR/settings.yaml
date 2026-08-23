@@ -20,6 +20,13 @@ settings:
   typewriterMode: 타자기 모드
   typewriterModeDesc: 타자기 모드에서 커서 줄이 화면 중앙에 유지되어 집중적인 글쓰기 환경을 제공합니다
   autoCapitalizeDesc: 영어 문장의 첫 글자를 자동으로 대문자로 변경합니다 (Markdown 편집을 위해 비활성화 권장)
+  workspaceEnabled: 작업 영역 활성화
+  workspaceEnabledDesc: 앱 시작 시 지정된 작업 영역 폴더를 자동으로 엽니다
+  workspaceFolder: 작업 영역 폴더
+  workspaceFolderDesc: 시작 시 열 작업 영역 폴더를 선택합니다
+  chooseWorkspaceFolder: 작업 영역 폴더 선택…
+  workspaceFolderSet: 작업 영역 폴더가 설정되었습니다
+  failedToSetWorkspaceFolder: 작업 영역 폴더 설정 실패
   externalFileChangeAction: 외부 파일 변경 처리
   externalFileChangeActionDesc: 파일이 외부 프로그램에 의해 수정될 때의 처리 방법
   externalFileChangeIgnore: 무시

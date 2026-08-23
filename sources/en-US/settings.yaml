@@ -20,6 +20,13 @@ settings:
   typewriterMode: Typewriter Mode
   typewriterModeDesc: Keep the cursor line centered while typing for a focused writing experience
   autoCapitalizeDesc: Automatically capitalize the first letter of English sentences (disable for better Markdown editing)
+  workspaceEnabled: Enable Workspace
+  workspaceEnabledDesc: Automatically open the specified workspace directory when the app launches
+  workspaceFolder: Workspace Folder
+  workspaceFolderDesc: Choose the workspace directory to open on launch
+  chooseWorkspaceFolder: Choose Workspace Folder…
+  workspaceFolderSet: Workspace folder set successfully
+  failedToSetWorkspaceFolder: Failed to set workspace folder
   externalFileChangeAction: External File Change Action
   externalFileChangeActionDesc: Choose how to handle when file is modified externally
   externalFileChangeIgnore: Ignore (Don't Watch)

@@ -22,6 +22,13 @@ settings:
   autoCapitalizeDesc: >-
     Capitaliser automatiquement la première lettre des phrases anglaises (désactiver pour une meilleure édition
     Markdown)
+  workspaceEnabled: Activer l'espace de travail
+  workspaceEnabledDesc: Ouvre automatiquement le dossier d'espace de travail spécifié au lancement de l'application
+  workspaceFolder: Dossier de l'espace de travail
+  workspaceFolderDesc: Choisissez le dossier d'espace de travail à ouvrir au lancement
+  chooseWorkspaceFolder: Choisir le dossier de l'espace de travail…
+  workspaceFolderSet: Dossier de l'espace de travail défini
+  failedToSetWorkspaceFolder: Échec de la configuration du dossier de l'espace de travail
   externalFileChangeAction: Action sur le changement de fichier externe
   externalFileChangeActionDesc: Comment traiter lorsque le fichier est modifié par un programme externe
   externalFileChangeIgnore: Ignorer

@@ -20,6 +20,13 @@ settings:
   typewriterMode: Modo máquina de escrever
   typewriterModeDesc: No modo máquina de escrever, a linha do cursor permanece centrada para uma experiência de escrita focada
   autoCapitalizeDesc: Capitalizar automaticamente a primeira letra de frases em inglês (desativar para melhor edição Markdown)
+  workspaceEnabled: Ativar espaço de trabalho
+  workspaceEnabledDesc: Abre automaticamente a pasta de espaço de trabalho especificada no arranque da aplicação
+  workspaceFolder: Pasta do espaço de trabalho
+  workspaceFolderDesc: Escolha a pasta de espaço de trabalho a abrir no arranque
+  chooseWorkspaceFolder: Escolher pasta do espaço de trabalho…
+  workspaceFolderSet: Pasta do espaço de trabalho definida
+  failedToSetWorkspaceFolder: Falha ao definir a pasta do espaço de trabalho
   externalFileChangeAction: Ação em alteração de ficheiro externo
   externalFileChangeActionDesc: Como lidar quando o ficheiro é modificado por um programa externo
   externalFileChangeIgnore: Ignorar
