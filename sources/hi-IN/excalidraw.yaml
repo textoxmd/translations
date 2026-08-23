@@ -1,0 +1,12 @@
+excalidraw:
+  windowTitle: Excalidraw
+  save: Save
+  saveFailed: Failed to save drawing
+  closeTitle: Close Excalidraw
+  errorInvalidFile: Cannot parse Excalidraw file
+  errorNoFile: No drawing file to open
+  externalModified: The file was modified externally. Reload it?
+  newDrawing: New Excalidraw drawing
+  openEditor: Edit
+  openFile: खोलें
+  replaceFile: फ़ाइल बदलें

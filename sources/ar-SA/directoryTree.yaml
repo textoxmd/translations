@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: لا تسأل مرة أخرى
   deleteConfirmMoveToTrash: نقل إلى سلة المهملات
   showInFinder: عرض في Finder
+  copyPath: نسخ المسار
+  copyRelativePath: نسخ المسار النسبي
   dragToResize: اسحب لتغيير الحجم
   closeFile: إغلاق الملف
   search: البحث عن الملفات

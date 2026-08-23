@@ -15,6 +15,7 @@ command:
   toggleEditMode: Toggle Edit Mode
   toggleTypewriterMode: Toggle Typewriter Mode
   insertImage: Insert Image
+  insertExcalidraw: Insert whiteboard reference
   openSettings: Open Settings
   noOutline: No headings in current document
   openFileFirst: Please open a file first

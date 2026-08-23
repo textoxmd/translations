@@ -15,6 +15,7 @@ command:
   toggleEditMode: Alternar modo de edición
   toggleTypewriterMode: Alternar modo de máquina de escribir
   insertImage: Insertar imagen
+  insertExcalidraw: Insertar referencia de pizarra
   openSettings: Abrir configuración
   noOutline: Sin esquema
   openFileFirst: Por favor abra un archivo primero

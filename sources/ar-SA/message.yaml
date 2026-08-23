@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: يرجى حفظ الملف قبل إدراج الصور
   imageInsertNotAllowedSingleFile: لا يمكن إدراج الصور في وضع الملف الفردي. يرجى فتح مجلد أولاً
   imageInsertFailed: فشل إدراج الصورة
+  excalidrawInsertNotAllowed: يرجى حفظ الملف قبل إدراج مرجع سبورة
+  excalidrawInsertNotAllowedSingleFile: لا يُسمح بإدراج مراجع السبورة في وضع الملف الفردي؛ افتح مجلدًا أولاً
+  excalidrawInsertFailed: فشل إدراج مرجع السبورة
+  saveBeforeOpenFileLink: يرجى حفظ الملف قبل فتح روابط الملفات
   imageUploading: جارٍ رفع الصورة إلى الاستضافة…
   recentFileNotFound: الملف الأخير غير موجود، تم مسح السجل
   recentFolderNotFound: المجلد الأخير غير موجود، تم مسح السجل

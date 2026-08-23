@@ -13,6 +13,7 @@ slash:
   hr: Horizontal Rule
   table: Table
   image: Image
+  excalidraw: Whiteboard
   math: Math Block
   mermaid: Mermaid
   link: Link

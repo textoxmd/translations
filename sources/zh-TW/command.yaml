@@ -15,6 +15,7 @@ command:
   toggleEditMode: 切換編輯模式
   toggleTypewriterMode: 切換打字機模式
   insertImage: 插入圖片
+  insertExcalidraw: 插入白板引用
   openSettings: 開啟設定
   noOutline: 沒有大綱
   openFileFirst: 請先開啟檔案

@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: Veuillez enregistrer le fichier avant d'insérer des images
   imageInsertNotAllowedSingleFile: Impossible d'insérer des images en mode fichier unique. Veuillez d'abord ouvrir un dossier.
   imageInsertFailed: Échec de l'insertion de l'image
+  excalidrawInsertNotAllowed: Enregistrez d'abord le fichier avant d'insérer une référence de tableau blanc
+  excalidrawInsertNotAllowedSingleFile: L'insertion d'une référence de tableau blanc est interdite en mode fichier unique ; ouvrez un dossier d'abord
+  excalidrawInsertFailed: Échec de l'insertion de la référence de tableau blanc
+  saveBeforeOpenFileLink: Enregistrez d'abord le fichier avant d'ouvrir les liens de fichiers
   imageUploading: Téléchargement de l'image vers l'hébergement…
   recentFileNotFound: Fichier récent introuvable, enregistrement effacé
   recentFolderNotFound: Dossier récent introuvable, enregistrement effacé

@@ -15,6 +15,7 @@ command:
   toggleEditMode: संपादन मोड टॉगल करें
   toggleTypewriterMode: टाइपराइटर मोड टॉगल करें
   insertImage: छवि सम्मिलित करें
+  insertExcalidraw: व्हाइटबोर्ड संदर्भ डालें
   openSettings: सेटिंग्स खोलें
   noOutline: कोई रूपरेखा नहीं
   openFileFirst: कृपया पहले एक फाइल खोलें

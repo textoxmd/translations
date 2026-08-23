@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: Guarde el archivo antes de insertar imágenes
   imageInsertNotAllowedSingleFile: No se pueden insertar imágenes en modo de archivo único. Abra una carpeta primero.
   imageInsertFailed: Error al insertar imagen
+  excalidrawInsertNotAllowed: Guarde el archivo antes de insertar una referencia de pizarra
+  excalidrawInsertNotAllowedSingleFile: No se permite insertar referencias de pizarra en modo de archivo único; abra una carpeta primero
+  excalidrawInsertFailed: Error al insertar la referencia de pizarra
+  saveBeforeOpenFileLink: Guarde el archivo antes de abrir enlaces de archivos
   imageUploading: Subiendo imagen al alojamiento…
   recentFileNotFound: Archivo reciente no encontrado, registro eliminado
   recentFolderNotFound: Carpeta reciente no encontrada, registro eliminado

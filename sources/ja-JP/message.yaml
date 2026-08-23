@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: 画像を挿入する前にファイルを保存してください
   imageInsertNotAllowedSingleFile: 単一ファイルモードでは画像を挿入できません。フォルダを開いてください
   imageInsertFailed: 画像の挿入に失敗しました
+  excalidrawInsertNotAllowed: ホワイトボード参照を挿入する前にファイルを保存してください
+  excalidrawInsertNotAllowedSingleFile: 単一ファイルモードではホワイトボード参照を挿入できません。先にフォルダーを開いてください
+  excalidrawInsertFailed: ホワイトボード参照の挿入に失敗しました
+  saveBeforeOpenFileLink: ファイルリンクを開く前にファイルを保存してください
   imageUploading: 画像をホスティングにアップロード中…
   recentFileNotFound: 最近開いたファイルが見つかりません、記録をクリアしました
   recentFolderNotFound: 最近開いたフォルダが見つかりません、記録をクリアしました

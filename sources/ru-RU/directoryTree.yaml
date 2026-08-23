@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: Больше не спрашивать
   deleteConfirmMoveToTrash: Переместить в Корзину
   showInFinder: Показать в Finder
+  copyPath: Скопировать путь
+  copyRelativePath: Скопировать относительный путь
   dragToResize: Перетащите для изменения размера
   closeFile: Закрыть файл
   search: Поиск файлов

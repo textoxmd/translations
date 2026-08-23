@@ -15,6 +15,7 @@ command:
   toggleEditMode: Attiva/disattiva modalità modifica
   toggleTypewriterMode: Attiva/disattiva modalità macchina da scrivere
   insertImage: Inserisci immagine
+  insertExcalidraw: Inserisci riferimento lavagna
   openSettings: Apri impostazioni
   noOutline: Nessuna struttura
   openFileFirst: Si prega di aprire prima un file

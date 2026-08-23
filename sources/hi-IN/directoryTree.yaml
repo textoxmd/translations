@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: दोबारा न पूछें
   deleteConfirmMoveToTrash: ट्रैश में ले जाएं
   showInFinder: Finder में दिखाएँ
+  copyPath: पथ कॉपी करें
+  copyRelativePath: सापेक्ष पथ कॉपी करें
   dragToResize: आकार बदलने के लिए खींचें
   closeFile: फ़ाइल बंद करें
   search: फ़ाइलें खोजें

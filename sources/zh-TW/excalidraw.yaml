@@ -1,0 +1,12 @@
+excalidraw:
+  windowTitle: Excalidraw
+  save: 儲存
+  saveFailed: 儲存白板失敗
+  closeTitle: 關閉 Excalidraw
+  errorInvalidFile: 無法解析 Excalidraw 檔案
+  errorNoFile: 找不到要開啟的白板檔案
+  externalModified: 檔案已在外部修改，是否重新載入？
+  newDrawing: 新增 Excalidraw 白板
+  openEditor: 編輯
+  openFile: 開啟
+  replaceFile: 更換檔案

@@ -15,6 +15,7 @@ command:
   toggleEditMode: สลับโหมดการแก้ไข
   toggleTypewriterMode: สลับโหมดเครื่องพิมพ์ดีด
   insertImage: แทรกรูปภาพ
+  insertExcalidraw: แทรกการอ้างอิงไวท์บอร์ด
   openSettings: เปิดการตั้งค่า
   noOutline: ไม่มีโครงร่าง
   openFileFirst: กรุณาเปิดไฟล์ก่อน

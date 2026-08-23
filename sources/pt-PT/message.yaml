@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: Guarde o ficheiro antes de inserir imagens
   imageInsertNotAllowedSingleFile: Não é possível inserir imagens no modo de ficheiro único. Abra primeiro uma pasta.
   imageInsertFailed: Falha ao inserir imagem
+  excalidrawInsertNotAllowed: Guarde o ficheiro antes de inserir uma referência de quadro branco
+  excalidrawInsertNotAllowedSingleFile: Não é permitido inserir referências de quadro branco no modo de ficheiro único; abra primeiro uma pasta
+  excalidrawInsertFailed: Falha ao inserir a referência de quadro branco
+  saveBeforeOpenFileLink: Guarde o ficheiro antes de abrir ligações de ficheiros
   imageUploading: A enviar imagem para hospedagem…
   recentFileNotFound: Ficheiro recente não encontrado, registo eliminado
   recentFolderNotFound: Pasta recente não encontrada, registo eliminado

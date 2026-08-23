@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: 请先保存文件后再插入图片
   imageInsertNotAllowedSingleFile: 单文件模式下不允许插入图片，请先打开文件夹
   imageInsertFailed: 插入图片失败
+  excalidrawInsertNotAllowed: 请先保存文件后再插入白板引用
+  excalidrawInsertNotAllowedSingleFile: 单文件模式下不允许插入白板引用，请先打开文件夹
+  excalidrawInsertFailed: 插入白板引用失败
+  saveBeforeOpenFileLink: 请先保存文件后再打开文件链接
   imageUploading: 正在上传图片到图床…
   recentFileNotFound: 最近打开的文件不存在，已清除记录
   recentFolderNotFound: 最近打开的文件夹不存在，已清除记录

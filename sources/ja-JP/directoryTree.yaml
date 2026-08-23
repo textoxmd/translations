@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: 次回から確認しない
   deleteConfirmMoveToTrash: ゴミ箱に移動
   showInFinder: Finder で表示
+  copyPath: パスをコピー
+  copyRelativePath: 相対パスをコピー
   dragToResize: ドラッグしてサイズを調整
   closeFile: ファイルを閉じる
   search: ファイルを検索

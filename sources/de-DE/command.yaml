@@ -15,6 +15,7 @@ command:
   toggleEditMode: Bearbeitungsmodus umschalten
   toggleTypewriterMode: Schreibmaschinenmodus umschalten
   insertImage: Bild einfügen
+  insertExcalidraw: Whiteboard-Referenz einfügen
   openSettings: Einstellungen öffnen
   noOutline: Keine Gliederung
   openFileFirst: Bitte zuerst eine Datei öffnen

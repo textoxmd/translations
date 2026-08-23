@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: 다시 묻지 않음
   deleteConfirmMoveToTrash: 휴지통으로 이동
   showInFinder: Finder에서 보기
+  copyPath: 경로 복사
+  copyRelativePath: 상대 경로 복사
   dragToResize: 드래그하여 크기 조정
   closeFile: 파일 닫기
   search: 파일 검색

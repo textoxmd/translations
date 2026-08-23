@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: Không hỏi lại
   deleteConfirmMoveToTrash: Di chuyển đến Thùng rác
   showInFinder: Hiển thị trong Finder
+  copyPath: Sao chép đường dẫn
+  copyRelativePath: Sao chép đường dẫn tương đối
   dragToResize: Kéo để thay đổi kích thước
   closeFile: Đóng tệp
   search: Tìm kiếm tệp

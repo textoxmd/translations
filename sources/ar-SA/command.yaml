@@ -15,6 +15,7 @@ command:
   toggleEditMode: تبديل وضع التحرير
   toggleTypewriterMode: تبديل وضع الآلة الكاتبة
   insertImage: إدراج صورة
+  insertExcalidraw: إدراج مرجع سبورة
   openSettings: فتح الإعدادات
   noOutline: لا يوجد مخطط
   openFileFirst: يرجى فتح ملف أولاً

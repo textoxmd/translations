@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: กรุณาบันทึกไฟล์ก่อนแทรกรูปภาพ
   imageInsertNotAllowedSingleFile: ไม่สามารถแทรกรูปภาพในโหมดไฟล์เดียวได้ กรุณาเปิดโฟลเดอร์ก่อน
   imageInsertFailed: แทรกรูปภาพล้มเหลว
+  excalidrawInsertNotAllowed: โปรดบันทึกไฟล์ก่อนแทรกการอ้างอิงไวท์บอร์ด
+  excalidrawInsertNotAllowedSingleFile: ไม่อนุญาตให้แทรกการอ้างอิงไวท์บอร์ดในโหมดไฟล์เดียว โปรดเปิดโฟลเดอร์ก่อน
+  excalidrawInsertFailed: ไม่สามารถแทรกการอ้างอิงไวท์บอร์ดได้
+  saveBeforeOpenFileLink: โปรดบันทึกไฟล์ก่อนเปิดลิงก์ไฟล์
   imageUploading: กำลังอัปโหลดรูปภาพไปยังโฮสต์…
   recentFileNotFound: ไม่พบไฟล์ล่าสุด ล้างบันทึกแล้ว
   recentFolderNotFound: ไม่พบโฟลเดอร์ล่าสุด ล้างบันทึกแล้ว

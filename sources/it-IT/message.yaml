@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: Salva il file prima di inserire immagini
   imageInsertNotAllowedSingleFile: Impossibile inserire immagini in modalità file singolo. Apri prima una cartella.
   imageInsertFailed: Inserimento immagine fallito
+  excalidrawInsertNotAllowed: Salva il file prima di inserire un riferimento lavagna
+  excalidrawInsertNotAllowedSingleFile: L'inserimento di riferimenti lavagna non è consentito in modalità file singolo; apri prima una cartella
+  excalidrawInsertFailed: Impossibile inserire il riferimento lavagna
+  saveBeforeOpenFileLink: Salva il file prima di aprire i collegamenti ai file
   imageUploading: Caricamento immagine sull'hosting…
   recentFileNotFound: File recente non trovato, record cancellato
   recentFolderNotFound: Cartella recente non trovata, record cancellato

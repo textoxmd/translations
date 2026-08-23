@@ -15,6 +15,7 @@ command:
   toggleEditMode: 編集モードの切り替え
   toggleTypewriterMode: タイプライターモードの切り替え
   insertImage: 画像を挿入
+  insertExcalidraw: ホワイトボード参照を挿入
   openSettings: 設定を開く
   noOutline: アウトラインがありません
   openFileFirst: 先にファイルを開いてください

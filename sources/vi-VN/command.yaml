@@ -15,6 +15,7 @@ command:
   toggleEditMode: Chuyển đổi chế độ chỉnh sửa
   toggleTypewriterMode: Chuyển đổi chế độ máy đánh chữ
   insertImage: Chèn hình ảnh
+  insertExcalidraw: Chèn tham chiếu bảng trắng
   openSettings: Mở cài đặt
   noOutline: Không có dàn bài
   openFileFirst: Vui lòng mở tệp trước

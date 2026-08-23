@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: 不再詢問
   deleteConfirmMoveToTrash: 移動到垃圾桶
   showInFinder: 在 Finder 中顯示
+  copyPath: 複製路徑
+  copyRelativePath: 複製相對路徑
   dragToResize: 拖曳以調整大小
   closeFile: 關閉檔案
   search: 搜尋檔案

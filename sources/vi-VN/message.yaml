@@ -8,6 +8,10 @@ message:
   imageInsertNotAllowed: Vui lòng lưu tệp trước khi chèn hình ảnh
   imageInsertNotAllowedSingleFile: Không thể chèn hình ảnh ở chế độ tệp đơn. Vui lòng mở thư mục trước
   imageInsertFailed: Chèn hình ảnh thất bại
+  excalidrawInsertNotAllowed: Vui lòng lưu tệp trước khi chèn tham chiếu bảng trắng
+  excalidrawInsertNotAllowedSingleFile: Không được phép chèn tham chiếu bảng trắng ở chế độ tệp đơn; hãy mở thư mục trước
+  excalidrawInsertFailed: Không thể chèn tham chiếu bảng trắng
+  saveBeforeOpenFileLink: Vui lòng lưu tệp trước khi mở liên kết tệp
   imageUploading: Đang tải hình ảnh lên máy chủ…
   recentFileNotFound: Không tìm thấy tệp gần đây, đã xóa bản ghi
   recentFolderNotFound: Không tìm thấy thư mục gần đây, đã xóa bản ghi

@@ -19,6 +19,8 @@ directoryTree:
   deleteConfirmDontAskAgain: ไม่ต้องถามอีก
   deleteConfirmMoveToTrash: ย้ายไปยังถังขยะ
   showInFinder: แสดงใน Finder
+  copyPath: คัดลอกเส้นทาง
+  copyRelativePath: คัดลอกเส้นทางสัมพัทธ์
   dragToResize: ลากเพื่อปรับขนาด
   closeFile: ปิดไฟล์
   search: ค้นหาไฟล์
