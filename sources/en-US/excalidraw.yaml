@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Open
   replaceFile: Change file
+  exportPdfNotSupported: Whiteboard files do not support direct PDF export

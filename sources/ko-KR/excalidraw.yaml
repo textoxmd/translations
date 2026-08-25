@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: 열기
   replaceFile: 파일 변경
+  exportPdfNotSupported: 화이트보드 파일은 직접 PDF 내보내기를 지원하지 않습니다

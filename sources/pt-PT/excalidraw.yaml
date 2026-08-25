@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Abrir
   replaceFile: Alterar ficheiro
+  exportPdfNotSupported: Os ficheiros de quadro branco não suportam a exportação direta para PDF

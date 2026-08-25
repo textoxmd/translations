@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: 開く
   replaceFile: ファイルを変更
+  exportPdfNotSupported: ホワイトボードファイルは直接 PDF 書き出しに対応していません

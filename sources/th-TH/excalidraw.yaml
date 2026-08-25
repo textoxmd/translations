@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: เปิด
   replaceFile: เปลี่ยนไฟล์
+  exportPdfNotSupported: ไฟล์ไวท์บอร์ดไม่รองรับการส่งออกเป็น PDF โดยตรง

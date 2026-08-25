@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: खोलें
   replaceFile: फ़ाइल बदलें
+  exportPdfNotSupported: व्हाइटबोर्ड फ़ाइलें सीधे PDF निर्यात का समर्थन नहीं करती हैं

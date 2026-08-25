@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Abrir
   replaceFile: Cambiar archivo
+  exportPdfNotSupported: Los archivos de pizarra no admiten la exportación directa a PDF

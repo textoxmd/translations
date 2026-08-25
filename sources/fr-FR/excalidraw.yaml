@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Ouvrir
   replaceFile: Changer de fichier
+  exportPdfNotSupported: Les fichiers de tableau blanc ne prennent pas en charge l'exportation directe en PDF

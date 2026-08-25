@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Открыть
   replaceFile: Сменить файл
+  exportPdfNotSupported: Файлы белой доски не поддерживают прямое экспортирование в PDF

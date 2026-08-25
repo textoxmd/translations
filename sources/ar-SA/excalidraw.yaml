@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: فتح
   replaceFile: تغيير الملف
+  exportPdfNotSupported: ملفات السبورة البيضاء لا تدعم التصدير المباشر إلى PDF

@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Apri
   replaceFile: Cambia file
+  exportPdfNotSupported: I file di lavagna non supportano l'esportazione diretta in PDF

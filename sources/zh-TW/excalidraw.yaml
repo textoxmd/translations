@@ -10,3 +10,4 @@ excalidraw:
   openEditor: 編輯
   openFile: 開啟
   replaceFile: 更換檔案
+  exportPdfNotSupported: 白板檔案不支援直接匯出 PDF

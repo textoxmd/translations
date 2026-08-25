@@ -10,3 +10,4 @@ excalidraw:
   openEditor: Edit
   openFile: Mở
   replaceFile: Đổi tệp
+  exportPdfNotSupported: Tệp bảng trắng không hỗ trợ xuất PDF trực tiếp
