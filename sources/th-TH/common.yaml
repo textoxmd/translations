@@ -44,4 +44,8 @@ common:
   mermaid: แผนภาพ Mermaid
   closeToolbar: ซ่อนแถบเครื่องมือ
   exportPdf: ส่งออก PDF
+  pdfExportSuccess: ส่งออก PDF สำเร็จ
+  pdfExportFailed: ส่งออก PDF ล้มเหลว
+  pdfRevealFailed: ไม่สามารถแสดงในตัวจัดการไฟล์ได้
+  revealInFinder: แสดงในตัวจัดการไฟล์
   more: เพิ่มเติม

@@ -44,4 +44,8 @@ common:
   mermaid: Mermaid 다이어그램
   closeToolbar: 도구 모음 숨기기
   exportPdf: PDF 내보내기
+  pdfExportSuccess: PDF 내보내기 성공
+  pdfExportFailed: PDF 내보내기 실패
+  pdfRevealFailed: 파일 관리자에서 표시하지 못했습니다
+  revealInFinder: 파일 관리자에서 표시
   more: 더보기

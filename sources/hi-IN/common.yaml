@@ -44,4 +44,8 @@ common:
   mermaid: Mermaid आरेख
   closeToolbar: टूलबार छुपाएं
   exportPdf: PDF निर्यात करें
+  pdfExportSuccess: PDF निर्यात सफल
+  pdfExportFailed: PDF निर्यात विफल
+  pdfRevealFailed: फ़ाइल प्रबंधक में दिखाना विफल
+  revealInFinder: फ़ाइल प्रबंधक में दिखाएं
   more: और

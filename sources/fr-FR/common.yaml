@@ -44,4 +44,8 @@ common:
   mermaid: Diagramme Mermaid
   closeToolbar: Masquer la barre d'outils
   exportPdf: Exporter en PDF
+  pdfExportSuccess: Export PDF réussi
+  pdfExportFailed: Échec de l'export PDF
+  pdfRevealFailed: Impossible d'afficher dans le gestionnaire de fichiers
+  revealInFinder: Afficher dans le gestionnaire de fichiers
   more: Plus

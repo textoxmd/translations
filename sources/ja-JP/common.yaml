@@ -44,4 +44,8 @@ common:
   mermaid: Mermaid 図
   closeToolbar: ツールバーを隠す
   exportPdf: PDF に書き出し
+  pdfExportSuccess: PDF の書き出しが完了しました
+  pdfExportFailed: PDF の書き出しに失敗しました
+  pdfRevealFailed: ファイルマネージャーで表示できませんでした
+  revealInFinder: ファイルマネージャーで表示
   more: もっと
