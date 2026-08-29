@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: Giới thiệu Textox
   preferences: Tùy chọn...
+  services: Dịch vụ
   quit: Thoát Textox
   file: Tệp
   new_window: Cửa sổ mới
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: Hiển thị dàn bài
   developer: "Tùy chọn nhà phát triển"
   toggle_editor_hud: "Hiển thị HUD trình soạn thảo"
+  test_review_prompt: Kiểm tra yêu cầu đánh giá
   window: Cửa sổ
   minimize: Thu nhỏ
   zoom: Thu phóng
@@ -73,6 +75,8 @@ menu:
   privacy: Chính sách bảo mật
   website: Trang web
   feedback: Phản hồi
+  rate_app: Đánh giá ứng dụng
+  follow_author: Theo dõi tác giả
   export_logs: Xuất nhật ký...
   auto_save: Tự động lưu
   newFile: Tệp mới

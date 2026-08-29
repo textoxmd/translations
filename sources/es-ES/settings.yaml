@@ -289,3 +289,7 @@ settings:
   removeSuccess: Eliminado
   removeError: Error al eliminar
   customLabel: Personalizado
+  rateOnAppStore: Valorar la app
+  rateOnAppStoreFailed: No se pudo abrir la página de valoración
+  followAuthor: Seguir al autor
+  followAuthorFailed: No se pudo abrir la página del autor

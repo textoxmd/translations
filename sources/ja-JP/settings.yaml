@@ -285,3 +285,7 @@ settings:
   removeSuccess: 削除しました
   removeError: 削除に失敗しました
   customLabel: カスタム
+  rateOnAppStore: アプリを評価
+  rateOnAppStoreFailed: 評価ページを開けませんでした
+  followAuthor: 作者をフォロー
+  followAuthorFailed: 作者ページを開けませんでした

@@ -285,3 +285,7 @@ settings:
   removeSuccess: 삭제됨
   removeError: 삭제 실패
   customLabel: 사용자 정의
+  rateOnAppStore: 앱 평가하기
+  rateOnAppStoreFailed: 평가 페이지를 열지 못했습니다
+  followAuthor: 작가 팔로우하기
+  followAuthorFailed: 작가 페이지를 열지 못했습니다

@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: О Textox
   preferences: Настройки...
+  services: Сервисы
   quit: Выйти из Textox
   file: Файл
   new_window: Новое окно
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: Показать структуру
   developer: "Параметры разработчика"
   toggle_editor_hud: "Показать HUD редактора"
+  test_review_prompt: Проверить запрос оценки
   window: Окно
   minimize: Свернуть
   zoom: Масштаб
@@ -73,6 +75,8 @@ menu:
   privacy: Политика конфиденциальности
   website: Веб-сайт
   feedback: Обратная связь
+  rate_app: Оценить приложение
+  follow_author: Подписаться на автора
   export_logs: Экспортировать журналы...
   auto_save: Автосохранение
   newFile: Новый файл

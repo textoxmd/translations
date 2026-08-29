@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: Informazioni su Textox
   preferences: Preferenze...
+  services: Servizi
   quit: Esci da Textox
   file: File
   new_window: Nuova finestra
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: Mostra struttura
   developer: "Opzioni sviluppatore"
   toggle_editor_hud: "Mostra HUD editor"
+  test_review_prompt: Testa richiesta di valutazione
   window: Finestra
   minimize: Minimizza
   zoom: Zoom
@@ -73,6 +75,8 @@ menu:
   privacy: Informativa sulla privacy
   website: Sito web
   feedback: Feedback
+  rate_app: Valuta l'app
+  follow_author: Segui l'autore
   export_logs: Esporta log...
   auto_save: Salvataggio automatico
   newFile: Nuovo file

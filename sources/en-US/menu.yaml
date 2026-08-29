@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: About Textox
   preferences: Preferences...
+  services: Services
   quit: Quit Textox
   file: File
   new_window: New Window
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: Show Outline Panel
   developer: "Developer Options"
   toggle_editor_hud: "Show Editor HUD"
+  test_review_prompt: Test Review Prompt
   window: Window
   minimize: Minimize
   zoom: Zoom
@@ -73,6 +75,8 @@ menu:
   privacy: Privacy Policy
   website: Official Website
   feedback: Feedback
+  rate_app: Rate the App
+  follow_author: Follow the Author
   export_logs: Export Logs
   auto_save: Auto Save
   appearance: Appearance

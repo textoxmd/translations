@@ -287,3 +287,7 @@ settings:
   removeSuccess: हटा दिया गया
   removeError: हटाने में विफल
   customLabel: कस्टम
+  rateOnAppStore: ऐप रेट करें
+  rateOnAppStoreFailed: रेटिंग पेज खोलने में विफल
+  followAuthor: लेखक को फ़ॉलो करें
+  followAuthorFailed: लेखक का पृष्ठ खोलने में विफल

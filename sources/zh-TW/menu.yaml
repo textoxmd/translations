@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: 關於 Textox
   preferences: 偏好設定...
+  services: 服務
   quit: 結束 Textox
   file: 檔案
   new_window: 新增視窗
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: 顯示大綱
   developer: "開發者選項"
   toggle_editor_hud: "顯示編輯器 HUD"
+  test_review_prompt: 觸發評分彈窗
   window: 視窗
   minimize: 最小化
   zoom: 縮放
@@ -73,6 +75,8 @@ menu:
   privacy: 隱私政策
   website: 網站
   feedback: 意見回饋
+  rate_app: 評價應用
+  follow_author: 關注作者
   export_logs: 輸出日誌...
   auto_save: 自動儲存
   newFile: 新增檔案

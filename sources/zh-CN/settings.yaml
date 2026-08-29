@@ -271,3 +271,7 @@ settings:
   removeSuccess: 已删除
   removeError: 删除失败
   customLabel: 自定义
+  rateOnAppStore: 评价应用
+  rateOnAppStoreFailed: 打开评分页面失败
+  followAuthor: 关注作者
+  followAuthorFailed: 打开作者主页失败

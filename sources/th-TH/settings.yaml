@@ -285,3 +285,7 @@ settings:
   removeSuccess: ลบแล้ว
   removeError: ลบล้มเหลว
   customLabel: กำหนดเอง
+  rateOnAppStore: ให้คะแนนแอป
+  rateOnAppStoreFailed: ไม่สามารถเปิดหน้าการให้คะแนนได้
+  followAuthor: ติดตามผู้เขียน
+  followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้

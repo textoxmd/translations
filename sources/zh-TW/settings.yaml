@@ -285,3 +285,7 @@ settings:
   removeSuccess: 已刪除
   removeError: 刪除失敗
   customLabel: 自定义
+  rateOnAppStore: 評價應用
+  rateOnAppStoreFailed: 打開評分頁面失敗
+  followAuthor: 關注作者
+  followAuthorFailed: 開啟作者主頁失敗

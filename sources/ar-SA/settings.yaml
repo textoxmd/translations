@@ -285,3 +285,7 @@ settings:
   removeSuccess: تمت الإزالة
   removeError: فشلت الإزالة
   customLabel: مخصص
+  rateOnAppStore: قيّم التطبيق
+  rateOnAppStoreFailed: تعذّر فتح صفحة التقييم
+  followAuthor: تابع المؤلف
+  followAuthorFailed: تعذّر فتح صفحة المؤلف

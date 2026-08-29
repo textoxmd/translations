@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: 关于 Textox
   preferences: 偏好设置...
+  services: 服务
   quit: 退出 Textox
   file: 文件
   new_window: 新建窗口
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: 显示大纲
   developer: "开发者选项"
   toggle_editor_hud: "显示编辑器 HUD"
+  test_review_prompt: 触发评分弹窗
   window: 窗口
   minimize: 最小化
   zoom: 缩放
@@ -73,6 +75,8 @@ menu:
   privacy: 隐私条款
   website: 官方网站
   feedback: 反馈
+  rate_app: 评价应用
+  follow_author: 关注作者
   export_logs: 导出日志
   auto_save: 自动保存
   appearance: 外观

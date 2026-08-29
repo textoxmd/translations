@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: حول Textox
   preferences: التفضيلات...
+  services: الخدمات
   quit: خروج من Textox
   file: ملف
   new_window: نافذة جديدة
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: إظهار المخطط
   developer: "خيارات المطور"
   toggle_editor_hud: "إظهار HUD المحرر"
+  test_review_prompt: اختبار طلب التقييم
   window: نافذة
   minimize: تصغير
   zoom: تكبير
@@ -73,6 +75,8 @@ menu:
   privacy: سياسة الخصوصية
   website: الموقع الإلكتروني
   feedback: ملاحظات
+  rate_app: قيّم التطبيق
+  follow_author: تابع المؤلف
   export_logs: تصدير السجلات...
   auto_save: الحفظ التلقائي
   newFile: ملف جديد

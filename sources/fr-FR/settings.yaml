@@ -291,3 +291,7 @@ settings:
   removeSuccess: Supprimé
   removeError: Échec de la suppression
   customLabel: Personnalisé
+  rateOnAppStore: Évaluer l'app
+  rateOnAppStoreFailed: Impossible d'ouvrir la page d'évaluation
+  followAuthor: Suivre l'auteur
+  followAuthorFailed: Impossible d'ouvrir la page de l'auteur

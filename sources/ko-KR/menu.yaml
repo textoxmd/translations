@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: Textox 정보
   preferences: 환경 설정...
+  services: 서비스
   quit: Textox 종료
   file: 파일
   new_window: 새 창
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: 개요 표시
   developer: "개발자 옵션"
   toggle_editor_hud: "에디터 HUD 표시"
+  test_review_prompt: 리뷰 프롬프트 테스트
   window: 창
   minimize: 최소화
   zoom: 확대/축소
@@ -73,6 +75,8 @@ menu:
   privacy: 개인정보 처리방침
   website: 웹사이트
   feedback: 피드백
+  rate_app: 앱 평가하기
+  follow_author: 작가 팔로우하기
   export_logs: 로그 내보내기...
   auto_save: 자동 저장
   newFile: 새 파일

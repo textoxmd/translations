@@ -289,3 +289,7 @@ settings:
   removeSuccess: Удалено
   removeError: Не удалось удалить
   customLabel: Пользовательский
+  rateOnAppStore: Оценить приложение
+  rateOnAppStoreFailed: Не удалось открыть страницу оценки
+  followAuthor: Подписаться на автора
+  followAuthorFailed: Не удалось открыть страницу автора

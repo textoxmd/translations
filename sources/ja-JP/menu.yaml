@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: Textox について
   preferences: 環境設定...
+  services: サービス
   quit: Textox を終了
   file: ファイル
   new_window: 新規ウィンドウ
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: アウトラインを表示
   developer: "開発者オプション"
   toggle_editor_hud: "エディタ HUD を表示"
+  test_review_prompt: 評価プロンプトをテスト
   window: ウィンドウ
   minimize: 最小化
   zoom: ズーム
@@ -73,6 +75,8 @@ menu:
   privacy: プライバシーポリシー
   website: ウェブサイト
   feedback: フィードバック
+  rate_app: アプリを評価
+  follow_author: 作者をフォロー
   export_logs: ログを書き出し...
   auto_save: 自動保存
   newFile: 新規ファイル

@@ -289,3 +289,7 @@ settings:
   removeSuccess: Rimosso
   removeError: Rimozione fallita
   customLabel: Personalizzato
+  rateOnAppStore: Valuta l'app
+  rateOnAppStoreFailed: Impossibile aprire la pagina di valutazione
+  followAuthor: Segui l'autore
+  followAuthorFailed: Impossibile aprire la pagina dell'autore

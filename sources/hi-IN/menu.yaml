@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: Textox के बारे में
   preferences: प्राथमिकताएं...
+  services: सेवाएँ
   quit: Textox से बाहर निकलें
   file: फाइल
   new_window: नई विंडो
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: रूपरेखा दिखाएं
   developer: "डेवलपर विकल्प"
   toggle_editor_hud: "संपादक HUD दिखाएं"
+  test_review_prompt: रेटिंग प्रॉम्प्ट टेस्ट करें
   window: विंडो
   minimize: न्यूनतम करें
   zoom: ज़ूम
@@ -73,6 +75,8 @@ menu:
   privacy: गोपनीयता नीति
   website: वेबसाइट
   feedback: प्रतिक्रिया
+  rate_app: ऐप रेट करें
+  follow_author: लेखक को फ़ॉलो करें
   export_logs: लॉग निर्यात करें...
   auto_save: स्वचालित सहेजना
   newFile: नई फाइल

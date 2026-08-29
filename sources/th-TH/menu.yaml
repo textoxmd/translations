@@ -2,6 +2,7 @@ menu:
   texto: Textox
   about: เกี่ยวกับ Textox
   preferences: การตั้งค่า...
+  services: บริการ
   quit: ออกจาก Textox
   file: ไฟล์
   new_window: หน้าต่างใหม่
@@ -62,6 +63,7 @@ menu:
   toggle_outline_panel: แสดงโครงร่าง
   developer: "ตัวเลือกนักพัฒนา"
   toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
+  test_review_prompt: ทดสอบป๊อปอัปให้คะแนน
   window: หน้าต่าง
   minimize: ย่อเล็กสุด
   zoom: ซูม
@@ -73,6 +75,8 @@ menu:
   privacy: นโยบายความเป็นส่วนตัว
   website: เว็บไซต์
   feedback: ข้อเสนอแนะ
+  rate_app: ให้คะแนนแอป
+  follow_author: ติดตามผู้เขียน
   export_logs: ส่งออกบันทึก...
   auto_save: บันทึกอัตโนมัติ
   newFile: ไฟล์ใหม่

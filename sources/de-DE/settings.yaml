@@ -291,3 +291,7 @@ settings:
   removeSuccess: Entfernt
   removeError: Entfernen fehlgeschlagen
   customLabel: Benutzerdefiniert
+  rateOnAppStore: App bewerten
+  rateOnAppStoreFailed: Die Bewertungsseite konnte nicht geöffnet werden
+  followAuthor: Autor folgen
+  followAuthorFailed: Die Autorenseite konnte nicht geöffnet werden

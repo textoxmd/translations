@@ -289,3 +289,7 @@ settings:
   removeSuccess: Đã xóa
   removeError: Xóa thất bại
   customLabel: Tùy chỉnh
+  rateOnAppStore: Đánh giá ứng dụng
+  rateOnAppStoreFailed: Không thể mở trang đánh giá
+  followAuthor: Theo dõi tác giả
+  followAuthorFailed: Không thể mở trang tác giả

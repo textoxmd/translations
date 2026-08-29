@@ -273,3 +273,7 @@ settings:
   removeSuccess: Removed
   removeError: Failed to remove
   customLabel: Custom
+  rateOnAppStore: Rate the App
+  rateOnAppStoreFailed: Failed to open the rating page
+  followAuthor: Follow the Author
+  followAuthorFailed: Failed to open the author page
