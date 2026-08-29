@@ -27,6 +27,37 @@ settings:
   chooseWorkspaceFolder: 选择工作区目录…
   workspaceFolderSet: 工作区目录设置成功
   failedToSetWorkspaceFolder: 设置工作区目录失败
+  bookmarkManagement: 添加位置
+  bookmarkManagementDesc: macOS 会限制应用读取其他位置的文件。在这里添加允许访问的位置后，应用会自动记住；红色圆点表示已失效，点击该位置即可重新授权。
+  bookmarkAdd: 添加
+  bookmarkAddTitle: 选择要授权的文件夹
+  bookmarkAddDir: 添加目录授权
+  bookmarkAddDirTitle: 选择要授权的文件夹
+  bookmarkAddFile: 添加文件授权
+  bookmarkAddFileTitle: 选择要授权的文件
+  bookmarkAddSuccess: 授权已添加
+  bookmarkAddFailed: 添加授权失败
+  bookmarkAddFileSuccess: 文件授权已添加
+  bookmarkAddFileFailed: 添加文件授权失败
+  bookmarkRemove: 移除授权
+  bookmarkRemoveTitle: 移除授权
+  bookmarkRemoveConfirm: 移除后，此位置将无法访问，需要重新授权。确定要移除吗？
+  bookmarkRemoveSuccess: 授权已移除
+  bookmarkRemoveFailed: 移除授权失败
+  bookmarkSearchPlaceholder: 搜索路径…
+  bookmarkNoResult: 未找到匹配的位置
+  bookmarkReauthHint: 点击重新授权
+  bookmarkDirSection: 目录授权
+  bookmarkFileSection: 文件授权
+  bookmarkFileDesc: 由应用自动添加的单个文件授权，无需手动操作。
+  bookmarkDirEmpty: 暂无目录授权
+  bookmarkFileEmpty: 暂无文件授权
+  bookmarkEmpty: 暂无已授权路径
+  bookmarkStatusValid: 有效
+  bookmarkStatusInvalid: 不可用
+  bookmarkFolder: 文件夹
+  bookmarkFile: 文件
+  bookmarkLoading: 加载中…
   externalFileChangeAction: 外部文件修改处理
   externalFileChangeActionDesc: 选择当文件在其他地方被修改时的处理方式
   externalFileChangeIgnore: 忽略（不监听）

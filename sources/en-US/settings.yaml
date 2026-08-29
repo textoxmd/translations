@@ -27,6 +27,37 @@ settings:
   chooseWorkspaceFolder: Choose Workspace Folder…
   workspaceFolderSet: Workspace folder set successfully
   failedToSetWorkspaceFolder: Failed to set workspace folder
+  bookmarkManagement: Added Locations
+  bookmarkManagementDesc: macOS restricts access to files in other locations. Add the locations you allow the app to access and they will be remembered; a red dot means access has expired — click the location to re-authorize it.
+  bookmarkAdd: Add
+  bookmarkAddTitle: Choose a folder to authorize
+  bookmarkAddDir: Add Folder Access
+  bookmarkAddDirTitle: Choose a folder to authorize
+  bookmarkAddFile: Add File Access
+  bookmarkAddFileTitle: Choose a file to authorize
+  bookmarkAddSuccess: Access granted
+  bookmarkAddFailed: Failed to add access
+  bookmarkAddFileSuccess: File access granted
+  bookmarkAddFileFailed: Failed to add file access
+  bookmarkRemove: Remove Access
+  bookmarkRemoveTitle: Remove Access
+  bookmarkRemoveConfirm: After removal, this location will no longer be accessible until you authorize it again. Remove it?
+  bookmarkRemoveSuccess: Access removed
+  bookmarkRemoveFailed: Failed to remove access
+  bookmarkSearchPlaceholder: Search paths…
+  bookmarkNoResult: No matching locations
+  bookmarkReauthHint: Click to re-authorize
+  bookmarkDirSection: Folder Access
+  bookmarkFileSection: File Access
+  bookmarkFileDesc: Individual file access added automatically by the app — no manual action needed.
+  bookmarkDirEmpty: No folder access yet
+  bookmarkFileEmpty: No file access yet
+  bookmarkEmpty: No authorized locations yet
+  bookmarkStatusValid: Valid
+  bookmarkStatusInvalid: Unavailable
+  bookmarkFolder: Folder
+  bookmarkFile: File
+  bookmarkLoading: Loading…
   externalFileChangeAction: External File Change Action
   externalFileChangeActionDesc: Choose how to handle when file is modified externally
   externalFileChangeIgnore: Ignore (Don't Watch)
