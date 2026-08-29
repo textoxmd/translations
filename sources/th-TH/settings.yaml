@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: เลือกโฟลเดอร์พื้นที่ทำงาน…
   workspaceFolderSet: ตั้งค่าโฟลเดอร์พื้นที่ทำงานสำเร็จ
   failedToSetWorkspaceFolder: ไม่สามารถตั้งค่าโฟลเดอร์พื้นที่ทำงานได้
+  bookmarkManagement: ตำแหน่งที่เพิ่ม
+  bookmarkManagementDesc: macOS จำกัดการเข้าถึงไฟล์ในตำแหน่งอื่น เพิ่มตำแหน่งที่อนุญาตให้แอปเข้าถึงได้ที่นี่ แล้วแอปจะจดจำโดยอัตโนมัติ แท็กที่ไม่ถูกต้องจะแสดงเป็นสีแดง — คลิกเพื่ออนุญาตใหม่ คุณสามารถเพิ่มสิทธิ์โฟลเดอร์ได้สูงสุด 10 รายการ
+  bookmarkAdd: เพิ่ม
+  bookmarkDirLimitReached: สิทธิ์โฟลเดอร์สูงสุด 10 รายการ
+  bookmarkAddTitle: เลือกโฟลเดอร์ที่จะอนุญาต
+  bookmarkAddDir: เพิ่มสิทธิ์โฟลเดอร์
+  bookmarkAddDirTitle: เลือกโฟลเดอร์ที่จะอนุญาต
+  bookmarkAddFile: เพิ่มสิทธิ์ไฟล์
+  bookmarkAddFileTitle: เลือกไฟล์ที่จะอนุญาต
+  bookmarkAddSuccess: เพิ่มสิทธิ์แล้ว
+  bookmarkAddFailed: เพิ่มสิทธิ์ไม่สำเร็จ
+  bookmarkAddFileSuccess: เพิ่มสิทธิ์ไฟล์แล้ว
+  bookmarkAddFileFailed: เพิ่มสิทธิ์ไฟล์ไม่สำเร็จ
+  bookmarkRemove: ลบสิทธิ์
+  bookmarkRemoveTitle: ลบสิทธิ์
+  bookmarkRemoveConfirm: หลังจากลบ ตำแหน่งนี้จะไม่สามารถเข้าถึงได้จนกว่าจะอนุญาตใหม่ ต้องการลบหรือไม่
+  bookmarkRemoveSuccess: ลบสิทธิ์แล้ว
+  bookmarkRemoveFailed: ลบสิทธิ์ไม่สำเร็จ
+  bookmarkSearchPlaceholder: ค้นหาเส้นทาง…
+  bookmarkNoResult: ไม่พบตำแหน่งที่ตรงกัน
+  bookmarkReauthHint: คลิกเพื่ออนุญาตใหม่
+  bookmarkDirSection: สิทธิ์โฟลเดอร์
+  bookmarkFileSection: สิทธิ์ไฟล์
+  bookmarkFileDesc: สิทธิ์ไฟล์แต่ละไฟล์ที่แอปเพิ่มโดยอัตโนมัติ — ไม่ต้องดำเนินการด้วยตนเอง
+  bookmarkDirEmpty: ยังไม่มีสิทธิ์โฟลเดอร์
+  bookmarkFileEmpty: ยังไม่มีสิทธิ์ไฟล์
+  bookmarkEmpty: ยังไม่มีเส้นทางที่อนุญาต
+  bookmarkStatusValid: ใช้ได้
+  bookmarkStatusInvalid: ไม่พร้อมใช้งาน
+  bookmarkFolder: โฟลเดอร์
+  bookmarkFile: ไฟล์
+  bookmarkLoading: กำลังโหลด…
   externalFileChangeAction: การดำเนินการเมื่อไฟล์ภายนอกเปลี่ยนแปลง
   externalFileChangeActionDesc: วิธีจัดการเมื่อไฟล์ถูกแก้ไขโดยโปรแกรมภายนอก
   externalFileChangeIgnore: ละเว้น

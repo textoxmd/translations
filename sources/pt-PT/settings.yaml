@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: Escolher pasta do espaço de trabalho…
   workspaceFolderSet: Pasta do espaço de trabalho definida
   failedToSetWorkspaceFolder: Falha ao definir a pasta do espaço de trabalho
+  bookmarkManagement: Localizações adicionadas
+  bookmarkManagementDesc: O macOS restringe o acesso a ficheiros noutras localizações. Adicione aqui as localizações às quais permite que a app aceda; serão recordadas automaticamente. Uma etiqueta inválida fica vermelha — clique para voltar a autorizar. Pode adicionar até 10 autorizações de pastas.
+  bookmarkAdd: Adicionar
+  bookmarkDirLimitReached: Máximo de 10 autorizações de pastas
+  bookmarkAddTitle: Escolha uma pasta para autorizar
+  bookmarkAddDir: Adicionar autorização de pasta
+  bookmarkAddDirTitle: Escolha uma pasta para autorizar
+  bookmarkAddFile: Adicionar autorização de ficheiro
+  bookmarkAddFileTitle: Escolha um ficheiro para autorizar
+  bookmarkAddSuccess: Autorização adicionada
+  bookmarkAddFailed: Falha ao adicionar autorização
+  bookmarkAddFileSuccess: Autorização de ficheiro adicionada
+  bookmarkAddFileFailed: Falha ao adicionar autorização de ficheiro
+  bookmarkRemove: Remover autorização
+  bookmarkRemoveTitle: Remover autorização
+  bookmarkRemoveConfirm: Após a remoção, esta localização não ficará acessível até voltar a autorizá-la. Remover?
+  bookmarkRemoveSuccess: Autorização removida
+  bookmarkRemoveFailed: Falha ao remover autorização
+  bookmarkSearchPlaceholder: Pesquisar caminhos…
+  bookmarkNoResult: Nenhuma localização correspondente
+  bookmarkReauthHint: Clique para voltar a autorizar
+  bookmarkDirSection: Autorizações de pastas
+  bookmarkFileSection: Autorizações de ficheiros
+  bookmarkFileDesc: Autorizações de ficheiros individuais adicionadas automaticamente pela app — não é necessária ação manual.
+  bookmarkDirEmpty: Ainda não há autorizações de pastas
+  bookmarkFileEmpty: Ainda não há autorizações de ficheiros
+  bookmarkEmpty: Ainda não há caminhos autorizados
+  bookmarkStatusValid: Válido
+  bookmarkStatusInvalid: Indisponível
+  bookmarkFolder: Pasta
+  bookmarkFile: Ficheiro
+  bookmarkLoading: A carregar…
   externalFileChangeAction: Ação em alteração de ficheiro externo
   externalFileChangeActionDesc: Como lidar quando o ficheiro é modificado por um programa externo
   externalFileChangeIgnore: Ignorar

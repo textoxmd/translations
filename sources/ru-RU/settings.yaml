@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: Выбрать папку рабочей области…
   workspaceFolderSet: Папка рабочей области установлена
   failedToSetWorkspaceFolder: Не удалось установить папку рабочей области
+  bookmarkManagement: Добавленные расположения
+  bookmarkManagementDesc: macOS ограничивает доступ к файлам в других расположениях. Добавьте здесь расположения, к которым разрешён доступ приложению, и они будут сохранены автоматически. Недействительный тег отображается красным — нажмите, чтобы авторизовать заново. Можно добавить не более 10 разрешённых папок.
+  bookmarkAdd: Добавить
+  bookmarkDirLimitReached: Не более 10 разрешённых папок
+  bookmarkAddTitle: Выберите папку для авторизации
+  bookmarkAddDir: Добавить разрешение папки
+  bookmarkAddDirTitle: Выберите папку для авторизации
+  bookmarkAddFile: Добавить разрешение файла
+  bookmarkAddFileTitle: Выберите файл для авторизации
+  bookmarkAddSuccess: Разрешение добавлено
+  bookmarkAddFailed: Не удалось добавить разрешение
+  bookmarkAddFileSuccess: Разрешение файла добавлено
+  bookmarkAddFileFailed: Не удалось добавить разрешение файла
+  bookmarkRemove: Удалить разрешение
+  bookmarkRemoveTitle: Удалить разрешение
+  bookmarkRemoveConfirm: После удаления это расположение будет недоступно, пока вы не авторизуете его заново. Удалить?
+  bookmarkRemoveSuccess: Разрешение удалено
+  bookmarkRemoveFailed: Не удалось удалить разрешение
+  bookmarkSearchPlaceholder: Поиск путей…
+  bookmarkNoResult: Совпадений не найдено
+  bookmarkReauthHint: Нажмите, чтобы авторизовать заново
+  bookmarkDirSection: Разрешения папок
+  bookmarkFileSection: Разрешения файлов
+  bookmarkFileDesc: Отдельные разрешения файлов добавляются приложением автоматически — ручных действий не требуется.
+  bookmarkDirEmpty: Разрешённых папок пока нет
+  bookmarkFileEmpty: Разрешённых файлов пока нет
+  bookmarkEmpty: Авторизованных путей пока нет
+  bookmarkStatusValid: Действительно
+  bookmarkStatusInvalid: Недоступно
+  bookmarkFolder: Папка
+  bookmarkFile: Файл
+  bookmarkLoading: Загрузка…
   externalFileChangeAction: Действие при изменении внешнего файла
   externalFileChangeActionDesc: Как обрабатывать, когда файл изменен внешней программой
   externalFileChangeIgnore: Игнорировать

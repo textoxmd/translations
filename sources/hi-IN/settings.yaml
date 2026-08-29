@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: कार्यक्षेत्र फ़ोल्डर चुनें…
   workspaceFolderSet: कार्यक्षेत्र फ़ोल्डर सेट हो गया
   failedToSetWorkspaceFolder: कार्यक्षेत्र फ़ोल्डर सेट करने में विफल
+  bookmarkManagement: जोड़े गए स्थान
+  bookmarkManagementDesc: macOS अन्य स्थानों की फ़ाइलों तक पहुँच प्रतिबंधित करता है। यहाँ उन स्थानों को जोड़ें जिन तक ऐप को पहुँच की अनुमति देनी है; वे स्वचालित रूप से याद रखे जाएँगे। अमान्य टैग लाल दिखाई देता है — पुनः अधिकृत करने के लिए क्लिक करें। आप अधिकतम 10 फ़ोल्डर अनुमतियाँ जोड़ सकते हैं।
+  bookmarkAdd: जोड़ें
+  bookmarkDirLimitReached: अधिकतम 10 फ़ोल्डर अनुमतियाँ
+  bookmarkAddTitle: अधिकृत करने के लिए फ़ोल्डर चुनें
+  bookmarkAddDir: फ़ोल्डर अनुमति जोड़ें
+  bookmarkAddDirTitle: अधिकृत करने के लिए फ़ोल्डर चुनें
+  bookmarkAddFile: फ़ाइल अनुमति जोड़ें
+  bookmarkAddFileTitle: अधिकृत करने के लिए फ़ाइल चुनें
+  bookmarkAddSuccess: अनुमति जोड़ दी गई
+  bookmarkAddFailed: अनुमति जोड़ने में विफल
+  bookmarkAddFileSuccess: फ़ाइल अनुमति जोड़ दी गई
+  bookmarkAddFileFailed: फ़ाइल अनुमति जोड़ने में विफल
+  bookmarkRemove: अनुमति हटाएँ
+  bookmarkRemoveTitle: अनुमति हटाएँ
+  bookmarkRemoveConfirm: हटाने के बाद, इस स्थान तक पहुँच तब तक संभव नहीं होगी जब तक आप इसे पुनः अधिकृत नहीं करते। हटाएँ?
+  bookmarkRemoveSuccess: अनुमति हटा दी गई
+  bookmarkRemoveFailed: अनुमति हटाने में विफल
+  bookmarkSearchPlaceholder: पथ खोजें…
+  bookmarkNoResult: कोई मेल खाता स्थान नहीं मिला
+  bookmarkReauthHint: पुनः अधिकृत करने के लिए क्लिक करें
+  bookmarkDirSection: फ़ोल्डर अनुमतियाँ
+  bookmarkFileSection: फ़ाइल अनुमतियाँ
+  bookmarkFileDesc: ऐप द्वारा स्वचालित रूप से जोड़ी गई व्यक्तिगत फ़ाइल अनुमतियाँ — कोई मैन्युअल कार्रवाई आवश्यक नहीं।
+  bookmarkDirEmpty: अभी कोई फ़ोल्डर अनुमति नहीं
+  bookmarkFileEmpty: अभी कोई फ़ाइल अनुमति नहीं
+  bookmarkEmpty: अभी कोई अधिकृत पथ नहीं
+  bookmarkStatusValid: मान्य
+  bookmarkStatusInvalid: अनुपलब्ध
+  bookmarkFolder: फ़ोल्डर
+  bookmarkFile: फ़ाइल
+  bookmarkLoading: लोड हो रहा है…
   externalFileChangeAction: बाहरी फाइल परिवर्तन पर कार्रवाई
   externalFileChangeActionDesc: जब फाइल को बाहरी प्रोग्राम द्वारा संशोधित किया जाता है तो कैसे संभालें
   externalFileChangeIgnore: अनदेखा करें

@@ -29,6 +29,38 @@ settings:
   chooseWorkspaceFolder: Choisir le dossier de l'espace de travail…
   workspaceFolderSet: Dossier de l'espace de travail défini
   failedToSetWorkspaceFolder: Échec de la configuration du dossier de l'espace de travail
+  bookmarkManagement: Emplacements ajoutés
+  bookmarkManagementDesc: macOS restreint l'accès aux fichiers situés dans d'autres emplacements. Ajoutez les emplacements auxquels vous autorisez l'app à accéder ; ils seront mémorisés automatiquement. Un tag invalide apparaît en rouge — cliquez dessus pour réautoriser. Vous pouvez ajouter jusqu'à 10 autorisations de dossiers.
+  bookmarkAdd: Ajouter
+  bookmarkDirLimitReached: Maximum de 10 autorisations de dossiers
+  bookmarkAddTitle: Choisir un dossier à autoriser
+  bookmarkAddDir: Ajouter une autorisation de dossier
+  bookmarkAddDirTitle: Choisir un dossier à autoriser
+  bookmarkAddFile: Ajouter une autorisation de fichier
+  bookmarkAddFileTitle: Choisir un fichier à autoriser
+  bookmarkAddSuccess: Autorisation ajoutée
+  bookmarkAddFailed: Échec de l'ajout de l'autorisation
+  bookmarkAddFileSuccess: Autorisation de fichier ajoutée
+  bookmarkAddFileFailed: Échec de l'ajout de l'autorisation de fichier
+  bookmarkRemove: Retirer l'autorisation
+  bookmarkRemoveTitle: Retirer l'autorisation
+  bookmarkRemoveConfirm: Après le retrait, cet emplacement ne sera plus accessible tant que vous ne l'aurez pas réautorisé. Retirer ?
+  bookmarkRemoveSuccess: Autorisation retirée
+  bookmarkRemoveFailed: Échec du retrait de l'autorisation
+  bookmarkSearchPlaceholder: Rechercher des chemins…
+  bookmarkNoResult: Aucun emplacement correspondant
+  bookmarkReauthHint: Cliquez pour réautoriser
+  bookmarkDirSection: Autorisations de dossiers
+  bookmarkFileSection: Autorisations de fichiers
+  bookmarkFileDesc: Autorisations de fichiers individuelles ajoutées automatiquement par l'app — aucune action manuelle requise.
+  bookmarkDirEmpty: Aucune autorisation de dossier
+  bookmarkFileEmpty: Aucune autorisation de fichier
+  bookmarkEmpty: Aucun emplacement autorisé
+  bookmarkStatusValid: Valide
+  bookmarkStatusInvalid: Indisponible
+  bookmarkFolder: Dossier
+  bookmarkFile: Fichier
+  bookmarkLoading: Chargement…
   externalFileChangeAction: Action sur le changement de fichier externe
   externalFileChangeActionDesc: Comment traiter lorsque le fichier est modifié par un programme externe
   externalFileChangeIgnore: Ignorer

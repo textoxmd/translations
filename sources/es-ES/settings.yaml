@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: Elegir carpeta del espacio de trabajo…
   workspaceFolderSet: Carpeta del espacio de trabajo establecida
   failedToSetWorkspaceFolder: Error al establecer la carpeta del espacio de trabajo
+  bookmarkManagement: Ubicaciones añadidas
+  bookmarkManagementDesc: macOS restringe el acceso a archivos en otras ubicaciones. Añade aquí las ubicaciones a las que permites acceder a la app y las recordará automáticamente; una etiqueta no válida se muestra en rojo — haz clic para volver a autorizar. Puedes añadir hasta 10 autorizaciones de carpetas.
+  bookmarkAdd: Añadir
+  bookmarkDirLimitReached: Máximo de 10 autorizaciones de carpetas
+  bookmarkAddTitle: Elige una carpeta para autorizar
+  bookmarkAddDir: Añadir autorización de carpeta
+  bookmarkAddDirTitle: Elige una carpeta para autorizar
+  bookmarkAddFile: Añadir autorización de archivo
+  bookmarkAddFileTitle: Elige un archivo para autorizar
+  bookmarkAddSuccess: Autorización añadida
+  bookmarkAddFailed: No se pudo añadir la autorización
+  bookmarkAddFileSuccess: Autorización de archivo añadida
+  bookmarkAddFileFailed: No se pudo añadir la autorización de archivo
+  bookmarkRemove: Quitar autorización
+  bookmarkRemoveTitle: Quitar autorización
+  bookmarkRemoveConfirm: Tras quitarla, esta ubicación no será accesible hasta que la autorices de nuevo. ¿Quieres quitarla?
+  bookmarkRemoveSuccess: Autorización quitada
+  bookmarkRemoveFailed: No se pudo quitar la autorización
+  bookmarkSearchPlaceholder: Buscar rutas…
+  bookmarkNoResult: No se encontraron ubicaciones coincidentes
+  bookmarkReauthHint: Clic para volver a autorizar
+  bookmarkDirSection: Autorizaciones de carpetas
+  bookmarkFileSection: Autorizaciones de archivos
+  bookmarkFileDesc: Autorizaciones de archivos individuales añadidas automáticamente por la app — no se requiere acción manual.
+  bookmarkDirEmpty: Aún no hay autorizaciones de carpetas
+  bookmarkFileEmpty: Aún no hay autorizaciones de archivos
+  bookmarkEmpty: Aún no hay rutas autorizadas
+  bookmarkStatusValid: Válido
+  bookmarkStatusInvalid: No disponible
+  bookmarkFolder: Carpeta
+  bookmarkFile: Archivo
+  bookmarkLoading: Cargando…
   externalFileChangeAction: Acción ante cambio de archivo externo
   externalFileChangeActionDesc: Cómo manejar cuando el archivo es modificado por un programa externo
   externalFileChangeIgnore: Ignorar

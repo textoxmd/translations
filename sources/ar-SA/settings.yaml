@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: اختيار مجلد مساحة العمل…
   workspaceFolderSet: تم تعيين مجلد مساحة العمل
   failedToSetWorkspaceFolder: تعذّر تعيين مجلد مساحة العمل
+  bookmarkManagement: المواقع المضافة
+  bookmarkManagementDesc: يقيّد macOS الوصول إلى الملفات في المواقع الأخرى. أضف هنا المواقع التي تسمح للتطبيق بالوصول إليها وسيتذكرها تلقائيًا؛ تظهر العلامات غير الصالحة باللون الأحمر — انقر لإعادة التفويض. يمكنك إضافة ما يصل إلى 10 أذونات للمجلدات.
+  bookmarkAdd: إضافة
+  bookmarkDirLimitReached: الحد الأقصى 10 أذونات للمجلدات
+  bookmarkAddTitle: اختر مجلدًا للتفويض
+  bookmarkAddDir: إضافة إذن مجلد
+  bookmarkAddDirTitle: اختر مجلدًا للتفويض
+  bookmarkAddFile: إضافة إذن ملف
+  bookmarkAddFileTitle: اختر ملفًا للتفويض
+  bookmarkAddSuccess: تمت إضافة الإذن
+  bookmarkAddFailed: فشل إضافة الإذن
+  bookmarkAddFileSuccess: تمت إضافة إذن الملف
+  bookmarkAddFileFailed: فشل إضافة إذن الملف
+  bookmarkRemove: إزالة الإذن
+  bookmarkRemoveTitle: إزالة الإذن
+  bookmarkRemoveConfirm: بعد الإزالة، لن يكون هذا الموقع متاحًا حتى تعيد التفويض. هل تريد الإزالة؟
+  bookmarkRemoveSuccess: تمت إزالة الإذن
+  bookmarkRemoveFailed: فشل إزالة الإذن
+  bookmarkSearchPlaceholder: البحث عن المسارات…
+  bookmarkNoResult: لا توجد مواقع مطابقة
+  bookmarkReauthHint: انقر لإعادة التفويض
+  bookmarkDirSection: أذونات المجلدات
+  bookmarkFileSection: أذونات الملفات
+  bookmarkFileDesc: أذونات ملفات فردية يضيفها التطبيق تلقائيًا — لا حاجة لإجراء يدوي.
+  bookmarkDirEmpty: لا توجد أذونات مجلدات بعد
+  bookmarkFileEmpty: لا توجد أذونات ملفات بعد
+  bookmarkEmpty: لا توجد مسارات مفوَّضة بعد
+  bookmarkStatusValid: صالح
+  bookmarkStatusInvalid: غير متاح
+  bookmarkFolder: مجلد
+  bookmarkFile: ملف
+  bookmarkLoading: جارٍ التحميل…
   externalFileChangeAction: الإجراء عند تغيير الملف الخارجي
   externalFileChangeActionDesc: كيفية التعامل عندما يتم تعديل الملف بواسطة برنامج خارجي
   externalFileChangeIgnore: تجاهل

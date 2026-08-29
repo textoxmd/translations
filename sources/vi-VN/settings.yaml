@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: Chọn thư mục không gian làm việc…
   workspaceFolderSet: Đã đặt thư mục không gian làm việc
   failedToSetWorkspaceFolder: Không thể đặt thư mục không gian làm việc
+  bookmarkManagement: Vị trí đã thêm
+  bookmarkManagementDesc: macOS hạn chế quyền đọc các tệp ở vị trí khác. Thêm các vị trí bạn cho phép ứng dụng truy cập tại đây và ứng dụng sẽ tự động ghi nhớ; thẻ không hợp lệ sẽ hiển thị màu đỏ — nhấp để cấp lại quyền. Bạn có thể thêm tối đa 10 thư mục được ủy quyền.
+  bookmarkAdd: Thêm
+  bookmarkDirLimitReached: Tối đa 10 thư mục được ủy quyền
+  bookmarkAddTitle: Chọn thư mục để ủy quyền
+  bookmarkAddDir: Thêm ủy quyền thư mục
+  bookmarkAddDirTitle: Chọn thư mục để ủy quyền
+  bookmarkAddFile: Thêm ủy quyền tệp
+  bookmarkAddFileTitle: Chọn tệp để ủy quyền
+  bookmarkAddSuccess: Đã thêm ủy quyền
+  bookmarkAddFailed: Không thể thêm ủy quyền
+  bookmarkAddFileSuccess: Đã thêm ủy quyền tệp
+  bookmarkAddFileFailed: Không thể thêm ủy quyền tệp
+  bookmarkRemove: Gỡ ủy quyền
+  bookmarkRemoveTitle: Gỡ ủy quyền
+  bookmarkRemoveConfirm: Sau khi gỡ, vị trí này sẽ không thể truy cập cho đến khi bạn ủy quyền lại. Bạn có muốn gỡ không?
+  bookmarkRemoveSuccess: Đã gỡ ủy quyền
+  bookmarkRemoveFailed: Không thể gỡ ủy quyền
+  bookmarkSearchPlaceholder: Tìm kiếm đường dẫn…
+  bookmarkNoResult: Không tìm thấy vị trí khớp
+  bookmarkReauthHint: Nhấp để ủy quyền lại
+  bookmarkDirSection: Ủy quyền thư mục
+  bookmarkFileSection: Ủy quyền tệp
+  bookmarkFileDesc: Ủy quyền từng tệp được ứng dụng tự động thêm — không cần thao tác thủ công.
+  bookmarkDirEmpty: Chưa có ủy quyền thư mục
+  bookmarkFileEmpty: Chưa có ủy quyền tệp
+  bookmarkEmpty: Chưa có đường dẫn được ủy quyền
+  bookmarkStatusValid: Hợp lệ
+  bookmarkStatusInvalid: Không khả dụng
+  bookmarkFolder: Thư mục
+  bookmarkFile: Tệp
+  bookmarkLoading: Đang tải…
   externalFileChangeAction: Hành động khi tệp bên ngoài thay đổi
   externalFileChangeActionDesc: Cách xử lý khi tệp được sửa đổi bởi chương trình bên ngoài
   externalFileChangeIgnore: Bỏ qua

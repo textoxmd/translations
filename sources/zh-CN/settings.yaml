@@ -28,8 +28,9 @@ settings:
   workspaceFolderSet: 工作区目录设置成功
   failedToSetWorkspaceFolder: 设置工作区目录失败
   bookmarkManagement: 添加位置
-  bookmarkManagementDesc: macOS 会限制应用读取其他位置的文件。在这里添加允许访问的位置后，应用会自动记住；红色圆点表示已失效，点击该位置即可重新授权。
+  bookmarkManagementDesc: macOS 会限制应用读取其他位置的文件。在这里添加允许访问的位置后，应用会自动记住；失效的标签会标红，点击即可重新授权。最多可添加 10 个目录授权。
   bookmarkAdd: 添加
+  bookmarkDirLimitReached: 最多可添加 10 个目录授权
   bookmarkAddTitle: 选择要授权的文件夹
   bookmarkAddDir: 添加目录授权
   bookmarkAddDirTitle: 选择要授权的文件夹

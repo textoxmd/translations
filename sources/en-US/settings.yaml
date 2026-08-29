@@ -28,8 +28,9 @@ settings:
   workspaceFolderSet: Workspace folder set successfully
   failedToSetWorkspaceFolder: Failed to set workspace folder
   bookmarkManagement: Added Locations
-  bookmarkManagementDesc: macOS restricts access to files in other locations. Add the locations you allow the app to access and they will be remembered; a red dot means access has expired — click the location to re-authorize it.
+  bookmarkManagementDesc: macOS restricts access to files in other locations. Add the locations you allow the app to access and they will be remembered; an invalid tag turns red — click it to re-authorize. You can add up to 10 folder authorizations.
   bookmarkAdd: Add
+  bookmarkDirLimitReached: Maximum of 10 folder authorizations
   bookmarkAddTitle: Choose a folder to authorize
   bookmarkAddDir: Add Folder Access
   bookmarkAddDirTitle: Choose a folder to authorize

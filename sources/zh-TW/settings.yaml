@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: 選擇工作區目錄…
   workspaceFolderSet: 工作區目錄設定成功
   failedToSetWorkspaceFolder: 設定工作區目錄失敗
+  bookmarkManagement: 新增位置
+  bookmarkManagementDesc: macOS 會限制應用程式讀取其他位置的文件。在這裡新增允許存取的位置後，應用程式會自動記住；失效的標籤會標紅，按一下即可重新授權。最多可新增 10 個目錄授權。
+  bookmarkAdd: 新增
+  bookmarkDirLimitReached: 最多可新增 10 個目錄授權
+  bookmarkAddTitle: 選擇要授權的資料夾
+  bookmarkAddDir: 新增目錄授權
+  bookmarkAddDirTitle: 選擇要授權的資料夾
+  bookmarkAddFile: 新增檔案授權
+  bookmarkAddFileTitle: 選擇要授權的檔案
+  bookmarkAddSuccess: 授權已新增
+  bookmarkAddFailed: 新增授權失敗
+  bookmarkAddFileSuccess: 檔案授權已新增
+  bookmarkAddFileFailed: 新增檔案授權失敗
+  bookmarkRemove: 移除授權
+  bookmarkRemoveTitle: 移除授權
+  bookmarkRemoveConfirm: 移除後，此位置將無法存取，需要重新授權。確定要移除嗎？
+  bookmarkRemoveSuccess: 授權已移除
+  bookmarkRemoveFailed: 移除授權失敗
+  bookmarkSearchPlaceholder: 搜尋路徑…
+  bookmarkNoResult: 找不到相符的位置
+  bookmarkReauthHint: 按一下重新授權
+  bookmarkDirSection: 目錄授權
+  bookmarkFileSection: 檔案授權
+  bookmarkFileDesc: 由應用程式自動新增的單一檔案授權，無需手動操作。
+  bookmarkDirEmpty: 尚無目錄授權
+  bookmarkFileEmpty: 尚無檔案授權
+  bookmarkEmpty: 尚無已授權路徑
+  bookmarkStatusValid: 有效
+  bookmarkStatusInvalid: 不可用
+  bookmarkFolder: 資料夾
+  bookmarkFile: 檔案
+  bookmarkLoading: 載入中…
   externalFileChangeAction: 外部檔案變更處理
   externalFileChangeActionDesc: 當檔案被外部程式修改時的處理方式
   externalFileChangeIgnore: 忽略

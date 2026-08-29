@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: Arbeitsbereich-Ordner auswählen…
   workspaceFolderSet: Arbeitsbereich-Ordner festgelegt
   failedToSetWorkspaceFolder: Fehler beim Festlegen des Arbeitsbereich-Ordners
+  bookmarkManagement: Hinzugefügte Orte
+  bookmarkManagementDesc: macOS schränkt den Zugriff auf Dateien an anderen Orten ein. Füge hier Orte hinzu, auf die die App zugreifen darf; sie werden automatisch gemerkt. Ein ungültiger Tag wird rot angezeigt — klicke darauf, um neu zu autorisieren. Es können maximal 10 Ordner-Berechtigungen hinzugefügt werden.
+  bookmarkAdd: Hinzufügen
+  bookmarkDirLimitReached: Maximal 10 Ordner-Berechtigungen
+  bookmarkAddTitle: Ordner zum Autorisieren auswählen
+  bookmarkAddDir: Ordner-Berechtigung hinzufügen
+  bookmarkAddDirTitle: Ordner zum Autorisieren auswählen
+  bookmarkAddFile: Datei-Berechtigung hinzufügen
+  bookmarkAddFileTitle: Datei zum Autorisieren auswählen
+  bookmarkAddSuccess: Berechtigung hinzugefügt
+  bookmarkAddFailed: Hinzufügen der Berechtigung fehlgeschlagen
+  bookmarkAddFileSuccess: Datei-Berechtigung hinzugefügt
+  bookmarkAddFileFailed: Hinzufügen der Datei-Berechtigung fehlgeschlagen
+  bookmarkRemove: Berechtigung entfernen
+  bookmarkRemoveTitle: Berechtigung entfernen
+  bookmarkRemoveConfirm: Nach dem Entfernen ist dieser Ort nicht mehr zugänglich, bis du ihn neu autorisierst. Entfernen?
+  bookmarkRemoveSuccess: Berechtigung entfernt
+  bookmarkRemoveFailed: Entfernen der Berechtigung fehlgeschlagen
+  bookmarkSearchPlaceholder: Pfade suchen…
+  bookmarkNoResult: Keine passenden Orte gefunden
+  bookmarkReauthHint: Zum Neuautorisieren klicken
+  bookmarkDirSection: Ordner-Berechtigungen
+  bookmarkFileSection: Datei-Berechtigungen
+  bookmarkFileDesc: Einzelne Datei-Berechtigungen werden von der App automatisch hinzugefügt — kein manueller Vorgang nötig.
+  bookmarkDirEmpty: Noch keine Ordner-Berechtigungen
+  bookmarkFileEmpty: Noch keine Datei-Berechtigungen
+  bookmarkEmpty: Noch keine autorisierten Pfade
+  bookmarkStatusValid: Gültig
+  bookmarkStatusInvalid: Nicht verfügbar
+  bookmarkFolder: Ordner
+  bookmarkFile: Datei
+  bookmarkLoading: Wird geladen…
   externalFileChangeAction: Aktion bei externer Dateiänderung
   externalFileChangeActionDesc: Wie zu behandeln, wenn die Datei von einem externen Programm geändert wird
   externalFileChangeIgnore: Ignorieren

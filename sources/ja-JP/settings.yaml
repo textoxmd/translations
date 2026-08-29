@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: ワークスペースフォルダを選択…
   workspaceFolderSet: ワークスペースフォルダを設定しました
   failedToSetWorkspaceFolder: ワークスペースフォルダの設定に失敗しました
+  bookmarkManagement: 追加する場所
+  bookmarkManagementDesc: macOS では他の場所にあるファイルの読み取りが制限されます。ここでアクセスを許可する場所を追加すると、アプリが自動的に記憶します。無効なタグは赤く表示され、クリックすると再認証できます。追加できるフォルダ認証は最大 10 個です。
+  bookmarkAdd: 追加
+  bookmarkDirLimitReached: 追加できるフォルダ認証は最大 10 個です
+  bookmarkAddTitle: 認証するフォルダを選択
+  bookmarkAddDir: フォルダ認証を追加
+  bookmarkAddDirTitle: 認証するフォルダを選択
+  bookmarkAddFile: ファイル認証を追加
+  bookmarkAddFileTitle: 認証するファイルを選択
+  bookmarkAddSuccess: 認証を追加しました
+  bookmarkAddFailed: 認証の追加に失敗しました
+  bookmarkAddFileSuccess: ファイル認証を追加しました
+  bookmarkAddFileFailed: ファイル認証の追加に失敗しました
+  bookmarkRemove: 認証を削除
+  bookmarkRemoveTitle: 認証を削除
+  bookmarkRemoveConfirm: 削除すると、この場所には再認証するまでアクセスできなくなります。削除しますか？
+  bookmarkRemoveSuccess: 認証を削除しました
+  bookmarkRemoveFailed: 認証の削除に失敗しました
+  bookmarkSearchPlaceholder: パスを検索…
+  bookmarkNoResult: 一致する場所が見つかりません
+  bookmarkReauthHint: クリックして再認証
+  bookmarkDirSection: フォルダ認証
+  bookmarkFileSection: ファイル認証
+  bookmarkFileDesc: アプリが自動的に追加する個別ファイル認証です。手動操作は不要です。
+  bookmarkDirEmpty: フォルダ認証はまだありません
+  bookmarkFileEmpty: ファイル認証はまだありません
+  bookmarkEmpty: 認証済みのパスはまだありません
+  bookmarkStatusValid: 有効
+  bookmarkStatusInvalid: 利用不可
+  bookmarkFolder: フォルダ
+  bookmarkFile: ファイル
+  bookmarkLoading: 読み込み中…
   externalFileChangeAction: 外部ファイル変更の処理
   externalFileChangeActionDesc: ファイルが外部プログラムによって変更された場合の処理方法
   externalFileChangeIgnore: 無視

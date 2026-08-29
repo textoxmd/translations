@@ -27,6 +27,38 @@ settings:
   chooseWorkspaceFolder: 작업 영역 폴더 선택…
   workspaceFolderSet: 작업 영역 폴더가 설정되었습니다
   failedToSetWorkspaceFolder: 작업 영역 폴더 설정 실패
+  bookmarkManagement: 위치 추가
+  bookmarkManagementDesc: macOS는 다른 위치의 파일 읽기를 제한합니다. 여기에서 액세스를 허용할 위치를 추가하면 앱이 자동으로 기억합니다. 유효하지 않은 태그는 빨간색으로 표시되며 클릭하여 다시 인증할 수 있습니다. 폴더 인증은 최대 10개까지 추가할 수 있습니다.
+  bookmarkAdd: 추가
+  bookmarkDirLimitReached: 폴더 인증은 최대 10개까지 추가할 수 있습니다
+  bookmarkAddTitle: 인증할 폴더 선택
+  bookmarkAddDir: 폴더 인증 추가
+  bookmarkAddDirTitle: 인증할 폴더 선택
+  bookmarkAddFile: 파일 인증 추가
+  bookmarkAddFileTitle: 인증할 파일 선택
+  bookmarkAddSuccess: 인증이 추가되었습니다
+  bookmarkAddFailed: 인증 추가 실패
+  bookmarkAddFileSuccess: 파일 인증이 추가되었습니다
+  bookmarkAddFileFailed: 파일 인증 추가 실패
+  bookmarkRemove: 인증 제거
+  bookmarkRemoveTitle: 인증 제거
+  bookmarkRemoveConfirm: 제거하면 다시 인증하기 전까지 이 위치에 액세스할 수 없습니다. 제거하시겠습니까?
+  bookmarkRemoveSuccess: 인증이 제거되었습니다
+  bookmarkRemoveFailed: 인증 제거 실패
+  bookmarkSearchPlaceholder: 경로 검색…
+  bookmarkNoResult: 일치하는 위치가 없습니다
+  bookmarkReauthHint: 클릭하여 다시 인증
+  bookmarkDirSection: 폴더 인증
+  bookmarkFileSection: 파일 인증
+  bookmarkFileDesc: 앱이 자동으로 추가하는 개별 파일 인증입니다. 수동 작업이 필요 없습니다.
+  bookmarkDirEmpty: 아직 폴더 인증이 없습니다
+  bookmarkFileEmpty: 아직 파일 인증이 없습니다
+  bookmarkEmpty: 아직 인증된 경로가 없습니다
+  bookmarkStatusValid: 유효
+  bookmarkStatusInvalid: 사용 불가
+  bookmarkFolder: 폴더
+  bookmarkFile: 파일
+  bookmarkLoading: 로딩 중…
   externalFileChangeAction: 외부 파일 변경 처리
   externalFileChangeActionDesc: 파일이 외부 프로그램에 의해 수정될 때의 처리 방법
   externalFileChangeIgnore: 무시
