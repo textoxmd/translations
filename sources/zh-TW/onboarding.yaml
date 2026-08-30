@@ -15,14 +15,15 @@ onboarding:
     suggest: 建議新增
     authorize: 授權
     authorized: 已授權
-    addFolderDesc: 之後也可以隨時在「設定 → 檔案存取」中新增更多目錄。
+    addFolderDesc: 之後也可以隨時在「設定 → 新增位置」中新增更多目錄。
     empty: 找不到需要授權的常用目錄，也可以手動新增一個。
   appearance:
     title: 選擇主題與外觀
     desc: 點擊即可預覽，隨時可以在設定中修改。
   finish:
-    title: 設定完成
-    desc: 你隨時可以從「說明 → 設定精靈」重新開啟本精靈。
+    title: 歡迎使用 Textox
+    desc: 設定已完成，開始你的創作吧。
+    hint: 之後可以在「說明 → 設定精靈」隨時重新開啟本精靈。
     noPrompt: 不再自動提示
   nav:
     stepWelcome: 歡迎
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: 完成
     next: 下一步
     back: 上一步
-    skip: 略過
-    done: 完成
+    done: 開始使用

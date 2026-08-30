@@ -15,14 +15,15 @@ onboarding:
     suggest: Suggested
     authorize: Authorize
     authorized: Authorized
-    addFolderDesc: You can add more folders anytime in Settings → Bookmarks.
+    addFolderDesc: You can add more folders anytime in Settings → Added Locations.
     empty: No commonly used folders need authorization — or add one manually.
   appearance:
     title: Choose theme & appearance
     desc: Click to preview; you can change it anytime in Settings.
   finish:
-    title: Setup complete
-    desc: You can reopen this wizard anytime from Help → Setup Wizard.
+    title: Welcome to Textox
+    desc: Your setup is complete — start creating.
+    hint: You can reopen this wizard anytime from Help → Setup Wizard.
     noPrompt: Don't show automatically again
   nav:
     stepWelcome: Welcome
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: Finish
     next: Next
     back: Back
-    skip: Skip
-    done: Done
+    done: Get started

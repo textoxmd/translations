@@ -15,14 +15,15 @@ onboarding:
     suggest: Vorschläge
     authorize: Freigeben
     authorized: Freigegeben
-    addFolderDesc: Du kannst jederzeit weitere Ordner unter Einstellungen → Dateizugriff hinzufügen.
+    addFolderDesc: Du kannst jederzeit weitere Ordner unter Einstellungen → Hinzugefügte Orte hinzufügen.
     empty: Keine freizugebenden Ordner gefunden — du kannst auch manuell einen hinzufügen.
   appearance:
     title: Design & Erscheinungsbild
     desc: Klicken zum Vorschauen, jederzeit in den Einstellungen änderbar.
   finish:
-    title: Einrichtung abgeschlossen
-    desc: Du kannst den Assistenten jederzeit über Hilfe → Einrichtungsassistent erneut öffnen.
+    title: Willkommen bei Textox
+    desc: Deine Einrichtung ist abgeschlossen – jetzt kannst du loslegen.
+    hint: Du kannst den Assistenten jederzeit über Hilfe → Einrichtungsassistent erneut öffnen.
     noPrompt: Nicht mehr automatisch anzeigen
   nav:
     stepWelcome: Willkommen
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: Fertig
     next: Weiter
     back: Zurück
-    skip: Überspringen
-    done: Fertig
+    done: Loslegen

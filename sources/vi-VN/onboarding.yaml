@@ -15,14 +15,15 @@ onboarding:
     suggest: Đề xuất
     authorize: Cấp quyền
     authorized: Đã cấp quyền
-    addFolderDesc: Bạn có thể thêm thư mục khác bất cứ lúc nào trong Cài đặt → Quyền truy cập tệp.
+    addFolderDesc: Bạn có thể thêm thư mục khác bất cứ lúc nào trong Cài đặt → Vị trí đã thêm.
     empty: Không tìm thấy thư mục cần cấp quyền — bạn cũng có thể thêm thủ công.
   appearance:
     title: Chọn giao diện và chủ đề
     desc: Nhấp để xem trước, có thể đổi bất cứ lúc nào.
   finish:
-    title: Hoàn tất thiết lập
-    desc: Bạn có thể mở lại trình hướng dẫn từ Trợ giúp → Trình hướng dẫn thiết lập.
+    title: Chào mừng bạn đến với Textox
+    desc: Quá trình thiết lập đã hoàn tất. Bắt đầu sáng tạo thôi.
+    hint: Bạn có thể mở lại trình hướng dẫn từ Trợ giúp → Trình hướng dẫn thiết lập.
     noPrompt: Không tự hiện lại nữa
   nav:
     stepWelcome: Chào mừng
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: Hoàn tất
     next: Tiếp theo
     back: Quay lại
-    skip: Bỏ qua
-    done: Hoàn tất
+    done: Bắt đầu

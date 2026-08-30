@@ -15,14 +15,15 @@ onboarding:
     suggest: おすすめ
     authorize: 許可
     authorized: 許可済み
-    addFolderDesc: あとから「設定 → ファイルアクセス」でいつでも追加できます。
+    addFolderDesc: あとから「設定 → 追加する場所」でいつでも追加できます。
     empty: 許可が必要なフォルダが見つかりません。手動で追加することもできます。
   appearance:
     title: テーマと外観を選択
     desc: クリックでプレビュー。設定からいつでも変更できます。
   finish:
-    title: 設定が完了しました
-    desc: 「ヘルプ → セットアップウィザード」からいつでも再表示できます。
+    title: Textox へようこそ
+    desc: 設定が完了しました。さっそく書き始めましょう。
+    hint: 後から「ヘルプ → セットアップウィザード」でいつでも再表示できます。
     noPrompt: 今後は自動表示しない
   nav:
     stepWelcome: ようこそ
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: 完了
     next: 次へ
     back: 戻る
-    skip: スキップ
-    done: 完了
+    done: 始める

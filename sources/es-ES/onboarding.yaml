@@ -15,14 +15,15 @@ onboarding:
     suggest: Sugerencias
     authorize: Autorizar
     authorized: Autorizada
-    addFolderDesc: Puedes añadir más carpetas cuando quieras en Ajustes → Acceso a archivos.
+    addFolderDesc: Puedes añadir más carpetas cuando quieras en Configuración → Ubicaciones añadidas.
     empty: No hay carpetas habituales que autorizar; también puedes añadir una manualmente.
   appearance:
     title: Elige tema y apariencia
     desc: Haz clic para previsualizar; cambiable en cualquier momento.
   finish:
-    title: Configuración completada
-    desc: Puedes volver a abrir este asistente desde Ayuda → Asistente de configuración.
+    title: Bienvenido a Textox
+    desc: Configuración completada. Ya puedes empezar a crear.
+    hint: Puedes volver a abrir este asistente desde Ayuda → Asistente de configuración.
     noPrompt: No volver a mostrar automáticamente
   nav:
     stepWelcome: Bienvenida
@@ -32,5 +33,4 @@ onboarding:
     stepFinish: Terminar
     next: Siguiente
     back: Atrás
-    skip: Omitir
-    done: Terminar
+    done: Empezar
