@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Textox에 오신 것을 환영합니다
+  startup:
+    title: 시작 모드 선택
+    desc: Textox를 열 때 무엇을 볼지 결정하세요.
+    blank: 빈 페이지
+    blankDesc: 매번 새 문서로 시작
+    workspace: 작업 공간 모드
+    workspaceDesc: 자주 사용하는 폴더로 바로 열기
+    blankHint: 실행할 때마다 깨끗한 빈 문서로 시작합니다
+  bookmarks:
+    desc: macOS는 앱이 읽을 수 있는 위치를 제한합니다. 허용한 폴더는 자동으로 기억됩니다.
+    existingCount: "{{count}}/10개 폴더 허용됨"
+    suggest: 추천
+    authorize: 허용
+    authorized: 허용됨
+    addFolderDesc: 나중에 설정 → 파일 접근에서 언제든 추가할 수 있습니다.
+    empty: 허용할 폴더를 찾지 못했습니다. 수동으로 추가할 수도 있습니다.
+  appearance:
+    title: 테마 및 모양 선택
+    desc: 클릭하여 미리 보세요. 설정에서 언제든 변경할 수 있습니다.
+  finish:
+    title: 설정 완료
+    desc: 도움말 → 설정 마법사에서 언제든 다시 열 수 있습니다.
+    noPrompt: 다시 자동 표시 안 함
+  nav:
+    stepWelcome: 환영
+    stepStartup: 시작 모드
+    stepBookmarks: 파일 접근
+    stepAppearance: 모양
+    stepFinish: 완료
+    next: 다음
+    back: 이전
+    skip: 건너뛰기
+    done: 완료

@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: مرحبًا بك في Textox
+  startup:
+    title: اختر وضع التشغيل
+    desc: حدّد ما يظهر عند فتح Textox.
+    blank: صفحة فارغة
+    blankDesc: ابدأ بمستند جديد في كل مرة
+    workspace: وضع مساحة العمل
+    workspaceDesc: افتح مباشرةً مجلدًا تستخدمه كثيرًا
+    blankHint: فتح مستند فارغ جديد في كل تشغيل
+  bookmarks:
+    desc: يقيّد macOS المجلدات التي يمكن للتطبيق قراءتها. بعد منح الإذن تُتذكَّر تلقائيًا.
+    existingCount: "{{count}}/10 مجلدات مصرَّح بها"
+    suggest: مقترحات
+    authorize: منح الإذن
+    authorized: مصرَّح به
+    addFolderDesc: يمكنك إضافة المزيد لاحقًا من الإعدادات ← الوصول إلى الملفات.
+    empty: لا توجد مجلدات بحاجة إلى الإذن — يمكنك أيضًا إضافة واحد يدويًا.
+  appearance:
+    title: اختر المظهر والسمة
+    desc: انقر للمعاينة وعدّل لاحقًا من الإعدادات.
+  finish:
+    title: اكتمل الإعداد
+    desc: يمكنك إعادة فتح المعالج من قائمة المساعدة ← معالج الإعداد.
+    noPrompt: لا تعرض تلقائيًا مرة أخرى
+  nav:
+    stepWelcome: ترحيب
+    stepStartup: وضع التشغيل
+    stepBookmarks: الوصول إلى الملفات
+    stepAppearance: المظهر
+    stepFinish: إنهاء
+    next: التالي
+    back: السابق
+    skip: تخطّي
+    done: إنهاء

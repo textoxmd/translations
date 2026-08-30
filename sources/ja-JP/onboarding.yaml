@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Textox へようこそ
+  startup:
+    title: 起動モードを選択
+    desc: Textox を開いたときに表示する内容を決めます。
+    blank: 空白ページ
+    blankDesc: 毎回新しい文書から始める
+    workspace: ワークスペース
+    workspaceDesc: よく使うフォルダを直接開く
+    blankHint: 起動のたびに新しい空白の文書を開きます
+  bookmarks:
+    desc: macOS はアプリが読み取れる場所を制限します。許可したフォルダは自動的に記憶されます。
+    existingCount: "{{count}}/10 個のフォルダを許可済み"
+    suggest: おすすめ
+    authorize: 許可
+    authorized: 許可済み
+    addFolderDesc: あとから「設定 → ファイルアクセス」でいつでも追加できます。
+    empty: 許可が必要なフォルダが見つかりません。手動で追加することもできます。
+  appearance:
+    title: テーマと外観を選択
+    desc: クリックでプレビュー。設定からいつでも変更できます。
+  finish:
+    title: 設定が完了しました
+    desc: 「ヘルプ → セットアップウィザード」からいつでも再表示できます。
+    noPrompt: 今後は自動表示しない
+  nav:
+    stepWelcome: ようこそ
+    stepStartup: 起動モード
+    stepBookmarks: ファイルアクセス
+    stepAppearance: 外観
+    stepFinish: 完了
+    next: 次へ
+    back: 戻る
+    skip: スキップ
+    done: 完了

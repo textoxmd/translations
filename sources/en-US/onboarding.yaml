@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Welcome to Textox
+  startup:
+    title: Choose startup mode
+    desc: Decide what you see when Textox opens.
+    blank: Blank page
+    blankDesc: Start with a fresh document every time
+    workspace: Workspace mode
+    workspaceDesc: Open straight into a folder you use often
+    blankHint: Start with a clean blank document every time
+  bookmarks:
+    desc: macOS limits which folders the app can read. Once authorized, they are remembered automatically.
+    existingCount: "{{count}}/10 folders authorized"
+    suggest: Suggested
+    authorize: Authorize
+    authorized: Authorized
+    addFolderDesc: You can add more folders anytime in Settings → Bookmarks.
+    empty: No commonly used folders need authorization — or add one manually.
+  appearance:
+    title: Choose theme & appearance
+    desc: Click to preview; you can change it anytime in Settings.
+  finish:
+    title: Setup complete
+    desc: You can reopen this wizard anytime from Help → Setup Wizard.
+    noPrompt: Don't show automatically again
+  nav:
+    stepWelcome: Welcome
+    stepStartup: Startup mode
+    stepBookmarks: File access
+    stepAppearance: Appearance
+    stepFinish: Finish
+    next: Next
+    back: Back
+    skip: Skip
+    done: Done

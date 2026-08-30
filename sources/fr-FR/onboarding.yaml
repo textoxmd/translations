@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Bienvenue dans Textox
+  startup:
+    title: Choisir le mode de démarrage
+    desc: Décidez de ce que vous voyez à l'ouverture de Textox.
+    blank: Page vierge
+    blankDesc: Commencer par un nouveau document à chaque fois
+    workspace: Espace de travail
+    workspaceDesc: Ouvrir directement un dossier habituel
+    blankHint: Ouvrir un nouveau document vierge à chaque lancement
+  bookmarks:
+    desc: macOS limite les dossiers que l'application peut lire. Une fois autorisés, ils sont mémorisés automatiquement.
+    existingCount: "{{count}}/10 dossiers autorisés"
+    suggest: Suggestions
+    authorize: Autoriser
+    authorized: Autorisé
+    addFolderDesc: Vous pourrez en ajouter d'autres dans Réglages → Accès aux fichiers.
+    empty: Aucun dossier habituel à autoriser — vous pouvez aussi en ajouter un manuellement.
+  appearance:
+    title: Choisir thème et apparence
+    desc: Cliquez pour prévisualiser, modifiable à tout moment.
+  finish:
+    title: Configuration terminée
+    desc: Vous pouvez rouvrir ce guide à tout moment via Aide → Assistant de configuration.
+    noPrompt: Ne plus afficher automatiquement
+  nav:
+    stepWelcome: Bienvenue
+    stepStartup: Mode de démarrage
+    stepBookmarks: Accès aux fichiers
+    stepAppearance: Apparence
+    stepFinish: Terminer
+    next: Suivant
+    back: Retour
+    skip: Ignorer
+    done: Terminer

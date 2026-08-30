@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: 歡迎使用 Textox
+  startup:
+    title: 選擇啟動模式
+    desc: 決定每次開啟 Textox 時看到什麼。
+    blank: 空白頁
+    blankDesc: 每次開啟都是乾淨的新文件
+    workspace: 工作區模式
+    workspaceDesc: 開啟應用程式時直接進入常用資料夾
+    blankHint: 每次啟動都會開啟一個乾淨的空白文件
+  bookmarks:
+    desc: macOS 會限制應用程式讀取其他位置的文件。授權後應用程式會自動記住，無需每次重新確認。
+    existingCount: 已授權 {{count}}/10 個目錄
+    suggest: 建議新增
+    authorize: 授權
+    authorized: 已授權
+    addFolderDesc: 之後也可以隨時在「設定 → 檔案存取」中新增更多目錄。
+    empty: 找不到需要授權的常用目錄，也可以手動新增一個。
+  appearance:
+    title: 選擇主題與外觀
+    desc: 點擊即可預覽，隨時可以在設定中修改。
+  finish:
+    title: 設定完成
+    desc: 你隨時可以從「說明 → 設定精靈」重新開啟本精靈。
+    noPrompt: 不再自動提示
+  nav:
+    stepWelcome: 歡迎
+    stepStartup: 啟動模式
+    stepBookmarks: 檔案存取
+    stepAppearance: 外觀
+    stepFinish: 完成
+    next: 下一步
+    back: 上一步
+    skip: 略過
+    done: 完成

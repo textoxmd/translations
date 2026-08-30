@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Willkommen bei Textox
+  startup:
+    title: Startmodus wählen
+    desc: Lege fest, was du beim Öffnen von Textox siehst.
+    blank: Leere Seite
+    blankDesc: Jedes Mal mit einem neuen Dokument beginnen
+    workspace: Arbeitsbereich
+    workspaceDesc: Direkt einen häufig genutzten Ordner öffnen
+    blankHint: Bei jedem Start ein leeres Dokument öffnen
+  bookmarks:
+    desc: macOS begrenzt, welche Ordner die App lesen darf. Freigegebene Ordner werden automatisch gemerkt.
+    existingCount: "{{count}}/10 Ordner freigegeben"
+    suggest: Vorschläge
+    authorize: Freigeben
+    authorized: Freigegeben
+    addFolderDesc: Du kannst jederzeit weitere Ordner unter Einstellungen → Dateizugriff hinzufügen.
+    empty: Keine freizugebenden Ordner gefunden — du kannst auch manuell einen hinzufügen.
+  appearance:
+    title: Design & Erscheinungsbild
+    desc: Klicken zum Vorschauen, jederzeit in den Einstellungen änderbar.
+  finish:
+    title: Einrichtung abgeschlossen
+    desc: Du kannst den Assistenten jederzeit über Hilfe → Einrichtungsassistent erneut öffnen.
+    noPrompt: Nicht mehr automatisch anzeigen
+  nav:
+    stepWelcome: Willkommen
+    stepStartup: Startmodus
+    stepBookmarks: Dateizugriff
+    stepAppearance: Erscheinungsbild
+    stepFinish: Fertig
+    next: Weiter
+    back: Zurück
+    skip: Überspringen
+    done: Fertig

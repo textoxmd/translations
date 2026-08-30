@@ -1,0 +1,36 @@
+onboarding:
+  welcome:
+    title: Bienvenido a Textox
+  startup:
+    title: Elige el modo de inicio
+    desc: Decide qué ver al abrir Textox.
+    blank: Página en blanco
+    blankDesc: Empezar con un documento nuevo cada vez
+    workspace: Espacio de trabajo
+    workspaceDesc: Abrir directamente una carpeta habitual
+    blankHint: Abrir un documento en blanco cada vez que se inicia
+  bookmarks:
+    desc: macOS limita las carpetas que la app puede leer. Una vez autorizadas, se recuerdan automáticamente.
+    existingCount: "{{count}}/10 carpetas autorizadas"
+    suggest: Sugerencias
+    authorize: Autorizar
+    authorized: Autorizada
+    addFolderDesc: Puedes añadir más carpetas cuando quieras en Ajustes → Acceso a archivos.
+    empty: No hay carpetas habituales que autorizar; también puedes añadir una manualmente.
+  appearance:
+    title: Elige tema y apariencia
+    desc: Haz clic para previsualizar; cambiable en cualquier momento.
+  finish:
+    title: Configuración completada
+    desc: Puedes volver a abrir este asistente desde Ayuda → Asistente de configuración.
+    noPrompt: No volver a mostrar automáticamente
+  nav:
+    stepWelcome: Bienvenida
+    stepStartup: Modo de inicio
+    stepBookmarks: Acceso a archivos
+    stepAppearance: Apariencia
+    stepFinish: Terminar
+    next: Siguiente
+    back: Atrás
+    skip: Omitir
+    done: Terminar
