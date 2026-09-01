@@ -5,3 +5,7 @@ dialog:
     Diese Datei wurde an anderer Stelle geändert. Sie können neu laden, um den aktuellsten Inhalt zu laden, oder die
     aktuelle Version weiter bearbeiten (kann zu Inhaltskonflikten führen).
   fileModifiedReload: Neu laden
+  saveConflictOverwrite: Überschreiben
+  saveConflictDesc: >-
+    Diese Datei wurde auf der Festplatte von außen geändert. Sie können überschreiben (externe Änderungen verwerfen),
+    den aktuellsten Inhalt neu laden (nicht gespeicherte Änderungen verwerfen) oder abbrechen.

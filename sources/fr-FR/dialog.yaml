@@ -5,3 +5,7 @@ dialog:
     Ce fichier a été modifié ailleurs. Vous pouvez recharger pour charger le contenu le plus récent, ou continuer à
     modifier la version actuelle (peut entraîner des conflits de contenu).
   fileModifiedReload: Recharger
+  saveConflictOverwrite: Écraser
+  saveConflictDesc: >-
+    Ce fichier a été modifié sur le disque. Vous pouvez écraser (en ignorant les modifications externes), recharger le
+    contenu le plus récent (en abandonnant vos modifications non enregistrées) ou annuler.

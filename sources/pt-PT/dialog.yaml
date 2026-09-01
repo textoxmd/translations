@@ -5,3 +5,7 @@ dialog:
     Este ficheiro foi modificado noutro local. Pode recarregar para carregar o conteúdo mais recente ou continuar a
     editar a versão atual (pode causar conflitos de conteúdo).
   fileModifiedReload: Recarregar
+  saveConflictOverwrite: Substituir
+  saveConflictDesc: >-
+    Este ficheiro foi modificado no disco. Pode substituí-lo (descartando as alterações externas), recarregar o
+    conteúdo mais recente (descartando as alterações não guardadas) ou cancelar.

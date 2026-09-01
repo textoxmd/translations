@@ -5,3 +5,7 @@ dialog:
     Tệp này đã được sửa đổi ở nơi khác. Bạn có thể tải lại để tải nội dung mới nhất hoặc tiếp tục chỉnh sửa phiên bản
     hiện tại (có thể gây xung đột nội dung).
   fileModifiedReload: Tải lại
+  saveConflictOverwrite: Ghi đè
+  saveConflictDesc: >-
+    Tệp này đã được sửa đổi trên đĩa từ bên ngoài. Bạn có thể ghi đè (bỏ qua các thay đổi bên ngoài), tải lại nội dung
+    mới nhất (bỏ qua các thay đổi chưa lưu) hoặc hủy.

@@ -5,3 +5,7 @@ dialog:
     Questo file è stato modificato altrove. Puoi ricaricare per caricare il contenuto più recente o continuare a
     modificare la versione corrente (potrebbe causare conflitti di contenuto).
   fileModifiedReload: Ricarica
+  saveConflictOverwrite: Sovrascrivi
+  saveConflictDesc: >-
+    Questo file è stato modificato su disco. Puoi sovrascriverlo (scartando le modifiche esterne), ricaricare il
+    contenuto più recente (scartando le modifiche non salvate) o annullare.

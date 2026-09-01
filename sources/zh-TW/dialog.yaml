@@ -3,3 +3,6 @@ dialog:
   fileModifiedTitle: 檔案已被修改
   fileModifiedDesc: 該檔案在其他地方被修改了。你可以選擇重新整理以載入最新內容，或者繼續編輯當前版本（可能會導致內容衝突）。
   fileModifiedReload: 重新載入
+  saveConflictOverwrite: 覆寫儲存
+  saveConflictDesc: >-
+    此檔案已在磁碟上被外部修改。您可以覆寫儲存（捨棄外部修改）、重新載入最新內容（捨棄目前未儲存的修改）或取消儲存。
