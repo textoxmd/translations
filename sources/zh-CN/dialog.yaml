@@ -3,3 +3,6 @@ dialog:
   fileModifiedTitle: 文件已被修改
   fileModifiedDesc: 该文件在其他地方被修改了。你可以选择刷新以加载最新内容，或者继续编辑当前版本（可能会导致内容冲突）。
   fileModifiedReload: 重新加载
+  saveConflictOverwrite: 覆盖保存
+  saveConflictDesc: >-
+    该文件已在磁盘上被外部修改。你可以覆盖保存（丢弃外部修改）、重新加载最新内容（丢弃当前未保存的修改）或取消保存。

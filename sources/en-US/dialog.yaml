@@ -5,3 +5,7 @@ dialog:
     This file has been modified elsewhere. You can reload to load the latest content, or continue editing the current
     version (may cause content conflicts).
   fileModifiedReload: Reload
+  saveConflictOverwrite: Overwrite
+  saveConflictDesc: >-
+    This file has been modified on disk. You can overwrite it (discarding the external changes), reload the latest
+    content (discarding your unsaved changes), or cancel.
