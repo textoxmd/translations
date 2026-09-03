@@ -64,6 +64,7 @@ menu:
   developer: "ตัวเลือกนักพัฒนา"
   toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
   test_review_prompt: ทดสอบป๊อปอัปให้คะแนน
+  devtools: "เครื่องมือสำหรับนักพัฒนา"
   window: หน้าต่าง
   minimize: ย่อเล็กสุด
   zoom: ซูม

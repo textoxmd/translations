@@ -64,6 +64,7 @@ menu:
   developer: "開発者オプション"
   toggle_editor_hud: "エディタ HUD を表示"
   test_review_prompt: 評価プロンプトをテスト
+  devtools: "開発者ツール"
   window: ウィンドウ
   minimize: 最小化
   zoom: ズーム

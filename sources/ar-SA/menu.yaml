@@ -64,6 +64,7 @@ menu:
   developer: "خيارات المطور"
   toggle_editor_hud: "إظهار HUD المحرر"
   test_review_prompt: اختبار طلب التقييم
+  devtools: "أدوات المطوّر"
   window: نافذة
   minimize: تصغير
   zoom: تكبير

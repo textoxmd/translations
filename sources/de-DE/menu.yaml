@@ -64,6 +64,7 @@ menu:
   developer: "Entwickleroptionen"
   toggle_editor_hud: "Editor-HUD anzeigen"
   test_review_prompt: Bewertungsabfrage testen
+  devtools: "Entwicklerwerkzeuge"
   window: Fenster
   minimize: Minimieren
   zoom: Zoomen

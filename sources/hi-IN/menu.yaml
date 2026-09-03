@@ -64,6 +64,7 @@ menu:
   developer: "डेवलपर विकल्प"
   toggle_editor_hud: "संपादक HUD दिखाएं"
   test_review_prompt: रेटिंग प्रॉम्प्ट टेस्ट करें
+  devtools: "डेवलपर टूल्स"
   window: विंडो
   minimize: न्यूनतम करें
   zoom: ज़ूम

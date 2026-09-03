@@ -64,6 +64,7 @@ menu:
   developer: "開發者選項"
   toggle_editor_hud: "顯示編輯器 HUD"
   test_review_prompt: 觸發評分彈窗
+  devtools: "開發者工具"
   window: 視窗
   minimize: 最小化
   zoom: 縮放

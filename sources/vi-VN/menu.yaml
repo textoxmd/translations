@@ -64,6 +64,7 @@ menu:
   developer: "Tùy chọn nhà phát triển"
   toggle_editor_hud: "Hiển thị HUD trình soạn thảo"
   test_review_prompt: Kiểm tra yêu cầu đánh giá
+  devtools: "Công cụ dành cho nhà phát triển"
   window: Cửa sổ
   minimize: Thu nhỏ
   zoom: Thu phóng

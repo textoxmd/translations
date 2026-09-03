@@ -64,6 +64,7 @@ menu:
   developer: "Параметры разработчика"
   toggle_editor_hud: "Показать HUD редактора"
   test_review_prompt: Проверить запрос оценки
+  devtools: "Инструменты разработчика"
   window: Окно
   minimize: Свернуть
   zoom: Масштаб
