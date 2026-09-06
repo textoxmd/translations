@@ -221,6 +221,9 @@ settings:
   markdownEmpty: कोई कॉन्फ़िगर करने योग्य सिंटैक्स सुविधाएँ नहीं
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: प्रायोगिक
+  sourcePreserveTitle: मूल फ़ॉर्मेटिंग बनाए रखें
+  sourcePreserveDesc: सहेजते समय केवल वही सामग्री दोबारा लिखी जाती है जिसे आपने वास्तव में संपादित किया है। बिना संपादित भाग (जैसे सूची चिह्न, कोड फ़ेंस शैली, तालिका संरेखण और खाली पंक्तियाँ) अपने मूल फ़ॉर्मेटिंग में बिना किसी बदलाव के बने रहते हैं। यह सुविधा अभी बीटा प्रयोगात्मक चरण में है और इसमें सीमांत समस्याएँ हो सकती हैं; पहले अपने दस्तावेज़ की एक प्रति पर आज़माएँ।
   alertTitle: अलर्ट
   alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है
   html-commentTitle: HTML टिप्पणियाँ

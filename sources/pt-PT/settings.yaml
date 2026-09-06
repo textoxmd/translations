@@ -223,6 +223,9 @@ settings:
   markdownEmpty: Nenhum recurso de sintaxe configurável
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: Experimental
+  sourcePreserveTitle: Manter a formatação original
+  sourcePreserveDesc: Ao guardar, apenas o conteúdo que editou é reescrito. As partes não editadas (símbolos de lista, estilo dos blocos de código, alinhamento de tabelas e linhas em branco) mantêm a formatação original, sem qualquer alteração. Esta funcionalidade está ainda em fase beta experimental e pode ter casos extremos; experimente-a primeiro numa cópia do documento.
   alertTitle: Alertsa
   alertDesc: Extensão de sintaxe blockquote com suporte para NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: Comentários HTML

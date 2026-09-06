@@ -202,11 +202,14 @@ settings:
     boundaries: 边界
     charts: 图表
     sidebar: 侧边栏
-  markdown: Markdown
-  markdownTitle: Markdown 语法
+  markdown: 语法设置
+  experimental: 实验功能
+  markdownTitle: 语法功能
   markdownEmpty: 没有可配置的语法功能
   markdownRestartTitle: 需要重启应用
   markdownRestartDesc: '{{feature}}功能在编辑器启动时加载。重启应用后该更改才会生效。'
+  sourcePreserveTitle: 保留原文格式
+  sourcePreserveDesc: 保存时仅重写你实际编辑过的内容，其余未编辑的部分（如列表符号、围栏写法、表格对齐、空行）会保持原始排版，逐字不变。该功能处于 Beta 实验阶段，可能存在边界问题，建议先在文档副本上试用。
   alertTitle: 提醒框
   alertDesc: GitHub 风格的提示框，使用引用语法，如 <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML 注释

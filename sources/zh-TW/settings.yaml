@@ -221,6 +221,9 @@ settings:
   markdownEmpty: 沒有可配置的語法功能
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: 實驗功能
+  sourcePreserveTitle: 保留原文格式
+  sourcePreserveDesc: 儲存時只會重寫你實際編輯過的內容，其餘未編輯的部分（如列表符號、圍牆寫法、表格對齊、空行）會保持原始排版，逐字不變。此功能仍處於 Beta 實驗階段，可能存在邊界問題，建議先在文件副本上試用。
   alertTitle: 提醒框
   alertDesc: GitHub 風格的提示框，使用引用語法，如 <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML 註解

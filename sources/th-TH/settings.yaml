@@ -221,6 +221,9 @@ settings:
   markdownEmpty: ไม่มีคุณสมบัติไวยากรณ์ที่กำหนดค่าได้
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: ทดลอง
+  sourcePreserveTitle: คงรูปแบบต้นฉบับ
+  sourcePreserveDesc: เมื่อบันทึก จะเขียนเฉพาะเนื้อหาที่คุณแก้ไขจริง ส่วนที่ไม่ได้แก้ (เช่น สัญลักษณ์รายการ ลักษณะบล็อกโค้ด การจัดวางตาราง และบรรทัดว่าง) จะคงรูปแบบต้นฉบับไว้โดยไม่มีการเปลี่ยนแปลงใด ๆ ฟีเจอร์นี้ยังอยู่ในช่วงทดลอง (Beta) และอาจมีกรณีขอบที่เกิดปัญหาได้ แนะนำให้ลองกับสำเนาเอกสาร์ก่อน
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: ความคิดเห็น HTML

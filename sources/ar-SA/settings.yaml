@@ -221,6 +221,9 @@ settings:
   markdownEmpty: لا توجد ميزات بناء جملة قابلة للتكوين
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: تجريبي
+  sourcePreserveTitle: الحفاظ على التنسيق الأصلي
+  sourcePreserveDesc: عند الحفظ، تتم إعادة كتابة المحتوى الذي حررته فقط. أما الأجزاء غير المحررة (مثل رموز القوائم، وأسلوب كتابة أسوار الشيفرة، ومحاذاة الجداول، والأسطر الفارغة) فتحتفظ بتنسيقها الأصلي دون أي تغيير. هذه الميزة لا تزال في مرحلة تجريبية وقد تنطوي على حالات حدّية؛ جرّبها أولاً على نسخة من مستندك.
   alertTitle: تنبيه
   alertDesc: امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION
   html-commentTitle: تعليقات HTML

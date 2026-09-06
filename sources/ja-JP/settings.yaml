@@ -221,6 +221,9 @@ settings:
   markdownEmpty: 設定可能な構文機能はありません
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: 実験
+  sourcePreserveTitle: 元の書式を保持
+  sourcePreserveDesc: 保存時、書き直されるのは実際に編集した部分だけです。編集していない部分（リストの記号、コードフェンスの書き方、表の整列、空行など）は、元の書式を一字一句そのまま保持します。この機能はベータ版の実験階段にあり、境界の問題が起きる可能性があります。まずは文書のコピーでお試しください。
   alertTitle: アラート
   alertDesc: blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート
   html-commentTitle: HTML コメント

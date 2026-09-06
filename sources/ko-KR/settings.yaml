@@ -221,6 +221,9 @@ settings:
   markdownEmpty: 구성 가능한 구문 기능이 없습니다
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: 실험
+  sourcePreserveTitle: 원본 형식 유지
+  sourcePreserveDesc: 저장 시 실제로 편집한 내용만 다시 작성되며, 편집하지 않은 부분(목록 기호, 코드 펜스 표기, 표 정렬, 빈 줄 등)은 원본 형식을 그대로 유지합니다. 이 기능은 베타 실험 단계라 경계 문제가 있을 수 있으므로 문서 사본에서 먼저 사용해 보시기 바랍니다.
   alertTitle: 알림
   alertDesc: blockquote 구문 확장, NOTE, TIP, IMPORTANT, WARNING, CAUTION 5종 지원
   html-commentTitle: HTML 주석

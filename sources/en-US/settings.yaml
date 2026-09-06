@@ -209,6 +209,9 @@ settings:
   markdownEmpty: No configurable syntax features
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
+  experimental: Experimental
+  sourcePreserveTitle: Preserve Original Formatting
+  sourcePreserveDesc: On save, only the parts you actually edited are rewritten. Untouched content — such as list markers, code fence style, table alignment, and blank lines — keeps its original formatting, byte for byte. This feature is still in an experimental Beta stage and may have edge cases; try it on a copy of your document first.
   alertTitle: Alerts
   alertDesc: GitHub-style callout boxes using blockquote syntax like <code>&gt; [!NOTE]</code>
   html-commentTitle: HTML Comments
