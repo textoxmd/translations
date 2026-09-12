@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: Copia percorso relativo
   dragToResize: Trascina per ridimensionare
   closeFile: Chiudi file
+  tagColor: Colore
+  tagColorNone: Nessun colore
   search: Cerca file
   searchPlaceholder: Cerca nomi file...
   searchNoResults: Nessun file corrispondente trovato

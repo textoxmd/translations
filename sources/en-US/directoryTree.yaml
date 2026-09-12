@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: Copy Relative Path
   dragToResize: Drag to resize
   closeFile: Close file
+  tagColor: Color
+  tagColorNone: No Color
   search: Search files
   searchPlaceholder: Search file names...
   searchNoResults: No matching files found

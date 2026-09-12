@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: Sao chép đường dẫn tương đối
   dragToResize: Kéo để thay đổi kích thước
   closeFile: Đóng tệp
+  tagColor: Màu
+  tagColorNone: Không màu
   search: Tìm kiếm tệp
   searchPlaceholder: Tìm kiếm tên tệp...
   searchNoResults: Không tìm thấy tệp khớp

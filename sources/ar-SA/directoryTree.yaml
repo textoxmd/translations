@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: نسخ المسار النسبي
   dragToResize: اسحب لتغيير الحجم
   closeFile: إغلاق الملف
+  tagColor: اللون
+  tagColorNone: بلا لون
   search: البحث عن الملفات
   searchPlaceholder: بحث عن أسماء الملفات...
   searchNoResults: لا توجد ملفات مطابقة

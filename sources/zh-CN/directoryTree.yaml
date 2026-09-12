@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: 复制相对路径
   dragToResize: 拖动调整宽度
   closeFile: 关闭文件
+  tagColor: 颜色
+  tagColorNone: 无颜色
   search: 搜索文件
   searchPlaceholder: 搜索文件名...
   searchNoResults: 未找到匹配的文件

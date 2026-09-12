@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: คัดลอกเส้นทางสัมพัทธ์
   dragToResize: ลากเพื่อปรับขนาด
   closeFile: ปิดไฟล์
+  tagColor: สี
+  tagColorNone: ไม่มีสี
   search: ค้นหาไฟล์
   searchPlaceholder: ค้นหาชื่อไฟล์...
   searchNoResults: ไม่พบไฟล์ที่ตรงกัน

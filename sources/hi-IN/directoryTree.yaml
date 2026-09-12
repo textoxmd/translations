@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: सापेक्ष पथ कॉपी करें
   dragToResize: आकार बदलने के लिए खींचें
   closeFile: फ़ाइल बंद करें
+  tagColor: रंग
+  tagColorNone: रंग नहीं
   search: फ़ाइलें खोजें
   searchPlaceholder: फ़ाइल नाम खोजें...
   searchNoResults: कोई मिलान फ़ाइल नहीं मिली

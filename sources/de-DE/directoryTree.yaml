@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: Relativen Pfad kopieren
   dragToResize: Zum Ändern der Größe ziehen
   closeFile: Datei schließen
+  tagColor: Farbe
+  tagColorNone: Keine Farbe
   search: Dateien suchen
   searchPlaceholder: Dateinamen suchen...
   searchNoResults: Keine passenden Dateien gefunden

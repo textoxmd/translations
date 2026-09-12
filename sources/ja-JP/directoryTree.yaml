@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: 相対パスをコピー
   dragToResize: ドラッグしてサイズを調整
   closeFile: ファイルを閉じる
+  tagColor: カラー
+  tagColorNone: カラーなし
   search: ファイルを検索
   searchPlaceholder: ファイル名を検索...
   searchNoResults: 一致するファイルが見つかりません

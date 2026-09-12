@@ -23,6 +23,8 @@ directoryTree:
   copyRelativePath: Скопировать относительный путь
   dragToResize: Перетащите для изменения размера
   closeFile: Закрыть файл
+  tagColor: Цвет
+  tagColorNone: Без цвета
   search: Поиск файлов
   searchPlaceholder: Поиск по именам файлов...
   searchNoResults: Совпадений не найдено
