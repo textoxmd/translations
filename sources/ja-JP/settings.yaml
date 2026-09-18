@@ -1,6 +1,6 @@
 settings:
   title: 設定
-  personalization: タイピングエフェクト
+  typingEffects: タイピングエフェクト
   shortcuts: ショートカット
   about: について
   editorFontFamily: エディタフォント
@@ -324,3 +324,13 @@ settings:
   rateOnAppStoreFailed: 評価ページを開けませんでした
   followAuthor: 作者をフォロー
   followAuthorFailed: 作者ページを開けませんでした
+  plugins: プラグイン
+  pluginDirectory: プラグインフォルダ
+  pluginDirectoryDesc: プラグインフォルダをここに置いてください。アプリを再起動すると有効になります
+  pluginDirectoryUnknown: 読み込み中…
+  pluginNone: プラグインはまだインストールされていません
+  pluginFailed: 読み込みに失敗しました
+  pluginInstall: プラグインをインストール
+  pluginUninstall: アンインストール
+  pluginOverwriteTitle: プラグインは既にインストールされています
+  pluginOverwriteDesc: 同じ ID のプラグインが既にあります。上書きしますか？

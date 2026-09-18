@@ -1,6 +1,6 @@
 settings:
   title: 設定
-  personalization: 打字效果
+  typingEffects: 打字效果
   shortcuts: 快捷鍵
   about: 關於
   editorFontFamily: 編輯器字型
@@ -324,3 +324,13 @@ settings:
   rateOnAppStoreFailed: 打開評分頁面失敗
   followAuthor: 關注作者
   followAuthorFailed: 開啟作者主頁失敗
+  plugins: 外掛
+  pluginDirectory: 外掛目錄
+  pluginDirectoryDesc: 把外掛資料夾放進這個目錄，重啟應用後生效
+  pluginDirectoryUnknown: 讀取中…
+  pluginNone: 還沒有安裝外掛
+  pluginFailed: 載入失敗
+  pluginInstall: 安裝外掛
+  pluginUninstall: 解除安裝
+  pluginOverwriteTitle: 外掛已存在
+  pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？

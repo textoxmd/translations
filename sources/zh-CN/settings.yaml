@@ -1,6 +1,6 @@
 settings:
   title: 设置
-  personalization: 打字效果
+  typingEffects: 打字效果
   shortcuts: 快捷键
   about: 关于
   editorFontFamily: 编辑器字体
@@ -310,3 +310,13 @@ settings:
   rateOnAppStoreFailed: 打开评分页面失败
   followAuthor: 关注作者
   followAuthorFailed: 打开作者主页失败
+  plugins: 插件
+  pluginDirectory: 插件目录
+  pluginDirectoryDesc: 把插件文件夹放进这个目录，重启应用后生效
+  pluginDirectoryUnknown: 读取中…
+  pluginNone: 还没有安装插件
+  pluginFailed: 加载失败
+  pluginInstall: 安装插件
+  pluginUninstall: 卸载
+  pluginOverwriteTitle: 插件已存在
+  pluginOverwriteDesc: 已经有同名插件，要覆盖吗？

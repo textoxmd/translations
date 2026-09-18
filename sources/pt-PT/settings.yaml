@@ -1,6 +1,6 @@
 settings:
   title: Definições
-  personalization: Efeitos de digitação
+  typingEffects: Efeitos de digitação
   shortcuts: Atalhos
   about: Sobre
   editorFontFamily: Tipo de letra do editor
@@ -328,3 +328,13 @@ settings:
   rateOnAppStoreFailed: Não foi possível abrir a página de avaliação
   followAuthor: Seguir o autor
   followAuthorFailed: Não foi possível abrir a página do autor
+  plugins: Extensões
+  pluginDirectory: Pasta de extensões
+  pluginDirectoryDesc: Coloque aqui as pastas de extensões; têm efeito após reiniciar
+  pluginDirectoryUnknown: A carregar…
+  pluginNone: Ainda não há extensões instaladas
+  pluginFailed: Falha ao carregar
+  pluginInstall: Instalar extensão
+  pluginUninstall: Desinstalar
+  pluginOverwriteTitle: Extensão já instalada
+  pluginOverwriteDesc: Já existe uma extensão com o mesmo id. Substituir?

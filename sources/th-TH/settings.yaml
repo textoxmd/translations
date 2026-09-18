@@ -1,6 +1,6 @@
 settings:
   title: การตั้งค่า
-  personalization: เอฟเฟกต์การพิมพ์
+  typingEffects: เอฟเฟกต์การพิมพ์
   shortcuts: ทางลัด
   about: เกี่ยวกับ
   editorFontFamily: ฟอนต์ตัวแก้ไข
@@ -324,3 +324,13 @@ settings:
   rateOnAppStoreFailed: ไม่สามารถเปิดหน้าการให้คะแนนได้
   followAuthor: ติดตามผู้เขียน
   followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้
+  plugins: ปลั๊กอิน
+  pluginDirectory: โฟลเดอร์ปลั๊กอิน
+  pluginDirectoryDesc: วางโฟลเดอร์ปลั๊กอินไว้ที่นี่ จะมีผลหลังรีสตาร์ทแอป
+  pluginDirectoryUnknown: กำลังโหลด…
+  pluginNone: ยังไม่ได้ติดตั้งปลั๊กอิน
+  pluginFailed: โหลดไม่สำเร็จ
+  pluginInstall: ติดตั้งปลั๊กอิน
+  pluginUninstall: ถอนการติดตั้ง
+  pluginOverwriteTitle: ปลั๊กอินติดตั้งอยู่แล้ว
+  pluginOverwriteDesc: มีปลั๊กอิน id เดียวกันอยู่แล้ว ต้องการเขียนทับหรือไม่?

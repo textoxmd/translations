@@ -1,6 +1,6 @@
 settings:
   title: Paramètres
-  personalization: Effets de frappe
+  typingEffects: Effets de frappe
   shortcuts: Raccourcis
   about: À propos
   editorFontFamily: Police de l'éditeur
@@ -330,3 +330,13 @@ settings:
   rateOnAppStoreFailed: Impossible d'ouvrir la page d'évaluation
   followAuthor: Suivre l'auteur
   followAuthorFailed: Impossible d'ouvrir la page de l'auteur
+  plugins: Extensions
+  pluginDirectory: Dossier des extensions
+  pluginDirectoryDesc: Placez les dossiers d'extensions ici ; ils prennent effet après le redémarrage
+  pluginDirectoryUnknown: Chargement…
+  pluginNone: Aucune extension installée
+  pluginFailed: Échec du chargement
+  pluginInstall: Installer une extension
+  pluginUninstall: Désinstaller
+  pluginOverwriteTitle: Extension déjà installée
+  pluginOverwriteDesc: Une extension avec le même identifiant est déjà installée. Remplacer ?

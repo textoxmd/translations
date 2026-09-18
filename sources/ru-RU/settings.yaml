@@ -1,6 +1,6 @@
 settings:
   title: Настройки
-  personalization: Эффекты набора
+  typingEffects: Эффекты набора
   shortcuts: Горячие клавиши
   about: О программе
   editorFontFamily: Шрифт редактора
@@ -328,3 +328,13 @@ settings:
   rateOnAppStoreFailed: Не удалось открыть страницу оценки
   followAuthor: Подписаться на автора
   followAuthorFailed: Не удалось открыть страницу автора
+  plugins: Плагины
+  pluginDirectory: Папка плагинов
+  pluginDirectoryDesc: Поместите папки плагинов сюда; они заработают после перезапуска
+  pluginDirectoryUnknown: Загрузка…
+  pluginNone: Плагины ещё не установлены
+  pluginFailed: Не удалось загрузить
+  pluginInstall: Установить плагин
+  pluginUninstall: Удалить
+  pluginOverwriteTitle: Плагин уже установлен
+  pluginOverwriteDesc: Плагин с таким id уже установлен. Перезаписать?

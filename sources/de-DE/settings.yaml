@@ -1,6 +1,6 @@
 settings:
   title: Einstellungen
-  personalization: Tipp-Effekte
+  typingEffects: Tipp-Effekte
   shortcuts: Tastenkürzel
   about: Über
   editorFontFamily: Editor-Schriftart
@@ -330,3 +330,13 @@ settings:
   rateOnAppStoreFailed: Die Bewertungsseite konnte nicht geöffnet werden
   followAuthor: Autor folgen
   followAuthorFailed: Die Autorenseite konnte nicht geöffnet werden
+  plugins: Plugins
+  pluginDirectory: Plugin-Ordner
+  pluginDirectoryDesc: Plugin-Ordner hier ablegen; sie werden nach einem Neustart wirksam
+  pluginDirectoryUnknown: Wird geladen…
+  pluginNone: Noch keine Plugins installiert
+  pluginFailed: Laden fehlgeschlagen
+  pluginInstall: Plugin installieren
+  pluginUninstall: Deinstallieren
+  pluginOverwriteTitle: Plugin bereits installiert
+  pluginOverwriteDesc: Ein Plugin mit derselben ID ist bereits installiert. Überschreiben?

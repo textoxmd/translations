@@ -1,6 +1,6 @@
 settings:
   title: الإعدادات
-  personalization: تأثيرات الكتابة
+  typingEffects: تأثيرات الكتابة
   shortcuts: الاختصارات
   about: حول
   editorFontFamily: خط المحرر
@@ -324,3 +324,13 @@ settings:
   rateOnAppStoreFailed: تعذّر فتح صفحة التقييم
   followAuthor: تابع المؤلف
   followAuthorFailed: تعذّر فتح صفحة المؤلف
+  plugins: الإضافات
+  pluginDirectory: مجلد الإضافات
+  pluginDirectoryDesc: ضع مجلدات الإضافات هنا، وتصبح فعّالة بعد إعادة تشغيل التطبيق
+  pluginDirectoryUnknown: جارٍ التحميل…
+  pluginNone: لم تُثبَّت أي إضافات بعد
+  pluginFailed: فشل التحميل
+  pluginInstall: تثبيت إضافة
+  pluginUninstall: إزالة
+  pluginOverwriteTitle: الإضافة مثبّتة بالفعل
+  pluginOverwriteDesc: توجد إضافة بالمعرّف نفسه. هل تريد استبدالها؟

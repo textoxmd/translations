@@ -1,6 +1,6 @@
 settings:
   title: Configuración
-  personalization: Efectos de escritura
+  typingEffects: Efectos de escritura
   shortcuts: Atajos
   about: Acerca de
   editorFontFamily: Fuente del editor
@@ -328,3 +328,13 @@ settings:
   rateOnAppStoreFailed: No se pudo abrir la página de valoración
   followAuthor: Seguir al autor
   followAuthorFailed: No se pudo abrir la página del autor
+  plugins: Complementos
+  pluginDirectory: Carpeta de complementos
+  pluginDirectoryDesc: Coloque aquí las carpetas de complementos; surten efecto tras reiniciar
+  pluginDirectoryUnknown: Cargando…
+  pluginNone: Aún no hay complementos instalados
+  pluginFailed: Error al cargar
+  pluginInstall: Instalar complemento
+  pluginUninstall: Desinstalar
+  pluginOverwriteTitle: Complemento ya instalado
+  pluginOverwriteDesc: Ya hay un complemento con el mismo id. ¿Sobrescribir?

@@ -1,6 +1,6 @@
 settings:
   title: Settings
-  personalization: Typing Effects
+  typingEffects: Typing Effects
   shortcuts: Shortcuts
   about: About
   editorFontFamily: Editor Font
@@ -312,3 +312,13 @@ settings:
   rateOnAppStoreFailed: Failed to open the rating page
   followAuthor: Follow the Author
   followAuthorFailed: Failed to open the author page
+  plugins: Plugins
+  pluginDirectory: Plugin Folder
+  pluginDirectoryDesc: Put plugin folders here; they take effect after restarting the app
+  pluginDirectoryUnknown: Loading…
+  pluginNone: No plugins installed yet
+  pluginFailed: Failed to load
+  pluginInstall: Install Plugin
+  pluginUninstall: Uninstall
+  pluginOverwriteTitle: Plugin Already Installed
+  pluginOverwriteDesc: A plugin with the same id is already installed. Overwrite it?

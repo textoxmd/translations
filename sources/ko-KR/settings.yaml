@@ -1,6 +1,6 @@
 settings:
   title: 설정
-  personalization: 타이핑 효과
+  typingEffects: 타이핑 효과
   shortcuts: 단축키
   about: 정보
   editorFontFamily: 편집기 글꼴
@@ -324,3 +324,13 @@ settings:
   rateOnAppStoreFailed: 평가 페이지를 열지 못했습니다
   followAuthor: 작가 팔로우하기
   followAuthorFailed: 작가 페이지를 열지 못했습니다
+  plugins: 플러그인
+  pluginDirectory: 플러그인 폴더
+  pluginDirectoryDesc: 플러그인 폴더를 이곳에 넣으세요. 앱을 다시 시작하면 적용됩니다
+  pluginDirectoryUnknown: 불러오는 중…
+  pluginNone: 아직 설치된 플러그인이 없습니다
+  pluginFailed: 불러오기 실패
+  pluginInstall: 플러그인 설치
+  pluginUninstall: 제거
+  pluginOverwriteTitle: 이미 설치된 플러그인입니다
+  pluginOverwriteDesc: 같은 ID의 플러그인이 이미 있습니다. 덮어쓸까요?

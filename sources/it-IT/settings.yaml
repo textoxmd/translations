@@ -1,6 +1,6 @@
 settings:
   title: Impostazioni
-  personalization: Effetti di digitazione
+  typingEffects: Effetti di digitazione
   shortcuts: Scorciatoie
   about: Informazioni
   editorFontFamily: Carattere editor
@@ -328,3 +328,13 @@ settings:
   rateOnAppStoreFailed: Impossibile aprire la pagina di valutazione
   followAuthor: Segui l'autore
   followAuthorFailed: Impossibile aprire la pagina dell'autore
+  plugins: Plugin
+  pluginDirectory: Cartella dei plugin
+  pluginDirectoryDesc: Metti qui le cartelle dei plugin; hanno effetto dopo il riavvio
+  pluginDirectoryUnknown: Caricamento…
+  pluginNone: Nessun plugin installato
+  pluginFailed: Caricamento non riuscito
+  pluginInstall: Installa plugin
+  pluginUninstall: Disinstalla
+  pluginOverwriteTitle: Plugin già installato
+  pluginOverwriteDesc: Esiste già un plugin con lo stesso id. Sovrascrivere?

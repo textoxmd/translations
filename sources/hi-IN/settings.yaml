@@ -1,6 +1,6 @@
 settings:
   title: सेटिंग्स
-  personalization: टाइपिंग इफेक्ट्स
+  typingEffects: टाइपिंग इफेक्ट्स
   shortcuts: शॉर्टकट
   about: के बारे में
   editorFontFamily: संपादक फ़ॉन्ट
@@ -326,3 +326,13 @@ settings:
   rateOnAppStoreFailed: रेटिंग पेज खोलने में विफल
   followAuthor: लेखक को फ़ॉलो करें
   followAuthorFailed: लेखक का पृष्ठ खोलने में विफल
+  plugins: प्लगइन
+  pluginDirectory: प्लगइन फ़ोल्डर
+  pluginDirectoryDesc: प्लगइन फ़ोल्डर यहाँ रखें; ऐप को पुनः आरंभ करने पर प्रभावी होंगे
+  pluginDirectoryUnknown: लोड हो रहा है…
+  pluginNone: अभी कोई प्लगइन इंस्टॉल नहीं है
+  pluginFailed: लोड करने में विफल
+  pluginInstall: प्लगइन इंस्टॉल करें
+  pluginUninstall: अनइंस्टॉल करें
+  pluginOverwriteTitle: प्लगइन पहले से इंस्टॉल है
+  pluginOverwriteDesc: इसी id का प्लगइन पहले से है। अधिलेखित करें?

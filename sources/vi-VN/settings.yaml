@@ -1,6 +1,6 @@
 settings:
   title: Cài đặt
-  personalization: Hiệu ứng gõ
+  typingEffects: Hiệu ứng gõ
   shortcuts: Phím tắt
   about: Giới thiệu
   editorFontFamily: Phông chữ trình soạn thảo
@@ -328,3 +328,13 @@ settings:
   rateOnAppStoreFailed: Không thể mở trang đánh giá
   followAuthor: Theo dõi tác giả
   followAuthorFailed: Không thể mở trang tác giả
+  plugins: Plugin
+  pluginDirectory: Thư mục plugin
+  pluginDirectoryDesc: Đặt thư mục plugin vào đây; có hiệu lực sau khi khởi động lại ứng dụng
+  pluginDirectoryUnknown: Đang tải…
+  pluginNone: Chưa cài đặt plugin nào
+  pluginFailed: Tải thất bại
+  pluginInstall: Cài đặt plugin
+  pluginUninstall: Gỡ cài đặt
+  pluginOverwriteTitle: Plugin đã được cài đặt
+  pluginOverwriteDesc: Đã có plugin cùng id. Ghi đè?
