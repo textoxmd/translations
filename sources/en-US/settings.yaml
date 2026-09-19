@@ -326,3 +326,5 @@ settings:
   schemaMoveUp: Move up
   schemaMoveDown: Move down
   schemaMissingComponent: 'This field needs a component from the plugin: {{id}}'
+  schemaDeleteTitle: Delete this item
+  schemaDeleteDesc: '"{{name}}" will be deleted. This cannot be undone.'
