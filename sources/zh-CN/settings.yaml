@@ -320,3 +320,7 @@ settings:
   pluginUninstall: 卸载
   pluginOverwriteTitle: 插件已存在
   pluginOverwriteDesc: 已经有同名插件，要覆盖吗？
+  schemaRename: 重命名
+  schemaMoveUp: 上移
+  schemaMoveDown: 下移
+  schemaMissingComponent: 该字段需要插件提供组件：{{id}}

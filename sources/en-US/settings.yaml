@@ -322,3 +322,7 @@ settings:
   pluginUninstall: Uninstall
   pluginOverwriteTitle: Plugin Already Installed
   pluginOverwriteDesc: A plugin with the same id is already installed. Overwrite it?
+  schemaRename: Rename
+  schemaMoveUp: Move up
+  schemaMoveDown: Move down
+  schemaMissingComponent: 'This field needs a component from the plugin: {{id}}'
