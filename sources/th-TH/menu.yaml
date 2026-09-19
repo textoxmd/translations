@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: ขยายแถบด้านข้าง
   toggle_edit_mode: โหมดเรนเดอร์แบบทันที
   toggle_typewriter_mode: โหมดเครื่องพิมพ์ดีต
+  toggle_readable_line_length: จำกัดความกว้างของเนื้อหา
   toggle_editor_toolbar: แสดงแถบเครื่องมือจัดรูปแบบ
   toggle_inline_format_toolbar: แสดงแถบเครื่องมือลอยตัว
   toggle_outline_panel: แสดงโครงร่าง

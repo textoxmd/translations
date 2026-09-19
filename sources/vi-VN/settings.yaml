@@ -21,6 +21,8 @@ settings:
   showInlineFormatToolbarDesc: Hiển thị thanh công cụ định dạng gần con trỏ khi chọn văn bản
   typewriterMode: Chế độ máy đánh chữ
   typewriterModeDesc: Trong chế độ máy đánh chữ, dòng con trỏ được giữ ở giữa màn hình để có trải nghiệm viết tập trung
+  readableLineLength: Giới hạn chiều rộng nội dung
+  readableLineLengthDesc: Khi bật, giới hạn chiều rộng nội dung và căn giữa; khi tắt, lấp đầy chiều rộng trình soạn thảo
   autoCapitalizeDesc: Tự động viết hoa chữ cái đầu tiên của câu tiếng Anh (tắt để chỉnh sửa Markdown tốt hơn)
   workspaceEnabled: Bật không gian làm việc
   workspaceEnabledDesc: Tự động mở thư mục không gian làm việc đã chỉ định khi khởi động ứng dụng

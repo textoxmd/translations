@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: 展開側邊欄
   toggle_edit_mode: 即時渲染模式
   toggle_typewriter_mode: 打字機模式
+  toggle_readable_line_length: 限制正文寬度
   toggle_editor_toolbar: 顯示格式工具列
   toggle_inline_format_toolbar: 顯示浮動工具列
   toggle_outline_panel: 顯示大綱

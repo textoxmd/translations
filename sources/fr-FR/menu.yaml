@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: Développer la barre latérale
   toggle_edit_mode: Mode rendu instantané
   toggle_typewriter_mode: Mode machine à écrire
+  toggle_readable_line_length: Limiter la largeur du contenu
   toggle_editor_toolbar: Afficher la barre d'outils de format
   toggle_inline_format_toolbar: Afficher la barre d'outils flottante
   toggle_outline_panel: Afficher le plan

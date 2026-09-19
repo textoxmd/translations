@@ -21,6 +21,8 @@ settings:
   showInlineFormatToolbarDesc: テキスト選択時にカーソル近くに書式ツールバーを表示
   typewriterMode: タイプライターモード
   typewriterModeDesc: タイプライターモードではカーソル行が画面中央に保たれ、集中して執筆できます
+  readableLineLength: 本文の幅を制限
+  readableLineLengthDesc: オンにすると本文の幅を制限して中央揃えにし、オフにすると編集領域いっぱいに表示します
   autoCapitalizeDesc: 英文の文頭を自動的に大文字にします（Markdown編集のため無効推奨）
   workspaceEnabled: ワークスペースを有効化
   workspaceEnabledDesc: アプリ起動時に指定したワークスペースフォルダを自動的に開きます

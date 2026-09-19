@@ -21,6 +21,8 @@ settings:
   showInlineFormatToolbarDesc: 選取文字時在游標附近顯示格式工具列
   typewriterMode: 打字機模式
   typewriterModeDesc: 在打字機模式下，游標行將保持在螢幕中央位置，提供專注的寫作體驗
+  readableLineLength: 限制正文寬度
+  readableLineLengthDesc: 開啟後限制正文寬度並置中，關閉後鋪滿編輯區
   autoCapitalizeDesc: 在編輯器中自動將英文句子首字大寫（關閉以獲得更好的 Markdown 編輯體驗）
   workspaceEnabled: 啟用工作區
   workspaceEnabledDesc: 啟動應用時自動開啟指定的工作區目錄

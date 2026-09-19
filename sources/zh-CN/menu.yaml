@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: 展开侧边栏
   toggle_edit_mode: 即时渲染模式
   toggle_typewriter_mode: 打字机模式
+  toggle_readable_line_length: 限制正文宽度
   toggle_editor_toolbar: 显示格式工具栏
   toggle_inline_format_toolbar: 显示悬浮工具栏
   toggle_outline_panel: 显示大纲

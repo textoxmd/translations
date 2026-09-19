@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: Seitenleiste einblenden
   toggle_edit_mode: Sofort-Rendermodus
   toggle_typewriter_mode: Schreibmaschinenmodus
+  toggle_readable_line_length: Inhaltsbreite begrenzen
   toggle_editor_toolbar: Formatierungssymbolleiste anzeigen
   toggle_inline_format_toolbar: Schwebende Symbolleiste anzeigen
   toggle_outline_panel: Gliederung anzeigen

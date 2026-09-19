@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: 사이드바 펼치기
   toggle_edit_mode: 즉시 렌더링 모드
   toggle_typewriter_mode: 타자기 모드
+  toggle_readable_line_length: 본문 너비 제한
   toggle_editor_toolbar: 서식 도구 모음 표시
   toggle_inline_format_toolbar: 플로팅 도구 모음 표시
   toggle_outline_panel: 개요 표시

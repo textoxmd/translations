@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: Expandir barra lateral
   toggle_edit_mode: Modo de renderização instantânea
   toggle_typewriter_mode: Modo máquina de escrever
+  toggle_readable_line_length: Limitar a largura do conteúdo
   toggle_editor_toolbar: Mostrar barra de ferramentas de formatação
   toggle_inline_format_toolbar: Mostrar barra de ferramentas flutuante
   toggle_outline_panel: Mostrar esboço

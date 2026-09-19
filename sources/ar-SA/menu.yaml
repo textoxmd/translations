@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: توسيع الشريط الجانبي
   toggle_edit_mode: وضع العرض الفوري
   toggle_typewriter_mode: وضع الآلة الكاتبة
+  toggle_readable_line_length: تحديد عرض المحتوى
   toggle_editor_toolbar: إظهار شريط أدوات التنسيق
   toggle_inline_format_toolbar: إظهار شريط الأدوات العائم
   toggle_outline_panel: إظهار المخطط

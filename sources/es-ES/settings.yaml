@@ -21,6 +21,8 @@ settings:
   showInlineFormatToolbarDesc: Mostrar una barra de herramientas de formato cerca del cursor al seleccionar texto
   typewriterMode: Modo máquina de escribir
   typewriterModeDesc: En el modo máquina de escribir, la línea del cursor se mantiene centrada para una experiencia de escritura enfocada
+  readableLineLength: Limitar el ancho del contenido
+  readableLineLengthDesc: Cuando está activada, limita el ancho del contenido y lo centra; cuando está desactivada, ocupa todo el ancho del editor
   autoCapitalizeDesc: Capitalizar automáticamente la primera letra de oraciones en inglés (desactivar para mejor edición Markdown)
   workspaceEnabled: Habilitar espacio de trabajo
   workspaceEnabledDesc: Abre automáticamente la carpeta de espacio de trabajo especificada al iniciar la aplicación

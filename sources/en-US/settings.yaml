@@ -21,6 +21,8 @@ settings:
   showInlineFormatToolbarDesc: Show a formatting toolbar near the cursor when text is selected
   typewriterMode: Typewriter Mode
   typewriterModeDesc: Keep the cursor line centered while typing for a focused writing experience
+  readableLineLength: Limit content width
+  readableLineLengthDesc: When enabled, limit content width and center it; when disabled, fill the editor width
   autoCapitalizeDesc: Automatically capitalize the first letter of English sentences (disable for better Markdown editing)
   workspaceEnabled: Enable Workspace
   workspaceEnabledDesc: Automatically open the specified workspace directory when the app launches

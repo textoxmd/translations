@@ -58,6 +58,7 @@ menu:
   toggle_sidebar: サイドバーを展開
   toggle_edit_mode: 即時レンダリングモード
   toggle_typewriter_mode: タイプライターモード
+  toggle_readable_line_length: 本文の幅を制限
   toggle_editor_toolbar: 書式ツールバーを表示
   toggle_inline_format_toolbar: フローティングツールバーを表示
   toggle_outline_panel: アウトラインを表示
