@@ -343,6 +343,8 @@ settings:
   pluginInstall: Cài đặt plugin
   pluginUninstall: Gỡ cài đặt
   pluginBundled: Chính thức
+  pluginReload: Tải lại
+  pluginReloaded: Đã tải lại
   pluginEnabled: Bật
   pluginDisabledHint: Đã tắt. Khởi động lại ứng dụng để áp dụng.
   pluginOverwriteTitle: Plugin đã được cài đặt

@@ -339,6 +339,8 @@ settings:
   pluginInstall: تثبيت إضافة
   pluginUninstall: إزالة
   pluginBundled: رسمي
+  pluginReload: إعادة التحميل
+  pluginReloaded: تمت إعادة التحميل
   pluginEnabled: مفعّل
   pluginDisabledHint: معطّل. أعد تشغيل التطبيق للتطبيق.
   pluginOverwriteTitle: الإضافة مثبّتة بالفعل

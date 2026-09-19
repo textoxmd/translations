@@ -345,6 +345,8 @@ settings:
   pluginInstall: Plugin installieren
   pluginUninstall: Deinstallieren
   pluginBundled: Offiziell
+  pluginReload: Neu laden
+  pluginReloaded: Neu geladen
   pluginEnabled: Aktiviert
   pluginDisabledHint: Deaktiviert. App neu starten, um zu übernehmen.
   pluginOverwriteTitle: Plugin bereits installiert

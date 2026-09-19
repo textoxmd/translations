@@ -343,6 +343,8 @@ settings:
   pluginInstall: Установить плагин
   pluginUninstall: Удалить
   pluginBundled: Официальный
+  pluginReload: Перезагрузить
+  pluginReloaded: Перезагружено
   pluginEnabled: Включить
   pluginDisabledHint: Отключено. Перезапустите приложение.
   pluginOverwriteTitle: Плагин уже установлен

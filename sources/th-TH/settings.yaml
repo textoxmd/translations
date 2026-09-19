@@ -339,6 +339,8 @@ settings:
   pluginInstall: ติดตั้งปลั๊กอิน
   pluginUninstall: ถอนการติดตั้ง
   pluginBundled: ทางการ
+  pluginReload: โหลดใหม่
+  pluginReloaded: โหลดใหม่แล้ว
   pluginEnabled: เปิดใช้
   pluginDisabledHint: ปิดใช้งานแล้ว รีสตาร์ทแอปเพื่อให้มีผล
   pluginOverwriteTitle: ปลั๊กอินติดตั้งอยู่แล้ว

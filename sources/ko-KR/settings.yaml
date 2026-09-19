@@ -339,6 +339,8 @@ settings:
   pluginInstall: 플러그인 설치
   pluginUninstall: 제거
   pluginBundled: 공식
+  pluginReload: 다시 로드
+  pluginReloaded: 다시 로드했습니다
   pluginEnabled: 사용
   pluginDisabledHint: 사용 안 함. 앱을 다시 시작하면 적용됩니다.
   pluginOverwriteTitle: 이미 설치된 플러그인입니다

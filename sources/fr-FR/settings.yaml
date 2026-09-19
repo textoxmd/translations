@@ -345,6 +345,8 @@ settings:
   pluginInstall: Installer une extension
   pluginUninstall: Désinstaller
   pluginBundled: Officiel
+  pluginReload: Recharger
+  pluginReloaded: Rechargé
   pluginEnabled: Activer
   pluginDisabledHint: Désactivé. Redémarrez l’application pour appliquer.
   pluginOverwriteTitle: Extension déjà installée

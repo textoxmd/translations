@@ -327,6 +327,8 @@ settings:
   pluginInstall: Install Plugin
   pluginUninstall: Uninstall
   pluginBundled: Official
+  pluginReload: Reload
+  pluginReloaded: Reloaded
   pluginEnabled: Enabled
   pluginDisabledHint: Disabled. Restart the app to apply.
   pluginOverwriteTitle: Plugin Already Installed

@@ -339,6 +339,8 @@ settings:
   pluginInstall: プラグインをインストール
   pluginUninstall: アンインストール
   pluginBundled: 公式
+  pluginReload: 再読み込み
+  pluginReloaded: 再読み込みしました
   pluginEnabled: 有効
   pluginDisabledHint: 無効です。再起動すると反映されます。
   pluginOverwriteTitle: プラグインは既にインストールされています

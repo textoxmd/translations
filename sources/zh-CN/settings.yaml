@@ -325,6 +325,8 @@ settings:
   pluginInstall: 安装插件
   pluginUninstall: 卸载
   pluginBundled: 官方
+  pluginReload: 重新加载
+  pluginReloaded: 已重新加载
   pluginEnabled: 启用
   pluginDisabledHint: 已停用，重启应用后生效
   pluginOverwriteTitle: 插件已存在

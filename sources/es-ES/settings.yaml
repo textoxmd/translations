@@ -343,6 +343,8 @@ settings:
   pluginInstall: Instalar complemento
   pluginUninstall: Desinstalar
   pluginBundled: Oficial
+  pluginReload: Recargar
+  pluginReloaded: Recargado
   pluginEnabled: Activar
   pluginDisabledHint: Desactivado. Reinicia la aplicación para aplicarlo.
   pluginOverwriteTitle: Complemento ya instalado
