@@ -271,6 +271,12 @@ settings:
   particlePaletteCool: ठंडा
   particlePalettePastel: पेस्टल
   particlePaletteNeon: नियॉन
+  particlePalette: पैलेट
+  particlePreset_confetti: कन्फ़ेटी
+  particlePreset_explosion: विस्फोट
+  particlePreset_rain: बारिश
+  particlePreset_fireflies: जुगनू
+  particlePreset_fountain: फ़व्वारा
   particleColorTheme: थीम का पालन करें
   particleColorFixed: निश्चित रंग
   particleColorRandom: यादृच्छिक

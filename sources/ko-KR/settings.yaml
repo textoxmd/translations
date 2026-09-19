@@ -269,6 +269,12 @@ settings:
   particlePaletteCool: 차가운 색
   particlePalettePastel: 파스텔
   particlePaletteNeon: 네온
+  particlePalette: 팔레트
+  particlePreset_confetti: 색종이
+  particlePreset_explosion: 폭발
+  particlePreset_rain: 빗줄기
+  particlePreset_fireflies: 반딧불
+  particlePreset_fountain: 분수
   particleColorTheme: 테마 따르기
   particleColorFixed: 고정 색상
   particleColorRandom: 랜덤 색상

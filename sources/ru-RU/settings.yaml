@@ -273,6 +273,12 @@ settings:
   particlePaletteCool: Холодный
   particlePalettePastel: Пастель
   particlePaletteNeon: Неон
+  particlePalette: Палитра
+  particlePreset_confetti: Конфетти
+  particlePreset_explosion: Взрыв
+  particlePreset_rain: Дождь
+  particlePreset_fireflies: Светлячки
+  particlePreset_fountain: Фонтан
   particleColorTheme: Следовать теме
   particleColorFixed: Фиксированный цвет
   particleColorRandom: Случайный

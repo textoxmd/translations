@@ -269,6 +269,12 @@ settings:
   particlePaletteCool: بارد
   particlePalettePastel: باستيل
   particlePaletteNeon: نيون
+  particlePalette: لوحة الألوان
+  particlePreset_confetti: قصاصات ورقية
+  particlePreset_explosion: انفجار
+  particlePreset_rain: مطر
+  particlePreset_fireflies: يراعات
+  particlePreset_fountain: نافورة
   particleColorTheme: اتباع السمة
   particleColorFixed: لون ثابت
   particleColorRandom: عشوائي

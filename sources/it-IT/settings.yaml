@@ -273,6 +273,12 @@ settings:
   particlePaletteCool: Freddo
   particlePalettePastel: Pastello
   particlePaletteNeon: Neon
+  particlePalette: Tavolozza
+  particlePreset_confetti: Coriandoli
+  particlePreset_explosion: Esplosione
+  particlePreset_rain: Pioggia
+  particlePreset_fireflies: Lucciole
+  particlePreset_fountain: Fontana
   particleColorTheme: Segui tema
   particleColorFixed: Colore fisso
   particleColorRandom: Casuale

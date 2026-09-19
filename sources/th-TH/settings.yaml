@@ -269,6 +269,12 @@ settings:
   particlePaletteCool: เย็น
   particlePalettePastel: พาสเทล
   particlePaletteNeon: นีออน
+  particlePalette: จานสี
+  particlePreset_confetti: กระดาษสี
+  particlePreset_explosion: ระเบิด
+  particlePreset_rain: สายฝน
+  particlePreset_fireflies: หิ่งห้อย
+  particlePreset_fountain: น้ำพุ
   particleColorTheme: ตามธีม
   particleColorFixed: สีคงที่
   particleColorRandom: สุ่ม

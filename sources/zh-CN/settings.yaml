@@ -255,6 +255,12 @@ settings:
   particlePaletteCool: 冷色
   particlePalettePastel: 柔和
   particlePaletteNeon: 霓虹
+  particlePalette: 调色板
+  particlePreset_confetti: 彩纸
+  particlePreset_explosion: 爆炸
+  particlePreset_rain: 雨丝
+  particlePreset_fireflies: 萤火
+  particlePreset_fountain: 喷泉
   particleColorTheme: 跟随主题
   particleColorFixed: 固定颜色
   particleColorRandom: 随机彩色

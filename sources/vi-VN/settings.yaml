@@ -273,6 +273,12 @@ settings:
   particlePaletteCool: Lạnh
   particlePalettePastel: Pastel
   particlePaletteNeon: Neon
+  particlePalette: Bảng màu
+  particlePreset_confetti: Pháo giấy
+  particlePreset_explosion: Vụ nổ
+  particlePreset_rain: Mưa
+  particlePreset_fireflies: Đom đóm
+  particlePreset_fountain: Đài phun nước
   particleColorTheme: Theo chủ đề
   particleColorFixed: Màu cố định
   particleColorRandom: Ngẫu nhiên

@@ -269,6 +269,12 @@ settings:
   particlePaletteCool: 寒色
   particlePalettePastel: パステル
   particlePaletteNeon: ネオン
+  particlePalette: パレット
+  particlePreset_confetti: 紙吹雪
+  particlePreset_explosion: 爆発
+  particlePreset_rain: 雨
+  particlePreset_fireflies: 蛍
+  particlePreset_fountain: 噴水
   particleColorTheme: テーマに従う
   particleColorFixed: 固定色
   particleColorRandom: ランダム色

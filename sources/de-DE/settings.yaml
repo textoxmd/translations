@@ -275,6 +275,12 @@ settings:
   particlePaletteCool: Kalt
   particlePalettePastel: Pastell
   particlePaletteNeon: Neon
+  particlePalette: Palette
+  particlePreset_confetti: Konfetti
+  particlePreset_explosion: Explosion
+  particlePreset_rain: Regen
+  particlePreset_fireflies: Glühwürmchen
+  particlePreset_fountain: Springbrunnen
   particleColorTheme: Design folgen
   particleColorFixed: Feste Farbe
   particleColorRandom: Zufällig
