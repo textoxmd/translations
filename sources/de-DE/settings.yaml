@@ -348,6 +348,8 @@ settings:
   pluginReload: Neu laden
   pluginReloaded: Neu geladen
   pluginEnabled: Aktiviert
-  pluginDisabledHint: Deaktiviert. App neu starten, um zu übernehmen.
+  pluginDisabledHint: Deaktiviert
+  pluginEnabledNow: Aktiviert
+  pluginDisabledNow: Deaktiviert
   pluginOverwriteTitle: Plugin bereits installiert
   pluginOverwriteDesc: Ein Plugin mit derselben ID ist bereits installiert. Überschreiben?

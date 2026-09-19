@@ -342,6 +342,8 @@ settings:
   pluginReload: 重新載入
   pluginReloaded: 已重新載入
   pluginEnabled: 啟用
-  pluginDisabledHint: 已停用，重啟應用程式後生效
+  pluginDisabledHint: 已停用
+  pluginEnabledNow: 已啟用
+  pluginDisabledNow: 已停用
   pluginOverwriteTitle: 外掛已存在
   pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？

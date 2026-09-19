@@ -344,6 +344,8 @@ settings:
   pluginReload: पुनः लोड करें
   pluginReloaded: पुनः लोड हो गया
   pluginEnabled: सक्षम
-  pluginDisabledHint: अक्षम। लागू करने के लिए ऐप को पुनः आरंभ करें।
+  pluginDisabledHint: अक्षम
+  pluginEnabledNow: सक्षम किया गया
+  pluginDisabledNow: अक्षम किया गया
   pluginOverwriteTitle: प्लगइन पहले से इंस्टॉल है
   pluginOverwriteDesc: इसी id का प्लगइन पहले से है। अधिलेखित करें?

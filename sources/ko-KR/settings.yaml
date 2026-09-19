@@ -342,6 +342,8 @@ settings:
   pluginReload: 다시 로드
   pluginReloaded: 다시 로드했습니다
   pluginEnabled: 사용
-  pluginDisabledHint: 사용 안 함. 앱을 다시 시작하면 적용됩니다.
+  pluginDisabledHint: 사용 안 함
+  pluginEnabledNow: 사용함
+  pluginDisabledNow: 사용 안 함
   pluginOverwriteTitle: 이미 설치된 플러그인입니다
   pluginOverwriteDesc: 같은 ID의 플러그인이 이미 있습니다. 덮어쓸까요?

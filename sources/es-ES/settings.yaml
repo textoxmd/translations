@@ -346,6 +346,8 @@ settings:
   pluginReload: Recargar
   pluginReloaded: Recargado
   pluginEnabled: Activar
-  pluginDisabledHint: Desactivado. Reinicia la aplicación para aplicarlo.
+  pluginDisabledHint: Desactivado
+  pluginEnabledNow: Activado
+  pluginDisabledNow: Desactivado
   pluginOverwriteTitle: Complemento ya instalado
   pluginOverwriteDesc: Ya hay un complemento con el mismo id. ¿Sobrescribir?

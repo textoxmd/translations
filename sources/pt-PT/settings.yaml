@@ -346,6 +346,8 @@ settings:
   pluginReload: Recarregar
   pluginReloaded: Recarregado
   pluginEnabled: Ativar
-  pluginDisabledHint: Desativado. Reinicie a aplicação para aplicar.
+  pluginDisabledHint: Desativado
+  pluginEnabledNow: Ativado
+  pluginDisabledNow: Desativado
   pluginOverwriteTitle: Extensão já instalada
   pluginOverwriteDesc: Já existe uma extensão com o mesmo id. Substituir?

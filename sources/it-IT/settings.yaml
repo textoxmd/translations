@@ -346,6 +346,8 @@ settings:
   pluginReload: Ricarica
   pluginReloaded: Ricaricato
   pluginEnabled: Attivo
-  pluginDisabledHint: Disattivato. Riavvia l’app per applicare.
+  pluginDisabledHint: Disattivato
+  pluginEnabledNow: Attivato
+  pluginDisabledNow: Disattivato
   pluginOverwriteTitle: Plugin già installato
   pluginOverwriteDesc: Esiste già un plugin con lo stesso id. Sovrascrivere?

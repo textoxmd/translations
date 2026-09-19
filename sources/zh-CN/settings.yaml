@@ -328,7 +328,9 @@ settings:
   pluginReload: 重新加载
   pluginReloaded: 已重新加载
   pluginEnabled: 启用
-  pluginDisabledHint: 已停用，重启应用后生效
+  pluginDisabledHint: 已停用
+  pluginEnabledNow: 已启用
+  pluginDisabledNow: 已停用
   pluginOverwriteTitle: 插件已存在
   pluginOverwriteDesc: 已经有同名插件，要覆盖吗？
   schemaRename: 重命名

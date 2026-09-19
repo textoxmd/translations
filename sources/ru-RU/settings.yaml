@@ -346,6 +346,8 @@ settings:
   pluginReload: Перезагрузить
   pluginReloaded: Перезагружено
   pluginEnabled: Включить
-  pluginDisabledHint: Отключено. Перезапустите приложение.
+  pluginDisabledHint: Отключено
+  pluginEnabledNow: Включено
+  pluginDisabledNow: Отключено
   pluginOverwriteTitle: Плагин уже установлен
   pluginOverwriteDesc: Плагин с таким id уже установлен. Перезаписать?

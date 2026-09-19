@@ -342,6 +342,8 @@ settings:
   pluginReload: إعادة التحميل
   pluginReloaded: تمت إعادة التحميل
   pluginEnabled: مفعّل
-  pluginDisabledHint: معطّل. أعد تشغيل التطبيق للتطبيق.
+  pluginDisabledHint: معطّل
+  pluginEnabledNow: تم التمكين
+  pluginDisabledNow: تم التعطيل
   pluginOverwriteTitle: الإضافة مثبّتة بالفعل
   pluginOverwriteDesc: توجد إضافة بالمعرّف نفسه. هل تريد استبدالها؟

@@ -330,7 +330,9 @@ settings:
   pluginReload: Reload
   pluginReloaded: Reloaded
   pluginEnabled: Enabled
-  pluginDisabledHint: Disabled. Restart the app to apply.
+  pluginDisabledHint: Disabled
+  pluginEnabledNow: Enabled
+  pluginDisabledNow: Disabled
   pluginOverwriteTitle: Plugin Already Installed
   pluginOverwriteDesc: A plugin with the same id is already installed. Overwrite it?
   schemaRename: Rename

@@ -346,6 +346,8 @@ settings:
   pluginReload: Tải lại
   pluginReloaded: Đã tải lại
   pluginEnabled: Bật
-  pluginDisabledHint: Đã tắt. Khởi động lại ứng dụng để áp dụng.
+  pluginDisabledHint: Đã tắt
+  pluginEnabledNow: Đã bật
+  pluginDisabledNow: Đã tắt
   pluginOverwriteTitle: Plugin đã được cài đặt
   pluginOverwriteDesc: Đã có plugin cùng id. Ghi đè?
