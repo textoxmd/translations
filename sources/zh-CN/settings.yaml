@@ -326,3 +326,4 @@ settings:
   schemaMissingComponent: 该字段需要插件提供组件：{{id}}
   schemaDeleteTitle: 删除这一项
   schemaDeleteDesc: 「{{name}}」将被删除，此操作无法撤销。
+  schemaItemMenu: 更多操作
