@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: ตั้งค่าฟอนต์สำหรับข้อความตัวแก้ไข
   editorFontSize: ขนาดตัวอักษรตัวแก้ไข
   editorFontSizeDesc: ปรับขนาดตัวอักษรในตัวแก้ไข
+  sourceFontSize: ขนาดตัวอักษรซอร์สโค้ด
+  sourceFontSizeDesc: ปรับขนาดตัวอักษรในโหมดซอร์สโค้ด
   autoSave: บันทึกอัตโนมัติ
   autoSaveDesc: ความถี่ในการบันทึกไฟล์อัตโนมัติ
   autoCapitalize: ตัวพิมพ์ใหญ่อัตโนมัติ

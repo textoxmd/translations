@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Définir la police du texte de l'éditeur
   editorFontSize: Taille de police de l'éditeur
   editorFontSizeDesc: Ajuster la taille de police dans l'éditeur
+  sourceFontSize: Taille de police du code source
+  sourceFontSizeDesc: Ajuster la taille de police du mode source
   autoSave: Enregistrement automatique
   autoSaveDesc: Fréquence d'enregistrement automatique des fichiers
   autoCapitalize: Auto-capitalisation

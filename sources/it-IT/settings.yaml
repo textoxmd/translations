@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Imposta il carattere del testo dell'editor
   editorFontSize: Dimensione font editor
   editorFontSizeDesc: Regola la dimensione del font nell'editor
+  sourceFontSize: Dimensione font del codice sorgente
+  sourceFontSizeDesc: Regola la dimensione del font in modalità sorgente
   autoSave: Salvataggio automatico
   autoSaveDesc: Frequenza di salvataggio automatico dei file
   autoCapitalize: Auto-maiuscola

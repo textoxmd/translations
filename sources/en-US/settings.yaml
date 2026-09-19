@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Set the font for editor text
   editorFontSize: Editor Font Size
   editorFontSizeDesc: Drag the slider to adjust editor text size
+  sourceFontSize: Source Font Size
+  sourceFontSizeDesc: Drag the slider to adjust source mode text size
   autoSave: Auto Save
   autoSaveDesc: Automatically save changes to file
   autoCapitalize: Auto-capitalize

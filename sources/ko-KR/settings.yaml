@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: 편집기 텍스트 글꼴 설정
   editorFontSize: 편집기 글꼴 크기
   editorFontSizeDesc: 편집기의 글꼴 크기 조정
+  sourceFontSize: 소스 글꼴 크기
+  sourceFontSizeDesc: 소스 모드의 글꼴 크기 조정
   autoSave: 자동 저장
   autoSaveDesc: 파일 자동 저장 빈도
   autoCapitalize: 자동 대문자화

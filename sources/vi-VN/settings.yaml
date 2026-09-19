@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Đặt phông chữ cho văn bản trình soạn thảo
   editorFontSize: Cỡ chữ trình soạn thảo
   editorFontSizeDesc: Điều chỉnh cỡ chữ trong trình soạn thảo
+  sourceFontSize: Cỡ chữ mã nguồn
+  sourceFontSizeDesc: Điều chỉnh cỡ chữ ở chế độ mã nguồn
   autoSave: Tự động lưu
   autoSaveDesc: Tần suất tự động lưu tệp
   autoCapitalize: Tự động viết hoa

@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: संपादक टेक्स्ट के लिए फ़ॉन्ट सेट करें
   editorFontSize: संपादक फ़ॉन्ट आकार
   editorFontSizeDesc: संपादक में फ़ॉन्ट आकार समायोजित करें
+  sourceFontSize: स्रोत फ़ॉन्ट आकार
+  sourceFontSizeDesc: स्रोत मोड में फ़ॉन्ट आकार समायोजित करें
   autoSave: स्वचालित सहेजना
   autoSaveDesc: फाइलों के स्वचालित सहेजने की आवृत्ति
   autoCapitalize: स्वतः बड़े अक्षर

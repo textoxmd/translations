@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Schriftart für Editor-Text festlegen
   editorFontSize: Editor-Schriftgröße
   editorFontSizeDesc: Schriftgröße im Editor anpassen
+  sourceFontSize: Quelltext-Schriftgröße
+  sourceFontSizeDesc: Schriftgröße im Quellmodus anpassen
   autoSave: Automatisches Speichern
   autoSaveDesc: Häufigkeit der automatischen Dateispeicherung
   autoCapitalize: Automatische Großschreibung

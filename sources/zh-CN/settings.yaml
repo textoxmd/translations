@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: 设置编辑器文本的字体
   editorFontSize: 编辑器字体大小
   editorFontSizeDesc: 拖动滑块调整编辑器文本大小
+  sourceFontSize: 源码字体大小
+  sourceFontSizeDesc: 拖动滑块调整源码模式文本大小
   autoSave: 自动保存
   autoSaveDesc: 修改内容后自动保存到文件
   autoCapitalize: 自动首字母大写

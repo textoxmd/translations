@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: エディタテキストのフォントを設定
   editorFontSize: エディタフォントサイズ
   editorFontSizeDesc: エディタのフォントサイズを調整
+  sourceFontSize: ソースフォントサイズ
+  sourceFontSizeDesc: ソースモードのフォントサイズを調整
   autoSave: 自動保存
   autoSaveDesc: ファイルの自動保存頻度
   autoCapitalize: 自動大文字化

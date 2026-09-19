@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: تعيين خط نص المحرر
   editorFontSize: حجم خط المحرر
   editorFontSizeDesc: ضبط حجم الخط في المحرر
+  sourceFontSize: حجم خط الكود المصدري
+  sourceFontSizeDesc: ضبط حجم الخط في وضع الكود المصدري
   autoSave: الحفظ التلقائي
   autoSaveDesc: تكرار الحفظ التلقائي للملفات
   autoCapitalize: الأحرف الكبيرة التلقائية

@@ -7,6 +7,8 @@ settings:
   editorFontFamilyDesc: Установить шрифт текста редактора
   editorFontSize: Размер шрифта редактора
   editorFontSizeDesc: Настроить размер шрифта в редакторе
+  sourceFontSize: Размер шрифта исходного кода
+  sourceFontSizeDesc: Настроить размер шрифта в режиме исходного кода
   autoSave: Автосохранение
   autoSaveDesc: Частота автосохранения файлов
   autoCapitalize: Авто-заглавные
