@@ -345,6 +345,7 @@ settings:
   pluginBundled: Oficial
   pluginReload: Recargar
   pluginReloaded: Recargado
+  pluginSyntaxRestart: "Este plugin cambia la estructura del documento; reinicia la aplicación."
   pluginEnabled: Activar
   pluginDisabledHint: Desactivado
   pluginEnabledNow: Activado

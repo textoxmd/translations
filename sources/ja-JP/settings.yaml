@@ -341,6 +341,7 @@ settings:
   pluginBundled: 公式
   pluginReload: 再読み込み
   pluginReloaded: 再読み込みしました
+  pluginSyntaxRestart: "このプラグインは文書構造を変更するため、再起動後に反映されます。"
   pluginEnabled: 有効
   pluginDisabledHint: 無効
   pluginEnabledNow: 有効にしました

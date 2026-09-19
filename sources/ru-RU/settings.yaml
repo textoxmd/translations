@@ -345,6 +345,7 @@ settings:
   pluginBundled: Официальный
   pluginReload: Перезагрузить
   pluginReloaded: Перезагружено
+  pluginSyntaxRestart: "Этот плагин меняет структуру документа; перезапустите приложение."
   pluginEnabled: Включить
   pluginDisabledHint: Отключено
   pluginEnabledNow: Включено

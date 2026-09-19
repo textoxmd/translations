@@ -343,6 +343,7 @@ settings:
   pluginBundled: आधिकारिक
   pluginReload: पुनः लोड करें
   pluginReloaded: पुनः लोड हो गया
+  pluginSyntaxRestart: "यह प्लगइन दस्तावेज़ संरचना बदलता है; ऐप को पुनः आरंभ करें।"
   pluginEnabled: सक्षम
   pluginDisabledHint: अक्षम
   pluginEnabledNow: सक्षम किया गया

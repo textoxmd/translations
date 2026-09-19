@@ -345,6 +345,7 @@ settings:
   pluginBundled: Chính thức
   pluginReload: Tải lại
   pluginReloaded: Đã tải lại
+  pluginSyntaxRestart: "Plugin này thay đổi cấu trúc tài liệu; hãy khởi động lại ứng dụng."
   pluginEnabled: Bật
   pluginDisabledHint: Đã tắt
   pluginEnabledNow: Đã bật

@@ -341,6 +341,7 @@ settings:
   pluginBundled: رسمي
   pluginReload: إعادة التحميل
   pluginReloaded: تمت إعادة التحميل
+  pluginSyntaxRestart: "هذه الإضافة تغيّر بنية المستند؛ أعد تشغيل التطبيق."
   pluginEnabled: مفعّل
   pluginDisabledHint: معطّل
   pluginEnabledNow: تم التمكين

@@ -341,6 +341,7 @@ settings:
   pluginBundled: ทางการ
   pluginReload: โหลดใหม่
   pluginReloaded: โหลดใหม่แล้ว
+  pluginSyntaxRestart: "ปลั๊กอินนี้เปลี่ยนโครงสร้างเอกสาร ต้องรีสตาร์ทแอป"
   pluginEnabled: เปิดใช้
   pluginDisabledHint: ปิดใช้งาน
   pluginEnabledNow: เปิดใช้งานแล้ว

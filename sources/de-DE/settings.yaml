@@ -347,6 +347,7 @@ settings:
   pluginBundled: Offiziell
   pluginReload: Neu laden
   pluginReloaded: Neu geladen
+  pluginSyntaxRestart: "Dieses Plugin ändert die Dokumentstruktur; App neu starten."
   pluginEnabled: Aktiviert
   pluginDisabledHint: Deaktiviert
   pluginEnabledNow: Aktiviert

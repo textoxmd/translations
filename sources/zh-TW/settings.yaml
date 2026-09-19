@@ -341,6 +341,7 @@ settings:
   pluginBundled: 官方
   pluginReload: 重新載入
   pluginReloaded: 已重新載入
+  pluginSyntaxRestart: "這個外掛會改變文件結構，需要重新啟動應用程式後生效"
   pluginEnabled: 啟用
   pluginDisabledHint: 已停用
   pluginEnabledNow: 已啟用
