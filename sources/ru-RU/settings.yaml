@@ -342,5 +342,8 @@ settings:
   pluginFailed: Не удалось загрузить
   pluginInstall: Установить плагин
   pluginUninstall: Удалить
+  pluginBundled: Официальный
+  pluginEnabled: Включить
+  pluginDisabledHint: Отключено. Перезапустите приложение.
   pluginOverwriteTitle: Плагин уже установлен
   pluginOverwriteDesc: Плагин с таким id уже установлен. Перезаписать?

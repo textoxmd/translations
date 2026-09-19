@@ -338,5 +338,8 @@ settings:
   pluginFailed: 載入失敗
   pluginInstall: 安裝外掛
   pluginUninstall: 解除安裝
+  pluginBundled: 官方
+  pluginEnabled: 啟用
+  pluginDisabledHint: 已停用，重啟應用程式後生效
   pluginOverwriteTitle: 外掛已存在
   pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？

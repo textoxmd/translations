@@ -342,5 +342,8 @@ settings:
   pluginFailed: Error al cargar
   pluginInstall: Instalar complemento
   pluginUninstall: Desinstalar
+  pluginBundled: Oficial
+  pluginEnabled: Activar
+  pluginDisabledHint: Desactivado. Reinicia la aplicación para aplicarlo.
   pluginOverwriteTitle: Complemento ya instalado
   pluginOverwriteDesc: Ya hay un complemento con el mismo id. ¿Sobrescribir?

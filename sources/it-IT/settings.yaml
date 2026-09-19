@@ -342,5 +342,8 @@ settings:
   pluginFailed: Caricamento non riuscito
   pluginInstall: Installa plugin
   pluginUninstall: Disinstalla
+  pluginBundled: Ufficiale
+  pluginEnabled: Attivo
+  pluginDisabledHint: Disattivato. Riavvia l’app per applicare.
   pluginOverwriteTitle: Plugin già installato
   pluginOverwriteDesc: Esiste già un plugin con lo stesso id. Sovrascrivere?

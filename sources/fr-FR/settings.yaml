@@ -344,5 +344,8 @@ settings:
   pluginFailed: Échec du chargement
   pluginInstall: Installer une extension
   pluginUninstall: Désinstaller
+  pluginBundled: Officiel
+  pluginEnabled: Activer
+  pluginDisabledHint: Désactivé. Redémarrez l’application pour appliquer.
   pluginOverwriteTitle: Extension déjà installée
   pluginOverwriteDesc: Une extension avec le même identifiant est déjà installée. Remplacer ?

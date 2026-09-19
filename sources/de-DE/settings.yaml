@@ -344,5 +344,8 @@ settings:
   pluginFailed: Laden fehlgeschlagen
   pluginInstall: Plugin installieren
   pluginUninstall: Deinstallieren
+  pluginBundled: Offiziell
+  pluginEnabled: Aktiviert
+  pluginDisabledHint: Deaktiviert. App neu starten, um zu übernehmen.
   pluginOverwriteTitle: Plugin bereits installiert
   pluginOverwriteDesc: Ein Plugin mit derselben ID ist bereits installiert. Überschreiben?

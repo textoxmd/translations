@@ -326,6 +326,9 @@ settings:
   pluginFailed: Failed to load
   pluginInstall: Install Plugin
   pluginUninstall: Uninstall
+  pluginBundled: Official
+  pluginEnabled: Enabled
+  pluginDisabledHint: Disabled. Restart the app to apply.
   pluginOverwriteTitle: Plugin Already Installed
   pluginOverwriteDesc: A plugin with the same id is already installed. Overwrite it?
   schemaRename: Rename

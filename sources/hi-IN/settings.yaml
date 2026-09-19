@@ -340,5 +340,8 @@ settings:
   pluginFailed: लोड करने में विफल
   pluginInstall: प्लगइन इंस्टॉल करें
   pluginUninstall: अनइंस्टॉल करें
+  pluginBundled: आधिकारिक
+  pluginEnabled: सक्षम
+  pluginDisabledHint: अक्षम। लागू करने के लिए ऐप को पुनः आरंभ करें।
   pluginOverwriteTitle: प्लगइन पहले से इंस्टॉल है
   pluginOverwriteDesc: इसी id का प्लगइन पहले से है। अधिलेखित करें?

@@ -342,5 +342,8 @@ settings:
   pluginFailed: Falha ao carregar
   pluginInstall: Instalar extensão
   pluginUninstall: Desinstalar
+  pluginBundled: Oficial
+  pluginEnabled: Ativar
+  pluginDisabledHint: Desativado. Reinicie a aplicação para aplicar.
   pluginOverwriteTitle: Extensão já instalada
   pluginOverwriteDesc: Já existe uma extensão com o mesmo id. Substituir?

@@ -338,5 +338,8 @@ settings:
   pluginFailed: 読み込みに失敗しました
   pluginInstall: プラグインをインストール
   pluginUninstall: アンインストール
+  pluginBundled: 公式
+  pluginEnabled: 有効
+  pluginDisabledHint: 無効です。再起動すると反映されます。
   pluginOverwriteTitle: プラグインは既にインストールされています
   pluginOverwriteDesc: 同じ ID のプラグインが既にあります。上書きしますか？
