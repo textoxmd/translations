@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: Показать панель форматирования
   toggle_inline_format_toolbar: Показать плавающую панель
   toggle_outline_panel: Показать структуру
+  outline_style: Outline Style
+  outline_style_text: Text
+  outline_style_barcode: Barcode
   developer: "Параметры разработчика"
   toggle_editor_hud: "Показать HUD редактора"
   test_review_prompt: Проверить запрос оценки

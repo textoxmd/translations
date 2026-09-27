@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: Mostrar barra de herramientas de formato
   toggle_inline_format_toolbar: Mostrar barra de herramientas flotante
   toggle_outline_panel: Mostrar esquema
+  outline_style: Outline Style
+  outline_style_text: Text
+  outline_style_barcode: Barcode
   developer: "Opciones de desarrollador"
   toggle_editor_hud: "Mostrar HUD del editor"
   test_review_prompt: Probar solicitud de valoración

@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: 显示格式工具栏
   toggle_inline_format_toolbar: 显示悬浮工具栏
   toggle_outline_panel: 显示大纲
+  outline_style: 大纲样式
+  outline_style_text: 文字
+  outline_style_barcode: 条形码
   developer: "开发者选项"
   toggle_editor_hud: "显示编辑器 HUD"
   test_review_prompt: 触发评分弹窗

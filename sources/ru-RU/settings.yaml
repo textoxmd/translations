@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: В режиме пишущей машинки строка с курсором остается по центру для сфокусированного письма
   readableLineLength: Ограничить ширину содержимого
   readableLineLengthDesc: Когда включено, ограничивает ширину содержимого и центрирует его; когда выключено, заполняет ширину редактора
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: Автоматически делать заглавной первую букву английских предложений (отключите для лучшего редактирования Markdown)
   workspaceEnabled: Включить рабочую область
   workspaceEnabledDesc: Автоматически открывать указанную папку рабочей области при запуске приложения

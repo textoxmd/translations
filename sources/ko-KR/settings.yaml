@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: 타자기 모드에서 커서 줄이 화면 중앙에 유지되어 집중적인 글쓰기 환경을 제공합니다
   readableLineLength: 본문 너비 제한
   readableLineLengthDesc: 켜면 본문 너비를 제한하고 가운데 정렬하며, 끄면 편집 영역을 가득 채웁니다
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: 영어 문장의 첫 글자를 자동으로 대문자로 변경합니다 (Markdown 편집을 위해 비활성화 권장)
   workspaceEnabled: 작업 영역 활성화
   workspaceEnabledDesc: 앱 시작 시 지정된 작업 영역 폴더를 자동으로 엽니다

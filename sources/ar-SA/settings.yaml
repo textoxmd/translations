@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: في وضع الآلة الكاتبة، يبقى سطر المؤشر في منتصف الشاشة لتجربة كتابة مركزة
   readableLineLength: تحديد عرض المحتوى
   readableLineLengthDesc: عند التفعيل، حدّد عرض المحتوى ووسّطه؛ وعند الإيقاف، املأ عرض المحرر
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: قم بكتابة الحرف الأول من الجمل الإنجليزية تلقائيًا بالأحرف الكبيرة (قم بتعطيله لتحسين تجربة تحرير Markdown)
   workspaceEnabled: تمكين مساحة العمل
   workspaceEnabledDesc: فتح مجلد مساحة العمل المحدد تلقائيًا عند تشغيل التطبيق

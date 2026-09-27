@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: Hiển thị thanh công cụ định dạng
   toggle_inline_format_toolbar: Hiển thị thanh công cụ nổi
   toggle_outline_panel: Hiển thị dàn bài
+  outline_style: Outline Style
+  outline_style_text: Text
+  outline_style_barcode: Barcode
   developer: "Tùy chọn nhà phát triển"
   toggle_editor_hud: "Hiển thị HUD trình soạn thảo"
   test_review_prompt: Kiểm tra yêu cầu đánh giá

@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: En mode machine à écrire, la ligne du curseur reste centrée pour une expérience d'écriture concentrée
   readableLineLength: Limiter la largeur du contenu
   readableLineLengthDesc: Lorsque cette option est activée, limitez la largeur du contenu et centrez-le ; lorsqu'elle est désactivée, remplissez la largeur de l'éditeur
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: >-
     Capitaliser automatiquement la première lettre des phrases anglaises (désactiver pour une meilleure édition
     Markdown)

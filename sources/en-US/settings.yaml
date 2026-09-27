@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: Keep the cursor line centered while typing for a focused writing experience
   readableLineLength: Limit content width
   readableLineLengthDesc: When enabled, limit content width and center it; when disabled, fill the editor width
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: Automatically capitalize the first letter of English sentences (disable for better Markdown editing)
   workspaceEnabled: Enable Workspace
   workspaceEnabledDesc: Automatically open the specified workspace directory when the app launches

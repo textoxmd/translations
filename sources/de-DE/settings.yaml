@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: Im Schreibmaschinenmodus bleibt die Cursorzeile zentriert für ein fokussiertes Schreiberlebnis
   readableLineLength: Inhaltsbreite begrenzen
   readableLineLengthDesc: Wenn aktiviert, wird die Inhaltsbreite begrenzt und zentriert; wenn deaktiviert, wird die Editorbreite gefüllt
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: Automatische Großschreibung des ersten Buchstabens englischer Sätze (für bessere Markdown-Bearbeitung deaktivieren)
   workspaceEnabled: Arbeitsbereich aktivieren
   workspaceEnabledDesc: Öffnet den angegebenen Arbeitsbereich-Ordner automatisch beim Start der App

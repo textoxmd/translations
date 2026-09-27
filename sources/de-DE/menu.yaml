@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: Formatierungssymbolleiste anzeigen
   toggle_inline_format_toolbar: Schwebende Symbolleiste anzeigen
   toggle_outline_panel: Gliederung anzeigen
+  outline_style: Outline Style
+  outline_style_text: Text
+  outline_style_barcode: Barcode
   developer: "Entwickleroptionen"
   toggle_editor_hud: "Editor-HUD anzeigen"
   test_review_prompt: Bewertungsabfrage testen

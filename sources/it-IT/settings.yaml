@@ -23,6 +23,10 @@ settings:
   typewriterModeDesc: In modalità macchina da scrivere, la riga del cursore rimane centrata per un'esperienza di scrittura focalizzata
   readableLineLength: Limita la larghezza del contenuto
   readableLineLengthDesc: Se attivata, limita la larghezza del contenuto e lo centra; se disattivata, riempie la larghezza dell'editor
+  outlineStyle: Outline Style
+  outlineStyleDesc: Choose how the outline panel renders headings
+  outlineStyleText: Text
+  outlineStyleBarcode: Barcode
   autoCapitalizeDesc: Capitalizza automaticamente la prima lettera delle frasi in inglese (disattiva per una migliore esperienza Markdown)
   workspaceEnabled: Abilita area di lavoro
   workspaceEnabledDesc: Apre automaticamente la cartella dell'area di lavoro specificata all'avvio dell'app

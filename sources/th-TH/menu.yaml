@@ -62,6 +62,9 @@ menu:
   toggle_editor_toolbar: แสดงแถบเครื่องมือจัดรูปแบบ
   toggle_inline_format_toolbar: แสดงแถบเครื่องมือลอยตัว
   toggle_outline_panel: แสดงโครงร่าง
+  outline_style: Outline Style
+  outline_style_text: Text
+  outline_style_barcode: Barcode
   developer: "ตัวเลือกนักพัฒนา"
   toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
   test_review_prompt: ทดสอบป๊อปอัปให้คะแนน
