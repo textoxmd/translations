@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: Show Floating Toolbar
   toggle_outline_panel: Show Outline Panel
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: Off
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "Developer Options"
   toggle_editor_hud: "Show Editor HUD"
   test_review_prompt: Test Review Prompt

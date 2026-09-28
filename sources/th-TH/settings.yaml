@@ -24,9 +24,10 @@ settings:
   readableLineLength: จำกัดความกว้างของเนื้อหา
   readableLineLengthDesc: เมื่อเปิดใช้งาน จำกัดความกว้างของเนื้อหาและจัดกึ่งกลาง เมื่อปิดใช้งาน ให้เต็มความกว้างของตัวแก้ไข
   outlineStyle: Outline Style
+  outlineStyleOff: ปิด
   outlineStyleDesc: Choose how the outline panel renders headings
-  outlineStyleText: Text
-  outlineStyleBarcode: Barcode
+  outlineStyleText: Outline Panel
+  outlineStyleMinimap: Minimap
   autoCapitalizeDesc: เปลี่ยนตัวอักษรตัวแรกของประโยคภาษาอังกฤษเป็นตัวพิมพ์ใหญ่โดยอัตโนมัติ (ปิดเพื่อการแก้ไข Markdown ที่ดีขึ้น)
   workspaceEnabled: เปิดใช้พื้นที่ทำงาน
   workspaceEnabledDesc: เปิดโฟลเดอร์พื้นที่ทำงานที่ระบุโดยอัตโนมัติเมื่อเริ่มต้นแอป

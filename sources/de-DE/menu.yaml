@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: Schwebende Symbolleiste anzeigen
   toggle_outline_panel: Gliederung anzeigen
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: Aus
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "Entwickleroptionen"
   toggle_editor_hud: "Editor-HUD anzeigen"
   test_review_prompt: Bewertungsabfrage testen

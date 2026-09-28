@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: 플로팅 도구 모음 표시
   toggle_outline_panel: 개요 표시
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: 끔
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "개발자 옵션"
   toggle_editor_hud: "에디터 HUD 표시"
   test_review_prompt: 리뷰 프롬프트 테스트

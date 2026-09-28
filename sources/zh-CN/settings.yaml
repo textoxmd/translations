@@ -24,9 +24,10 @@ settings:
   readableLineLength: 限制正文宽度
   readableLineLengthDesc: 开启后限制正文宽度并居中，关闭后铺满编辑区
   outlineStyle: 大纲样式
+  outlineStyleOff: 关闭
   outlineStyleDesc: 选择大纲面板如何呈现标题
-  outlineStyleText: 文字
-  outlineStyleBarcode: 条形码
+  outlineStyleText: 大纲面板
+  outlineStyleMinimap: 迷你地图
   autoCapitalizeDesc: 在编辑器中自动将英文句子首字母大写（关闭以提高 Markdown 编辑体验）
   workspaceEnabled: 启用工作区
   workspaceEnabledDesc: 启动应用时自动打开指定的工作区目录

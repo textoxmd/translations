@@ -24,9 +24,10 @@ settings:
   readableLineLength: Ограничить ширину содержимого
   readableLineLengthDesc: Когда включено, ограничивает ширину содержимого и центрирует его; когда выключено, заполняет ширину редактора
   outlineStyle: Outline Style
+  outlineStyleOff: Выкл
   outlineStyleDesc: Choose how the outline panel renders headings
-  outlineStyleText: Text
-  outlineStyleBarcode: Barcode
+  outlineStyleText: Outline Panel
+  outlineStyleMinimap: Minimap
   autoCapitalizeDesc: Автоматически делать заглавной первую букву английских предложений (отключите для лучшего редактирования Markdown)
   workspaceEnabled: Включить рабочую область
   workspaceEnabledDesc: Автоматически открывать указанную папку рабочей области при запуске приложения

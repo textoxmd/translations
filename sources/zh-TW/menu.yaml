@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: 顯示浮動工具列
   toggle_outline_panel: 顯示大綱
   outline_style: 大綱樣式
-  outline_style_text: 文字
-  outline_style_barcode: 條碼
+  outline_style_off: 關閉
+  outline_style_text: 大綱面板
+  outline_style_minimap: 迷你地圖
   developer: "開發者選項"
   toggle_editor_hud: "顯示編輯器 HUD"
   test_review_prompt: 觸發評分彈窗

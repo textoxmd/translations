@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: フローティングツールバーを表示
   toggle_outline_panel: アウトラインを表示
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: オフ
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "開発者オプション"
   toggle_editor_hud: "エディタ HUD を表示"
   test_review_prompt: 評価プロンプトをテスト

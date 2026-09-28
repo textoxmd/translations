@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: แสดงแถบเครื่องมือลอยตัว
   toggle_outline_panel: แสดงโครงร่าง
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: ปิด
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "ตัวเลือกนักพัฒนา"
   toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
   test_review_prompt: ทดสอบป๊อปอัปให้คะแนน

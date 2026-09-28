@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: Mostra barra degli strumenti flottante
   toggle_outline_panel: Mostra struttura
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: Disattivato
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "Opzioni sviluppatore"
   toggle_editor_hud: "Mostra HUD editor"
   test_review_prompt: Testa richiesta di valutazione

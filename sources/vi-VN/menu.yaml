@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: Hiển thị thanh công cụ nổi
   toggle_outline_panel: Hiển thị dàn bài
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: Tắt
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "Tùy chọn nhà phát triển"
   toggle_editor_hud: "Hiển thị HUD trình soạn thảo"
   test_review_prompt: Kiểm tra yêu cầu đánh giá

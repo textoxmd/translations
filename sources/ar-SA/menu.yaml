@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: إظهار شريط الأدوات العائم
   toggle_outline_panel: إظهار المخطط
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: إيقاف
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "خيارات المطور"
   toggle_editor_hud: "إظهار HUD المحرر"
   test_review_prompt: اختبار طلب التقييم

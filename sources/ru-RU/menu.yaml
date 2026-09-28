@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: Показать плавающую панель
   toggle_outline_panel: Показать структуру
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: Выкл
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "Параметры разработчика"
   toggle_editor_hud: "Показать HUD редактора"
   test_review_prompt: Проверить запрос оценки

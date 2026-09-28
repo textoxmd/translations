@@ -63,8 +63,9 @@ menu:
   toggle_inline_format_toolbar: फ़्लोटिंग टूलबार दिखाएं
   toggle_outline_panel: रूपरेखा दिखाएं
   outline_style: Outline Style
-  outline_style_text: Text
-  outline_style_barcode: Barcode
+  outline_style_off: बंद
+  outline_style_text: Outline Panel
+  outline_style_minimap: Minimap
   developer: "डेवलपर विकल्प"
   toggle_editor_hud: "संपादक HUD दिखाएं"
   test_review_prompt: रेटिंग प्रॉम्प्ट टेस्ट करें

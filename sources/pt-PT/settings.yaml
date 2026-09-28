@@ -24,9 +24,10 @@ settings:
   readableLineLength: Limitar a largura do conteúdo
   readableLineLengthDesc: Quando ativada, limita a largura do conteúdo e centra-o; quando desativada, preenche a largura do editor
   outlineStyle: Outline Style
+  outlineStyleOff: Desativado
   outlineStyleDesc: Choose how the outline panel renders headings
-  outlineStyleText: Text
-  outlineStyleBarcode: Barcode
+  outlineStyleText: Outline Panel
+  outlineStyleMinimap: Minimap
   autoCapitalizeDesc: Capitalizar automaticamente a primeira letra de frases em inglês (desativar para melhor edição Markdown)
   workspaceEnabled: Ativar espaço de trabalho
   workspaceEnabledDesc: Abre automaticamente a pasta de espaço de trabalho especificada no arranque da aplicação
