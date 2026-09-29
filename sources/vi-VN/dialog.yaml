@@ -1,5 +1,6 @@
 dialog:
   selectFolder: Chọn thư mục
+  selectFile: "Chọn tệp"
   fileModifiedTitle: Tệp đã được sửa đổi
   fileModifiedDesc: >-
     Tệp này đã được sửa đổi ở nơi khác. Bạn có thể tải lại để tải nội dung mới nhất hoặc tiếp tục chỉnh sửa phiên bản

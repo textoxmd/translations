@@ -44,8 +44,10 @@ common:
   mermaid: مخطط Mermaid
   closeToolbar: إخفاء شريط الأدوات
   exportPdf: تصدير PDF
+  print: طباعة
   pdfExportSuccess: تم تصدير PDF بنجاح
   pdfExportFailed: فشل تصدير PDF
+  printFailed: فشلت الطباعة
   pdfRevealFailed: تعذّر الإظهار في مدير الملفات
   revealInFinder: إظهار في مدير الملفات
   more: المزيد

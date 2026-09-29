@@ -44,8 +44,10 @@ common:
   mermaid: Диаграмма Mermaid
   closeToolbar: Скрыть панель инструментов
   exportPdf: Экспорт в PDF
+  print: Печать
   pdfExportSuccess: PDF успешно экспортирован
   pdfExportFailed: Не удалось экспортировать PDF
+  printFailed: Не удалось выполнить печать
   pdfRevealFailed: Не удалось показать в файловом менеджере
   revealInFinder: Показать в файловом менеджере
   more: Ещё

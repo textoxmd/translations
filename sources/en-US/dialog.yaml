@@ -1,5 +1,6 @@
 dialog:
   selectFolder: Select Folder
+  selectFile: "Select File"
   fileModifiedTitle: File Modified
   fileModifiedDesc: >-
     This file has been modified elsewhere. You can reload to load the latest content, or continue editing the current

@@ -1,3 +1,11 @@
 error:
   fileExists: फ़ाइल पहले से मौजूद है
   maxRetriesReached: अधिकतम पुनः प्रयास सीमा तक पहुंच गया
+  saveFailed: "सहेजना विफल: {{error}}"
+  reloadFailed: "पुनः लोड करना विफल: {{error}}"
+  openFailed: "फ़ाइल खोलने में विफल: {{error}}"
+  openFolderFailed: "फ़ोल्डर खोलने में विफल: {{error}}"
+  renameFailed: "नाम बदलना विफल: {{error}}"
+  deleteFailed: "हटाना विफल: {{error}}"
+  createFileFailed: "फ़ाइल बनाने में विफल: {{error}}"
+  createFolderFailed: "फ़ोल्डर बनाने में विफल: {{error}}"

@@ -1,3 +1,11 @@
 error:
   fileExists: ไฟล์มีอยู่แล้ว
   maxRetriesReached: ถึงจำนวนครั้งที่ลองสูงสุดแล้ว
+  saveFailed: "บันทึกไม่สำเร็จ: {{error}}"
+  reloadFailed: "โหลดซ้ำไม่สำเร็จ: {{error}}"
+  openFailed: "เปิดไฟล์ไม่สำเร็จ: {{error}}"
+  openFolderFailed: "เปิดโฟลเดอร์ไม่สำเร็จ: {{error}}"
+  renameFailed: "เปลี่ยนชื่อไม่สำเร็จ: {{error}}"
+  deleteFailed: "ลบไม่สำเร็จ: {{error}}"
+  createFileFailed: "สร้างไฟล์ไม่สำเร็จ: {{error}}"
+  createFolderFailed: "สร้างโฟลเดอร์ไม่สำเร็จ: {{error}}"

@@ -44,8 +44,10 @@ common:
   mermaid: Sơ đồ Mermaid
   closeToolbar: Ẩn thanh công cụ
   exportPdf: Xuất PDF
+  print: In
   pdfExportSuccess: Xuất PDF thành công
   pdfExportFailed: Xuất PDF thất bại
+  printFailed: In thất bại
   pdfRevealFailed: Không thể hiển thị trong trình quản lý tệp
   revealInFinder: Hiển thị trong trình quản lý tệp
   more: Thêm

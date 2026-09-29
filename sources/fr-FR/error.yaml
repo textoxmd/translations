@@ -1,3 +1,11 @@
 error:
   fileExists: Le fichier existe déjà
   maxRetriesReached: Nombre maximum de tentatives atteint
+  saveFailed: "Échec de l'enregistrement : {{error}}"
+  reloadFailed: "Échec du rechargement : {{error}}"
+  openFailed: "Impossible d'ouvrir le fichier : {{error}}"
+  openFolderFailed: "Impossible d'ouvrir le dossier : {{error}}"
+  renameFailed: "Échec du renommage : {{error}}"
+  deleteFailed: "Échec de la suppression : {{error}}"
+  createFileFailed: "Impossible de créer le fichier : {{error}}"
+  createFolderFailed: "Impossible de créer le dossier : {{error}}"

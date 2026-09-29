@@ -1,3 +1,11 @@
 error:
   fileExists: 文件已存在
   maxRetriesReached: 已达到最大重试次数
+  saveFailed: "保存失败：{{error}}"
+  reloadFailed: "重新加载失败：{{error}}"
+  openFailed: "打开文件失败：{{error}}"
+  openFolderFailed: "打开文件夹失败：{{error}}"
+  renameFailed: "重命名失败：{{error}}"
+  deleteFailed: "删除失败：{{error}}"
+  createFileFailed: "创建文件失败：{{error}}"
+  createFolderFailed: "创建文件夹失败：{{error}}"

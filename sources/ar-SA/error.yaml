@@ -1,3 +1,11 @@
 error:
   fileExists: الملف موجود بالفعل
   maxRetriesReached: تم الوصول إلى الحد الأقصى لعدد المحاولات
+  saveFailed: "فشل الحفظ: {{error}}"
+  reloadFailed: "فشل إعادة التحميل: {{error}}"
+  openFailed: "تعذّر فتح الملف: {{error}}"
+  openFolderFailed: "تعذّر فتح المجلد: {{error}}"
+  renameFailed: "فشلت إعادة التسمية: {{error}}"
+  deleteFailed: "فشل الحذف: {{error}}"
+  createFileFailed: "تعذّر إنشاء الملف: {{error}}"
+  createFolderFailed: "تعذّر إنشاء المجلد: {{error}}"

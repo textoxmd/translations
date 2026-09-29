@@ -1,3 +1,11 @@
 error:
   fileExists: ファイルが既に存在します
   maxRetriesReached: 最大再試行回数に達しました
+  saveFailed: "保存に失敗しました：{{error}}"
+  reloadFailed: "再読み込みに失敗しました：{{error}}"
+  openFailed: "ファイルを開けませんでした：{{error}}"
+  openFolderFailed: "フォルダを開けませんでした：{{error}}"
+  renameFailed: "名前の変更に失敗しました：{{error}}"
+  deleteFailed: "削除に失敗しました：{{error}}"
+  createFileFailed: "ファイルの作成に失敗しました：{{error}}"
+  createFolderFailed: "フォルダの作成に失敗しました：{{error}}"

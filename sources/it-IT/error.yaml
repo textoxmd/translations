@@ -1,3 +1,11 @@
 error:
   fileExists: Il file esiste già
   maxRetriesReached: Raggiunto il numero massimo di tentativi
+  saveFailed: "Salvataggio non riuscito: {{error}}"
+  reloadFailed: "Ricaricamento non riuscito: {{error}}"
+  openFailed: "Impossibile aprire il file: {{error}}"
+  openFolderFailed: "Impossibile aprire la cartella: {{error}}"
+  renameFailed: "Rinomina non riuscita: {{error}}"
+  deleteFailed: "Eliminazione non riuscita: {{error}}"
+  createFileFailed: "Impossibile creare il file: {{error}}"
+  createFolderFailed: "Impossibile creare la cartella: {{error}}"

@@ -1,5 +1,6 @@
 dialog:
   selectFolder: Ordner auswählen
+  selectFile: "Datei auswählen"
   fileModifiedTitle: Datei geändert
   fileModifiedDesc: >-
     Diese Datei wurde an anderer Stelle geändert. Sie können neu laden, um den aktuellsten Inhalt zu laden, oder die

@@ -44,8 +44,10 @@ common:
   mermaid: Mermaid-Diagramm
   closeToolbar: Symbolleiste ausblenden
   exportPdf: Als PDF exportieren
+  print: Drucken
   pdfExportSuccess: PDF-Export erfolgreich
   pdfExportFailed: PDF-Export fehlgeschlagen
+  printFailed: Drucken fehlgeschlagen
   pdfRevealFailed: Anzeige im Dateimanager fehlgeschlagen
   revealInFinder: Im Dateimanager anzeigen
   more: Mehr

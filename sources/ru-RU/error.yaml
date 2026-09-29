@@ -1,3 +1,11 @@
 error:
   fileExists: Файл уже существует
   maxRetriesReached: Достигнуто максимальное количество попыток
+  saveFailed: "Не удалось сохранить: {{error}}"
+  reloadFailed: "Не удалось перезагрузить: {{error}}"
+  openFailed: "Не удалось открыть файл: {{error}}"
+  openFolderFailed: "Не удалось открыть папку: {{error}}"
+  renameFailed: "Не удалось переименовать: {{error}}"
+  deleteFailed: "Не удалось удалить: {{error}}"
+  createFileFailed: "Не удалось создать файл: {{error}}"
+  createFolderFailed: "Не удалось создать папку: {{error}}"

@@ -1,3 +1,11 @@
 error:
   fileExists: Tệp đã tồn tại
   maxRetriesReached: Đã đạt đến số lần thử tối đa
+  saveFailed: "Lưu thất bại: {{error}}"
+  reloadFailed: "Tải lại thất bại: {{error}}"
+  openFailed: "Không thể mở tệp: {{error}}"
+  openFolderFailed: "Không thể mở thư mục: {{error}}"
+  renameFailed: "Đổi tên thất bại: {{error}}"
+  deleteFailed: "Xóa thất bại: {{error}}"
+  createFileFailed: "Không thể tạo tệp: {{error}}"
+  createFolderFailed: "Không thể tạo thư mục: {{error}}"

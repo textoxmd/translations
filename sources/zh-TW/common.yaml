@@ -44,8 +44,10 @@ common:
   mermaid: Mermaid 圖表
   closeToolbar: 隱藏工具列
   exportPdf: 匯出 PDF
+  print: 列印
   pdfExportSuccess: PDF 匯出成功
   pdfExportFailed: PDF 匯出失敗
+  printFailed: 列印失敗
   pdfRevealFailed: 在檔案管理員中顯示失敗
   revealInFinder: 在檔案管理員中顯示
   more: 更多

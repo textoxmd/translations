@@ -1,3 +1,11 @@
 error:
   fileExists: Datei existiert bereits
   maxRetriesReached: Maximale Anzahl an Versuchen erreicht
+  saveFailed: "Speichern fehlgeschlagen: {{error}}"
+  reloadFailed: "Neu laden fehlgeschlagen: {{error}}"
+  openFailed: "Datei konnte nicht geöffnet werden: {{error}}"
+  openFolderFailed: "Ordner konnte nicht geöffnet werden: {{error}}"
+  renameFailed: "Umbenennen fehlgeschlagen: {{error}}"
+  deleteFailed: "Löschen fehlgeschlagen: {{error}}"
+  createFileFailed: "Datei konnte nicht erstellt werden: {{error}}"
+  createFolderFailed: "Ordner konnte nicht erstellt werden: {{error}}"

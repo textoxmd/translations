@@ -1,3 +1,11 @@
 error:
   fileExists: O ficheiro já existe
   maxRetriesReached: Número máximo de tentativas atingido
+  saveFailed: "Falha ao guardar: {{error}}"
+  reloadFailed: "Falha ao recarregar: {{error}}"
+  openFailed: "Não foi possível abrir o ficheiro: {{error}}"
+  openFolderFailed: "Não foi possível abrir a pasta: {{error}}"
+  renameFailed: "Falha ao renomear: {{error}}"
+  deleteFailed: "Falha ao eliminar: {{error}}"
+  createFileFailed: "Não foi possível criar o ficheiro: {{error}}"
+  createFolderFailed: "Não foi possível criar a pasta: {{error}}"

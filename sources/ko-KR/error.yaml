@@ -1,3 +1,11 @@
 error:
   fileExists: 파일이 이미 존재합니다
   maxRetriesReached: 최대 재시도 횟수에 도달했습니다
+  saveFailed: "저장 실패: {{error}}"
+  reloadFailed: "다시 로드 실패: {{error}}"
+  openFailed: "파일을 열지 못했습니다: {{error}}"
+  openFolderFailed: "폴더를 열지 못했습니다: {{error}}"
+  renameFailed: "이름 바꾸기 실패: {{error}}"
+  deleteFailed: "삭제 실패: {{error}}"
+  createFileFailed: "파일 생성 실패: {{error}}"
+  createFolderFailed: "폴더 생성 실패: {{error}}"

@@ -1,3 +1,11 @@
 error:
   fileExists: File already exists
   maxRetriesReached: Maximum retry attempts reached
+  saveFailed: "Save failed: {{error}}"
+  reloadFailed: "Reload failed: {{error}}"
+  openFailed: "Failed to open file: {{error}}"
+  openFolderFailed: "Failed to open folder: {{error}}"
+  renameFailed: "Rename failed: {{error}}"
+  deleteFailed: "Delete failed: {{error}}"
+  createFileFailed: "Failed to create file: {{error}}"
+  createFolderFailed: "Failed to create folder: {{error}}"
