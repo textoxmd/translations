@@ -6,6 +6,7 @@ upgrade:
     themeLimit: 导入更多主题
     autoSave: 自动保存
     pdfExport: PDF 导出
+    export: 导出为其他格式
   title: 升级
   message: 「{{feature}}」功能仅在 Textox 完整版中可用。
   confirm: 是否前往 App Store 查看？

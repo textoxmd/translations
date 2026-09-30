@@ -50,4 +50,8 @@ common:
   printFailed: Print failed
   pdfRevealFailed: Failed to reveal the PDF in file manager
   revealInFinder: Show in File Manager
+  export: Export
+  exportSuccess: Exported successfully
+  exportFailed: Export failed
+  exportImageTooLarge: Document is too long to export as a single image
   more: More

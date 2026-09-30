@@ -50,4 +50,8 @@ common:
   printFailed: 打印失败
   pdfRevealFailed: 在文件管理器中显示失败
   revealInFinder: 在文件管理器中显示
+  export: 导出
+  exportSuccess: 导出成功
+  exportFailed: 导出失败
+  exportImageTooLarge: 文档过长，无法导出为单张图片
   more: 更多

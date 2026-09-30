@@ -6,6 +6,7 @@ upgrade:
     themeLimit: Import More Themes
     autoSave: Auto Save
     pdfExport: PDF Export
+    export: Export to other formats
   title: Upgrade
   message: '"{{feature}}" is only available in the full version of Textox.'
   confirm: Would you like to view it on the App Store?
