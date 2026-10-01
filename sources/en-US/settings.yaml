@@ -352,3 +352,4 @@ settings:
   schemaDeleteTitle: Delete this item
   schemaDeleteDesc: '"{{name}}" will be deleted. This cannot be undone.'
   schemaItemMenu: More actions
+  pluginFileDisabled: The plugin for this file type is disabled, so it cannot be opened

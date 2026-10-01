@@ -11,3 +11,5 @@ excalidraw:
   openFile: Abrir
   replaceFile: Cambiar archivo
   exportPdfNotSupported: Los archivos de pizarra no admiten la exportación directa a PDF
+  pluginName: Pizarra Excalidraw
+  pluginDescription: Inserta, abre y guarda pizarras Excalidraw (archivos .excalidraw) en Markdown

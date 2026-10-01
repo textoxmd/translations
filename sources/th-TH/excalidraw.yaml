@@ -11,3 +11,5 @@ excalidraw:
   openFile: เปิด
   replaceFile: เปลี่ยนไฟล์
   exportPdfNotSupported: ไฟล์ไวท์บอร์ดไม่รองรับการส่งออกเป็น PDF โดยตรง
+  pluginName: ไวท์บอร์ด Excalidraw
+  pluginDescription: ฝัง เปิด และบันทึกไวท์บอร์ด Excalidraw (ไฟล์ .excalidraw) ใน Markdown

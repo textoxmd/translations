@@ -11,3 +11,5 @@ excalidraw:
   openFile: Open
   replaceFile: Change file
   exportPdfNotSupported: Whiteboard files do not support direct PDF export
+  pluginName: Excalidraw Whiteboard
+  pluginDescription: Embed, open and save Excalidraw whiteboards (.excalidraw files) in Markdown

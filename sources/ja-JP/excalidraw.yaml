@@ -11,3 +11,5 @@ excalidraw:
   openFile: 開く
   replaceFile: ファイルを変更
   exportPdfNotSupported: ホワイトボードファイルは直接 PDF 書き出しに対応していません
+  pluginName: Excalidraw ホワイトボード
+  pluginDescription: Markdown に Excalidraw ホワイトボード（.excalidraw ファイル）を埋め込み、開いて保存します

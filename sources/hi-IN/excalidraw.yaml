@@ -11,3 +11,5 @@ excalidraw:
   openFile: खोलें
   replaceFile: फ़ाइल बदलें
   exportPdfNotSupported: व्हाइटबोर्ड फ़ाइलें सीधे PDF निर्यात का समर्थन नहीं करती हैं
+  pluginName: Excalidraw व्हाइटबोर्ड
+  pluginDescription: Markdown में Excalidraw व्हाइटबोर्ड (.excalidraw फ़ाइलें) एम्बेड, खोलें और सहेजें

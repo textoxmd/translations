@@ -11,3 +11,5 @@ excalidraw:
   openFile: 열기
   replaceFile: 파일 변경
   exportPdfNotSupported: 화이트보드 파일은 직접 PDF 내보내기를 지원하지 않습니다
+  pluginName: Excalidraw 화이트보드
+  pluginDescription: Markdown에 Excalidraw 화이트보드(.excalidraw 파일)를 삽입하고 열고 저장합니다

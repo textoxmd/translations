@@ -357,3 +357,4 @@ settings:
   pluginDisabledNow: ปิดใช้งานแล้ว
   pluginOverwriteTitle: ปลั๊กอินติดตั้งอยู่แล้ว
   pluginOverwriteDesc: มีปลั๊กอิน id เดียวกันอยู่แล้ว ต้องการเขียนทับหรือไม่?
+  pluginFileDisabled: ปลั๊กอินสำหรับไฟล์ประเภทนี้ถูกปิดอยู่ จึงเปิดไม่ได้

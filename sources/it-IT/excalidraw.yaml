@@ -11,3 +11,5 @@ excalidraw:
   openFile: Apri
   replaceFile: Cambia file
   exportPdfNotSupported: I file di lavagna non supportano l'esportazione diretta in PDF
+  pluginName: Lavagna Excalidraw
+  pluginDescription: Incorpora, apri e salva lavagne Excalidraw (file .excalidraw) nel Markdown

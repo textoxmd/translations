@@ -11,3 +11,5 @@ excalidraw:
   openFile: Открыть
   replaceFile: Сменить файл
   exportPdfNotSupported: Файлы белой доски не поддерживают прямое экспортирование в PDF
+  pluginName: Доска Excalidraw
+  pluginDescription: Встраивайте, открывайте и сохраняйте доски Excalidraw (файлы .excalidraw) в Markdown

@@ -11,3 +11,5 @@ excalidraw:
   openFile: 開啟
   replaceFile: 更換檔案
   exportPdfNotSupported: 白板檔案不支援直接匯出 PDF
+  pluginName: Excalidraw 白板
+  pluginDescription: 在 Markdown 中內嵌、開啟並儲存 Excalidraw 白板（.excalidraw 檔案）

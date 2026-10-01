@@ -11,3 +11,5 @@ excalidraw:
   openFile: Ouvrir
   replaceFile: Changer de fichier
   exportPdfNotSupported: Les fichiers de tableau blanc ne prennent pas en charge l'exportation directe en PDF
+  pluginName: Tableau blanc Excalidraw
+  pluginDescription: Intégrez, ouvrez et enregistrez des tableaux blancs Excalidraw (fichiers .excalidraw) dans le Markdown

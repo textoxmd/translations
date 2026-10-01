@@ -357,3 +357,4 @@ settings:
   pluginDisabledNow: تم التعطيل
   pluginOverwriteTitle: الإضافة مثبّتة بالفعل
   pluginOverwriteDesc: توجد إضافة بالمعرّف نفسه. هل تريد استبدالها؟
+  pluginFileDisabled: الإضافة الخاصة بهذا النوع من الملفات معطّلة، فلا يمكن فتحه

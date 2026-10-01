@@ -11,3 +11,5 @@ excalidraw:
   openFile: Mở
   replaceFile: Đổi tệp
   exportPdfNotSupported: Tệp bảng trắng không hỗ trợ xuất PDF trực tiếp
+  pluginName: Bảng trắng Excalidraw
+  pluginDescription: Nhúng, mở và lưu bảng trắng Excalidraw (tệp .excalidraw) trong Markdown

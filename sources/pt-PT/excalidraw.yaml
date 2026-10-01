@@ -11,3 +11,5 @@ excalidraw:
   openFile: Abrir
   replaceFile: Alterar ficheiro
   exportPdfNotSupported: Os ficheiros de quadro branco não suportam a exportação direta para PDF
+  pluginName: Quadro branco Excalidraw
+  pluginDescription: Incorpore, abra e guarde quadros brancos Excalidraw (ficheiros .excalidraw) no Markdown

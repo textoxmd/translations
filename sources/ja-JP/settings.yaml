@@ -357,3 +357,4 @@ settings:
   pluginDisabledNow: 無効にしました
   pluginOverwriteTitle: プラグインは既にインストールされています
   pluginOverwriteDesc: 同じ ID のプラグインが既にあります。上書きしますか？
+  pluginFileDisabled: このファイルタイプのプラグインは無効になっているため、開けません

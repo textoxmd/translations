@@ -11,3 +11,5 @@ excalidraw:
   openFile: فتح
   replaceFile: تغيير الملف
   exportPdfNotSupported: ملفات السبورة البيضاء لا تدعم التصدير المباشر إلى PDF
+  pluginName: لوح Excalidraw
+  pluginDescription: ضمّن لوحات Excalidraw (ملفات .excalidraw) وافتحها واحفظها في Markdown

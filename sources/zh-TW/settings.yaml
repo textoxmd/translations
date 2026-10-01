@@ -357,3 +357,4 @@ settings:
   pluginDisabledNow: 已停用
   pluginOverwriteTitle: 外掛已存在
   pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？
+  pluginFileDisabled: 該檔案類型所屬的外掛已停用，無法開啟
