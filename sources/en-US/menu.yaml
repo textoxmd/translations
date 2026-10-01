@@ -16,10 +16,10 @@ menu:
   open_location: Open File Location
   import_translations: Import Translations...
   export: Export
-  export_html: Self-contained HTML
+  export_html: HTML
   export_epub: EPUB
-  export_png: Long Image (PNG)
-  export_pdf: Export PDF...
+  export_png: PNG
+  export_pdf: PDF
   print: Print...
   saveBeforeExport: Please save the file before exporting
   saveBeforeExportPrompt: The document has unsaved changes. Save before exporting?
