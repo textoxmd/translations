@@ -344,6 +344,7 @@ settings:
   followAuthor: Подписаться на автора
   followAuthorFailed: Не удалось открыть страницу автора
   plugins: Плагины
+  categoryImageHosting: Хостинг изображений
   pluginDirectory: Папка плагинов
   pluginDirectoryDesc: Поместите папки плагинов сюда; они заработают после перезапуска
   pluginDirectoryUnknown: Загрузка…

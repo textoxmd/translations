@@ -1,0 +1,10 @@
+picgo:
+  pluginName: Хостинг изображений PicGo
+  pluginDescription: Загружайте изображения через PicGo и вставляйте внешние ссылки вместо локальных путей
+  sectionTitle: Настройки PicGo
+  serverUrl: Адрес сервера
+  serverUrlDesc: Адрес сервера PicGo (PicGo → Настройки → Server)
+  serverUrlPlaceholder: http://127.0.0.1:36677
+  testConnection: Проверить подключение
+  testSuccess: Загрузка выполнена
+  testFailed: Не удалось загрузить. Убедитесь, что клиент PicGo запущен

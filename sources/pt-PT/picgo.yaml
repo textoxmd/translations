@@ -1,0 +1,10 @@
+picgo:
+  pluginName: Hospedagem de imagens PicGo
+  pluginDescription: Envie imagens via PicGo e insira links remotos em vez de caminhos locais
+  sectionTitle: Configurações do PicGo
+  serverUrl: Endereço do servidor
+  serverUrlDesc: Endereço do servidor PicGo (PicGo → Configurações → Server)
+  serverUrlPlaceholder: http://127.0.0.1:36677
+  testConnection: Testar conexão
+  testSuccess: Envio bem-sucedido
+  testFailed: Falha no envio. Verifique se o cliente PicGo está em execução

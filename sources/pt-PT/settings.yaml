@@ -344,6 +344,7 @@ settings:
   followAuthor: Seguir o autor
   followAuthorFailed: Não foi possível abrir a página do autor
   plugins: Extensões
+  categoryImageHosting: Hospedagem de imagens
   pluginDirectory: Pasta de extensões
   pluginDirectoryDesc: Coloque aqui as pastas de extensões; têm efeito após reiniciar
   pluginDirectoryUnknown: A carregar…

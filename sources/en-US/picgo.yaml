@@ -1,0 +1,10 @@
+picgo:
+  pluginName: PicGo Image Host
+  pluginDescription: Upload images via PicGo and insert remote links instead of local paths
+  sectionTitle: PicGo Settings
+  serverUrl: Server URL
+  serverUrlDesc: PicGo server address (PicGo → Settings → Server)
+  serverUrlPlaceholder: http://127.0.0.1:36677
+  testConnection: Test connection
+  testSuccess: Upload succeeded
+  testFailed: Upload failed. Make sure the PicGo client is running.

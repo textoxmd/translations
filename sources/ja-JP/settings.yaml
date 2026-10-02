@@ -340,6 +340,7 @@ settings:
   followAuthor: 作者をフォロー
   followAuthorFailed: 作者ページを開けませんでした
   plugins: プラグイン
+  categoryImageHosting: 画像ホスト
   pluginDirectory: プラグインフォルダ
   pluginDirectoryDesc: プラグインフォルダをここに置いてください。アプリを再起動すると有効になります
   pluginDirectoryUnknown: 読み込み中…

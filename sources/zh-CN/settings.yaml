@@ -326,6 +326,7 @@ settings:
   followAuthor: 关注作者
   followAuthorFailed: 打开作者主页失败
   plugins: 插件
+  categoryImageHosting: 图床
   pluginDirectory: 插件目录
   pluginDirectoryDesc: 把插件文件夹放进这个目录，重启应用后生效
   pluginDirectoryUnknown: 读取中…

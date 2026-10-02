@@ -340,6 +340,7 @@ settings:
   followAuthor: ติดตามผู้เขียน
   followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้
   plugins: ปลั๊กอิน
+  categoryImageHosting: โฮสต์รูปภาพ
   pluginDirectory: โฟลเดอร์ปลั๊กอิน
   pluginDirectoryDesc: วางโฟลเดอร์ปลั๊กอินไว้ที่นี่ จะมีผลหลังรีสตาร์ทแอป
   pluginDirectoryUnknown: กำลังโหลด…

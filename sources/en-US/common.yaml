@@ -55,3 +55,4 @@ common:
   exportFailed: Export failed
   exportImageTooLarge: Document is too long to export as a single image
   more: More
+  copied: Copied

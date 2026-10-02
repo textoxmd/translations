@@ -328,6 +328,7 @@ settings:
   followAuthor: Follow the Author
   followAuthorFailed: Failed to open the author page
   plugins: Plugins
+  categoryImageHosting: Image Hosting
   pluginDirectory: Plugin Folder
   pluginDirectoryDesc: Put plugin folders here; they take effect after restarting the app
   pluginDirectoryUnknown: Loading…

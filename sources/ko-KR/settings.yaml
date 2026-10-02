@@ -340,6 +340,7 @@ settings:
   followAuthor: 작가 팔로우하기
   followAuthorFailed: 작가 페이지를 열지 못했습니다
   plugins: 플러그인
+  categoryImageHosting: 이미지 호스트
   pluginDirectory: 플러그인 폴더
   pluginDirectoryDesc: 플러그인 폴더를 이곳에 넣으세요. 앱을 다시 시작하면 적용됩니다
   pluginDirectoryUnknown: 불러오는 중…

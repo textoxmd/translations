@@ -344,6 +344,7 @@ settings:
   followAuthor: Segui l'autore
   followAuthorFailed: Impossibile aprire la pagina dell'autore
   plugins: Plugin
+  categoryImageHosting: Host immagini
   pluginDirectory: Cartella dei plugin
   pluginDirectoryDesc: Metti qui le cartelle dei plugin; hanno effetto dopo il riavvio
   pluginDirectoryUnknown: Caricamento…

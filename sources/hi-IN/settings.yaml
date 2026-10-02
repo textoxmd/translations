@@ -342,6 +342,7 @@ settings:
   followAuthor: लेखक को फ़ॉलो करें
   followAuthorFailed: लेखक का पृष्ठ खोलने में विफल
   plugins: प्लगइन
+  categoryImageHosting: इमेज होस्ट
   pluginDirectory: प्लगइन फ़ोल्डर
   pluginDirectoryDesc: प्लगइन फ़ोल्डर यहाँ रखें; ऐप को पुनः आरंभ करने पर प्रभावी होंगे
   pluginDirectoryUnknown: लोड हो रहा है…

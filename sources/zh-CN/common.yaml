@@ -55,3 +55,4 @@ common:
   exportFailed: 导出失败
   exportImageTooLarge: 文档过长，无法导出为单张图片
   more: 更多
+  copied: 已复制

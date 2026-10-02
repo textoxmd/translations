@@ -340,6 +340,7 @@ settings:
   followAuthor: تابع المؤلف
   followAuthorFailed: تعذّر فتح صفحة المؤلف
   plugins: الإضافات
+  categoryImageHosting: استضافة الصور
   pluginDirectory: مجلد الإضافات
   pluginDirectoryDesc: ضع مجلدات الإضافات هنا، وتصبح فعّالة بعد إعادة تشغيل التطبيق
   pluginDirectoryUnknown: جارٍ التحميل…

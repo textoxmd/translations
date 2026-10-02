@@ -1,0 +1,10 @@
+picgo:
+  pluginName: โฮสต์รูปภาพ PicGo
+  pluginDescription: อัปโหลดรูปภาพผ่าน PicGo และแทรกลิงก์ภายนอกแทนพาธในเครื่อง
+  sectionTitle: การตั้งค่า PicGo
+  serverUrl: ที่อยู่เซิร์ฟเวอร์
+  serverUrlDesc: ที่อยู่เซิร์ฟเวอร์ PicGo (PicGo → การตั้งค่า → Server)
+  serverUrlPlaceholder: http://127.0.0.1:36677
+  testConnection: ทดสอบการเชื่อมต่อ
+  testSuccess: อัปโหลดสำเร็จ
+  testFailed: อัปโหลดล้มเหลว ตรวจสอบว่าไคลเอนต์ PicGo เปิดอยู่
