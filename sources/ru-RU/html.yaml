@@ -1,0 +1,3 @@
+html:
+  pluginName: Поддержка HTML
+  pluginDescription: Отображение HTML-блоков GFM, встроенных тегов и комментариев

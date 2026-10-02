@@ -1,0 +1,3 @@
+html:
+  pluginName: HTML サポート
+  pluginDescription: GFM の HTML ブロック、インラインタグ、コメントをレンダリングします

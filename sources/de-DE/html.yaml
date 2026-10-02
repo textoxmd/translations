@@ -1,0 +1,3 @@
+html:
+  pluginName: HTML-Unterstützung
+  pluginDescription: GFM-HTML-Blöcke, Inline-Tags und Kommentare rendern

@@ -1,0 +1,3 @@
+html:
+  pluginName: HTML 支持
+  pluginDescription: 渲染 GFM HTML 块、内联标签与注释

@@ -1,0 +1,3 @@
+html:
+  pluginName: Prise en charge HTML
+  pluginDescription: Affiche les blocs HTML GFM, les balises en ligne et les commentaires
