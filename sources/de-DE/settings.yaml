@@ -252,12 +252,6 @@ settings:
     Verwalten Sie, welche Dateitypen in der Dateibaum anklickbar sind. Nicht gelistete Erweiterungen werden deaktiviert
     angezeigt.
   fileExtensionsPlaceholder: Erweiterung eingeben (z.B. md)
-  imageStoragePicgo: PicGo Bild-Hosting
-  picgoServerUrl: PicGo-Server-URL
-  picgoServerUrlDesc: Bitte beachten Sie PicGo Server
-  picgoTestConnection: Test
-  picgoConnectionSuccess: PicGo-Verbindung erfolgreich
-  picgoConnectionFailed: PicGo-Verbindung fehlgeschlagen. Bitte prüfen Sie, ob der PicGo-Client ausgeführt wird
   typingParticles: Tipp-Partikel
   typingParticlesDesc: Erzeugt Partikel an der Cursorposition beim Tippen
   particlePreset: Voreinstellung

@@ -3,8 +3,6 @@ message:
   codeCopied: Код скопирован в буфер обмена
   saveSuccess: Сохранение успешно
   saveFailed: Ошибка сохранения
-  imageUploadSuccess: Загрузка изображения успешна
-  imageUploadFailed: Ошибка загрузки изображения
   imageInsertNotAllowed: Сохраните файл перед вставкой изображений
   imageInsertNotAllowedSingleFile: Вставка изображений невозможна в режиме одного файла. Сначала откройте папку.
   imageInsertFailed: Ошибка вставки изображения
@@ -12,7 +10,6 @@ message:
   excalidrawInsertNotAllowedSingleFile: Вставка ссылок на доску недоступна в режиме одного файла; сначала откройте папку
   excalidrawInsertFailed: Не удалось вставить ссылку на доску
   saveBeforeOpenFileLink: Сначала сохраните файл, чтобы открывать ссылки на файлы
-  imageUploading: Загрузка изображения на хостинг…
   recentFileNotFound: Недавний файл не найден, запись очищена
   recentFolderNotFound: Недавняя папка не найдена, запись очищена
   typewriterEnabled: Режим пишущей машинки включен

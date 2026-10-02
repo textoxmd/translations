@@ -3,8 +3,6 @@ message:
   codeCopied: Codice copiato negli appunti
   saveSuccess: Salvataggio riuscito
   saveFailed: Salvataggio fallito
-  imageUploadSuccess: Caricamento immagine riuscito
-  imageUploadFailed: Caricamento immagine fallito
   imageInsertNotAllowed: Salva il file prima di inserire immagini
   imageInsertNotAllowedSingleFile: Impossibile inserire immagini in modalità file singolo. Apri prima una cartella.
   imageInsertFailed: Inserimento immagine fallito
@@ -12,7 +10,6 @@ message:
   excalidrawInsertNotAllowedSingleFile: L'inserimento di riferimenti lavagna non è consentito in modalità file singolo; apri prima una cartella
   excalidrawInsertFailed: Impossibile inserire il riferimento lavagna
   saveBeforeOpenFileLink: Salva il file prima di aprire i collegamenti ai file
-  imageUploading: Caricamento immagine sull'hosting…
   recentFileNotFound: File recente non trovato, record cancellato
   recentFolderNotFound: Cartella recente non trovata, record cancellato
   typewriterEnabled: Modalità macchina da scrivere attivata

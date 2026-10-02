@@ -250,12 +250,6 @@ settings:
     Управляйте типами файлов, которые можно открыть кликом в дереве файлов. Расширения не из списка будут отображаться
     как недоступные.
   fileExtensionsPlaceholder: Введите расширение (например, md)
-  imageStoragePicgo: PicGo хостинг изображений
-  picgoServerUrl: URL сервера PicGo
-  picgoServerUrlDesc: Пожалуйста, обратитесь к PicGo Server
-  picgoTestConnection: Проверить
-  picgoConnectionSuccess: Подключение к PicGo успешно
-  picgoConnectionFailed: Ошибка подключения к PicGo. Проверьте, запущен ли клиент PicGo
   typingParticles: Частицы при наборе
   typingParticlesDesc: Испускает частицы из позиции курсора при наборе текста
   particlePreset: Пресет

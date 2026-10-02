@@ -250,12 +250,6 @@ settings:
     Gestisci quali tipi di file sono cliccabili nell'albero dei file. Le estensioni non elencate verranno mostrate come
     disabilitate.
   fileExtensionsPlaceholder: 'Inserisci estensione (es: md)'
-  imageStoragePicgo: Hosting immagini PicGo
-  picgoServerUrl: URL server PicGo
-  picgoServerUrlDesc: Fare riferimento a PicGo Server
-  picgoTestConnection: Prova
-  picgoConnectionSuccess: Connessione PicGo riuscita
-  picgoConnectionFailed: Connessione PicGo fallita. Verificare che il client PicGo sia in esecuzione
   typingParticles: Particelle di digitazione
   typingParticlesDesc: Emette particelle dalla posizione del cursore durante la digitazione
   particlePreset: Preimpostato

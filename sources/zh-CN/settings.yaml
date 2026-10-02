@@ -232,12 +232,6 @@ settings:
   fileExtensions: 文件扩展名
   fileExtensionsDesc: 管理在文件树中可点击打开的文件类型。未添加的扩展名将显示为不可点击。
   fileExtensionsPlaceholder: 输入扩展名（如 md）
-  imageStoragePicgo: PicGo 图床
-  picgoServerUrl: PicGo 服务器地址
-  picgoServerUrlDesc: 详细请参考 PicGo Server
-  picgoTestConnection: 测试
-  picgoConnectionSuccess: PicGo 连接成功
-  picgoConnectionFailed: PicGo 连接失败，请确认 PicGo 客户端是否运行
   typingParticles: 打字粒子
   typingParticlesDesc: 打字时从光标位置迸发出粒子效果
   particlePreset: 效果预设

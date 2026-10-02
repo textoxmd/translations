@@ -246,12 +246,6 @@ settings:
   fileExtensions: นามสกุลไฟล์
   fileExtensionsDesc: จัดการประเภทไฟล์ที่สามารถคลิกได้ในแผนผังไฟล์ นามสกุลที่ไม่อยู่ในรายการจะแสดงเป็นปิดใช้งาน
   fileExtensionsPlaceholder: ป้อนนามสกุล (เช่น md)
-  imageStoragePicgo: โฮสต์รูปภาพ PicGo
-  picgoServerUrl: URL เซิร์ฟเวอร์ PicGo
-  picgoServerUrlDesc: โปรดดู PicGo Server
-  picgoTestConnection: ทดสอบ
-  picgoConnectionSuccess: เชื่อมต่อ PicGo สำเร็จ
-  picgoConnectionFailed: การเชื่อมต่อ PicGo ล้มเหลว โปรดตรวจสอบว่าไคลเอ็นต์ PicGo กำลังทำงานอยู่หรือไม่
   typingParticles: อนุภาคขณะพิมพ์
   typingParticlesDesc: ปล่อยอนุภาคจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
   particlePreset: ค่าที่ตั้งไว้

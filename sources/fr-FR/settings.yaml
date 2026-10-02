@@ -252,12 +252,6 @@ settings:
     Gérez les types de fichiers cliquables dans l'arborescence. Les extensions non listées apparaîtront comme
     désactivées.
   fileExtensionsPlaceholder: 'Entrez l''extension (ex: md)'
-  imageStoragePicgo: Hébergement d'images PicGo
-  picgoServerUrl: URL du serveur PicGo
-  picgoServerUrlDesc: Veuillez vous référer à PicGo Server
-  picgoTestConnection: Test
-  picgoConnectionSuccess: Connexion PicGo réussie
-  picgoConnectionFailed: Échec de la connexion PicGo. Vérifiez si le client PicGo est en cours d'exécution
   typingParticles: Particules de frappe
   typingParticlesDesc: Émet des particules depuis la position du curseur lors de la frappe
   particlePreset: Préréglage

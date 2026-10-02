@@ -248,12 +248,6 @@ settings:
     फ़ाइल ट्री में क्लिक करने योग्य फ़ाइल प्रकारों को प्रबंधित करें। सूची में नहीं होने वाले एक्सटेंशन अक्षम के रूप में
     दिखाए जाएंगे।
   fileExtensionsPlaceholder: एक्सटेंशन दर्ज करें (जैसे md)
-  imageStoragePicgo: PicGo इमेज होस्टिंग
-  picgoServerUrl: PicGo सर्वर URL
-  picgoServerUrlDesc: कृपया PicGo Server देखें
-  picgoTestConnection: जांचें
-  picgoConnectionSuccess: PicGo से कनेक्शन सफल
-  picgoConnectionFailed: PicGo कनेक्शन विफल. कृपया जांचें कि PicGo क्लाइंट चल रहा है या नहीं
   typingParticles: टाइपिंग पार्टिकल्स
   typingParticlesDesc: टाइप करते समय कर्सर स्थिति से कण उत्सर्जित करें
   particlePreset: प्रीसेट

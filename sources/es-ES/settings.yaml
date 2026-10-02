@@ -250,12 +250,6 @@ settings:
     Administre qué tipos de archivos se pueden hacer clic en el árbol de archivos. Las extensiones no incluidas se
     mostrarán como deshabilitadas.
   fileExtensionsPlaceholder: 'Ingrese la extensión (ej: md)'
-  imageStoragePicgo: Alojamiento de imágenes PicGo
-  picgoServerUrl: URL del servidor PicGo
-  picgoServerUrlDesc: Consulte PicGo Server
-  picgoTestConnection: Probar
-  picgoConnectionSuccess: Conexión PicGo exitosa
-  picgoConnectionFailed: Error de conexión PicGo. Verifique si el cliente PicGo está ejecutándose
   typingParticles: Partículas al escribir
   typingParticlesDesc: Emite partículas desde la posición del cursor al escribir
   particlePreset: Preajuste

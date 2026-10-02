@@ -234,12 +234,6 @@ settings:
   fileExtensions: File Extensions
   fileExtensionsDesc: Manage which file types are clickable in the file tree. Extensions not in the list will be shown as disabled.
   fileExtensionsPlaceholder: Enter extension (e.g. md)
-  imageStoragePicgo: PicGo Image Hosting
-  picgoServerUrl: PicGo Server URL
-  picgoServerUrlDesc: Please refer to PicGo Server
-  picgoTestConnection: Test
-  picgoConnectionSuccess: PicGo connected successfully
-  picgoConnectionFailed: PicGo connection failed. Please check if PicGo client is running
   typingParticles: Typing Particles
   typingParticlesDesc: Emit particles from the cursor position while typing
   particlePreset: Preset

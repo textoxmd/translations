@@ -246,12 +246,6 @@ settings:
   fileExtensions: ファイル拡張子
   fileExtensionsDesc: ファイルツリーでクリック可能なファイルタイプを管理します。リストにない拡張子は無効として表示されます。
   fileExtensionsPlaceholder: 拡張子を入力（例：md）
-  imageStoragePicgo: PicGo 画像ホスティング
-  picgoServerUrl: PicGo サーバーURL
-  picgoServerUrlDesc: PicGo Server を参照してください
-  picgoTestConnection: テスト
-  picgoConnectionSuccess: PicGo 接続成功
-  picgoConnectionFailed: PicGo 接続に失敗しました。PicGo クライアントが実行されているか確認してください
   typingParticles: タイピングパーティクル
   typingParticlesDesc: タイピング時にカーソル位置からパーティクルを放出
   particlePreset: プリセット

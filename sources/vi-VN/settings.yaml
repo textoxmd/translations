@@ -250,12 +250,6 @@ settings:
     Quản lý loại tệp có thể nhấp được trong cây tệp. Các phần mở rộng không có trong danh sách sẽ được hiển thị dưới
     dạng đã tắt.
   fileExtensionsPlaceholder: 'Nhập phần mở rộng (vd: md)'
-  imageStoragePicgo: Lưu trữ hình ảnh PicGo
-  picgoServerUrl: URL máy chủ PicGo
-  picgoServerUrlDesc: Vui lòng tham khảo PicGo Server
-  picgoTestConnection: Kiểm tra
-  picgoConnectionSuccess: Kết nối PicGo thành công
-  picgoConnectionFailed: Kết nối PicGo thất bại. Vui lòng kiểm tra xem máy khách PicGo có đang chạy không
   typingParticles: Hiệu ứng hạt khi gõ
   typingParticlesDesc: Phát ra các hạt từ vị trí con trỏ khi gõ
   particlePreset: Cài đặt sẵn

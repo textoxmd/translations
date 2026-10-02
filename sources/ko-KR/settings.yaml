@@ -246,12 +246,6 @@ settings:
   fileExtensions: 파일 확장자
   fileExtensionsDesc: 파일 트리에서 클릭할 수 있는 파일 형식을 관리합니다. 목록에 없는 확장자는 비활성화되어 표시됩니다.
   fileExtensionsPlaceholder: '확장자 입력 (예: md)'
-  imageStoragePicgo: PicGo 이미지 호스팅
-  picgoServerUrl: PicGo 서버 URL
-  picgoServerUrlDesc: PicGo Server를 참조하세요
-  picgoTestConnection: 테스트
-  picgoConnectionSuccess: PicGo 연결 성공
-  picgoConnectionFailed: PicGo 연결 실패. PicGo 클라이언트가 실행 중인지 확인하세요
   typingParticles: 타이핑 파티클
   typingParticlesDesc: 타이핑 시 커서 위치에서 파티클 방출
   particlePreset: 프리셋

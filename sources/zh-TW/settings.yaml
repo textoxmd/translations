@@ -246,12 +246,6 @@ settings:
   fileExtensions: 文件副檔名
   fileExtensionsDesc: 管理在文件樹中可點擊開啟的檔案類型。未添加的副檔名將顯示為不可點擊。
   fileExtensionsPlaceholder: 輸入副檔名（如 md）
-  imageStoragePicgo: PicGo 圖床
-  picgoServerUrl: PicGo 伺服器地址
-  picgoServerUrlDesc: 詳細請參考 PicGo Server
-  picgoTestConnection: 測試
-  picgoConnectionSuccess: PicGo 連接成功
-  picgoConnectionFailed: PicGo 連接失敗，請確認 PicGo 客戶端是否執行
   typingParticles: 打字粒子
   typingParticlesDesc: 打字時從游標位置迸發出粒子效果
   particlePreset: 效果預設

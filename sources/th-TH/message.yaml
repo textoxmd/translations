@@ -3,8 +3,6 @@ message:
   codeCopied: คัดลอกโค้ดไปยังคลิปบอร์ดแล้ว
   saveSuccess: บันทึกสำเร็จ
   saveFailed: บันทึกล้มเหลว
-  imageUploadSuccess: อัปโหลดรูปภาพสำเร็จ
-  imageUploadFailed: อัปโหลดรูปภาพล้มเหลว
   imageInsertNotAllowed: กรุณาบันทึกไฟล์ก่อนแทรกรูปภาพ
   imageInsertNotAllowedSingleFile: ไม่สามารถแทรกรูปภาพในโหมดไฟล์เดียวได้ กรุณาเปิดโฟลเดอร์ก่อน
   imageInsertFailed: แทรกรูปภาพล้มเหลว
@@ -12,7 +10,6 @@ message:
   excalidrawInsertNotAllowedSingleFile: ไม่อนุญาตให้แทรกการอ้างอิงไวท์บอร์ดในโหมดไฟล์เดียว โปรดเปิดโฟลเดอร์ก่อน
   excalidrawInsertFailed: ไม่สามารถแทรกการอ้างอิงไวท์บอร์ดได้
   saveBeforeOpenFileLink: โปรดบันทึกไฟล์ก่อนเปิดลิงก์ไฟล์
-  imageUploading: กำลังอัปโหลดรูปภาพไปยังโฮสต์…
   recentFileNotFound: ไม่พบไฟล์ล่าสุด ล้างบันทึกแล้ว
   recentFolderNotFound: ไม่พบโฟลเดอร์ล่าสุด ล้างบันทึกแล้ว
   typewriterEnabled: เปิดใช้งานโหมดเครื่องพิมพ์ดีดแล้ว

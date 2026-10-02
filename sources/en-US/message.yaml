@@ -3,8 +3,6 @@ message:
   codeCopied: Code copied to clipboard
   saveSuccess: Save successful
   saveFailed: Save failed
-  imageUploadSuccess: Image uploaded successfully
-  imageUploadFailed: Image upload failed
   imageInsertNotAllowed: Please save the file before inserting images
   imageInsertNotAllowedSingleFile: Cannot insert images in single-file mode. Please open a folder first.
   imageInsertFailed: Failed to insert image
@@ -12,7 +10,6 @@ message:
   excalidrawInsertNotAllowedSingleFile: Inserting a whiteboard reference is not allowed in single-file mode; open a folder first
   excalidrawInsertFailed: Failed to insert whiteboard reference
   saveBeforeOpenFileLink: Please save the file before opening file links
-  imageUploading: Uploading image to hosting…
   recentFileNotFound: Recent file not found, record cleared
   recentFolderNotFound: Recent folder not found, record cleared
   typewriterEnabled: Typewriter mode enabled

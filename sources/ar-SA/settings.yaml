@@ -246,12 +246,6 @@ settings:
   fileExtensions: امتدادات الملفات
   fileExtensionsDesc: إدارة أنواع الملفات التي يمكن النقر عليها في شجرة الملفات. سيتم عرض الامتدادات غير المدرجة على أنها معطلة.
   fileExtensionsPlaceholder: أدخل الامتداد (مثل md)
-  imageStoragePicgo: استضافة صور PicGo
-  picgoServerUrl: عنوان URL لخادم PicGo
-  picgoServerUrlDesc: يرجى الرجوع إلى PicGo Server
-  picgoTestConnection: اختبار
-  picgoConnectionSuccess: تم الاتصال بـ PicGo بنجاح
-  picgoConnectionFailed: فشل الاتصال بـ PicGo. تحقق من تشغيل عميل PicGo
   typingParticles: جزيئات الكتابة
   typingParticlesDesc: إصدار جزيئات من موضع المؤشر أثناء الكتابة
   particlePreset: الإعداد المسبق
