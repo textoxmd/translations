@@ -221,8 +221,6 @@ settings:
   experimental: Experimental
   sourcePreserveTitle: Preserve Original Formatting
   sourcePreserveDesc: On save, only the parts you actually edited are rewritten. Untouched content — such as list markers, code fence style, table alignment, and blank lines — keeps its original formatting, byte for byte. This feature is still in an experimental Beta stage and may have edge cases; try it on a copy of your document first.
-  alertTitle: Alerts
-  alertDesc: GitHub-style callout boxes using blockquote syntax like <code>&gt; [!NOTE]</code>
   typing-particleTitle: Typing Particles
   typing-particleDesc: Emit spark particles from the cursor position while typing
   fileExtensions: File Extensions

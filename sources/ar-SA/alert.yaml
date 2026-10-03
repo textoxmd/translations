@@ -1,0 +1,3 @@
+alert:
+  pluginName: "تنبيه"
+  pluginDescription: "امتداد بناء جملة blockquote يدعم NOTE, TIP, IMPORTANT, WARNING, CAUTION"

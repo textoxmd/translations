@@ -1,0 +1,3 @@
+alert:
+  pluginName: "Alertsa"
+  pluginDescription: "Extensão de sintaxe blockquote com suporte para NOTE, TIP, IMPORTANT, WARNING, CAUTION"

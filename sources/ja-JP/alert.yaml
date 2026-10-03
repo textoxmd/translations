@@ -1,0 +1,3 @@
+alert:
+  pluginName: "アラート"
+  pluginDescription: "blockquote構文の拡張、NOTE, TIP, IMPORTANT, WARNING, CAUTIONの5種類をサポート"

@@ -233,8 +233,6 @@ settings:
   experimental: 實驗功能
   sourcePreserveTitle: 保留原文格式
   sourcePreserveDesc: 儲存時只會重寫你實際編輯過的內容，其餘未編輯的部分（如列表符號、圍牆寫法、表格對齊、空行）會保持原始排版，逐字不變。此功能仍處於 Beta 實驗階段，可能存在邊界問題，建議先在文件副本上試用。
-  alertTitle: 提醒框
-  alertDesc: GitHub 風格的提示框，使用引用語法，如 <code>&gt; [!NOTE]</code>
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字時從游標位置迸發出火花粒子
   fileExtensions: 文件副檔名

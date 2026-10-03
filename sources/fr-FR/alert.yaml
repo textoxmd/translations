@@ -1,0 +1,3 @@
+alert:
+  pluginName: "Alertse"
+  pluginDescription: "Extension de la syntaxe blockquote prenant en charge NOTE, TIP, IMPORTANT, WARNING, CAUTION"

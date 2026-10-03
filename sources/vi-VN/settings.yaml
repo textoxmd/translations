@@ -235,8 +235,6 @@ settings:
   experimental: Thử nghiệm
   sourcePreserveTitle: Giữ nguyên định dạng gốc
   sourcePreserveDesc: Khi lưu, chỉ nội dung bạn thực sự chỉnh sửa mới được viết lại. Các phần chưa chỉnh sửa (như ký hiệu danh sách, kiểu viết khối mã, căn chỉnh bảng và dòng trống) vẫn giữ nguyên định dạng gốc, không thay đổi chút nào. Tính năng này vẫn đang ở giai đoạn thử nghiệm Beta và có thể có vấn đề biên; hãy thử trên một bản sao tài liệu trước.
-  alertTitle: Cảnh báo
-  alertDesc: Mở rộng cú pháp blockquote hỗ trợ NOTE, TIP, IMPORTANT, WARNING, CAUTION
   typing-particleTitle: Hiệu ứng hạt khi gõ
   typing-particleDesc: Phát ra các hạt lửa từ vị trí con trỏ khi gõ
   fileExtensions: Phần mở rộng tệp
