@@ -324,6 +324,8 @@ settings:
   pluginFailed: Failed to load
   pluginInstall: Install Plugin
   pluginUninstall: Uninstall
+  pluginEnable: Enable
+  pluginDisable: Disable
   pluginBundled: Official
   pluginReload: Reload
   pluginReloaded: Reloaded

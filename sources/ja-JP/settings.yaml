@@ -336,6 +336,8 @@ settings:
   pluginFailed: 読み込みに失敗しました
   pluginInstall: プラグインをインストール
   pluginUninstall: アンインストール
+  pluginEnable: 有効化
+  pluginDisable: 無効化
   pluginBundled: 公式
   pluginReload: 再読み込み
   pluginReloaded: 再読み込みしました

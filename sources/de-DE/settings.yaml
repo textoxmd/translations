@@ -342,6 +342,8 @@ settings:
   pluginFailed: Laden fehlgeschlagen
   pluginInstall: Plugin installieren
   pluginUninstall: Deinstallieren
+  pluginEnable: Aktivieren
+  pluginDisable: Deaktivieren
   pluginBundled: Offiziell
   pluginReload: Neu laden
   pluginReloaded: Neu geladen

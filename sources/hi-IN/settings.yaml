@@ -338,6 +338,8 @@ settings:
   pluginFailed: लोड करने में विफल
   pluginInstall: प्लगइन इंस्टॉल करें
   pluginUninstall: अनइंस्टॉल करें
+  pluginEnable: सक्षम करें
+  pluginDisable: अक्षम करें
   pluginBundled: आधिकारिक
   pluginReload: पुनः लोड करें
   pluginReloaded: पुनः लोड हो गया

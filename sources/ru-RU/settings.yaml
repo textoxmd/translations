@@ -340,6 +340,8 @@ settings:
   pluginFailed: Не удалось загрузить
   pluginInstall: Установить плагин
   pluginUninstall: Удалить
+  pluginEnable: Включить
+  pluginDisable: Отключить
   pluginBundled: Официальный
   pluginReload: Перезагрузить
   pluginReloaded: Перезагружено

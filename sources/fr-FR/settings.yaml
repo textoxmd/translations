@@ -342,6 +342,8 @@ settings:
   pluginFailed: Échec du chargement
   pluginInstall: Installer une extension
   pluginUninstall: Désinstaller
+  pluginEnable: Activer
+  pluginDisable: Désactiver
   pluginBundled: Officiel
   pluginReload: Recharger
   pluginReloaded: Rechargé

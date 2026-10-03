@@ -336,6 +336,8 @@ settings:
   pluginFailed: فشل التحميل
   pluginInstall: تثبيت إضافة
   pluginUninstall: إزالة
+  pluginEnable: تفعيل
+  pluginDisable: تعطيل
   pluginBundled: رسمي
   pluginReload: إعادة التحميل
   pluginReloaded: تمت إعادة التحميل

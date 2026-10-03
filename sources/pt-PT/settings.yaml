@@ -340,6 +340,8 @@ settings:
   pluginFailed: Falha ao carregar
   pluginInstall: Instalar extensão
   pluginUninstall: Desinstalar
+  pluginEnable: Ativar
+  pluginDisable: Desativar
   pluginBundled: Oficial
   pluginReload: Recarregar
   pluginReloaded: Recarregado

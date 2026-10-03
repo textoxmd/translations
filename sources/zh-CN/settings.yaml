@@ -322,6 +322,8 @@ settings:
   pluginFailed: 加载失败
   pluginInstall: 安装插件
   pluginUninstall: 卸载
+  pluginEnable: 启用
+  pluginDisable: 禁用
   pluginBundled: 官方
   pluginReload: 重新加载
   pluginReloaded: 已重新加载

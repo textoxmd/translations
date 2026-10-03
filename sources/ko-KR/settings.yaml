@@ -336,6 +336,8 @@ settings:
   pluginFailed: 불러오기 실패
   pluginInstall: 플러그인 설치
   pluginUninstall: 제거
+  pluginEnable: 활성화
+  pluginDisable: 비활성화
   pluginBundled: 공식
   pluginReload: 다시 로드
   pluginReloaded: 다시 로드했습니다

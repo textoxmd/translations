@@ -340,6 +340,8 @@ settings:
   pluginFailed: Tải thất bại
   pluginInstall: Cài đặt plugin
   pluginUninstall: Gỡ cài đặt
+  pluginEnable: Bật
+  pluginDisable: Tắt
   pluginBundled: Chính thức
   pluginReload: Tải lại
   pluginReloaded: Đã tải lại

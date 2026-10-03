@@ -336,6 +336,8 @@ settings:
   pluginFailed: 載入失敗
   pluginInstall: 安裝外掛
   pluginUninstall: 解除安裝
+  pluginEnable: 啟用
+  pluginDisable: 停用
   pluginBundled: 官方
   pluginReload: 重新載入
   pluginReloaded: 已重新載入

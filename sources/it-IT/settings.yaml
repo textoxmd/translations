@@ -340,6 +340,8 @@ settings:
   pluginFailed: Caricamento non riuscito
   pluginInstall: Installa plugin
   pluginUninstall: Disinstalla
+  pluginEnable: Attiva
+  pluginDisable: Disattiva
   pluginBundled: Ufficiale
   pluginReload: Ricarica
   pluginReloaded: Ricaricato

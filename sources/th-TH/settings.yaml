@@ -336,6 +336,8 @@ settings:
   pluginFailed: โหลดไม่สำเร็จ
   pluginInstall: ติดตั้งปลั๊กอิน
   pluginUninstall: ถอนการติดตั้ง
+  pluginEnable: เปิดใช้งาน
+  pluginDisable: ปิดใช้งาน
   pluginBundled: ทางการ
   pluginReload: โหลดใหม่
   pluginReloaded: โหลดใหม่แล้ว
