@@ -333,6 +333,8 @@ settings:
   followAuthorFailed: Die Autorenseite konnte nicht geöffnet werden
   plugins: Plugins
   categoryImageHosting: Bildhosting
+  categoryEditor: Editor
+  categoryExport: Export
   pluginDirectory: Plugin-Ordner
   pluginDirectoryDesc: Plugin-Ordner hier ablegen; sie werden nach einem Neustart wirksam
   pluginDirectoryUnknown: Wird geladen…

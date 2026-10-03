@@ -327,6 +327,8 @@ settings:
   followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้
   plugins: ปลั๊กอิน
   categoryImageHosting: โฮสต์รูปภาพ
+  categoryEditor: ตัวแก้ไข
+  categoryExport: ส่งออก
   pluginDirectory: โฟลเดอร์ปลั๊กอิน
   pluginDirectoryDesc: วางโฟลเดอร์ปลั๊กอินไว้ที่นี่ จะมีผลหลังรีสตาร์ทแอป
   pluginDirectoryUnknown: กำลังโหลด…

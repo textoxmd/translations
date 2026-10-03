@@ -315,6 +315,8 @@ settings:
   followAuthorFailed: Failed to open the author page
   plugins: Plugins
   categoryImageHosting: Image Hosting
+  categoryEditor: Editor
+  categoryExport: Export
   pluginDirectory: Plugin Folder
   pluginDirectoryDesc: Put plugin folders here; they take effect after restarting the app
   pluginDirectoryUnknown: Loading…

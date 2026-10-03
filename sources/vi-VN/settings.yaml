@@ -331,6 +331,8 @@ settings:
   followAuthorFailed: Không thể mở trang tác giả
   plugins: Plugin
   categoryImageHosting: Dịch vụ ảnh
+  categoryEditor: Trình soạn thảo
+  categoryExport: Xuất
   pluginDirectory: Thư mục plugin
   pluginDirectoryDesc: Đặt thư mục plugin vào đây; có hiệu lực sau khi khởi động lại ứng dụng
   pluginDirectoryUnknown: Đang tải…

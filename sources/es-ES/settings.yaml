@@ -331,6 +331,8 @@ settings:
   followAuthorFailed: No se pudo abrir la página del autor
   plugins: Complementos
   categoryImageHosting: Alojamiento de imágenes
+  categoryEditor: Editor
+  categoryExport: Exportar
   pluginDirectory: Carpeta de complementos
   pluginDirectoryDesc: Coloque aquí las carpetas de complementos; surten efecto tras reiniciar
   pluginDirectoryUnknown: Cargando…

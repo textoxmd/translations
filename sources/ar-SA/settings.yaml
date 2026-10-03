@@ -327,6 +327,8 @@ settings:
   followAuthorFailed: تعذّر فتح صفحة المؤلف
   plugins: الإضافات
   categoryImageHosting: استضافة الصور
+  categoryEditor: المحرر
+  categoryExport: تصدير
   pluginDirectory: مجلد الإضافات
   pluginDirectoryDesc: ضع مجلدات الإضافات هنا، وتصبح فعّالة بعد إعادة تشغيل التطبيق
   pluginDirectoryUnknown: جارٍ التحميل…

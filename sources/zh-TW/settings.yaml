@@ -327,6 +327,8 @@ settings:
   followAuthorFailed: 開啟作者主頁失敗
   plugins: 外掛
   categoryImageHosting: 圖床
+  categoryEditor: 編輯器增強
+  categoryExport: 匯出
   pluginDirectory: 外掛目錄
   pluginDirectoryDesc: 把外掛資料夾放進這個目錄，重啟應用後生效
   pluginDirectoryUnknown: 讀取中…

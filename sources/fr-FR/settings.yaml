@@ -333,6 +333,8 @@ settings:
   followAuthorFailed: Impossible d'ouvrir la page de l'auteur
   plugins: Extensions
   categoryImageHosting: Hébergement d'images
+  categoryEditor: Éditeur
+  categoryExport: Exportation
   pluginDirectory: Dossier des extensions
   pluginDirectoryDesc: Placez les dossiers d'extensions ici ; ils prennent effet après le redémarrage
   pluginDirectoryUnknown: Chargement…
