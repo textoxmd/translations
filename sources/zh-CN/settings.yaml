@@ -211,10 +211,7 @@ settings:
     boundaries: 边界
     charts: 图表
     sidebar: 侧边栏
-  markdown: 语法设置
   experimental: 实验功能
-  markdownTitle: 语法功能
-  markdownEmpty: 没有可配置的语法功能
   markdownRestartTitle: 需要重启应用
   markdownRestartDesc: '{{feature}}功能在编辑器启动时加载。重启应用后该更改才会生效。'
   sourcePreserveTitle: 保留原文格式

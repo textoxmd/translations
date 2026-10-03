@@ -227,9 +227,6 @@ settings:
     boundaries: Límites
     charts: Gráficos
     sidebar: Barra lateral
-  markdown: Markdown
-  markdownTitle: Sintaxis Markdown
-  markdownEmpty: No hay funciones de sintaxis configurables
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   experimental: Experimental

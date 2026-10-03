@@ -227,9 +227,6 @@ settings:
     boundaries: Ranh giới
     charts: Biểu đồ
     sidebar: Thanh bên
-  markdown: Markdown
-  markdownTitle: Cú pháp Markdown
-  markdownEmpty: Không có tính năng cú pháp nào có thể cấu hình
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   experimental: Thử nghiệm

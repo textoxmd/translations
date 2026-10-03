@@ -225,9 +225,6 @@ settings:
     boundaries: 경계
     charts: 차트
     sidebar: 사이드바
-  markdown: Markdown
-  markdownTitle: Markdown 구문
-  markdownEmpty: 구성 가능한 구문 기능이 없습니다
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   experimental: 실험

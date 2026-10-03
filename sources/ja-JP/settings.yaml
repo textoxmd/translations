@@ -225,9 +225,6 @@ settings:
     boundaries: 境界
     charts: チャート
     sidebar: サイドバー
-  markdown: Markdown
-  markdownTitle: Markdown 構文
-  markdownEmpty: 設定可能な構文機能はありません
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   experimental: 実験

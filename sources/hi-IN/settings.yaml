@@ -225,9 +225,6 @@ settings:
     boundaries: सीमाएँ
     charts: चार्ट
     sidebar: साइडबार
-  markdown: Markdown
-  markdownTitle: Markdown सिंटैक्स
-  markdownEmpty: कोई कॉन्फ़िगर करने योग्य सिंटैक्स सुविधाएँ नहीं
   markdownRestartTitle: Restart Required
   markdownRestartDesc: The {{feature}} feature is loaded when the editor starts. Restart the app to apply this change.
   experimental: प्रायोगिक
