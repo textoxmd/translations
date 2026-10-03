@@ -237,12 +237,6 @@ settings:
   sourcePreserveDesc: Al salvataggio viene riscritto solo il contenuto che hai effettivamente modificato. Le parti non modificate (simboli degli elenchi, stile dei blocchi di codice, allineamento delle tabelle e righe vuote) mantengono la formattazione originale, senza alcuna modifica. Questa funzione è ancora in fase beta sperimentale e potrebbe presentare casi limite; provala prima su una copia del documento.
   alertTitle: Avviso
   alertDesc: Estensione della sintassi blockquote che supporta NOTE, TIP, IMPORTANT, WARNING, CAUTION
-  html-commentTitle: Commenti HTML
-  html-commentDesc: Mostra blocchi di commento <code>&lt;!-- --&gt;</code>
-  html-inlineTitle: HTML inline
-  html-inlineDesc: Mostra tag HTML inline come <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
-  html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Particelle di digitazione
   typing-particleDesc: Emette particelle scintilla dalla posizione del cursore durante la digitazione
   fileExtensions: Estensioni file

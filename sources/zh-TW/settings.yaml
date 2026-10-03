@@ -235,12 +235,6 @@ settings:
   sourcePreserveDesc: 儲存時只會重寫你實際編輯過的內容，其餘未編輯的部分（如列表符號、圍牆寫法、表格對齊、空行）會保持原始排版，逐字不變。此功能仍處於 Beta 實驗階段，可能存在邊界問題，建議先在文件副本上試用。
   alertTitle: 提醒框
   alertDesc: GitHub 風格的提示框，使用引用語法，如 <code>&gt; [!NOTE]</code>
-  html-commentTitle: HTML 註解
-  html-commentDesc: 將 <code>&lt;!-- --&gt;</code> 註解作為高亮區塊顯示
-  html-inlineTitle: 內聯 HTML
-  html-inlineDesc: 在文字中直接顯示 <code>&lt;span&gt;</code>、<code>&lt;kbd&gt;</code>、<code>&lt;abbr&gt;</code> 等內聯 HTML 標籤
-  html-blockTitle: HTML 區塊
-  html-blockDesc: 將 <code>&lt;div&gt;</code>、<code>&lt;table&gt;</code>、<code>&lt;details&gt;</code> 等區塊級 HTML 作為獨立區塊處理
   typing-particleTitle: 打字粒子效果
   typing-particleDesc: 打字時從游標位置迸發出火花粒子
   fileExtensions: 文件副檔名

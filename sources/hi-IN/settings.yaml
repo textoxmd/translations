@@ -235,12 +235,6 @@ settings:
   sourcePreserveDesc: सहेजते समय केवल वही सामग्री दोबारा लिखी जाती है जिसे आपने वास्तव में संपादित किया है। बिना संपादित भाग (जैसे सूची चिह्न, कोड फ़ेंस शैली, तालिका संरेखण और खाली पंक्तियाँ) अपने मूल फ़ॉर्मेटिंग में बिना किसी बदलाव के बने रहते हैं। यह सुविधा अभी बीटा प्रयोगात्मक चरण में है और इसमें सीमांत समस्याएँ हो सकती हैं; पहले अपने दस्तावेज़ की एक प्रति पर आज़माएँ।
   alertTitle: अलर्ट
   alertDesc: blockquote सिंटैक्स एक्सटेंशन जो NOTE, TIP, IMPORTANT, WARNING, CAUTION का समर्थन करता है
-  html-commentTitle: HTML टिप्पणियाँ
-  html-commentDesc: <code>&lt;!-- --&gt;</code> टिप्पणी ब्लॉक प्रस्तुत करें
-  html-inlineTitle: इनलाइन HTML
-  html-inlineDesc: <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code> जैसे इनलाइन HTML टैग प्रस्तुत करें
-  html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: टाइपिंग पार्टिकल्स
   typing-particleDesc: टाइप करते समय कर्सर स्थिति से स्पार्क कण उत्सर्जित करें
   fileExtensions: फ़ाइल एक्सटेंशन

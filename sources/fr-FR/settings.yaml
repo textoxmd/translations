@@ -239,12 +239,6 @@ settings:
   sourcePreserveDesc: À l'enregistrement, seules les parties réellement modifiées sont réécrites. Le reste (marqueurs de liste, style des blocs de code, alignement des tableaux, lignes vides) conserve sa mise en forme d'origine, sans aucun changement. Cette fonctionnalité est encore au stade expérimental (bêta) et peut présenter des cas limites ; testez-la d'abord sur une copie de votre document.
   alertTitle: Alertse
   alertDesc: Extension de la syntaxe blockquote prenant en charge NOTE, TIP, IMPORTANT, WARNING, CAUTION
-  html-commentTitle: Commentaires HTML
-  html-commentDesc: Afficher les blocs de commentaires <code>&lt;!-- --&gt;</code>
-  html-inlineTitle: HTML en ligne
-  html-inlineDesc: Afficher les balises HTML en ligne comme <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
-  html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: Particules de frappe
   typing-particleDesc: Émet des particules d'étincelles depuis la position du curseur lors de la frappe
   fileExtensions: Extensions de fichier

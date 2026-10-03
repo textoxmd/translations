@@ -235,12 +235,6 @@ settings:
   sourcePreserveDesc: เมื่อบันทึก จะเขียนเฉพาะเนื้อหาที่คุณแก้ไขจริง ส่วนที่ไม่ได้แก้ (เช่น สัญลักษณ์รายการ ลักษณะบล็อกโค้ด การจัดวางตาราง และบรรทัดว่าง) จะคงรูปแบบต้นฉบับไว้โดยไม่มีการเปลี่ยนแปลงใด ๆ ฟีเจอร์นี้ยังอยู่ในช่วงทดลอง (Beta) และอาจมีกรณีขอบที่เกิดปัญหาได้ แนะนำให้ลองกับสำเนาเอกสาร์ก่อน
   alertTitle: การแจ้งเตือน
   alertDesc: ส่วนขยายไวยากรณ์ blockquote ที่รองรับ NOTE, TIP, IMPORTANT, WARNING, CAUTION
-  html-commentTitle: ความคิดเห็น HTML
-  html-commentDesc: แสดงบล็อกความคิดเห็น <code>&lt;!-- --&gt;</code>
-  html-inlineTitle: HTML แบบอินไลน์
-  html-inlineDesc: แสดงแท็ก HTML แบบอินไลน์เช่น <code>&lt;span style&gt;</code>, <code>&lt;kbd&gt;</code>, <code>&lt;abbr&gt;</code>
-  html-blockTitle: HTML Blocks
-  html-blockDesc: Treat block-level HTML like <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;details&gt;</code> as standalone blocks
   typing-particleTitle: อนุภาคขณะพิมพ์
   typing-particleDesc: ปล่อยอนุภาคประกายไฟจากตำแหน่งเคอร์เซอร์ขณะพิมพ์
   fileExtensions: นามสกุลไฟล์
