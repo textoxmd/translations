@@ -1,4 +1,6 @@
 table:
+  pluginName: Tabelle
+  pluginDescription: GFM-Tabellen mit Ausrichtung und Zeilen-/Spaltensteuerung bearbeiten
   insertTable: Tabelle einfügen
   addColumnBefore: Spalte davor einfügen
   addColumnAfter: Spalte danach einfügen

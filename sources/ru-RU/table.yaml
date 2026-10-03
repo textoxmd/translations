@@ -1,4 +1,6 @@
 table:
+  pluginName: Таблица
+  pluginDescription: Редактирование таблиц GFM с выравниванием и управлением строками и столбцами
   insertTable: Вставить таблицу
   addColumnBefore: Добавить столбец перед
   addColumnAfter: Добавить столбец после

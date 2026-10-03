@@ -1,4 +1,6 @@
 table:
+  pluginName: 表格
+  pluginDescription: GFM 表格编辑，支持对齐与行列操作
   insertTable: 插入表格
   addColumnBefore: 在前方插入列
   addColumnAfter: 在后方插入列

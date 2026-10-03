@@ -1,4 +1,6 @@
 table:
+  pluginName: جدول
+  pluginDescription: تحرير جداول GFM مع المحاذاة والتحكم في الصفوف والأعمدة
   insertTable: إدراج جدول
   addColumnBefore: إضافة عمود قبل
   addColumnAfter: إضافة عمود بعد

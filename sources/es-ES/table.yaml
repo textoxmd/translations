@@ -1,4 +1,6 @@
 table:
+  pluginName: Tabla
+  pluginDescription: Editar tablas GFM con alineación y control de filas/columnas
   insertTable: Insertar tabla
   addColumnBefore: Agregar columna antes
   addColumnAfter: Agregar columna después

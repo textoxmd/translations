@@ -1,4 +1,6 @@
 table:
+  pluginName: テーブル
+  pluginDescription: GFM テーブルの編集。配置と行・列操作に対応
   insertTable: 表を挿入
   addColumnBefore: 前に列を挿入
   addColumnAfter: 後に列を挿入

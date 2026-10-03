@@ -1,4 +1,6 @@
 table:
+  pluginName: तालिका
+  pluginDescription: संरेखण और पंक्ति/स्तंभ नियंत्रण के साथ GFM तालिकाएं संपादित करें
   insertTable: तालिका सम्मिलित करें
   addColumnBefore: पहले कॉलम जोड़ें
   addColumnAfter: बाद कॉलम जोड़ें

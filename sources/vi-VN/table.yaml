@@ -1,4 +1,6 @@
 table:
+  pluginName: Bảng
+  pluginDescription: Chỉnh sửa bảng GFM với căn chỉnh và thao tác hàng/cột
   insertTable: Chèn bảng
   addColumnBefore: Thêm cột trước
   addColumnAfter: Thêm cột sau

@@ -1,4 +1,6 @@
 table:
+  pluginName: ตาราง
+  pluginDescription: แก้ไขตาราง GFM พร้อมการจัดตำแหน่งและการจัดการแถว/คอลัมน์
   insertTable: แทรกตาราง
   addColumnBefore: เพิ่มคอลัมน์ก่อน
   addColumnAfter: เพิ่มคอลัมน์หลัง

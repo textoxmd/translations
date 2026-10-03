@@ -1,4 +1,6 @@
 table:
+  pluginName: Table
+  pluginDescription: Edit GFM tables with alignment and row/column controls
   insertTable: Insert Table
   addColumnBefore: Add Column Before
   addColumnAfter: Add Column After

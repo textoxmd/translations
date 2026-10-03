@@ -1,4 +1,6 @@
 table:
+  pluginName: 표
+  pluginDescription: 정렬 및 행/열 조작을 지원하는 GFM 표 편집
   insertTable: 표 삽입
   addColumnBefore: 앞에 열 삽입
   addColumnAfter: 뒤에 열 삽입
