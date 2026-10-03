@@ -44,7 +44,7 @@ menu:
   ordered_list: 有序列表
   task_list: 任务列表
   code_block: 代码块
-  math_block: 公式块
+  math_block: 数学公式
   blockquote: 引用
   horizontal_rule: 水平线
   table: 表格

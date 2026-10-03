@@ -40,7 +40,7 @@ common:
   table: 表格
   image: 图片
   link: 链接
-  mathBlock: 数学块
+  mathBlock: 数学公式
   mermaid: Mermaid 图表
   closeToolbar: 隐藏工具栏
   exportPdf: 导出 PDF

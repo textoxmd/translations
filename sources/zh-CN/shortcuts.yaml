@@ -64,7 +64,7 @@ shortcuts:
     taskListDesc: 插入任务列表
     codeBlock: 代码块
     codeBlockDesc: 插入代码块
-    mathBlock: 公式块
+    mathBlock: 数学公式
     mathBlockDesc: 插入数学公式块
     blockquote: 引用
     blockquoteDesc: 插入引用
