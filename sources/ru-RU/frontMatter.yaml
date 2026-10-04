@@ -1,0 +1,3 @@
+frontMatter:
+  pluginName: Front Matter
+  pluginDescription: Блок метаданных YAML в начале документа, обрамлённый ---

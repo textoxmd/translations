@@ -1,0 +1,3 @@
+frontMatter:
+  pluginName: Front Matter
+  pluginDescription: दस्तावेज़ के शीर्ष पर YAML मेटाडेटा ब्लॉक, --- से घिरा हुआ

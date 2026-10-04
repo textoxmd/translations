@@ -1,0 +1,3 @@
+frontMatter:
+  pluginName: Front Matter
+  pluginDescription: 문서 맨 위의 YAML 메타데이터 블록이며 ---로 감쌉니다

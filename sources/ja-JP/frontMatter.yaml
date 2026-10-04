@@ -1,0 +1,3 @@
+frontMatter:
+  pluginName: Front Matter
+  pluginDescription: 文書先頭の YAML メタデータブロック（--- で囲む）

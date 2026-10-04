@@ -1,0 +1,3 @@
+frontMatter:
+  pluginName: Front Matter
+  pluginDescription: บล็อกข้อมูลเมตา YAML ที่ด้านบนของเอกสาร ล้อมด้วย ---
