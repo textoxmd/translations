@@ -1,0 +1,3 @@
+toc:
+  pluginName: 目錄
+  pluginDescription: 自動產生文件標題的目錄區塊，輸入 [toc] 產生

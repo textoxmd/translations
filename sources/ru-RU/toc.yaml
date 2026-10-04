@@ -1,0 +1,3 @@
+toc:
+  pluginName: Оглавление
+  pluginDescription: Блок со списком заголовков документа, создаётся из [toc]

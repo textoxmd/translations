@@ -1,0 +1,3 @@
+toc:
+  pluginName: Table of Contents
+  pluginDescription: A block that lists the document headings, generated from [toc]

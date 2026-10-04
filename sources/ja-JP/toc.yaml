@@ -1,0 +1,3 @@
+toc:
+  pluginName: 目次
+  pluginDescription: 文書の見出し一覧を自動生成するブロック（[toc] で挿入）

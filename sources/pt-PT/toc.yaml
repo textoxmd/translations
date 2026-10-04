@@ -1,0 +1,3 @@
+toc:
+  pluginName: Índice
+  pluginDescription: Um bloco que lista os títulos do documento, gerado a partir de [toc]

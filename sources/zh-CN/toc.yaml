@@ -1,0 +1,3 @@
+toc:
+  pluginName: 目录
+  pluginDescription: 自动生成文档标题的目录块，输入 [toc] 生成
