@@ -251,6 +251,10 @@ settings:
   particlePreset_rain: Rain
   particlePreset_fireflies: Fireflies
   particlePreset_fountain: Fountain
+  particleCustom: Custom
+  particleResetDefaults: Restore Defaults
+  particleResetDefaultsDesc: Reset to the plugin's factory default effect
+  pluginSettingsRestart: This plugin's settings take effect after restarting the app
   particleColorTheme: Theme
   particleColorFixed: Fixed
   particleColorRandom: Random

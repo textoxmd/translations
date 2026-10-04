@@ -249,6 +249,10 @@ settings:
   particlePreset_rain: 雨丝
   particlePreset_fireflies: 萤火
   particlePreset_fountain: 喷泉
+  particleCustom: 自定义
+  particleResetDefaults: 恢复默认值
+  particleResetDefaultsDesc: 恢复为插件出厂默认效果
+  pluginSettingsRestart: 此插件的设置需重启应用后生效
   particleColorTheme: 跟随主题
   particleColorFixed: 固定颜色
   particleColorRandom: 随机彩色
