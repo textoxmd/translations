@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Mostra numeri di riga
   showLineNumbersDesc: Mostra numeri di riga nell'editor del codice sorgente
   showLineNumbersTooltip: Quando abilitato, i numeri di riga vengono visualizzati sul lato sinistro dell'editor del codice sorgente
-  codeEditorThemeLight: Tema del blocco di codice (chiaro)
-  codeEditorThemeLightDesc: Scegli lo stile del tema per l'editor di blocchi di codice in modalità chiara
-  codeEditorThemeDark: Tema del blocco di codice (scuro)
-  codeEditorThemeDarkDesc: Scegli lo stile del tema per l'editor di blocchi di codice in modalità scura
   sourceCodeThemeLight: Tema del codice sorgente (chiaro)
   sourceCodeThemeLightDesc: Scegli lo stile del tema per l'editor del codice sorgente in modalità chiara
   sourceCodeThemeDark: Tema del codice sorgente (scuro)

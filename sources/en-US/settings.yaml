@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Show Line Numbers
   showLineNumbersDesc: Show line numbers in the source code editor
   showLineNumbersTooltip: When enabled, line numbers are displayed on the left side of the source code editor
-  codeEditorThemeLight: Code Block Theme (Light)
-  codeEditorThemeLightDesc: Choose the theme style for code blocks in light mode
-  codeEditorThemeDark: Code Block Theme (Dark)
-  codeEditorThemeDarkDesc: Choose the theme style for code blocks in dark mode
   sourceCodeThemeLight: Source Code Theme (Light)
   sourceCodeThemeLightDesc: Choose the theme style for source code editor in light mode
   sourceCodeThemeDark: Source Code Theme (Dark)

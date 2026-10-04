@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Zeilennummern anzeigen
   showLineNumbersDesc: Zeilennummern im Quellcode-Editor anzeigen
   showLineNumbersTooltip: Wenn aktiviert, werden Zeilennummern auf der linken Seite des Quellcode-Editors angezeigt
-  codeEditorThemeLight: Code-Block-Thema (Hell)
-  codeEditorThemeLightDesc: Wählen Sie den Themenstil für den Code-Block-Editor im hellen Modus
-  codeEditorThemeDark: Code-Block-Thema (Dunkel)
-  codeEditorThemeDarkDesc: Wählen Sie den Themenstil für den Code-Block-Editor im dunklen Modus
   sourceCodeThemeLight: Quellcode-Thema (Hell)
   sourceCodeThemeLightDesc: Wählen Sie den Themenstil für den Quellcode-Editor im hellen Modus
   sourceCodeThemeDark: Quellcode-Thema (Dunkel)

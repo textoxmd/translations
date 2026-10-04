@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Показывать номера строк
   showLineNumbersDesc: Показывать номера строк в редакторе исходного кода
   showLineNumbersTooltip: При включении номера строк отображаются слева от редактора исходного кода
-  codeEditorThemeLight: Тема блока кода (светлая)
-  codeEditorThemeLightDesc: Выберите стиль темы для редактора блоков кода в светлом режиме
-  codeEditorThemeDark: Тема блока кода (темная)
-  codeEditorThemeDarkDesc: Выберите стиль темы для редактора блоков кода в темном режиме
   sourceCodeThemeLight: Тема исходного кода (светлая)
   sourceCodeThemeLightDesc: Выберите стиль темы для редактора исходного кода в светлом режиме
   sourceCodeThemeDark: Тема исходного кода (темная)

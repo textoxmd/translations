@@ -79,10 +79,6 @@ settings:
   showLineNumbers: 행 번호 표시
   showLineNumbersDesc: 소스 코드 편집기에 행 번호 표시
   showLineNumbersTooltip: 활성화하면 소스 코드 편집기 왼쪽에 행 번호가 표시됩니다
-  codeEditorThemeLight: 코드 블록 테마 (밝은)
-  codeEditorThemeLightDesc: 밝은 모드에서 코드 블록 편집기의 테마 스타일 선택
-  codeEditorThemeDark: 코드 블록 테마 (어두운)
-  codeEditorThemeDarkDesc: 어두운 모드에서 코드 블록 편집기의 테마 스타일 선택
   sourceCodeThemeLight: 소스 코드 테마 (밝은)
   sourceCodeThemeLightDesc: 밝은 모드에서 소스 코드 편집기의 테마 스타일 선택
   sourceCodeThemeDark: 소스 코드 테마 (어두운)

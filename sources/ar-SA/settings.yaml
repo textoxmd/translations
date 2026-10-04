@@ -79,10 +79,6 @@ settings:
   showLineNumbers: إظهار أرقام الأسطر
   showLineNumbersDesc: إظهار أرقام الأسطر في محرر الكود المصدر
   showLineNumbersTooltip: عند التمكين، يتم عرض أرقام الأسطر على الجانب الأيسر من محرر الكود المصدر
-  codeEditorThemeLight: سمة كتلة الكود (فاتحة)
-  codeEditorThemeLightDesc: اختر نمط السمة لمحرر كتلة الكود في الوضع الفاتح
-  codeEditorThemeDark: سمة كتلة الكود (داكنة)
-  codeEditorThemeDarkDesc: اختر نمط السمة لمحرر كتلة الكود في الوضع الداكن
   sourceCodeThemeLight: سمة الكود المصدر (فاتحة)
   sourceCodeThemeLightDesc: اختر نمط السمة لمحرر الكود المصدر في الوضع الفاتح
   sourceCodeThemeDark: سمة الكود المصدر (داكنة)

@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Hiển thị số dòng
   showLineNumbersDesc: Hiển thị số dòng trong trình soạn thảo mã nguồn
   showLineNumbersTooltip: Khi bật, số dòng được hiển thị ở bên trái của trình soạn thảo mã nguồn
-  codeEditorThemeLight: Chủ đề khối mã (sáng)
-  codeEditorThemeLightDesc: Chọn kiểu chủ đề cho trình soạn thảo khối mã ở chế độ sáng
-  codeEditorThemeDark: Chủ đề khối mã (tối)
-  codeEditorThemeDarkDesc: Chọn kiểu chủ đề cho trình soạn thảo khối mã ở chế độ tối
   sourceCodeThemeLight: Chủ đề mã nguồn (sáng)
   sourceCodeThemeLightDesc: Chọn kiểu chủ đề cho trình soạn thảo mã nguồn ở chế độ sáng
   sourceCodeThemeDark: Chủ đề mã nguồn (tối)

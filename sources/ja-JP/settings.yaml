@@ -79,10 +79,6 @@ settings:
   showLineNumbers: 行番号を表示
   showLineNumbersDesc: ソースコードエディタで行番号を表示する
   showLineNumbersTooltip: 有効にすると、ソースコードエディタの左側に行番号が表示されます
-  codeEditorThemeLight: コードブロックテーマ（ライト）
-  codeEditorThemeLightDesc: ライトモード時のコードブロックエディタのテーマスタイルを選択
-  codeEditorThemeDark: コードブロックテーマ（ダーク）
-  codeEditorThemeDarkDesc: ダークモード時のコードブロックエディタのテーマスタイルを選択
   sourceCodeThemeLight: ソースコードテーマ（ライト）
   sourceCodeThemeLightDesc: ライトモード時のソースコードエディタのテーマスタイルを選択
   sourceCodeThemeDark: ソースコードテーマ（ダーク）

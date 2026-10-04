@@ -79,10 +79,6 @@ settings:
   showLineNumbers: แสดงหมายเลขบรรทัด
   showLineNumbersDesc: แสดงหมายเลขบรรทัดในโปรแกรมแก้ไขซอร์สโค้ด
   showLineNumbersTooltip: เมื่อเปิดใช้งาน หมายเลขบรรทัดจะแสดงทางด้านซ้ายของโปรแกรมแก้ไขซอร์สโค้ด
-  codeEditorThemeLight: ธีมบล็อกโค้ด (สว่าง)
-  codeEditorThemeLightDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขบล็อกโค้ดในโหมดสว่าง
-  codeEditorThemeDark: ธีมบล็อกโค้ด (มืด)
-  codeEditorThemeDarkDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขบล็อกโค้ดในโหมดมืด
   sourceCodeThemeLight: ธีมโค้ดต้นฉบับ (สว่าง)
   sourceCodeThemeLightDesc: เลือกรูปแบบธีมสำหรับตัวแก้ไขโค้ดต้นฉบับในโหมดสว่าง
   sourceCodeThemeDark: ธีมโค้ดต้นฉบับ (มืด)

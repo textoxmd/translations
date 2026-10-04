@@ -79,10 +79,6 @@ settings:
   showLineNumbers: Mostrar números de línea
   showLineNumbersDesc: Mostrar números de línea en el editor de código fuente
   showLineNumbersTooltip: Cuando está habilitado, los números de línea se muestran en el lado izquierdo del editor de código fuente
-  codeEditorThemeLight: Tema del bloque de código (claro)
-  codeEditorThemeLightDesc: Elija el estilo de tema para el editor de bloques de código en modo claro
-  codeEditorThemeDark: Tema del bloque de código (oscuro)
-  codeEditorThemeDarkDesc: Elija el estilo de tema para el editor de bloques de código en modo oscuro
   sourceCodeThemeLight: Tema del código fuente (claro)
   sourceCodeThemeLightDesc: Elija el estilo de tema para el editor de código fuente en modo claro
   sourceCodeThemeDark: Tema del código fuente (oscuro)

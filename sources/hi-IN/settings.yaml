@@ -79,10 +79,6 @@ settings:
   showLineNumbers: लाइन नंबर दिखाएं
   showLineNumbersDesc: स्रोत कोड संपादक में लाइन नंबर दिखाएं
   showLineNumbersTooltip: सक्षम होने पर, लाइन नंबर स्रोत कोड संपादक के बाईं ओर प्रदर्शित होते हैं
-  codeEditorThemeLight: कोड ब्लॉक थीम (हल्की)
-  codeEditorThemeLightDesc: हल्के मोड में कोड ब्लॉक संपादक के लिए थीम शैली चुनें
-  codeEditorThemeDark: कोड ब्लॉक थीम (गहरी)
-  codeEditorThemeDarkDesc: गहरे मोड में कोड ब्लॉक संपादक के लिए थीम शैली चुनें
   sourceCodeThemeLight: सोर्स कोड थीम (हल्की)
   sourceCodeThemeLightDesc: हल्के मोड में सोर्स कोड संपादक के लिए थीम शैली चुनें
   sourceCodeThemeDark: सोर्स कोड थीम (गहरी)

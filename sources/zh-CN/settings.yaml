@@ -79,10 +79,6 @@ settings:
   showLineNumbers: 显示行号
   showLineNumbersDesc: 在源码编辑器中显示行号
   showLineNumbersTooltip: 启用后在源码编辑器左侧显示行号
-  codeEditorThemeLight: 代码块主题（亮色）
-  codeEditorThemeLightDesc: 选择亮色模式下代码块编辑器的主题风格
-  codeEditorThemeDark: 代码块主题（暗色）
-  codeEditorThemeDarkDesc: 选择暗色模式下代码块编辑器的主题风格
   sourceCodeThemeLight: 源码模式主题（亮色）
   sourceCodeThemeLightDesc: 选择亮色模式下源码编辑器的主题风格
   sourceCodeThemeDark: 源码模式主题（暗色）
