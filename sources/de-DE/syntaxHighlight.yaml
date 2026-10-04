@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: Syntaxhervorhebung
   pluginDescription: Bietet Syntaxhervorhebung für Codeblöcke in vielen Sprachen
+  settingsTitle: Code-Hervorhebungsthema
+  lightTheme: Helles Hervorhebungsthema
+  lightThemeDesc: Farben für Codeblöcke im hellen Erscheinungsbild
+  darkTheme: Dunkles Hervorhebungsthema
+  darkThemeDesc: Farben für Codeblöcke im dunklen Erscheinungsbild

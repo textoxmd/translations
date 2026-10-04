@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: تمييز الصيغة
   pluginDescription: يوفّر تمييز الصيغة لكتل الشيفرة بلغات متعددة
+  settingsTitle: سمة تمييز الشيفرة
+  lightTheme: سمة فاتحة
+  lightThemeDesc: الألوان المستخدمة لكتل الشيفرة في المظهر الفاتح
+  darkTheme: سمة داكنة
+  darkThemeDesc: الألوان المستخدمة لكتل الشيفرة في المظهر الداكن

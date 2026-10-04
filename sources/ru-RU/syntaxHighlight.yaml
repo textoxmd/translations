@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: Подсветка синтаксиса
   pluginDescription: Обеспечивает подсветку синтаксиса блоков кода для многих языков
+  settingsTitle: Тема подсветки кода
+  lightTheme: Светлая тема
+  lightThemeDesc: Цвета для блоков кода в светлом оформлении
+  darkTheme: Тёмная тема
+  darkThemeDesc: Цвета для блоков кода в тёмном оформлении

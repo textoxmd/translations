@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: Evidenziazione della sintassi
   pluginDescription: Fornisce l'evidenziazione della sintassi per i blocchi di codice in molti linguaggi
+  settingsTitle: Tema di evidenziazione del codice
+  lightTheme: Tema chiaro
+  lightThemeDesc: Colori per i blocchi di codice in aspetto chiaro
+  darkTheme: Tema scuro
+  darkThemeDesc: Colori per i blocchi di codice in aspetto scuro

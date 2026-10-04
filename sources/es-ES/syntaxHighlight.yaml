@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: Resaltado de sintaxis
   pluginDescription: Proporciona resaltado de sintaxis para bloques de código en muchos lenguajes
+  settingsTitle: Tema de resaltado de código
+  lightTheme: Tema claro
+  lightThemeDesc: Colores para bloques de código en apariencia clara
+  darkTheme: Tema oscuro
+  darkThemeDesc: Colores para bloques de código en apariencia oscura

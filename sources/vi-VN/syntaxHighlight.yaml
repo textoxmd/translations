@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: Tô sáng cú pháp
   pluginDescription: Cung cấp tô sáng cú pháp cho khối mã ở nhiều ngôn ngữ
+  settingsTitle: Chủ đề tô sáng mã
+  lightTheme: Chủ đề sáng
+  lightThemeDesc: Màu dùng cho khối mã ở giao diện sáng
+  darkTheme: Chủ đề tối
+  darkThemeDesc: Màu dùng cho khối mã ở giao diện tối

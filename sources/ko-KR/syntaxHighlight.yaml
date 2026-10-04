@@ -1,3 +1,8 @@
 syntaxHighlight:
   pluginName: 구문 강조
   pluginDescription: 코드 블록에 다양한 언어의 구문 강조를 제공합니다
+  settingsTitle: 코드 강조 테마
+  lightTheme: 라이트 강조 테마
+  lightThemeDesc: 라이트 모드에서 코드 블록에 사용할 색상
+  darkTheme: 다크 강조 테마
+  darkThemeDesc: 다크 모드에서 코드 블록에 사용할 색상
