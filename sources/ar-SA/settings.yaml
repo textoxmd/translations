@@ -91,14 +91,6 @@ settings:
   right: اليمين
   breatheColor: لون التنفس
   breatheColorDesc: تمكين تأثير لون التنفس الديناميكي للعناوين
-  highlightColor: لون التمييز
-  highlightColorDesc: اختيار لون الخلفية للنص المميز
-  highlightColorYellow: أصفر
-  highlightColorGreen: أخضر
-  highlightColorBlue: أزرق
-  highlightColorPink: وردي
-  highlightColorOrange: برتقالي
-  highlightColorPurple: بنفسجي
   colorTheme: سمة اللون
   colorThemeDesc: اختيار سمة لون التطبيق
   colorThemeDefault: افتراضي

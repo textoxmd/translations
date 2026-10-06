@@ -1,0 +1,6 @@
+highlight:
+  pluginName: Выделение
+  pluginDescription: Заключите текст в ==, чтобы добавить подсветку
+  setting:
+    color: Цвет подсветки
+    colorDesc: Цвет фона выделенного текста

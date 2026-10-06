@@ -93,14 +93,6 @@ settings:
   right: Bên phải
   breatheColor: Màu thở
   breatheColorDesc: Bật hiệu ứng màu thở động cho tiêu đề
-  highlightColor: Màu đánh dấu
-  highlightColorDesc: Chọn màu nền cho văn bản được đánh dấu
-  highlightColorYellow: Vàng
-  highlightColorGreen: Xanh lá
-  highlightColorBlue: Xanh dương
-  highlightColorPink: Hồng
-  highlightColorOrange: Cam
-  highlightColorPurple: Tím
   colorTheme: Chủ đề màu sắc
   colorThemeDesc: Chọn chủ đề màu sắc của ứng dụng
   colorThemeDefault: Mặc định

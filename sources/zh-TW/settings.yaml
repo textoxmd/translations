@@ -91,14 +91,6 @@ settings:
   right: 右側
   breatheColor: 呼吸色
   breatheColorDesc: 為標題啟用動態呼吸色效果
-  highlightColor: 高亮文本顏色
-  highlightColorDesc: 選擇高亮文本的背景顏色
-  highlightColorYellow: 黃色
-  highlightColorGreen: 綠色
-  highlightColorBlue: 藍色
-  highlightColorPink: 粉色
-  highlightColorOrange: 橙色
-  highlightColorPurple: 紫色
   colorTheme: 色彩主題
   colorThemeDesc: 選擇應用程式的色彩主題
   colorThemeDefault: 預設

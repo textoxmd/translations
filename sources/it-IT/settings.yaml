@@ -93,14 +93,6 @@ settings:
   right: Destra
   breatheColor: Colore di respirazione
   breatheColorDesc: Abilita effetto colore di respirazione dinamico per le intestazioni
-  highlightColor: Colore evidenziazione
-  highlightColorDesc: Seleziona il colore di sfondo per il testo evidenziato
-  highlightColorYellow: Giallo
-  highlightColorGreen: Verde
-  highlightColorBlue: Blu
-  highlightColorPink: Rosa
-  highlightColorOrange: Arancione
-  highlightColorPurple: Viola
   colorTheme: Tema colore
   colorThemeDesc: Seleziona il tema colore dell'applicazione
   colorThemeDefault: Predefinito

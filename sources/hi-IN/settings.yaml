@@ -91,14 +91,6 @@ settings:
   right: दाईं ओर
   breatheColor: सांस लेने का रंग
   breatheColorDesc: शीर्षकों के लिए गतिशील सांस लेने के रंग प्रभाव को सक्षम करें
-  highlightColor: हाइलाइट रंग
-  highlightColorDesc: हाइलाइट किए गए टेक्स्ट के लिए पृष्ठभूमि रंग चुनें
-  highlightColorYellow: पीला
-  highlightColorGreen: हरा
-  highlightColorBlue: नीला
-  highlightColorPink: गुलाबी
-  highlightColorOrange: नारंगी
-  highlightColorPurple: बैंगनी
   colorTheme: रंग थीम
   colorThemeDesc: एप्लिकेशन का रंग थीम चुनें
   colorThemeDefault: डिफ़ॉल्ट

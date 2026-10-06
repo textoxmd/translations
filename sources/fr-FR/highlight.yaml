@@ -1,0 +1,6 @@
+highlight:
+  pluginName: Surlignage
+  pluginDescription: Entourez le texte de == pour ajouter un fond surligné
+  setting:
+    color: Couleur de surlignage
+    colorDesc: Couleur d'arrière-plan du texte surligné

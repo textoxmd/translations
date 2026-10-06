@@ -1,0 +1,6 @@
+highlight:
+  pluginName: Evidenziazione
+  pluginDescription: Racchiudi il testo tra == per aggiungere uno sfondo evidenziato
+  setting:
+    color: Colore evidenziazione
+    colorDesc: Colore di sfondo del testo evidenziato

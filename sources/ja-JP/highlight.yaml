@@ -1,0 +1,6 @@
+highlight:
+  pluginName: ハイライト
+  pluginDescription: テキストを == で囲むとハイライト背景を追加します
+  setting:
+    color: ハイライト色
+    colorDesc: ハイライトするテキストの背景色

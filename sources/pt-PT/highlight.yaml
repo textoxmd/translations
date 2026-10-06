@@ -1,0 +1,6 @@
+highlight:
+  pluginName: Realce
+  pluginDescription: Cerque o texto com == para adicionar um fundo realçado
+  setting:
+    color: Cor de realce
+    colorDesc: Cor de fundo do texto realçado

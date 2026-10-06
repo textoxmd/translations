@@ -91,14 +91,6 @@ settings:
   right: 오른쪽
   breatheColor: 호흡 색상
   breatheColorDesc: 제목에 동적 호흡 색상 효과 활성화
-  highlightColor: 하이라이트 색상
-  highlightColorDesc: 하이라이트 텍스트의 배경색 선택
-  highlightColorYellow: 노란색
-  highlightColorGreen: 초록색
-  highlightColorBlue: 파란색
-  highlightColorPink: 분홍색
-  highlightColorOrange: 주황색
-  highlightColorPurple: 복숭아색
   colorTheme: 색상 테마
   colorThemeDesc: 애플리케이션의 색상 테마 선택
   colorThemeDefault: 기본값

@@ -91,14 +91,6 @@ settings:
   right: 右側
   breatheColor: ブリージングカラー
   breatheColorDesc: 見出しに動的なブリージングカラー効果を有効にする
-  highlightColor: ハイライト色
-  highlightColorDesc: ハイライトテキストの背景色を選択
-  highlightColorYellow: 黄色
-  highlightColorGreen: 緑色
-  highlightColorBlue: 青色
-  highlightColorPink: ピンク色
-  highlightColorOrange: オレンジ色
-  highlightColorPurple: 紫色
   colorTheme: カラーテーマ
   colorThemeDesc: アプリケーションのカラーテーマを選択
   colorThemeDefault: デフォルト

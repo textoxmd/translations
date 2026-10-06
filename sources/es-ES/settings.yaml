@@ -93,14 +93,6 @@ settings:
   right: Derecha
   breatheColor: Color de respiración
   breatheColorDesc: Habilitar efecto de color de respiración dinámico para encabezados
-  highlightColor: Color de resaltado
-  highlightColorDesc: Seleccionar el color de fondo para texto resaltado
-  highlightColorYellow: Amarillo
-  highlightColorGreen: Verde
-  highlightColorBlue: Azul
-  highlightColorPink: Rosa
-  highlightColorOrange: Naranja
-  highlightColorPurple: Púrpura
   colorTheme: Tema de color
   colorThemeDesc: Seleccionar el tema de color de la aplicación
   colorThemeDefault: Predeterminado

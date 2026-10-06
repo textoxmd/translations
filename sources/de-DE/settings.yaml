@@ -93,14 +93,6 @@ settings:
   right: Rechts
   breatheColor: Atemfarbe
   breatheColorDesc: Dynamischen Atemfarbeneffekt für Überschriften aktivieren
-  highlightColor: Markierungsfarbe
-  highlightColorDesc: Hintergrundfarbe für markierten Text auswählen
-  highlightColorYellow: Gelb
-  highlightColorGreen: Grün
-  highlightColorBlue: Blau
-  highlightColorPink: Rosa
-  highlightColorOrange: Orange
-  highlightColorPurple: Lila
   colorTheme: Farbthema
   colorThemeDesc: Farbthema der Anwendung auswählen
   colorThemeDefault: Standard

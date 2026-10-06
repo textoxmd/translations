@@ -93,14 +93,6 @@ settings:
   right: Справа
   breatheColor: Цвет дыхания
   breatheColorDesc: Включить динамический эффект цвета дыхания для заголовков
-  highlightColor: Цвет выделения
-  highlightColorDesc: Выбрать цвет фона для выделенного текста
-  highlightColorYellow: Желтый
-  highlightColorGreen: Зеленый
-  highlightColorBlue: Синий
-  highlightColorPink: Розовый
-  highlightColorOrange: Оранжевый
-  highlightColorPurple: Фиолетовый
   colorTheme: Цветовая тема
   colorThemeDesc: Выбрать цветовую тему приложения
   colorThemeDefault: По умолчанию

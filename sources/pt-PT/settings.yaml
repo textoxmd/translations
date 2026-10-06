@@ -93,14 +93,6 @@ settings:
   right: Direita
   breatheColor: Cor de respiração
   breatheColorDesc: Ativar efeito de cor de respiração dinâmica para títulos
-  highlightColor: Cor de destaque
-  highlightColorDesc: Selecionar a cor de fundo para texto destacado
-  highlightColorYellow: Amarelo
-  highlightColorGreen: Verde
-  highlightColorBlue: Azul
-  highlightColorPink: Rosa
-  highlightColorOrange: Laranja
-  highlightColorPurple: Roxo
   colorTheme: Tema de cor
   colorThemeDesc: Selecionar o tema de cor da aplicação
   colorThemeDefault: Padrão

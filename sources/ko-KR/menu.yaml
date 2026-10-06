@@ -52,7 +52,6 @@ menu:
   underline: 밑줄
   strikethrough: 취소선
   inline_code: 인라인 코드
-  highlight: 강조 표시
   clear_formatting: 취소선
   view: 보기
   toggle_sidebar: 사이드바 펼치기

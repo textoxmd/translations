@@ -1,0 +1,6 @@
+highlight:
+  pluginName: 高亮
+  pluginDescription: 用 == 括選文字加上高亮背景
+  setting:
+    color: 高亮顏色
+    colorDesc: 選取文字的高亮背景顏色

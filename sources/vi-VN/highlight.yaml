@@ -1,0 +1,6 @@
+highlight:
+  pluginName: Đánh dấu
+  pluginDescription: Bao văn bản trong == để thêm nền đánh dấu
+  setting:
+    color: Màu đánh dấu
+    colorDesc: Màu nền cho văn bản được đánh dấu

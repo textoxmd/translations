@@ -93,14 +93,6 @@ settings:
   right: Right
   breatheColor: Unsaved Indicator Color
   breatheColorDesc: Set the breathing light color for unsaved indicator in title bar
-  highlightColor: Highlight Color
-  highlightColorDesc: Choose the background color for highlighted text
-  highlightColorYellow: Yellow
-  highlightColorGreen: Green
-  highlightColorBlue: Blue
-  highlightColorPink: Pink
-  highlightColorOrange: Orange
-  highlightColorPurple: Purple
   colorTheme: Color Theme
   colorThemeDesc: Choose the color theme for the application
   colorThemeDefault: Default

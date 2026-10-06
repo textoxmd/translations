@@ -95,14 +95,6 @@ settings:
   right: Droite
   breatheColor: Couleur de respiration
   breatheColorDesc: Activer l'effet de couleur de respiration dynamique pour les titres
-  highlightColor: Couleur de surlignage
-  highlightColorDesc: Choisir la couleur de fond du texte surligné
-  highlightColorYellow: Jaune
-  highlightColorGreen: Vert
-  highlightColorBlue: Bleu
-  highlightColorPink: Rose
-  highlightColorOrange: Orange
-  highlightColorPurple: Violet
   colorTheme: Thème de couleur
   colorThemeDesc: Choisir le thème de couleur de l'application
   colorThemeDefault: Par défaut

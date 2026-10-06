@@ -91,14 +91,6 @@ settings:
   right: ด้านขวา
   breatheColor: สีหายใจ
   breatheColorDesc: เปิดใช้งานเอฟเฟกต์สีหายใจแบบไดนามิกสำหรับหัวข้อ
-  highlightColor: สีไฮไลท์
-  highlightColorDesc: เลือกสีพื้นหลังสำหรับข้อความที่ไฮไลท์
-  highlightColorYellow: สีเหลือง
-  highlightColorGreen: สีเขียว
-  highlightColorBlue: สีน้ำเงิน
-  highlightColorPink: สีชมพู
-  highlightColorOrange: สีส้ม
-  highlightColorPurple: สีม่วง
   colorTheme: ธีมสี
   colorThemeDesc: เลือกธีมสีของแอปพลิเคชัน
   colorThemeDefault: ค่าเริ่มต้น

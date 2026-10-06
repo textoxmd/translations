@@ -91,14 +91,6 @@ settings:
   right: 右侧
   breatheColor: 未保存标记颜色
   breatheColorDesc: 设置标题栏未保存标记的呼吸灯颜色
-  highlightColor: 高亮文本颜色
-  highlightColorDesc: 选择高亮文本的背景颜色
-  highlightColorYellow: 黄色
-  highlightColorGreen: 绿色
-  highlightColorBlue: 蓝色
-  highlightColorPink: 粉色
-  highlightColorOrange: 橙色
-  highlightColorPurple: 紫色
   colorTheme: 颜色主题
   colorThemeDesc: 选择应用的颜色主题
   colorThemeDefault: 默认

@@ -57,7 +57,6 @@ menu:
   underline: 下划线
   strikethrough: 删除线
   inline_code: 行内代码
-  highlight: 高亮
   clear_formatting: 清除格式
   view: 视图
   toggle_sidebar: 展开侧边栏
