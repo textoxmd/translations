@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: Syntax Highlighting
-  pluginDescription: Provides syntax highlighting for code blocks in many languages
-  settingsTitle: Code Highlight Theme
-  lightTheme: Light Highlight Theme
-  lightThemeDesc: Highlight colors used for code blocks in light appearance
-  darkTheme: Dark Highlight Theme
-  darkThemeDesc: Highlight colors used for code blocks in dark appearance

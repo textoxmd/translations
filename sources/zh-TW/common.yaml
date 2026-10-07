@@ -28,20 +28,15 @@ common:
   bold: 粗體
   italic: 斜體
   strikethrough: 刪除線
-  underline: 底線
   inlineCode: 行內程式碼
-  highlight: 高亮
   blockquote: 引用
   codeBlock: 程式碼區塊
   horizontalRule: 分隔線
   bulletList: 無序列表
   orderedList: 有序列表
   taskList: 任務清單
-  table: 表格
   image: 圖片
   link: 連結
-  mathBlock: 數學公式
-  mermaid: Mermaid 圖表
   closeToolbar: 隱藏工具列
   exportPdf: 匯出 PDF
   print: 列印

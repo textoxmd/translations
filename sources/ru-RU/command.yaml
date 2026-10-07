@@ -15,7 +15,6 @@ command:
   toggleEditMode: Переключить режим редактирования
   toggleTypewriterMode: Переключить режим пишущей машинки
   insertImage: Вставить изображение
-  insertExcalidraw: Вставить ссылку на доску
   openSettings: Открыть настройки
   noOutline: Нет структуры
   openFileFirst: Пожалуйста, сначала откройте файл

@@ -28,20 +28,15 @@ common:
   bold: Fett
   italic: Kursiv
   strikethrough: Durchgestrichen
-  underline: Unterstrichen
   inlineCode: Inline-Code
-  highlight: Hervorheben
   blockquote: Zitat
   codeBlock: Code-Block
   horizontalRule: Trennlinie
   bulletList: Aufzählungsliste
   orderedList: Nummerierte Liste
   taskList: Aufgabenliste
-  table: Tabelle
   image: Bild
   link: Link
-  mathBlock: Mathe-Block
-  mermaid: Mermaid-Diagramm
   closeToolbar: Symbolleiste ausblenden
   exportPdf: Als PDF exportieren
   print: Drucken

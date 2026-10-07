@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Inserir lista de tarefas
     codeBlock: Bloco de código
     codeBlockDesc: Inserir bloco de código
-    mathBlock: Bloco matemático
-    mathBlockDesc: Inserir bloco matemático
     blockquote: Bloco de citação
     blockquoteDesc: Inserir bloco de citação
     horizontalRule: Linha horizontal
     horizontalRuleDesc: Inserir linha horizontal
-    table: Tabela
-    tableDesc: Inserir tabela
-    mermaid: Diagrama Mermaid
-    mermaidDesc: Inserir diagrama Mermaid
-    footnote: Nota de rodapé
-    footnoteDesc: Inserir nota de rodapé
     image: Imagem
     imageDesc: Inserir imagem
     minimize: Minimizar
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Refazer a última ação anulada (alternativo)
     selectLine: Selecionar linha
     selectLineDesc: Selecionar todo o conteúdo da linha atual
-    toggleUnderline: Alternar sublinhado
-    toggleUnderlineDesc: Adicionar ou remover sublinhado no texto selecionado
     toggleBold: Alternar negrito
     toggleBoldDesc: Adicionar ou remover negrito no texto selecionado
     commandPalette: Paleta de comandos

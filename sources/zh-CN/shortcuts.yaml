@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: 插入任务列表
     codeBlock: 代码块
     codeBlockDesc: 插入代码块
-    mathBlock: 数学公式
-    mathBlockDesc: 插入数学公式块
     blockquote: 引用
     blockquoteDesc: 插入引用
     horizontalRule: 分割线
     horizontalRuleDesc: 插入水平分割线
-    table: 表格
-    tableDesc: 插入表格
-    mermaid: Mermaid 图表
-    mermaidDesc: 插入 Mermaid 图表
-    footnote: 脚注
-    footnoteDesc: 插入脚注
     image: 图片
     imageDesc: 插入图片
     minimize: 最小化
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: 重做上一步撤销的操作（备选快捷键）
     selectLine: 选择整行
     selectLineDesc: 选中光标所在行的全部内容
-    toggleUnderline: 切换下划线
-    toggleUnderlineDesc: 为选中文本添加或移除下划线
     toggleBold: 切换粗体
     toggleBoldDesc: 为选中文本添加或移除粗体格式
     commandPalette: 命令面板

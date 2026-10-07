@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Chèn danh sách công việc
     codeBlock: Khối mã
     codeBlockDesc: Chèn khối mã
-    mathBlock: Khối toán học
-    mathBlockDesc: Chèn khối toán học
     blockquote: Khối trích dẫn
     blockquoteDesc: Chèn khối trích dẫn
     horizontalRule: Đường ngang
     horizontalRuleDesc: Chèn đường ngang
-    table: Bảng
-    tableDesc: Chèn bảng
-    mermaid: Sơ đồ Mermaid
-    mermaidDesc: Chèn sơ đồ Mermaid
-    footnote: Chú thích cuối trang
-    footnoteDesc: Chèn chú thích cuối trang
     image: Hình ảnh
     imageDesc: Chèn hình ảnh
     minimize: Thu nhỏ
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Làm lại thao tác đã hoàn tác (phím tắt thay thế)
     selectLine: Chọn dòng
     selectLineDesc: Chọn toàn bộ nội dung của dòng hiện tại
-    toggleUnderline: Chuyển đổi gạch chân
-    toggleUnderlineDesc: Thêm hoặc xóa gạch chân trên văn bản đã chọn
     toggleBold: Chuyển đổi in đậm
     toggleBoldDesc: Thêm hoặc xóa định dạng in đậm trên văn bản đã chọn
     commandPalette: Bảng lệnh

@@ -1,6 +1,0 @@
-highlight:
-  pluginName: 강조 표시
-  pluginDescription: 텍스트를 ==로 감싸 하이라이트 배경을 추가합니다
-  setting:
-    color: 강조 표시 색상
-    colorDesc: 강조 표시할 텍스트의 배경 색상

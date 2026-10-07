@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Inserisci elenco attività
     codeBlock: Blocco codice
     codeBlockDesc: Inserisci blocco codice
-    mathBlock: Blocco matematico
-    mathBlockDesc: Inserisci blocco matematico
     blockquote: Blocco citazione
     blockquoteDesc: Inserisci blocco citazione
     horizontalRule: Linea orizzontale
     horizontalRuleDesc: Inserisci linea orizzontale
-    table: Tabella
-    tableDesc: Inserisci tabella
-    mermaid: Diagramma Mermaid
-    mermaidDesc: Inserisci diagramma Mermaid
-    footnote: Nota a piè di pagina
-    footnoteDesc: Inserisci nota a piè di pagina
     image: Immagine
     imageDesc: Inserisci immagine
     minimize: Minimizza
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Ripeti l'ultima azione annullata (alternativa)
     selectLine: Seleziona riga
     selectLineDesc: Seleziona l'intero contenuto della riga corrente
-    toggleUnderline: Attiva/disattiva sottolineatura
-    toggleUnderlineDesc: Aggiungi o rimuovi la sottolineatura dal testo selezionato
     toggleBold: Attiva/disattiva grassetto
     toggleBoldDesc: Aggiungi o rimuovi il grassetto dal testo selezionato
     commandPalette: Palette dei comandi

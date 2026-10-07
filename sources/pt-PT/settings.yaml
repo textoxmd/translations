@@ -220,78 +220,11 @@ settings:
   experimental: Experimental
   sourcePreserveTitle: Manter a formatação original
   sourcePreserveDesc: Ao guardar, apenas o conteúdo que editou é reescrito. As partes não editadas (símbolos de lista, estilo dos blocos de código, alinhamento de tabelas e linhas em branco) mantêm a formatação original, sem qualquer alteração. Esta funcionalidade está ainda em fase beta experimental e pode ter casos extremos; experimente-a primeiro numa cópia do documento.
-  typing-particleTitle: Partículas de digitação
-  typing-particleDesc: Emite partículas de faísca a partir da posição do cursor ao digitar
   fileExtensions: Extensões de ficheiro
   fileExtensionsDesc: >-
     Gerir quais tipos de ficheiro são clicáveis na árvore de ficheiros. Extensões não listadas serão mostradas como
     desativadas.
   fileExtensionsPlaceholder: 'Insira a extensão (ex: md)'
-  typingParticles: Partículas de digitação
-  typingParticlesDesc: Emite partículas a partir da posição do cursor ao digitar
-  particlePreset: Predefinição
-  particleCount: Número de partículas
-  particleSize: Tamanho das partículas
-  particleSpeed: Velocidade
-  particleSpread: Dispersão
-  particleGravity: Gravidade
-  particleDuration: Duração
-  particleDirection: Direção
-  particleDirUp: Para cima
-  particleDirDown: Para baixo
-  particleDirRadial: Radial
-  particleDirRandom: Aleatório
-  particleOn: Ativar partículas de digitação
-  particleShape: Forma
-  particleShapeCircle: Círculo
-  particleShapeSquare: Quadrado
-  particleShapeStar: Estrela
-  particleShapeDiamond: Diamante
-  particleShapeTriangle: Triângulo
-  particlePaletteRainbow: Arco-íris
-  particlePaletteWarm: Quente
-  particlePaletteCool: Frio
-  particlePalettePastel: Pastel
-  particlePaletteNeon: Néon
-  particlePalette: Paleta
-  particlePreset_confetti: Confetes
-  particlePreset_explosion: Explosão
-  particlePreset_rain: Chuva
-  particlePreset_fireflies: Pirilampos
-  particlePreset_fountain: Fonte
-  particleColorTheme: Seguir tema
-  particleColorFixed: Cor fixa
-  particleColorRandom: Aleatório
-  particleColor: Cor
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'Os ficheiros de traducao sao open source. Contribua com melhorias ou crie a sua propria versao'
   importTranslations: Importar traduções
   importLabel: Importar ficheiro de tradução

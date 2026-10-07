@@ -18,7 +18,6 @@ editor:
   math: 数学公式
   inlineMath: 行内公式
   mermaid: Mermaid 图表
-  footnote: 脚注
   insert: 插入
   format: 格式
   openLinkVisit: 前往

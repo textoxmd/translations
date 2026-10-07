@@ -28,20 +28,15 @@ common:
   bold: बोल्ड
   italic: इटैलिक
   strikethrough: स्ट्राइकथ्रू
-  underline: रेखांकित
   inlineCode: इनलाइन कोड
-  highlight: हाइलाइट
   blockquote: ब्लॉककोट
   codeBlock: कोड ब्लॉक
   horizontalRule: क्षैतिज रेखा
   bulletList: बुलेट सूची
   orderedList: क्रमांकित सूची
   taskList: कार्य सूची
-  table: तालिका
   image: छवि
   link: लिंक
-  mathBlock: गणित ब्लॉक
-  mermaid: Mermaid आरेख
   closeToolbar: टूलबार छुपाएं
   exportPdf: PDF निर्यात करें
   print: प्रिंट करें

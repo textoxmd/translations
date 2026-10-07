@@ -1,6 +1,0 @@
-highlight:
-  pluginName: ไฮไลต์
-  pluginDescription: ครอบข้อความด้วย == เพื่อเพิ่มพื้นหลังไฮไลต์
-  setting:
-    color: สีไฮไลต์
-    colorDesc: สีพื้นหลังของข้อความที่ไฮไลต์

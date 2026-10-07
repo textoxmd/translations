@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: 插入任務清單
     codeBlock: 程式碼區塊
     codeBlockDesc: 插入程式碼區塊
-    mathBlock: 數學公式
-    mathBlockDesc: 插入數學公式
     blockquote: 引用區塊
     blockquoteDesc: 插入引用區塊
     horizontalRule: 分隔線
     horizontalRuleDesc: 插入分隔線
-    table: 表格
-    tableDesc: 插入表格
-    mermaid: Mermaid 圖表
-    mermaidDesc: 插入 Mermaid 圖表
-    footnote: 註腳
-    footnoteDesc: 插入註腳
     image: 圖片
     imageDesc: 插入圖片
     minimize: 最小化
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: 重做上一步復原的操作（備選快捷鍵）
     selectLine: 選擇整行
     selectLineDesc: 選取游標所在行的全部內容
-    toggleUnderline: 切換底線
-    toggleUnderlineDesc: 為選取文字新增或移除底線
     toggleBold: 切換粗體
     toggleBoldDesc: 為選取文字新增或移除粗體格式
     commandPalette: 命令面板

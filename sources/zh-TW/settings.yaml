@@ -218,76 +218,9 @@ settings:
   experimental: 實驗功能
   sourcePreserveTitle: 保留原文格式
   sourcePreserveDesc: 儲存時只會重寫你實際編輯過的內容，其餘未編輯的部分（如列表符號、圍牆寫法、表格對齊、空行）會保持原始排版，逐字不變。此功能仍處於 Beta 實驗階段，可能存在邊界問題，建議先在文件副本上試用。
-  typing-particleTitle: 打字粒子效果
-  typing-particleDesc: 打字時從游標位置迸發出火花粒子
   fileExtensions: 文件副檔名
   fileExtensionsDesc: 管理在文件樹中可點擊開啟的檔案類型。未添加的副檔名將顯示為不可點擊。
   fileExtensionsPlaceholder: 輸入副檔名（如 md）
-  typingParticles: 打字粒子
-  typingParticlesDesc: 打字時從游標位置迸發出粒子效果
-  particlePreset: 效果預設
-  particleCount: 粒子數量
-  particleSize: 粒子大小
-  particleSpeed: 速度
-  particleSpread: 擴散角度
-  particleGravity: 重力
-  particleDuration: 持續時間
-  particleDirection: 方向
-  particleDirUp: 向上
-  particleDirDown: 向下
-  particleDirRadial: 四周擴散
-  particleDirRandom: 隨機
-  particleOn: 開啟打字粒子
-  particleShape: 形狀
-  particleShapeCircle: 圓形
-  particleShapeSquare: 方形
-  particleShapeStar: 星形
-  particleShapeDiamond: 菱形
-  particleShapeTriangle: 三角形
-  particlePaletteRainbow: 彩虹
-  particlePaletteWarm: 暖色
-  particlePaletteCool: 冷色
-  particlePalettePastel: 柔和
-  particlePaletteNeon: 霓虹
-  particlePalette: 調色板
-  particlePreset_confetti: 彩紙
-  particlePreset_explosion: 爆炸
-  particlePreset_rain: 雨絲
-  particlePreset_fireflies: 螢火
-  particlePreset_fountain: 噴泉
-  particleColorTheme: 跟隨主題
-  particleColorFixed: 固定顏色
-  particleColorRandom: 隨機採色
-  particleColor: 顏色
-  particleColorDesc: 隨機模式下每粒子獨立取色，同批可呈現多色
-  particleCountDesc: 每次擊鍵發射的粒子數量（3-20）
-  particleCountNote: 數量越多效果越華麗，但對低性能設備影響較大。
-  particleSizeDesc: 每個粒子的初始大小（1-6px）
-  particleSizeNote: 較大的粒子更醒目。
-  particleSpeedDesc: 粒子的初始飛行速度（30-250px/s）
-  particleSpeedNote: 速度越快擴散越遠。
-  particleSpreadDesc: 粒子的發射角度範圍（10-360°）
-  particleSpreadNote: 角度越大擴散越廣。
-  particleGravityDesc: 粒子受到的重力加速度（0-300）
-  particleGravityNote: 重力越大粒子下落越快。
-  particleDurationDesc: 粒子從出現到消失的時間（0.1-1.5s）
-  particleDurationNote: 持續時間越長粒子軌跡越長。
-  particleDirectionDesc: 粒子的整體發射方向。向上/向下/四周擴散/隨機。
-  particleShapeDesc: 粒子的形狀。支援圓形、方形、星形、菱形和三角形。
-  particlePresets: 預設
-  particleCustomProfiles: 自訂配置
-  particleNewProfile: 新建
-  particleNewFromPreset: 從當前預設新建配置
-  particleReadOnlyHint: 唯讀，從預設新建配置後可編輯
-  particleCopySuffix: ' - 副本'
-  particleResetToPreset: 重置為預設預設值
-  particleResetDesc: 將當前自訂配置的參數恢復為來源預設的預設值
-  particleRenameTitle: 重新命名配置
-  particleDeleteTitle: 刪除配置
-  particleDeleteDesc: 確定要刪除配置「{{name}}」嗎？此操作不可撤銷。
-  particleDeleteConfirm: 確認刪除
-  particleConfigTooOld: 自訂粒子配置版本過舊，已重置為預設效果。
-  particleConfigTooNew: 自訂粒子配置來自更新版本，已重置為預設效果。
   importRepoLink: '翻譯檔案已開源，歡迎參與改進或製作個性化版本'
   importTranslations: 導入翻譯
   importLabel: 導入翻譯文件

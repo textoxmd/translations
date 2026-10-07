@@ -220,78 +220,11 @@ settings:
   experimental: Экспериментальные
   sourcePreserveTitle: Сохранять исходное форматирование
   sourcePreserveDesc: При сохранении перезаписывается только фактически изменённое содержимое. Неизменённые части (маркеры списков, стиль оформления блоков кода, выравнивание таблиц, пустые строки) сохраняют исходное форматирование без каких-либо изменений. Функция находится на экспериментальной стадии бета-тестирования и может иметь пограничные случаи; сначала опробуйте её на копии документа.
-  typing-particleTitle: Частицы при наборе
-  typing-particleDesc: Испускает искры частиц из позиции курсора при наборе текста
   fileExtensions: Расширения файлов
   fileExtensionsDesc: >-
     Управляйте типами файлов, которые можно открыть кликом в дереве файлов. Расширения не из списка будут отображаться
     как недоступные.
   fileExtensionsPlaceholder: Введите расширение (например, md)
-  typingParticles: Частицы при наборе
-  typingParticlesDesc: Испускает частицы из позиции курсора при наборе текста
-  particlePreset: Пресет
-  particleCount: Количество частиц
-  particleSize: Размер частиц
-  particleSpeed: Скорость
-  particleSpread: Разброс
-  particleGravity: Гравитация
-  particleDuration: Длительность
-  particleDirection: Направление
-  particleDirUp: Вверх
-  particleDirDown: Вниз
-  particleDirRadial: Радиально
-  particleDirRandom: Случайно
-  particleOn: Включить частицы при наборе
-  particleShape: Форма
-  particleShapeCircle: Круг
-  particleShapeSquare: Квадрат
-  particleShapeStar: Звезда
-  particleShapeDiamond: Ромб
-  particleShapeTriangle: Треугольник
-  particlePaletteRainbow: Радуга
-  particlePaletteWarm: Теплый
-  particlePaletteCool: Холодный
-  particlePalettePastel: Пастель
-  particlePaletteNeon: Неон
-  particlePalette: Палитра
-  particlePreset_confetti: Конфетти
-  particlePreset_explosion: Взрыв
-  particlePreset_rain: Дождь
-  particlePreset_fireflies: Светлячки
-  particlePreset_fountain: Фонтан
-  particleColorTheme: Следовать теме
-  particleColorFixed: Фиксированный цвет
-  particleColorRandom: Случайный
-  particleColor: Цвет
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'Faily perevodov otkryty. Vnosite uluchsheniya ili sozdaite svoyu versiyu'
   importTranslations: Импорт переводов
   importLabel: Импортировать файл перевода

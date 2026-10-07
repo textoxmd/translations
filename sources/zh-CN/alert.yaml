@@ -1,3 +1,0 @@
-alert:
-  pluginName: "提醒框"
-  pluginDescription: "GitHub 风格的提示框，使用引用语法，如 > [!NOTE]"

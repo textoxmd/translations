@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Insert task list
     codeBlock: Code Block
     codeBlockDesc: Insert code block
-    mathBlock: Math Block
-    mathBlockDesc: Insert math block
     blockquote: Blockquote
     blockquoteDesc: Insert blockquote
     horizontalRule: Horizontal Rule
     horizontalRuleDesc: Insert horizontal rule
-    table: Table
-    tableDesc: Insert table
-    mermaid: Mermaid Diagram
-    mermaidDesc: Insert Mermaid diagram
-    footnote: Footnote
-    footnoteDesc: Insert footnote
     image: Image
     imageDesc: Insert image
     minimize: Minimize
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Redo the last undone action (alternative shortcut)
     selectLine: Select Line
     selectLineDesc: Select the entire content of the current line
-    toggleUnderline: Toggle Underline
-    toggleUnderlineDesc: Add or remove underline on the selected text
     toggleBold: Toggle Bold
     toggleBoldDesc: Add or remove bold formatting on the selected text
     commandPalette: Command Palette

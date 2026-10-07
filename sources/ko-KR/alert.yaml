@@ -1,3 +1,0 @@
-alert:
-  pluginName: "알림"
-  pluginDescription: "blockquote 구문 확장, NOTE, TIP, IMPORTANT, WARNING, CAUTION 5종 지원"

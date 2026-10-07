@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: إدراج قائمة المهام
     codeBlock: كتلة كود
     codeBlockDesc: إدراج كتلة كود
-    mathBlock: كتلة رياضية
-    mathBlockDesc: إدراج كتلة رياضية
     blockquote: كتلة اقتباس
     blockquoteDesc: إدراج كتلة اقتباس
     horizontalRule: خط أفقي
     horizontalRuleDesc: إدراج خط أفقي
-    table: جدول
-    tableDesc: إدراج جدول
-    mermaid: مخطط Mermaid
-    mermaidDesc: إدراج مخطط Mermaid
-    footnote: هامش
-    footnoteDesc: إدراج هامش
     image: صورة
     imageDesc: إدراج صورة
     minimize: تصغير
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: إعادة آخر إجراء تم التراجع عنه (بديل)
     selectLine: تحديد السطر
     selectLineDesc: تحديد المحتوى الكامل للسطر الحالي
-    toggleUnderline: تبديل التسطير
-    toggleUnderlineDesc: إضافة التسطير أو إزالته من النص المحدد
     toggleBold: تبديل العريض
     toggleBoldDesc: إضافة أو إزالة التنسيق العريض من النص المحدد
     commandPalette: لوحة الأوامر

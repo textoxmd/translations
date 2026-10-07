@@ -28,20 +28,15 @@ common:
   bold: ตัวหนา
   italic: ตัวเอียง
   strikethrough: ขีดทับ
-  underline: ขีดเส้นใต้
   inlineCode: โค้ดแบบอินไลน์
-  highlight: ไฮไลต์
   blockquote: อ้างอิง
   codeBlock: บล็อกโค้ด
   horizontalRule: เส้นแนวนอน
   bulletList: รายการหัวข้อย่อย
   orderedList: รายการลำดับเลข
   taskList: รายการงาน
-  table: ตาราง
   image: รูปภาพ
   link: ลิงก์
-  mathBlock: บล็อกคณิตศาสตร์
-  mermaid: แผนภาพ Mermaid
   closeToolbar: ซ่อนแถบเครื่องมือ
   exportPdf: ส่งออก PDF
   print: พิมพ์

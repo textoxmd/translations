@@ -1,6 +1,0 @@
-highlight:
-  pluginName: हाइलाइट
-  pluginDescription: हाइलाइट पृष्ठभूमि जोड़ने के लिए टेक्स्ट को == में लपेटें
-  setting:
-    color: हाइलाइट रंग
-    colorDesc: हाइलाइट किए गए पाठ का पृष्ठभूमि रंग

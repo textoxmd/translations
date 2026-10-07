@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: Coloration syntaxique
-  pluginDescription: Fournit la coloration syntaxique des blocs de code dans de nombreux langages
-  settingsTitle: Thème de coloration du code
-  lightTheme: Thème clair
-  lightThemeDesc: Couleurs utilisées pour les blocs de code en apparence claire
-  darkTheme: Thème sombre
-  darkThemeDesc: Couleurs utilisées pour les blocs de code en apparence sombre

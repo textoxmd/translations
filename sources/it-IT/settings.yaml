@@ -220,78 +220,11 @@ settings:
   experimental: Sperimentale
   sourcePreserveTitle: Mantieni la formattazione originale
   sourcePreserveDesc: Al salvataggio viene riscritto solo il contenuto che hai effettivamente modificato. Le parti non modificate (simboli degli elenchi, stile dei blocchi di codice, allineamento delle tabelle e righe vuote) mantengono la formattazione originale, senza alcuna modifica. Questa funzione è ancora in fase beta sperimentale e potrebbe presentare casi limite; provala prima su una copia del documento.
-  typing-particleTitle: Particelle di digitazione
-  typing-particleDesc: Emette particelle scintilla dalla posizione del cursore durante la digitazione
   fileExtensions: Estensioni file
   fileExtensionsDesc: >-
     Gestisci quali tipi di file sono cliccabili nell'albero dei file. Le estensioni non elencate verranno mostrate come
     disabilitate.
   fileExtensionsPlaceholder: 'Inserisci estensione (es: md)'
-  typingParticles: Particelle di digitazione
-  typingParticlesDesc: Emette particelle dalla posizione del cursore durante la digitazione
-  particlePreset: Preimpostato
-  particleCount: Numero di particelle
-  particleSize: Dimensione particelle
-  particleSpeed: Velocità
-  particleSpread: Diffusione
-  particleGravity: Gravità
-  particleDuration: Durata
-  particleDirection: Direzione
-  particleDirUp: Su
-  particleDirDown: Giù
-  particleDirRadial: Radiale
-  particleDirRandom: Casuale
-  particleOn: Attiva particelle di digitazione
-  particleShape: Forma
-  particleShapeCircle: Cerchio
-  particleShapeSquare: Quadrato
-  particleShapeStar: Stella
-  particleShapeDiamond: Rombo
-  particleShapeTriangle: Triangolo
-  particlePaletteRainbow: Arcobaleno
-  particlePaletteWarm: Caldo
-  particlePaletteCool: Freddo
-  particlePalettePastel: Pastello
-  particlePaletteNeon: Neon
-  particlePalette: Tavolozza
-  particlePreset_confetti: Coriandoli
-  particlePreset_explosion: Esplosione
-  particlePreset_rain: Pioggia
-  particlePreset_fireflies: Lucciole
-  particlePreset_fountain: Fontana
-  particleColorTheme: Segui tema
-  particleColorFixed: Colore fisso
-  particleColorRandom: Casuale
-  particleColor: Colore
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'I file di traduzione sono open source. Contribuisci con miglioramenti o crea la tua versione'
   importTranslations: Importa traduzioni
   importLabel: Importa file di traduzione

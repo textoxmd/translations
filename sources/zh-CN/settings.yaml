@@ -204,80 +204,10 @@ settings:
   markdownRestartDesc: '{{feature}}功能在编辑器启动时加载。重启应用后该更改才会生效。'
   sourcePreserveTitle: 保留原文格式
   sourcePreserveDesc: 保存时仅重写你实际编辑过的内容，其余未编辑的部分（如列表符号、围栏写法、表格对齐、空行）会保持原始排版，逐字不变。该功能处于 Beta 实验阶段，可能存在边界问题，建议先在文档副本上试用。
-  typing-particleTitle: 打字粒子效果
-  typing-particleDesc: 打字时从光标位置迸发出火花粒子
   fileExtensions: 文件扩展名
   fileExtensionsDesc: 管理在文件树中可点击打开的文件类型。未添加的扩展名将显示为不可点击。
   fileExtensionsPlaceholder: 输入扩展名（如 md）
-  typingParticles: 打字粒子
-  typingParticlesDesc: 打字时从光标位置迸发出粒子效果
-  particlePreset: 效果预设
-  particleCount: 粒子数量
-  particleSize: 粒子大小
-  particleSpeed: 速度
-  particleSpread: 扩散角度
-  particleGravity: 重力
-  particleDuration: 持续时间
-  particleDirection: 方向
-  particleDirUp: 向上
-  particleDirDown: 向下
-  particleDirRadial: 四周扩散
-  particleDirRandom: 随机
-  particleOn: 开启打字粒子
-  particleShape: 形状
-  particleShapeCircle: 圆形
-  particleShapeSquare: 方形
-  particleShapeStar: 星形
-  particleShapeDiamond: 菱形
-  particleShapeTriangle: 三角形
-  particlePaletteRainbow: 彩虹
-  particlePaletteWarm: 暖色
-  particlePaletteCool: 冷色
-  particlePalettePastel: 柔和
-  particlePaletteNeon: 霓虹
-  particlePalette: 调色板
-  particlePreset_confetti: 彩纸
-  particlePreset_explosion: 爆炸
-  particlePreset_rain: 雨丝
-  particlePreset_fireflies: 萤火
-  particlePreset_fountain: 喷泉
-  particleCustom: 自定义
-  particleResetDefaults: 恢复默认值
-  particleResetDefaultsDesc: 恢复为插件出厂默认效果
   pluginSettingsRestart: 此插件的设置需重启应用后生效
-  particleColorTheme: 跟随主题
-  particleColorFixed: 固定颜色
-  particleColorRandom: 随机彩色
-  particleColor: 颜色
-  particleColorDesc: 随机模式下每粒子独立取色，同批可呈现多色
-  particleCountDesc: 每次击键发射的粒子数量（3-20）
-  particleCountNote: 数量越多效果越华丽，但对低性能设备影响较大。
-  particleSizeDesc: 每个粒子的初始大小（1-6px）
-  particleSizeNote: 较大的粒子更醒目。
-  particleSpeedDesc: 粒子的初始飞行速度（30-250px/s）
-  particleSpeedNote: 速度越快扩散越远。
-  particleSpreadDesc: 粒子的发射角度范围（10-360°）
-  particleSpreadNote: 角度越大扩散越广。
-  particleGravityDesc: 粒子受到的重力加速度（0-300）
-  particleGravityNote: 重力越大粒子下落越快。
-  particleDurationDesc: 粒子从出现到消失的时间（0.1-1.5s）
-  particleDurationNote: 持续时间越长粒子轨迹越长。
-  particleDirectionDesc: 粒子的整体发射方向。向上/向下/四周扩散/随机。
-  particleShapeDesc: 粒子的形状。支持圆形、方形、星形、菱形和三角形。
-  particlePresets: 预设
-  particleCustomProfiles: 自定义配置
-  particleNewProfile: 新建
-  particleNewFromPreset: 从当前预设新建配置
-  particleReadOnlyHint: 只读，从预设新建配置后可编辑
-  particleCopySuffix: ' - 副本'
-  particleResetToPreset: 重置为预设默认值
-  particleResetDesc: 将当前自定义配置的参数恢复为来源预设的默认值
-  particleRenameTitle: 重命名配置
-  particleDeleteTitle: 删除配置
-  particleDeleteDesc: 确定要删除配置「{{name}}」吗？此操作不可撤销。
-  particleDeleteConfirm: 确认删除
-  particleConfigTooOld: 自定义粒子配置版本过旧，已重置为默认效果。
-  particleConfigTooNew: 自定义粒子配置来自更新版本，已重置为默认效果。
   importRepoLink: 翻译文件已开源，欢迎参与改进或制作个性化版本
   importTranslations: 导入翻译
   importLabel: 导入翻译文件

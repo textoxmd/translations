@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Вставить список задач
     codeBlock: Блок кода
     codeBlockDesc: Вставить блок кода
-    mathBlock: Математический блок
-    mathBlockDesc: Вставить математический блок
     blockquote: Блок цитаты
     blockquoteDesc: Вставить блок цитаты
     horizontalRule: Горизонтальная линия
     horizontalRuleDesc: Вставить горизонтальную линию
-    table: Таблица
-    tableDesc: Вставить таблицу
-    mermaid: Диаграмма Mermaid
-    mermaidDesc: Вставить диаграмму Mermaid
-    footnote: Сноска
-    footnoteDesc: Вставить сноску
     image: Изображение
     imageDesc: Вставить изображение
     minimize: Свернуть
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Повторить последнее отмененное действие (альтернатива)
     selectLine: Выбрать строку
     selectLineDesc: Выделить всё содержимое текущей строки
-    toggleUnderline: Переключить подчеркивание
-    toggleUnderlineDesc: Добавить или убрать подчеркивание выделенного текста
     toggleBold: Переключить полужирный
     toggleBoldDesc: Добавить или убрать полужирное начертание выделенного текста
     commandPalette: Палитра команд

@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: แทรกรายการงาน
     codeBlock: บล็อกโค้ด
     codeBlockDesc: แทรกบล็อกโค้ด
-    mathBlock: บล็อกคณิตศาสตร์
-    mathBlockDesc: แทรกบล็อกคณิตศาสตร์
     blockquote: บล็อกคำพูด
     blockquoteDesc: แทรกบล็อกคำพูด
     horizontalRule: เส้นแนวนอน
     horizontalRuleDesc: แทรกเส้นแนวนอน
-    table: ตาราง
-    tableDesc: แทรกตาราง
-    mermaid: แผนภาพ Mermaid
-    mermaidDesc: แทรกแผนภาพ Mermaid
-    footnote: อ้างอิง
-    footnoteDesc: แทรกอ้างอิงท้ายเรื่อง
     image: รูปภาพ
     imageDesc: แทรกรูปภาพ
     minimize: ย่อเล็กสุด
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: ทำซ้ำการกระทำที่เลิกทำล่าสุด (ทางเลือก)
     selectLine: เลือกบรรทัด
     selectLineDesc: เลือกเนื้อหาทั้งหมดของบรรทัดปัจจุบัน
-    toggleUnderline: สลับขีดเส้นใต้
-    toggleUnderlineDesc: เพิ่มหรือลบขีดเส้นใต้บนข้อความที่เลือก
     toggleBold: สลับตัวหนา
     toggleBoldDesc: เพิ่มหรือลบการจัดรูปแบบตัวหนาบนข้อความที่เลือก
     commandPalette: จานสีคำสั่ง

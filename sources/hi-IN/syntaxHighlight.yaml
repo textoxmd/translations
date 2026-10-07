@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: सिंटैक्स हाइलाइटिंग
-  pluginDescription: कई भाषाओं में कोड ब्लॉक के लिए सिंटैक्स हाइलाइटिंग प्रदान करता है
-  settingsTitle: कोड हाइलाइट थीम
-  lightTheme: लाइट थीम
-  lightThemeDesc: लाइट रूप में कोड ब्लॉक के लिए रंग
-  darkTheme: डार्क थीम
-  darkThemeDesc: डार्क रूप में कोड ब्लॉक के लिए रंग

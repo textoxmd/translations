@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: シンタックスハイライト
-  pluginDescription: コードブロックに多言語のシンタックスハイライトを提供します
-  settingsTitle: コードハイライトテーマ
-  lightTheme: ライトハイライトテーマ
-  lightThemeDesc: ライト表示でコードブロックに使う配色
-  darkTheme: ダークハイライトテーマ
-  darkThemeDesc: ダーク表示でコードブロックに使う配色

@@ -1,6 +1,0 @@
-highlight:
-  pluginName: Highlight
-  pluginDescription: Wrap text in == to add a highlight background
-  setting:
-    color: Highlight color
-    colorDesc: Background color for highlighted text

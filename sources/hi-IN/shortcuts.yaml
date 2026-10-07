@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: कार्य सूची सम्मिलित करें
     codeBlock: कोड ब्लॉक
     codeBlockDesc: कोड ब्लॉक सम्मिलित करें
-    mathBlock: गणित ब्लॉक
-    mathBlockDesc: गणित ब्लॉक सम्मिलित करें
     blockquote: ब्लॉक उद्धरण
     blockquoteDesc: ब्लॉक उद्धरण सम्मिलित करें
     horizontalRule: क्षैतिज रेखा
     horizontalRuleDesc: क्षैतिज रेखा सम्मिलित करें
-    table: तालिका
-    tableDesc: तालिका सम्मिलित करें
-    mermaid: Mermaid आरेख
-    mermaidDesc: Mermaid आरेख सम्मिलित करें
-    footnote: फुटनोट
-    footnoteDesc: फुटनोट सम्मिलित करें
     image: छवि
     imageDesc: छवि सम्मिलित करें
     minimize: छोटा करें
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: पिछली पूर्ववत की गई क्रिया पुनः करें (वैकल्पिक)
     selectLine: पंक्ति चुनें
     selectLineDesc: वर्तमान पंक्ति की संपूर्ण सामग्री चुनें
-    toggleUnderline: रेखांकन टॉगल करें
-    toggleUnderlineDesc: चयनित पाठ पर रेखांकन जोड़ें या हटाएं
     toggleBold: बोल्ड टॉगल करें
     toggleBoldDesc: चयनित पाठ पर बोल्ड फ़ॉर्मेटिंग जोड़ें या हटाएं
     commandPalette: कमांड पैलेट

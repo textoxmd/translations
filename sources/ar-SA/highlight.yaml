@@ -1,6 +1,0 @@
-highlight:
-  pluginName: تمييز
-  pluginDescription: ضع النص بين == لإضافة خلفية تمييز
-  setting:
-    color: لون التمييز
-    colorDesc: لون خلفية النص المميز

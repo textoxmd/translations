@@ -18,7 +18,6 @@ editor:
   math: Математический блок
   inlineMath: Встроенная математика
   mermaid: Диаграмма Mermaid
-  footnote: Сноска
   insert: Вставить
   format: Формат
   openLinkVisit: Перейти

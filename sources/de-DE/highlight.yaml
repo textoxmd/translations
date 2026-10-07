@@ -1,6 +1,0 @@
-highlight:
-  pluginName: Hervorheben
-  pluginDescription: Text mit == umschließen, um einen hervorgehobenen Hintergrund hinzuzufügen
-  setting:
-    color: Hervorhebungsfarbe
-    colorDesc: Hintergrundfarbe für hervorgehobenen Text

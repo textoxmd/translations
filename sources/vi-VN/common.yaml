@@ -28,20 +28,15 @@ common:
   bold: Đậm
   italic: Nghiêng
   strikethrough: Gạch ngang
-  underline: Gạch chân
   inlineCode: Mã nội dòng
-  highlight: Đánh dấu
   blockquote: Trích dẫn
   codeBlock: Khối mã
   horizontalRule: Đường kẻ ngang
   bulletList: Danh sách không thứ tự
   orderedList: Danh sách có thứ tự
   taskList: Danh sách công việc
-  table: Bảng
   image: Hình ảnh
   link: Liên kết
-  mathBlock: Khối toán
-  mermaid: Sơ đồ Mermaid
   closeToolbar: Ẩn thanh công cụ
   exportPdf: Xuất PDF
   print: In

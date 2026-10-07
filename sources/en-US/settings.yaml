@@ -206,80 +206,10 @@ settings:
   experimental: Experimental
   sourcePreserveTitle: Preserve Original Formatting
   sourcePreserveDesc: On save, only the parts you actually edited are rewritten. Untouched content — such as list markers, code fence style, table alignment, and blank lines — keeps its original formatting, byte for byte. This feature is still in an experimental Beta stage and may have edge cases; try it on a copy of your document first.
-  typing-particleTitle: Typing Particles
-  typing-particleDesc: Emit spark particles from the cursor position while typing
   fileExtensions: File Extensions
   fileExtensionsDesc: Manage which file types are clickable in the file tree. Extensions not in the list will be shown as disabled.
   fileExtensionsPlaceholder: Enter extension (e.g. md)
-  typingParticles: Typing Particles
-  typingParticlesDesc: Emit particles from the cursor position while typing
-  particlePreset: Preset
-  particleCount: Particle Count
-  particleSize: Particle Size
-  particleSpeed: Speed
-  particleSpread: Spread
-  particleGravity: Gravity
-  particleDuration: Duration
-  particleDirection: Direction
-  particleDirUp: Up
-  particleDirDown: Down
-  particleDirRadial: Radial
-  particleDirRandom: Random
-  particleOn: Enable Typing Particles
-  particleShape: Shape
-  particleShapeCircle: Circle
-  particleShapeSquare: Square
-  particleShapeStar: Star
-  particleShapeDiamond: Diamond
-  particleShapeTriangle: Triangle
-  particlePaletteRainbow: Rainbow
-  particlePaletteWarm: Warm
-  particlePaletteCool: Cool
-  particlePalettePastel: Pastel
-  particlePaletteNeon: Neon
-  particlePalette: Palette
-  particlePreset_confetti: Confetti
-  particlePreset_explosion: Explosion
-  particlePreset_rain: Rain
-  particlePreset_fireflies: Fireflies
-  particlePreset_fountain: Fountain
-  particleCustom: Custom
-  particleResetDefaults: Restore Defaults
-  particleResetDefaultsDesc: Reset to the plugin's factory default effect
   pluginSettingsRestart: This plugin's settings take effect after restarting the app
-  particleColorTheme: Theme
-  particleColorFixed: Fixed
-  particleColorRandom: Random
-  particleColor: Color
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'Translation files are open source. Contribute improvements or create your own version'
   importTranslations: Import Translations
   importLabel: Import Translation File

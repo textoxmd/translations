@@ -28,20 +28,15 @@ common:
   bold: Negrito
   italic: Itálico
   strikethrough: Riscado
-  underline: Sublinhado
   inlineCode: Código em linha
-  highlight: Destacar
   blockquote: Citação
   codeBlock: Bloco de código
   horizontalRule: Linha horizontal
   bulletList: Lista com marcadores
   orderedList: Lista numerada
   taskList: Lista de tarefas
-  table: Tabela
   image: Imagem
   link: Link
-  mathBlock: Bloco matemático
-  mermaid: Diagrama Mermaid
   closeToolbar: Ocultar barra de ferramentas
   exportPdf: Exportar para PDF
   print: Imprimir

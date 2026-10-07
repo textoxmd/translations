@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: Realce de sintaxe
-  pluginDescription: Fornece realce de sintaxe para blocos de código em várias linguagens
-  settingsTitle: Tema de realce de código
-  lightTheme: Tema claro
-  lightThemeDesc: Cores para blocos de código em aparência clara
-  darkTheme: Tema escuro
-  darkThemeDesc: Cores para blocos de código em aparência escura

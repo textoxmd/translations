@@ -1,3 +1,0 @@
-alert:
-  pluginName: "Alerts"
-  pluginDescription: "GitHub-style callout boxes using blockquote syntax like > [!NOTE]"

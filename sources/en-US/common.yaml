@@ -28,20 +28,15 @@ common:
   bold: Bold
   italic: Italic
   strikethrough: Strikethrough
-  underline: Underline
   inlineCode: Inline Code
-  highlight: Highlight
   blockquote: Blockquote
   codeBlock: Code Block
   horizontalRule: Horizontal Rule
   bulletList: Bullet List
   orderedList: Ordered List
   taskList: Task List
-  table: Table
   image: Image
   link: Link
-  mathBlock: Math Block
-  mermaid: Mermaid Diagram
   closeToolbar: Hide toolbar
   exportPdf: Export PDF
   print: Print

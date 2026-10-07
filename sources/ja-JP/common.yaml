@@ -28,20 +28,15 @@ common:
   bold: 太字
   italic: 斜体
   strikethrough: 取り消し線
-  underline: 下線
   inlineCode: インラインコード
-  highlight: ハイライト
   blockquote: 引用
   codeBlock: コードブロック
   horizontalRule: 水平線
   bulletList: 箇条書き
   orderedList: 番号付きリスト
   taskList: タスクリスト
-  table: 表
   image: 画像
   link: リンク
-  mathBlock: 数式ブロック
-  mermaid: Mermaid 図
   closeToolbar: ツールバーを隠す
   exportPdf: PDF に書き出し
   print: 印刷

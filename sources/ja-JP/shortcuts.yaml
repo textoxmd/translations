@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: タスクリストを挿入
     codeBlock: コードブロック
     codeBlockDesc: コードブロックを挿入
-    mathBlock: 数式ブロック
-    mathBlockDesc: 数式ブロックを挿入
     blockquote: 引用ブロック
     blockquoteDesc: 引用ブロックを挿入
     horizontalRule: 水平線
     horizontalRuleDesc: 水平線を挿入
-    table: 表
-    tableDesc: 表を挿入
-    mermaid: Mermaid ダイアグラム
-    mermaidDesc: Mermaid ダイアグラムを挿入
-    footnote: 脚注
-    footnoteDesc: 脚注を挿入
     image: 画像
     imageDesc: 画像を挿入
     minimize: 最小化
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: 最後に元に戻した操作をやり直す（別のショートカット）
     selectLine: 行を選択
     selectLineDesc: カーソル行の全内容を選択
-    toggleUnderline: 下線の切り替え
-    toggleUnderlineDesc: 選択テキストに下線を追加/削除
     toggleBold: 太字の切り替え
     toggleBoldDesc: 選択テキストに太字を追加/削除
     commandPalette: コマンドパレット

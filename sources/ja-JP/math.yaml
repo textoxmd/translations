@@ -1,3 +1,0 @@
-math:
-  pluginName: 数式
-  pluginDescription: コードブロック内の LaTeX 数式をレンダリング

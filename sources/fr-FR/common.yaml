@@ -28,20 +28,15 @@ common:
   bold: Gras
   italic: Italique
   strikethrough: Barré
-  underline: Souligné
   inlineCode: Code en ligne
-  highlight: Surligner
   blockquote: Citation
   codeBlock: Bloc de code
   horizontalRule: Ligne horizontale
   bulletList: Liste à puces
   orderedList: Liste numérotée
   taskList: Liste de tâches
-  table: Tableau
   image: Image
   link: Lien
-  mathBlock: Bloc mathématique
-  mermaid: Diagramme Mermaid
   closeToolbar: Masquer la barre d'outils
   exportPdf: Exporter en PDF
   print: Imprimer

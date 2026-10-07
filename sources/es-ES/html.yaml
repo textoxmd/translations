@@ -1,3 +1,0 @@
-html:
-  pluginName: Compatibilidad con HTML
-  pluginDescription: Renderiza bloques HTML de GFM, etiquetas en línea y comentarios

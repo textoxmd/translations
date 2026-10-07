@@ -18,7 +18,6 @@ editor:
   math: 수식 블록
   inlineMath: 인라인 수식
   mermaid: Mermaid 다이어그램
-  footnote: 각주
   insert: 삽입
   format: 서식
   openLinkVisit: 이동

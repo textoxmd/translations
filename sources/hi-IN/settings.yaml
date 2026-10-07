@@ -218,78 +218,11 @@ settings:
   experimental: प्रायोगिक
   sourcePreserveTitle: मूल फ़ॉर्मेटिंग बनाए रखें
   sourcePreserveDesc: सहेजते समय केवल वही सामग्री दोबारा लिखी जाती है जिसे आपने वास्तव में संपादित किया है। बिना संपादित भाग (जैसे सूची चिह्न, कोड फ़ेंस शैली, तालिका संरेखण और खाली पंक्तियाँ) अपने मूल फ़ॉर्मेटिंग में बिना किसी बदलाव के बने रहते हैं। यह सुविधा अभी बीटा प्रयोगात्मक चरण में है और इसमें सीमांत समस्याएँ हो सकती हैं; पहले अपने दस्तावेज़ की एक प्रति पर आज़माएँ।
-  typing-particleTitle: टाइपिंग पार्टिकल्स
-  typing-particleDesc: टाइप करते समय कर्सर स्थिति से स्पार्क कण उत्सर्जित करें
   fileExtensions: फ़ाइल एक्सटेंशन
   fileExtensionsDesc: >-
     फ़ाइल ट्री में क्लिक करने योग्य फ़ाइल प्रकारों को प्रबंधित करें। सूची में नहीं होने वाले एक्सटेंशन अक्षम के रूप में
     दिखाए जाएंगे।
   fileExtensionsPlaceholder: एक्सटेंशन दर्ज करें (जैसे md)
-  typingParticles: टाइपिंग पार्टिकल्स
-  typingParticlesDesc: टाइप करते समय कर्सर स्थिति से कण उत्सर्जित करें
-  particlePreset: प्रीसेट
-  particleCount: कणों की संख्या
-  particleSize: कण का आकार
-  particleSpeed: गति
-  particleSpread: फैलाव
-  particleGravity: गुरुत्वाकर्षण
-  particleDuration: अवधि
-  particleDirection: दिशा
-  particleDirUp: ऊपर
-  particleDirDown: नीचे
-  particleDirRadial: रेडियल
-  particleDirRandom: यादृच्छिक
-  particleOn: टाइपिंग पार्टिकल्स सक्षम करें
-  particleShape: आकार
-  particleShapeCircle: वृत्त
-  particleShapeSquare: वर्ग
-  particleShapeStar: तारा
-  particleShapeDiamond: हीरा
-  particleShapeTriangle: त्रिकोण
-  particlePaletteRainbow: इंद्रधनुष
-  particlePaletteWarm: गर्म
-  particlePaletteCool: ठंडा
-  particlePalettePastel: पेस्टल
-  particlePaletteNeon: नियॉन
-  particlePalette: पैलेट
-  particlePreset_confetti: कन्फ़ेटी
-  particlePreset_explosion: विस्फोट
-  particlePreset_rain: बारिश
-  particlePreset_fireflies: जुगनू
-  particlePreset_fountain: फ़व्वारा
-  particleColorTheme: थीम का पालन करें
-  particleColorFixed: निश्चित रंग
-  particleColorRandom: यादृच्छिक
-  particleColor: रंग
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'anuvaad filein khuli hain. sudhaaron mein yogdan den ya apana sankaran banayen'
   importTranslations: अनुवाद आयात करें
   importLabel: अनुवाद फ़ाइल आयात करें

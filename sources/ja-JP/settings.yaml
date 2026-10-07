@@ -218,76 +218,9 @@ settings:
   experimental: 実験
   sourcePreserveTitle: 元の書式を保持
   sourcePreserveDesc: 保存時、書き直されるのは実際に編集した部分だけです。編集していない部分（リストの記号、コードフェンスの書き方、表の整列、空行など）は、元の書式を一字一句そのまま保持します。この機能はベータ版の実験階段にあり、境界の問題が起きる可能性があります。まずは文書のコピーでお試しください。
-  typing-particleTitle: タイピングパーティクル
-  typing-particleDesc: タイピング時にカーソル位置から火花パーティクルを放出
   fileExtensions: ファイル拡張子
   fileExtensionsDesc: ファイルツリーでクリック可能なファイルタイプを管理します。リストにない拡張子は無効として表示されます。
   fileExtensionsPlaceholder: 拡張子を入力（例：md）
-  typingParticles: タイピングパーティクル
-  typingParticlesDesc: タイピング時にカーソル位置からパーティクルを放出
-  particlePreset: プリセット
-  particleCount: パーティクル数
-  particleSize: パーティクルサイズ
-  particleSpeed: 速度
-  particleSpread: 拡散角度
-  particleGravity: 重力
-  particleDuration: 持続時間
-  particleDirection: 方向
-  particleDirUp: 上
-  particleDirDown: 下
-  particleDirRadial: 放射状
-  particleDirRandom: ランダム
-  particleOn: タイピングパーティクルを有効にする
-  particleShape: 形状
-  particleShapeCircle: 円
-  particleShapeSquare: 四角
-  particleShapeStar: 星
-  particleShapeDiamond: ダイヤ
-  particleShapeTriangle: 三角形
-  particlePaletteRainbow: レインボー
-  particlePaletteWarm: 暖色
-  particlePaletteCool: 寒色
-  particlePalettePastel: パステル
-  particlePaletteNeon: ネオン
-  particlePalette: パレット
-  particlePreset_confetti: 紙吹雪
-  particlePreset_explosion: 爆発
-  particlePreset_rain: 雨
-  particlePreset_fireflies: 蛍
-  particlePreset_fountain: 噴水
-  particleColorTheme: テーマに従う
-  particleColorFixed: 固定色
-  particleColorRandom: ランダム色
-  particleColor: 色
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: '翻訳ファイルはオープンソースです。改善に貢献するか、独自の翻訳バージョンを作成してください'
   importTranslations: 翻訳をインポート
   importLabel: 翻訳ファイルをインポート

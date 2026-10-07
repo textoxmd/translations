@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Aufgabenliste einfügen
     codeBlock: Codeblock
     codeBlockDesc: Codeblock einfügen
-    mathBlock: Mathe-Block
-    mathBlockDesc: Mathe-Block einfügen
     blockquote: Zitatblock
     blockquoteDesc: Zitatblock einfügen
     horizontalRule: Horizontale Linie
     horizontalRuleDesc: Horizontale Linie einfügen
-    table: Tabelle
-    tableDesc: Tabelle einfügen
-    mermaid: Mermaid-Diagramm
-    mermaidDesc: Mermaid-Diagramm einfügen
-    footnote: Fußnote
-    footnoteDesc: Fußnote einfügen
     image: Bild
     imageDesc: Bild einfügen
     minimize: Minimieren
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Letzte rückgängig gemachte Aktion wiederholen (Alternative)
     selectLine: Zeile auswählen
     selectLineDesc: Gesamten Inhalt der aktuellen Zeile auswählen
-    toggleUnderline: Unterstreichung umschalten
-    toggleUnderlineDesc: Unterstreichung für ausgewählten Text hinzufügen oder entfernen
     toggleBold: Fettschrift umschalten
     toggleBoldDesc: Fettschrift für ausgewählten Text hinzufügen oder entfernen
     commandPalette: Befehlspalette

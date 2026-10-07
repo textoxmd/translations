@@ -220,78 +220,11 @@ settings:
   experimental: Experimental
   sourcePreserveTitle: Conservar el formato original
   sourcePreserveDesc: Al guardar, solo se reescribe el contenido que hayas editado. El resto (marcadores de lista, estilo de los bloques de código, alineación de las tablas y líneas en blanco) conserva su formato original sin cambios. Esta función está aún en fase beta experimental y puede tener casos límite; pruébala primero en una copia de tu documento.
-  typing-particleTitle: Partículas al escribir
-  typing-particleDesc: Emite partículas de chispa desde la posición del cursor al escribir
   fileExtensions: Extensiones de archivo
   fileExtensionsDesc: >-
     Administre qué tipos de archivos se pueden hacer clic en el árbol de archivos. Las extensiones no incluidas se
     mostrarán como deshabilitadas.
   fileExtensionsPlaceholder: 'Ingrese la extensión (ej: md)'
-  typingParticles: Partículas al escribir
-  typingParticlesDesc: Emite partículas desde la posición del cursor al escribir
-  particlePreset: Preajuste
-  particleCount: Número de partículas
-  particleSize: Tamaño de partículas
-  particleSpeed: Velocidad
-  particleSpread: Dispersión
-  particleGravity: Gravedad
-  particleDuration: Duración
-  particleDirection: Dirección
-  particleDirUp: Arriba
-  particleDirDown: Abajo
-  particleDirRadial: Radial
-  particleDirRandom: Aleatorio
-  particleOn: Habilitar partículas al escribir
-  particleShape: Forma
-  particleShapeCircle: Círculo
-  particleShapeSquare: Cuadrado
-  particleShapeStar: Estrella
-  particleShapeDiamond: Diamante
-  particleShapeTriangle: Triángulo
-  particlePaletteRainbow: Arcoíris
-  particlePaletteWarm: Cálido
-  particlePaletteCool: Frío
-  particlePalettePastel: Pastel
-  particlePaletteNeon: Neón
-  particlePalette: Paleta
-  particlePreset_confetti: Confeti
-  particlePreset_explosion: Explosión
-  particlePreset_rain: Lluvia
-  particlePreset_fireflies: Luciérnagas
-  particlePreset_fountain: Fuente
-  particleColorTheme: Seguir tema
-  particleColorFixed: Color fijo
-  particleColorRandom: Aleatorio
-  particleColor: Color
-  particleColorDesc: Each particle picks a random color independently, so a burst can show multiple colors
-  particleCountDesc: Particles per keystroke (3-20)
-  particleCountNote: Higher values create richer effects but may impact performance.
-  particleSizeDesc: Initial particle size (1-6px)
-  particleSizeNote: Larger particles are more visible.
-  particleSpeedDesc: Initial flight speed (30-250px/s)
-  particleSpeedNote: Higher speed spreads particles further.
-  particleSpreadDesc: Emission angle range (10-360°)
-  particleSpreadNote: Wider angle creates broader spread.
-  particleGravityDesc: Gravity acceleration (0-300)
-  particleGravityNote: Higher gravity pulls particles down faster.
-  particleDurationDesc: Particle lifetime (0.1-1.5s)
-  particleDurationNote: Longer duration creates longer trails.
-  particleDirectionDesc: Overall emission direction. Up, Down, Radial, or Random.
-  particleShapeDesc: Particle shape. Supports circle, square, star, diamond, and triangle.
-  particlePresets: Presets
-  particleCustomProfiles: Custom Configs
-  particleNewProfile: New
-  particleNewFromPreset: New config from current preset
-  particleReadOnlyHint: Read-only. Create a new config from a preset to edit.
-  particleCopySuffix: ' - Copy'
-  particleResetToPreset: Reset to Preset Defaults
-  particleResetDesc: Reset this config's parameters to the source preset defaults
-  particleRenameTitle: Rename Config
-  particleDeleteTitle: Delete Config
-  particleDeleteDesc: Delete config "{{name}}"? This action cannot be undone.
-  particleDeleteConfirm: Delete
-  particleConfigTooOld: Your custom particle config is from an older version and has been reset to defaults.
-  particleConfigTooNew: Your custom particle config is from a newer version and has been reset to defaults.
   importRepoLink: 'Los archivos de traduccion son de codigo abierto. Contribuye con mejoras o crea tu propia version'
   importTranslations: Importar traducciones
   importLabel: Importar archivo de traducción

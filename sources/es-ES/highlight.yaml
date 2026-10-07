@@ -1,6 +1,0 @@
-highlight:
-  pluginName: Resaltado
-  pluginDescription: Rodea el texto con == para añadir un fondo resaltado
-  setting:
-    color: Color de resaltado
-    colorDesc: Color de fondo del texto resaltado

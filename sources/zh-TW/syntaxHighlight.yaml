@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: 語法高亮
-  pluginDescription: 為程式碼區塊提供語法高亮，內建多種程式語言
-  settingsTitle: 程式碼高亮主題
-  lightTheme: 亮色高亮主題
-  lightThemeDesc: 淺色外觀下程式碼區塊使用的高亮配色
-  darkTheme: 暗色高亮主題
-  darkThemeDesc: 深色外觀下程式碼區塊使用的高亮配色

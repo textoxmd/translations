@@ -28,20 +28,15 @@ common:
   bold: عريض
   italic: مائل
   strikethrough: يتوسطه خط
-  underline: تسطير
   inlineCode: كود سطري
-  highlight: تمييز
   blockquote: اقتباس
   codeBlock: كتلة كود
   horizontalRule: خط أفقي
   bulletList: قائمة نقطية
   orderedList: قائمة مرقمة
   taskList: قائمة المهام
-  table: جدول
   image: صورة
   link: رابط
-  mathBlock: كتلة رياضية
-  mermaid: مخطط Mermaid
   closeToolbar: إخفاء شريط الأدوات
   exportPdf: تصدير PDF
   print: طباعة

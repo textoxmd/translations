@@ -1,8 +1,0 @@
-syntaxHighlight:
-  pluginName: ไฮไลต์ไวยากรณ์
-  pluginDescription: ให้ไฮไลต์ไวยากรณ์สำหรับบล็อกโค้ดในหลายภาษา
-  settingsTitle: ธีมไฮไลต์โค้ด
-  lightTheme: ธีมสว่าง
-  lightThemeDesc: สีที่ใช้กับบล็อกโค้ดในโหมดสว่าง
-  darkTheme: ธีมมืด
-  darkThemeDesc: สีที่ใช้กับบล็อกโค้ดในโหมดมืด

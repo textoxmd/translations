@@ -64,18 +64,10 @@ shortcuts:
     taskListDesc: Insérer une liste de tâches
     codeBlock: Bloc de code
     codeBlockDesc: Insérer un bloc de code
-    mathBlock: Bloc mathématique
-    mathBlockDesc: Insérer un bloc mathématique
     blockquote: Bloc de citation
     blockquoteDesc: Insérer un bloc de citation
     horizontalRule: Ligne horizontale
     horizontalRuleDesc: Insérer une ligne horizontale
-    table: Tableau
-    tableDesc: Insérer un tableau
-    mermaid: Diagramme Mermaid
-    mermaidDesc: Insérer un diagramme Mermaid
-    footnote: Note de bas de page
-    footnoteDesc: Insérer une note de bas de page
     image: Image
     imageDesc: Insérer une image
     minimize: Minimiser
@@ -94,8 +86,6 @@ shortcuts:
     redoAltDesc: Rétablir la dernière action annulée (alternative)
     selectLine: Sélectionner la ligne
     selectLineDesc: Sélectionner tout le contenu de la ligne actuelle
-    toggleUnderline: Basculer le soulignement
-    toggleUnderlineDesc: Ajouter ou supprimer le soulignement du texte sélectionné
     toggleBold: Basculer en gras
     toggleBoldDesc: Ajouter ou supprimer le gras du texte sélectionné
     commandPalette: Palette de commandes

@@ -1,3 +1,0 @@
-math:
-  pluginName: Math
-  pluginDescription: Render LaTeX math formulas in fenced code blocks
