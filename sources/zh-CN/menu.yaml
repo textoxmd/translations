@@ -49,12 +49,10 @@ menu:
   horizontal_rule: 水平线
   table: 表格
   mermaid: Mermaid 图表
-  footnote: 脚注
   image: 插入图片
   format: 格式
   bold: 加粗
   italic: 斜体
-  underline: 下划线
   strikethrough: 删除线
   inline_code: 行内代码
   clear_formatting: 清除格式

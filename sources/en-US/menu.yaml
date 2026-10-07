@@ -49,12 +49,10 @@ menu:
   horizontal_rule: Horizontal Rule
   table: Table
   mermaid: Mermaid Diagram
-  footnote: Footnote
   image: Insert Image
   format: Format
   bold: Bold
   italic: Italic
-  underline: Underline
   strikethrough: Strikethrough
   inline_code: Inline Code
   clear_formatting: Clear Formatting

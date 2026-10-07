@@ -3,7 +3,6 @@ editor:
   heading: 標題
   bold: 粗體
   italic: 斜體
-  underline: 底線
   strikethrough: 刪除線
   code: 行內程式碼
   codeBlock: 程式碼區塊
@@ -14,10 +13,7 @@ editor:
   horizontalRule: 分隔線
   link: 連結
   image: 圖片
-  table: 表格
-  math: 數學公式
   inlineMath: 行內公式
-  mermaid: Mermaid 圖表
   insert: 插入
   format: 格式
   openLinkVisit: 前往

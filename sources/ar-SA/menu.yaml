@@ -44,12 +44,10 @@ menu:
   horizontal_rule: خط أفقي
   table: جدول
   mermaid: مخطط Mermaid
-  footnote: هامش
   image: صورة
   format: تنسيق
   bold: عريض
   italic: مائل
-  underline: تحته خط
   strikethrough: مشطوب
   inline_code: كود مضمن
   clear_formatting: مشطوب

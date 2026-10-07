@@ -3,7 +3,6 @@ editor:
   heading: Заголовок
   bold: Жирный
   italic: Курсив
-  underline: Подчеркнутый
   strikethrough: Зачеркнутый
   code: Встроенный код
   codeBlock: Блок кода
@@ -14,10 +13,7 @@ editor:
   horizontalRule: Горизонтальная линия
   link: Ссылка
   image: Изображение
-  table: Таблица
-  math: Математический блок
   inlineMath: Встроенная математика
-  mermaid: Диаграмма Mermaid
   insert: Вставить
   format: Формат
   openLinkVisit: Перейти

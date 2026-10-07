@@ -11,10 +11,6 @@ slash:
   code: कोड ब्लॉक
   quote: उद्धरण
   hr: क्षैतिज रेखा
-  table: तालिका
   image: छवि
-  excalidraw: व्हाइटबोर्ड
-  math: गणित ब्लॉक
-  mermaid: Mermaid
   link: लिंक
   noMatch: कोई मिलान कमांड नहीं

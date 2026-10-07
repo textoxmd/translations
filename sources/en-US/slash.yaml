@@ -11,10 +11,6 @@ slash:
   code: Code Block
   quote: Blockquote
   hr: Horizontal Rule
-  table: Table
   image: Image
-  excalidraw: Whiteboard
-  math: Math Block
-  mermaid: Mermaid
   link: Link
   noMatch: No matching command

@@ -11,10 +11,6 @@ slash:
   code: Bloco de código
   quote: Citação
   hr: Linha horizontal
-  table: Tabela
   image: Imagem
-  excalidraw: Quadro branco
-  math: Bloco de matemática
-  mermaid: Mermaid
   link: Link
   noMatch: Nenhum comando correspondente

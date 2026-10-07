@@ -3,7 +3,6 @@ editor:
   heading: Heading
   bold: Bold
   italic: Italic
-  underline: Underline
   strikethrough: Strikethrough
   code: Inline Code
   codeBlock: Code Block
@@ -14,10 +13,7 @@ editor:
   horizontalRule: Horizontal Rule
   link: Link
   image: Image
-  table: Table
-  math: Math Block
   inlineMath: Inline Math
-  mermaid: Mermaid Diagram
   insert: Insert
   format: Format
   openLinkVisit: Visit

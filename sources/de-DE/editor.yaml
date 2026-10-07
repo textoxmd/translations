@@ -3,7 +3,6 @@ editor:
   heading: Überschrift
   bold: Fett
   italic: Kursiv
-  underline: Unterstrichen
   strikethrough: Durchgestrichen
   code: Inline-Code
   codeBlock: Code-Block
@@ -14,10 +13,7 @@ editor:
   horizontalRule: Horizontale Linie
   link: Link
   image: Bild
-  table: Tabelle
-  math: Mathe-Block
   inlineMath: Inline-Mathe
-  mermaid: Mermaid-Diagramm
   insert: Einfügen
   format: Format
   openLinkVisit: Besuchen

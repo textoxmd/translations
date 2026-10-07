@@ -11,10 +11,6 @@ slash:
   code: 代码块
   quote: 引用
   hr: 分割线
-  table: 表格
   image: 图片
-  excalidraw: 白板
-  math: 数学公式
-  mermaid: Mermaid
   link: 链接
   noMatch: 无匹配命令

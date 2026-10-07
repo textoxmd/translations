@@ -44,12 +44,10 @@ menu:
   horizontal_rule: Đường ngang
   table: Bảng
   mermaid: Sơ đồ Mermaid
-  footnote: Chú thích cuối trang
   image: Hình ảnh
   format: Định dạng
   bold: In đậm
   italic: In nghiêng
-  underline: Gạch chân
   strikethrough: Gạch ngang
   inline_code: Mã nội tuyến
   clear_formatting: Gạch ngang

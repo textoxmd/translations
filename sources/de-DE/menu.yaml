@@ -44,12 +44,10 @@ menu:
   horizontal_rule: Horizontale Linie
   table: Tabelle
   mermaid: Mermaid-Diagramm
-  footnote: Fußnote
   image: Bild
   format: Format
   bold: Fett
   italic: Kursiv
-  underline: Unterstrichen
   strikethrough: Durchgestrichen
   inline_code: Inline-Code
   clear_formatting: Durchgestrichen

@@ -44,12 +44,10 @@ menu:
   horizontal_rule: เส้นแนวนอน
   table: ตาราง
   mermaid: แผนภาพ Mermaid
-  footnote: อ้างอิง
   image: รูปภาพ
   format: รูปแบบ
   bold: ตัวหนา
   italic: ตัวเอียง
-  underline: ขีดเส้นใต้
   strikethrough: ขีดฆ่า
   inline_code: โค้ดแบบอินไลน์
   clear_formatting: ขีดฆ่า

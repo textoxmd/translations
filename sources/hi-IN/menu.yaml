@@ -44,12 +44,10 @@ menu:
   horizontal_rule: क्षैतिज रेखा
   table: तालिका
   mermaid: Mermaid आरेख
-  footnote: फुटनोट
   image: छवि
   format: प्रारूप
   bold: बोल्ड
   italic: इटैलिक
-  underline: अंडरलाइन
   strikethrough: स्ट्राइकथ्रू
   inline_code: इनलाइन कोड
   clear_formatting: स्ट्राइकथ्रू

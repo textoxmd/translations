@@ -44,12 +44,10 @@ menu:
   horizontal_rule: Горизонтальная линия
   table: Таблица
   mermaid: Диаграмма Mermaid
-  footnote: Сноска
   image: Изображение
   format: Формат
   bold: Жирный
   italic: Курсив
-  underline: Подчеркнутый
   strikethrough: Зачеркнутый
   inline_code: Встроенный код
   clear_formatting: Зачеркнутый

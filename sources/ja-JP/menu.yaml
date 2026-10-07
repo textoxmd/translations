@@ -44,12 +44,10 @@ menu:
   horizontal_rule: 水平線
   table: 表
   mermaid: Mermaid ダイアグラム
-  footnote: 脚注
   image: 画像
   format: 書式
   bold: 太字
   italic: 斜体
-  underline: 下線
   strikethrough: 取り消し線
   inline_code: インラインコード
   clear_formatting: 取り消し線

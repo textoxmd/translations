@@ -11,10 +11,6 @@ slash:
   code: コードブロック
   quote: 引用
   hr: 水平線
-  table: テーブル
   image: 画像
-  excalidraw: ホワイトボード
-  math: 数式
-  mermaid: Mermaid
   link: リンク
   noMatch: 一致するコマンドがありません

@@ -3,7 +3,6 @@ editor:
   heading: العنوان
   bold: عريض
   italic: مائل
-  underline: تحته خط
   strikethrough: مشطوب
   code: كود مضمن
   codeBlock: كتلة الكود
@@ -14,10 +13,7 @@ editor:
   horizontalRule: خط أفقي
   link: رابط
   image: صورة
-  table: جدول
-  math: كتلة رياضية
   inlineMath: رياضيات مضمنة
-  mermaid: مخطط Mermaid
   insert: إدراج
   format: تنسيق
   openLinkVisit: زيارة

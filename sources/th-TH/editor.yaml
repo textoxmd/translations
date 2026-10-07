@@ -3,7 +3,6 @@ editor:
   heading: หัวข้อ
   bold: ตัวหนา
   italic: ตัวเอียง
-  underline: ขีดเส้นใต้
   strikethrough: ขีดฆ่า
   code: โค้ดแทรก
   codeBlock: บล็อกโค้ด
@@ -14,10 +13,7 @@ editor:
   horizontalRule: เส้นแบ่ง
   link: ลิงก์
   image: รูปภาพ
-  table: ตาราง
-  math: บล็อกคณิตศาสตร์
   inlineMath: คณิตศาสตร์แทรก
-  mermaid: แผนภาพ Mermaid
   insert: แทรก
   format: รูปแบบ
   openLinkVisit: ไป

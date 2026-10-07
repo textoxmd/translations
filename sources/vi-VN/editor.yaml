@@ -3,7 +3,6 @@ editor:
   heading: Tiêu đề
   bold: In đậm
   italic: In nghiêng
-  underline: Gạch chân
   strikethrough: Gạch ngang
   code: Mã nội dòng
   codeBlock: Khối mã
@@ -14,10 +13,7 @@ editor:
   horizontalRule: Đường kẻ ngang
   link: Liên kết
   image: Hình ảnh
-  table: Bảng
-  math: Khối toán học
   inlineMath: Toán học nội dòng
-  mermaid: Sơ đồ Mermaid
   insert: Chèn
   format: Định dạng
   openLinkVisit: Đi đến

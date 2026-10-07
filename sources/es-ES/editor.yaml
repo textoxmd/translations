@@ -3,7 +3,6 @@ editor:
   heading: Encabezado
   bold: Negrita
   italic: Cursiva
-  underline: Subrayado
   strikethrough: Tachado
   code: Código en línea
   codeBlock: Bloque de código
@@ -14,10 +13,7 @@ editor:
   horizontalRule: Línea horizontal
   link: Enlace
   image: Imagen
-  table: Tabla
-  math: Bloque matemático
   inlineMath: Matemática en línea
-  mermaid: Diagrama Mermaid
   insert: Insertar
   format: Formato
   openLinkVisit: Visitar

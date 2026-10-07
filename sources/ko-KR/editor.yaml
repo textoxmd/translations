@@ -3,7 +3,6 @@ editor:
   heading: 제목
   bold: 굵게
   italic: 기울임
-  underline: 밑줄
   strikethrough: 취소선
   code: 인라인 코드
   codeBlock: 코드 블록
@@ -14,10 +13,7 @@ editor:
   horizontalRule: 수평선
   link: 링크
   image: 이미지
-  table: 표
-  math: 수식 블록
   inlineMath: 인라인 수식
-  mermaid: Mermaid 다이어그램
   insert: 삽입
   format: 서식
   openLinkVisit: 이동

@@ -44,12 +44,10 @@ menu:
   horizontal_rule: Linea orizzontale
   table: Tabella
   mermaid: Diagramma Mermaid
-  footnote: Nota a piè di pagina
   image: Immagine
   format: Formato
   bold: Grassetto
   italic: Corsivo
-  underline: Sottolineato
   strikethrough: Barrato
   inline_code: Codice in linea
   clear_formatting: Barrato

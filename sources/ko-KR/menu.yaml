@@ -44,12 +44,10 @@ menu:
   horizontal_rule: 수평선
   table: 표
   mermaid: Mermaid 다이어그램
-  footnote: 각주
   image: 이미지
   format: 서식
   bold: 굵게
   italic: 기울임
-  underline: 밑줄
   strikethrough: 취소선
   inline_code: 인라인 코드
   clear_formatting: 취소선

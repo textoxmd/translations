@@ -11,10 +11,6 @@ slash:
   code: 코드 블록
   quote: 인용
   hr: 수평선
-  table: 표
   image: 이미지
-  excalidraw: 화이트보드
-  math: 수식
-  mermaid: Mermaid
   link: 링크
   noMatch: 일치하는 명령이 없습니다
