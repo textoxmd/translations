@@ -273,3 +273,5 @@ settings:
   pluginOverwriteTitle: Plugin bereits installiert
   pluginOverwriteDesc: Ein Plugin mit derselben ID ist bereits installiert. Überschreiben?
   pluginFileDisabled: Das Plugin für diesen Dateityp ist deaktiviert und kann nicht geöffnet werden
+  pluginViewList: Listenansicht
+  pluginViewGrid: Rasteransicht

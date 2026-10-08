@@ -271,3 +271,5 @@ settings:
   pluginOverwriteTitle: Complemento ya instalado
   pluginOverwriteDesc: Ya hay un complemento con el mismo id. ¿Sobrescribir?
   pluginFileDisabled: El complemento de este tipo de archivo está desactivado, no se puede abrir
+  pluginViewList: Vista de lista
+  pluginViewGrid: Vista de cuadrícula

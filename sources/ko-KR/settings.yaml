@@ -267,3 +267,5 @@ settings:
   pluginOverwriteTitle: 이미 설치된 플러그인입니다
   pluginOverwriteDesc: 같은 ID의 플러그인이 이미 있습니다. 덮어쓸까요?
   pluginFileDisabled: 이 파일 형식의 플러그인이 비활성화되어 열 수 없습니다
+  pluginViewList: 목록 보기
+  pluginViewGrid: 그리드 보기

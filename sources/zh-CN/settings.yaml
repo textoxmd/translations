@@ -261,3 +261,5 @@ settings:
   schemaDeleteDesc: 「{{name}}」将被删除，此操作无法撤销。
   schemaItemMenu: 更多操作
   pluginFileDisabled: 该文件类型所属的插件已停用，无法打开
+  pluginViewList: 列表视图
+  pluginViewGrid: 网格视图

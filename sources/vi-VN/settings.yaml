@@ -271,3 +271,5 @@ settings:
   pluginOverwriteTitle: Plugin đã được cài đặt
   pluginOverwriteDesc: Đã có plugin cùng id. Ghi đè?
   pluginFileDisabled: Plugin cho loại tệp này đã bị tắt nên không thể mở
+  pluginViewList: Chế độ danh sách
+  pluginViewGrid: Chế độ lưới

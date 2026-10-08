@@ -271,3 +271,5 @@ settings:
   pluginOverwriteTitle: Плагин уже установлен
   pluginOverwriteDesc: Плагин с таким id уже установлен. Перезаписать?
   pluginFileDisabled: Плагин для этого типа файлов отключён, открыть нельзя
+  pluginViewList: Вид списка
+  pluginViewGrid: Вид сетки

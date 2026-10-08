@@ -269,3 +269,5 @@ settings:
   pluginOverwriteTitle: प्लगइन पहले से इंस्टॉल है
   pluginOverwriteDesc: इसी id का प्लगइन पहले से है। अधिलेखित करें?
   pluginFileDisabled: इस फ़ाइल प्रकार का प्लगइन बंद है, इसे खोला नहीं जा सकता
+  pluginViewList: सूची दृश्य
+  pluginViewGrid: ग्रिड दृश्य

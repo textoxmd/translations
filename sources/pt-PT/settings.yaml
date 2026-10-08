@@ -271,3 +271,5 @@ settings:
   pluginOverwriteTitle: Extensão já instalada
   pluginOverwriteDesc: Já existe uma extensão com o mesmo id. Substituir?
   pluginFileDisabled: O plugin para este tipo de ficheiro está desativado, não é possível abri-lo
+  pluginViewList: Vista de lista
+  pluginViewGrid: Vista de grelha

@@ -267,3 +267,5 @@ settings:
   pluginOverwriteTitle: 外掛已存在
   pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？
   pluginFileDisabled: 該檔案類型所屬的外掛已停用，無法開啟
+  pluginViewList: 列表檢視
+  pluginViewGrid: 網格檢視
