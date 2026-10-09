@@ -244,6 +244,7 @@ settings:
   followAuthor: 作者をフォロー
   followAuthorFailed: 作者ページを開けませんでした
   plugins: プラグイン
+  pluginManagement: プラグイン管理
   categoryImageHosting: 画像ホスト
   categoryEditor: エディタ
   categoryExport: エクスポート
@@ -264,6 +265,9 @@ settings:
   pluginDisabledHint: 無効
   pluginEnabledNow: 有効にしました
   pluginDisabledNow: 無効にしました
+  pluginReset: デフォルトに戻す
+  pluginResetDesc: プラグインの設定をデフォルト値に戻します
+  pluginResetDone: デフォルトに戻しました
   pluginOverwriteTitle: プラグインは既にインストールされています
   pluginOverwriteDesc: 同じ ID のプラグインが既にあります。上書きしますか？
   pluginFileDisabled: このファイルタイプのプラグインは無効になっているため、開けません

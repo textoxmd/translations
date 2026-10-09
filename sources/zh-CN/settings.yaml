@@ -231,6 +231,7 @@ settings:
   followAuthor: 关注作者
   followAuthorFailed: 打开作者主页失败
   plugins: 插件
+  pluginManagement: 插件管理
   categoryImageHosting: 图床
   categoryEditor: 编辑器增强
   categoryExport: 导出
@@ -251,6 +252,9 @@ settings:
   pluginDisabledHint: 已停用
   pluginEnabledNow: 已启用
   pluginDisabledNow: 已停用
+  pluginReset: 恢复默认值
+  pluginResetDesc: 将插件配置恢复为默认值
+  pluginResetDone: 已恢复默认值
   pluginOverwriteTitle: 插件已存在
   pluginOverwriteDesc: 已经有同名插件，要覆盖吗？
   schemaRename: 重命名

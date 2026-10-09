@@ -248,6 +248,7 @@ settings:
   followAuthor: Seguir o autor
   followAuthorFailed: Não foi possível abrir a página do autor
   plugins: Extensões
+  pluginManagement: Gestão de extensões
   categoryImageHosting: Hospedagem de imagens
   categoryEditor: Editor
   categoryExport: Exportar
@@ -268,6 +269,9 @@ settings:
   pluginDisabledHint: Desativado
   pluginEnabledNow: Ativado
   pluginDisabledNow: Desativado
+  pluginReset: Restaurar predefinições
+  pluginResetDesc: Restaurar as configurações da extensão para os valores predefinidos
+  pluginResetDone: Predefinições restauradas
   pluginOverwriteTitle: Extensão já instalada
   pluginOverwriteDesc: Já existe uma extensão com o mesmo id. Substituir?
   pluginFileDisabled: O plugin para este tipo de ficheiro está desativado, não é possível abri-lo

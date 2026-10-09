@@ -244,6 +244,7 @@ settings:
   followAuthor: 작가 팔로우하기
   followAuthorFailed: 작가 페이지를 열지 못했습니다
   plugins: 플러그인
+  pluginManagement: 플러그인 관리
   categoryImageHosting: 이미지 호스트
   categoryEditor: 편집기
   categoryExport: 내보내기
@@ -264,6 +265,9 @@ settings:
   pluginDisabledHint: 사용 안 함
   pluginEnabledNow: 사용함
   pluginDisabledNow: 사용 안 함
+  pluginReset: 기본값으로 복원
+  pluginResetDesc: 플러그인 설정을 기본값으로 복원합니다
+  pluginResetDone: 기본값으로 복원됨
   pluginOverwriteTitle: 이미 설치된 플러그인입니다
   pluginOverwriteDesc: 같은 ID의 플러그인이 이미 있습니다. 덮어쓸까요?
   pluginFileDisabled: 이 파일 형식의 플러그인이 비활성화되어 열 수 없습니다

@@ -244,6 +244,7 @@ settings:
   followAuthor: 關注作者
   followAuthorFailed: 開啟作者主頁失敗
   plugins: 外掛
+  pluginManagement: 外掛管理
   categoryImageHosting: 圖床
   categoryEditor: 編輯器增強
   categoryExport: 匯出
@@ -264,6 +265,9 @@ settings:
   pluginDisabledHint: 已停用
   pluginEnabledNow: 已啟用
   pluginDisabledNow: 已停用
+  pluginReset: 恢復預設值
+  pluginResetDesc: 將外掛設定恢復為預設值
+  pluginResetDone: 已恢復預設值
   pluginOverwriteTitle: 外掛已存在
   pluginOverwriteDesc: 已經有同名外掛，要覆蓋嗎？
   pluginFileDisabled: 該檔案類型所屬的外掛已停用，無法開啟

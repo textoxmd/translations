@@ -248,6 +248,7 @@ settings:
   followAuthor: Theo dõi tác giả
   followAuthorFailed: Không thể mở trang tác giả
   plugins: Plugin
+  pluginManagement: Quản lý plugin
   categoryImageHosting: Dịch vụ ảnh
   categoryEditor: Trình soạn thảo
   categoryExport: Xuất
@@ -268,6 +269,9 @@ settings:
   pluginDisabledHint: Đã tắt
   pluginEnabledNow: Đã bật
   pluginDisabledNow: Đã tắt
+  pluginReset: Khôi phục mặc định
+  pluginResetDesc: Khôi phục cài đặt của plugin về giá trị mặc định
+  pluginResetDone: Đã khôi phục mặc định
   pluginOverwriteTitle: Plugin đã được cài đặt
   pluginOverwriteDesc: Đã có plugin cùng id. Ghi đè?
   pluginFileDisabled: Plugin cho loại tệp này đã bị tắt nên không thể mở

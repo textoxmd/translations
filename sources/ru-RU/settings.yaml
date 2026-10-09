@@ -248,6 +248,7 @@ settings:
   followAuthor: Подписаться на автора
   followAuthorFailed: Не удалось открыть страницу автора
   plugins: Плагины
+  pluginManagement: Управление плагинами
   categoryImageHosting: Хостинг изображений
   categoryEditor: Редактор
   categoryExport: Экспорт
@@ -268,6 +269,9 @@ settings:
   pluginDisabledHint: Отключено
   pluginEnabledNow: Включено
   pluginDisabledNow: Отключено
+  pluginReset: Сбросить настройки
+  pluginResetDesc: Вернуть настройки плагина к значениям по умолчанию
+  pluginResetDone: Настройки сброшены
   pluginOverwriteTitle: Плагин уже установлен
   pluginOverwriteDesc: Плагин с таким id уже установлен. Перезаписать?
   pluginFileDisabled: Плагин для этого типа файлов отключён, открыть нельзя

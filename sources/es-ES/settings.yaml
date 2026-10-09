@@ -248,6 +248,7 @@ settings:
   followAuthor: Seguir al autor
   followAuthorFailed: No se pudo abrir la página del autor
   plugins: Complementos
+  pluginManagement: Gestión de complementos
   categoryImageHosting: Alojamiento de imágenes
   categoryEditor: Editor
   categoryExport: Exportar
@@ -268,6 +269,9 @@ settings:
   pluginDisabledHint: Desactivado
   pluginEnabledNow: Activado
   pluginDisabledNow: Desactivado
+  pluginReset: Restaurar valores predeterminados
+  pluginResetDesc: Restaurar la configuración del complemento a sus valores predeterminados
+  pluginResetDone: Valores predeterminados restaurados
   pluginOverwriteTitle: Complemento ya instalado
   pluginOverwriteDesc: Ya hay un complemento con el mismo id. ¿Sobrescribir?
   pluginFileDisabled: El complemento de este tipo de archivo está desactivado, no se puede abrir

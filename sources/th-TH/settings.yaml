@@ -244,6 +244,7 @@ settings:
   followAuthor: ติดตามผู้เขียน
   followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้
   plugins: ปลั๊กอิน
+  pluginManagement: การจัดการปลั๊กอิน
   categoryImageHosting: โฮสต์รูปภาพ
   categoryEditor: ตัวแก้ไข
   categoryExport: ส่งออก
@@ -264,6 +265,9 @@ settings:
   pluginDisabledHint: ปิดใช้งาน
   pluginEnabledNow: เปิดใช้งานแล้ว
   pluginDisabledNow: ปิดใช้งานแล้ว
+  pluginReset: คืนค่าเริ่มต้น
+  pluginResetDesc: คืนค่าการตั้งค่าปลั๊กอินกลับเป็นค่าเริ่มต้น
+  pluginResetDone: คืนค่าเริ่มต้นแล้ว
   pluginOverwriteTitle: ปลั๊กอินติดตั้งอยู่แล้ว
   pluginOverwriteDesc: มีปลั๊กอิน id เดียวกันอยู่แล้ว ต้องการเขียนทับหรือไม่?
   pluginFileDisabled: ปลั๊กอินสำหรับไฟล์ประเภทนี้ถูกปิดอยู่ จึงเปิดไม่ได้

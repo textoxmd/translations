@@ -244,6 +244,7 @@ settings:
   followAuthor: تابع المؤلف
   followAuthorFailed: تعذّر فتح صفحة المؤلف
   plugins: الإضافات
+  pluginManagement: إدارة الإضافات
   categoryImageHosting: استضافة الصور
   categoryEditor: المحرر
   categoryExport: تصدير
@@ -264,6 +265,9 @@ settings:
   pluginDisabledHint: معطّل
   pluginEnabledNow: تم التمكين
   pluginDisabledNow: تم التعطيل
+  pluginReset: استعادة الإعدادات الافتراضية
+  pluginResetDesc: استعادة إعدادات الإضافة إلى القيم الافتراضية
+  pluginResetDone: تمت استعادة الإعدادات الافتراضية
   pluginOverwriteTitle: الإضافة مثبّتة بالفعل
   pluginOverwriteDesc: توجد إضافة بالمعرّف نفسه. هل تريد استبدالها؟
   pluginFileDisabled: الإضافة الخاصة بهذا النوع من الملفات معطّلة، فلا يمكن فتحه

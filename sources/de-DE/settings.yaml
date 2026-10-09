@@ -250,6 +250,7 @@ settings:
   followAuthor: Autor folgen
   followAuthorFailed: Die Autorenseite konnte nicht geöffnet werden
   plugins: Plugins
+  pluginManagement: Plugin-Verwaltung
   categoryImageHosting: Bildhosting
   categoryEditor: Editor
   categoryExport: Export
@@ -270,6 +271,9 @@ settings:
   pluginDisabledHint: Deaktiviert
   pluginEnabledNow: Aktiviert
   pluginDisabledNow: Deaktiviert
+  pluginReset: Standard wiederherstellen
+  pluginResetDesc: Die Einstellungen des Plugins auf die Standardwerte zurücksetzen
+  pluginResetDone: Standard wiederhergestellt
   pluginOverwriteTitle: Plugin bereits installiert
   pluginOverwriteDesc: Ein Plugin mit derselben ID ist bereits installiert. Überschreiben?
   pluginFileDisabled: Das Plugin für diesen Dateityp ist deaktiviert und kann nicht geöffnet werden

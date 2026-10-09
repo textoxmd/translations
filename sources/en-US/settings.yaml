@@ -233,6 +233,7 @@ settings:
   followAuthor: Follow the Author
   followAuthorFailed: Failed to open the author page
   plugins: Plugins
+  pluginManagement: Plugin Management
   categoryImageHosting: Image Hosting
   categoryEditor: Editor
   categoryExport: Export
@@ -253,6 +254,9 @@ settings:
   pluginDisabledHint: Disabled
   pluginEnabledNow: Enabled
   pluginDisabledNow: Disabled
+  pluginReset: Restore Defaults
+  pluginResetDesc: "Restore the plugin's settings to their default values"
+  pluginResetDone: Defaults restored
   pluginOverwriteTitle: Plugin Already Installed
   pluginOverwriteDesc: A plugin with the same id is already installed. Overwrite it?
   schemaRename: Rename

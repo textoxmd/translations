@@ -246,6 +246,7 @@ settings:
   followAuthor: लेखक को फ़ॉलो करें
   followAuthorFailed: लेखक का पृष्ठ खोलने में विफल
   plugins: प्लगइन
+  pluginManagement: प्लगइन प्रबंधन
   categoryImageHosting: इमेज होस्ट
   categoryEditor: एडिटर
   categoryExport: निर्यात
@@ -266,6 +267,9 @@ settings:
   pluginDisabledHint: अक्षम
   pluginEnabledNow: सक्षम किया गया
   pluginDisabledNow: अक्षम किया गया
+  pluginReset: डिफ़ॉल्ट पर पुनर्स्थापित करें
+  pluginResetDesc: प्लगइन सेटिंग्स को उनके डिफ़ॉल्ट मानों पर पुनर्स्थापित करें
+  pluginResetDone: डिफ़ॉल्ट पुनर्स्थापित किए गए
   pluginOverwriteTitle: प्लगइन पहले से इंस्टॉल है
   pluginOverwriteDesc: इसी id का प्लगइन पहले से है। अधिलेखित करें?
   pluginFileDisabled: इस फ़ाइल प्रकार का प्लगइन बंद है, इसे खोला नहीं जा सकता
