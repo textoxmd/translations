@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Escolha tema e aparência
     desc: Clique para pré-visualizar; alterável em qualquer altura.
+  pluginMode:
+    title: 2.0 Modo de extensões
+    desc: O Textox 2.0 passou a usar uma arquitetura de extensões. As funcionalidades abaixo são agora extensões que pode ativar e configurar individualmente. As extensões personalizadas chegam em breve.
+    warnTitle: As definições de versões antigas não são migradas.
+    warnDesc: Reative e reconfigure o que precisar em Definições → Extensões.
   finish:
     title: Bem-vindo ao Textox
     desc: Configuração concluída. Está na hora de criar.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Modo de arranque
     stepBookmarks: Acesso a ficheiros
     stepAppearance: Aparência
+    stepPlugins: Extensões
     stepFinish: Concluir
     next: Seguinte
     back: Anterior

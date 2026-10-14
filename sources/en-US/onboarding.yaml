@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Choose theme & appearance
     desc: Click to preview; you can change it anytime in Settings.
+  pluginMode:
+    title: 2.0 Plugin mode
+    desc: Textox 2.0 now runs on a plugin architecture. The features below are all plugins you can toggle and configure individually — custom plugins are coming.
+    warnTitle: Settings from older versions are not migrated.
+    warnDesc: Re-enable and configure what you need in Settings → Plugins.
   finish:
     title: Welcome to Textox
     desc: Your setup is complete — start creating.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Startup mode
     stepBookmarks: File access
     stepAppearance: Appearance
+    stepPlugins: Plugins
     stepFinish: Finish
     next: Next
     back: Back

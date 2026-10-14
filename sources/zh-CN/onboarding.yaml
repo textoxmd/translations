@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: 选择主题与外观
     desc: 点击即可预览，随时可以在设置里修改。
+  pluginMode:
+    title: 2.0 插件模式
+    desc: Textox 2.0 已调整为插件架构。以下功能都已经插件化，可以单独开关/配置，自定义插件敬请期待。
+    warnTitle: 旧版本的设置不会自动迁移。
+    warnDesc: 请到「设置 → 插件」中按需重新开启与配置。
   finish:
     title: 欢迎使用 Textox
     desc: 设置已完成，开始你的创作吧。
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: 启动模式
     stepBookmarks: 文件访问
     stepAppearance: 外观
+    stepPlugins: 插件
     stepFinish: 完成
     next: 下一步
     back: 上一步

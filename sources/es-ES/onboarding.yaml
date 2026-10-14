@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Elige tema y apariencia
     desc: Haz clic para previsualizar; cambiable en cualquier momento.
+  pluginMode:
+    title: 2.0 Modo complementos
+    desc: Textox 2.0 pasa a una arquitectura de complementos. Las funciones de abajo ahora son complementos que puedes activar y configurar por separado. Pronto llegarán los complementos personalizados.
+    warnTitle: Los ajustes de versiones anteriores no se migran.
+    warnDesc: Vuelve a activar y configurar lo que necesites en Ajustes → Complementos.
   finish:
     title: Bienvenido a Textox
     desc: Configuración completada. Ya puedes empezar a crear.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Modo de inicio
     stepBookmarks: Acceso a archivos
     stepAppearance: Apariencia
+    stepPlugins: Complementos
     stepFinish: Terminar
     next: Siguiente
     back: Atrás

@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: 選擇主題與外觀
     desc: 點擊即可預覽，隨時可以在設定中修改。
+  pluginMode:
+    title: 2.0 外掛模式
+    desc: Textox 2.0 已調整為外掛架構。以下功能都已經外掛化，可以單獨開關／設定，自訂外掛敬請期待。
+    warnTitle: 舊版本的設定不會自動移轉。
+    warnDesc: 請到「設定 → 外掛」依需求重新開啟與設定。
   finish:
     title: 歡迎使用 Textox
     desc: 設定已完成，開始你的創作吧。
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: 啟動模式
     stepBookmarks: 檔案存取
     stepAppearance: 外觀
+    stepPlugins: 外掛
     stepFinish: 完成
     next: 下一步
     back: 上一步

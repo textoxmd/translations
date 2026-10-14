@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: テーマと外観を選択
     desc: クリックでプレビュー。設定からいつでも変更できます。
+  pluginMode:
+    title: 2.0 プラグインモード
+    desc: Textox 2.0 からプラグイン構成になりました。以下の機能はすべて個別にオン／オフ・設定できるプラグインです。カスタムプラグインは今後対応予定です。
+    warnTitle: 旧バージョンの設定は自動移行されません。
+    warnDesc: 「設定 → プラグイン」で必要なものを有効にして設定し直してください。
   finish:
     title: Textox へようこそ
     desc: 設定が完了しました。さっそく書き始めましょう。
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: 起動モード
     stepBookmarks: ファイルアクセス
     stepAppearance: 外観
+    stepPlugins: プラグイン
     stepFinish: 完了
     next: 次へ
     back: 戻る

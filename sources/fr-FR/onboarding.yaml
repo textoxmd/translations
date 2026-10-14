@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Choisir thème et apparence
     desc: Cliquez pour prévisualiser, modifiable à tout moment.
+  pluginMode:
+    title: 2.0 Mode extensions
+    desc: À partir de Textox 2.0, l'application repose sur une architecture d'extensions. Les fonctions ci-dessous sont désormais des extensions que vous pouvez activer et configurer séparément. Les extensions personnalisées arrivent bientôt.
+    warnTitle: Les réglages des anciennes versions ne sont pas migrés.
+    warnDesc: Réactivez et reconfigurez ce dont vous avez besoin dans Réglages → Extensions.
   finish:
     title: Bienvenue sur Textox
     desc: Votre configuration est terminée, à vous de créer.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Mode de démarrage
     stepBookmarks: Accès aux fichiers
     stepAppearance: Apparence
+    stepPlugins: Extensions
     stepFinish: Terminer
     next: Suivant
     back: Retour

@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Scegli tema e aspetto
     desc: Clicca per l'anteprima, modificabile in qualsiasi momento.
+  pluginMode:
+    title: 2.0 Modalità plugin
+    desc: Da Textox 2.0 l'app si basa su un'architettura a plugin. Le funzioni seguenti sono ora plugin che puoi attivare e configurare singolarmente. I plugin personalizzati arriveranno presto.
+    warnTitle: Le impostazioni delle versioni precedenti non vengono migrate.
+    warnDesc: Riattiva e riconfigura ciò che ti serve in Impostazioni → Plugin.
   finish:
     title: Benvenuto in Textox
     desc: Configurazione completata. Ora puoi iniziare a creare.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Modalità di avvio
     stepBookmarks: Accesso ai file
     stepAppearance: Aspetto
+    stepPlugins: Plugin
     stepFinish: Fine
     next: Avanti
     back: Indietro

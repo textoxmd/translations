@@ -20,6 +20,11 @@ onboarding:
   appearance:
     title: Chọn giao diện và chủ đề
     desc: Nhấp để xem trước, có thể đổi bất cứ lúc nào.
+  pluginMode:
+    title: 2.0 Chế độ plugin
+    desc: Từ Textox 2.0, ứng dụng dùng kiến trúc plugin. Các tính năng bên dưới giờ là plugin có thể bật/tắt và cấu hình riêng. Plugin tự tạo sẽ sớm có.
+    warnTitle: Cài đặt từ phiên bản cũ không được chuyển tự động.
+    warnDesc: Hãy bật lại và cấu hình những gì bạn cần trong Cài đặt → Plugin.
   finish:
     title: Chào mừng bạn đến với Textox
     desc: Quá trình thiết lập đã hoàn tất. Bắt đầu sáng tạo thôi.
@@ -30,6 +35,7 @@ onboarding:
     stepStartup: Chế độ khởi động
     stepBookmarks: Quyền truy cập tệp
     stepAppearance: Giao diện
+    stepPlugins: Plugin
     stepFinish: Hoàn tất
     next: Tiếp theo
     back: Quay lại
