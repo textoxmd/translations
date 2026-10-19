@@ -64,7 +64,6 @@ menu:
   outline_style_text: Outline Panel
   outline_style_minimap: Minimap
   developer: "डेवलपर विकल्प"
-  toggle_editor_hud: "संपादक HUD दिखाएं"
   test_review_prompt: रेटिंग प्रॉम्प्ट टेस्ट करें
   devtools: "डेवलपर टूल्स"
   window: विंडो

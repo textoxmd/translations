@@ -64,7 +64,6 @@ menu:
   outline_style_text: Outline Panel
   outline_style_minimap: Minimap
   developer: "Entwickleroptionen"
-  toggle_editor_hud: "Editor-HUD anzeigen"
   test_review_prompt: Bewertungsabfrage testen
   devtools: "Entwicklerwerkzeuge"
   window: Fenster

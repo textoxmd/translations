@@ -64,7 +64,6 @@ menu:
   outline_style_text: Outline Panel
   outline_style_minimap: Minimap
   developer: "개발자 옵션"
-  toggle_editor_hud: "에디터 HUD 표시"
   test_review_prompt: 리뷰 프롬프트 테스트
   devtools: "개발자 도구"
   window: 창

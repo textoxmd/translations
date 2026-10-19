@@ -64,7 +64,6 @@ menu:
   outline_style_text: Outline Panel
   outline_style_minimap: Minimap
   developer: "ตัวเลือกนักพัฒนา"
-  toggle_editor_hud: "แสดง HUD โปรแกรมแก้ไข"
   test_review_prompt: ทดสอบป๊อปอัปให้คะแนน
   devtools: "เครื่องมือสำหรับนักพัฒนา"
   window: หน้าต่าง
