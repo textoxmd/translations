@@ -273,3 +273,17 @@ settings:
   pluginFileDisabled: 이 파일 형식의 플러그인이 비활성화되어 열 수 없습니다
   pluginViewList: 목록 보기
   pluginViewGrid: 그리드 보기
+  ai:
+    title: AI
+    provider: Provider
+    model: Model
+    apiKey: API Key
+    baseUrl: Base URL
+    resultSurface: Result display
+    surfaceFloating: Floating card
+    surfaceSidebar: Sidebar
+    testConnection: Test connection
+    testSuccess: Connection successful
+    testFailed: Connection failed
+    testTimeout: Connection timed out
+    keyStorageNote: The API key is stored in the local config file in plain text.

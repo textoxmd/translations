@@ -1,0 +1,14 @@
+agent:
+  panelTitle: AI
+  empty: Select text to explain with AI.
+  copy: Copy
+  copied: Copied
+  copyFailed: Copy failed
+  retry: Retry
+  close: Close
+  moveToSidebar: Move to sidebar
+  floatBack: Show as floating card
+  error:
+    auth: API key is invalid or lacks permission.
+    rateLimit: Rate limit reached. Try again later.
+    network: Cannot reach the service. The endpoint may not allow cross-origin requests.

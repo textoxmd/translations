@@ -279,3 +279,17 @@ settings:
   pluginFileDisabled: Das Plugin für diesen Dateityp ist deaktiviert und kann nicht geöffnet werden
   pluginViewList: Listenansicht
   pluginViewGrid: Rasteransicht
+  ai:
+    title: AI
+    provider: Provider
+    model: Model
+    apiKey: API Key
+    baseUrl: Base URL
+    resultSurface: Result display
+    surfaceFloating: Floating card
+    surfaceSidebar: Sidebar
+    testConnection: Test connection
+    testSuccess: Connection successful
+    testFailed: Connection failed
+    testTimeout: Connection timed out
+    keyStorageNote: The API key is stored in the local config file in plain text.

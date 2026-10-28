@@ -275,3 +275,17 @@ settings:
   pluginFileDisabled: इस फ़ाइल प्रकार का प्लगइन बंद है, इसे खोला नहीं जा सकता
   pluginViewList: सूची दृश्य
   pluginViewGrid: ग्रिड दृश्य
+  ai:
+    title: AI
+    provider: Provider
+    model: Model
+    apiKey: API Key
+    baseUrl: Base URL
+    resultSurface: Result display
+    surfaceFloating: Floating card
+    surfaceSidebar: Sidebar
+    testConnection: Test connection
+    testSuccess: Connection successful
+    testFailed: Connection failed
+    testTimeout: Connection timed out
+    keyStorageNote: The API key is stored in the local config file in plain text.

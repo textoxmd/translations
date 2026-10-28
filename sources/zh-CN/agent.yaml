@@ -1,0 +1,14 @@
+agent:
+  panelTitle: AI
+  empty: 选中文本后使用 AI 解释
+  copy: 复制
+  copied: 已复制
+  copyFailed: 复制失败
+  retry: 重试
+  close: 关闭
+  moveToSidebar: 移到边栏
+  floatBack: 浮回
+  error:
+    auth: API Key 无效或无权限
+    rateLimit: 请求过于频繁，请稍后再试
+    network: 无法连接服务，服务端可能未允许跨域请求
