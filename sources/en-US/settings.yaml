@@ -283,3 +283,12 @@ settings:
     testFailed: Connection failed
     testTimeout: Connection timed out
     keyStorageNote: The API key is stored in the local config file in plain text.
+    providerDesc: Choose the API protocol preset
+    providerOpenai: OpenAI
+    providerDeepseek: DeepSeek
+    providerCustom: Custom (OpenAI-compatible)
+    modelDesc: Model used for explanations
+    modelPlaceholder: Model id
+    apiKeyPlaceholder: sk-...
+    baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
+    resultSurfaceDesc: Where results appear

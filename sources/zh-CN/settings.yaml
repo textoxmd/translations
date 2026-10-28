@@ -281,3 +281,12 @@ settings:
     testFailed: 连接失败
     testTimeout: 连接超时
     keyStorageNote: API Key 以明文保存在本地配置文件中。
+    providerDesc: 选择 API 协议预设
+    providerOpenai: OpenAI
+    providerDeepseek: DeepSeek
+    providerCustom: 自定义（OpenAI 兼容）
+    modelDesc: 用于解释的模型
+    modelPlaceholder: 模型 id
+    apiKeyPlaceholder: sk-...
+    baseUrlDesc: OpenAI 兼容端点，例如 https://host/v1
+    resultSurfaceDesc: 结果展示位置
