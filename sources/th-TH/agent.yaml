@@ -1,6 +1,5 @@
 agent:
-  panelTitle: AI
-  empty: Select text to explain with AI.
+  panelTitle: อธิบาย
   copy: Copy
   copied: Copied
   copyFailed: Copy failed
