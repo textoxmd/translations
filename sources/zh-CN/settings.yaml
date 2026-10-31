@@ -270,24 +270,72 @@ settings:
   pluginViewGrid: 网格视图
   ai:
     title: 模型设置
-    provider: 提供商
+    enabled: AI 功能
+    enabledDesc: 开启后，选中文字可调用 AI 解释 / 翻译
+    reconsent: 第三方 AI 服务告知已更新，请重新同意。
+    reconsentAction: 重新同意
+    profiles: 模型配置
+    addProfile: 新建配置
+    emptyProfiles: 还没有模型配置，先新建一条。
+    enableProfile: 启用配置
+    name: 名称
+    provider: 服务提供方
     model: 模型
     apiKey: API Key
     baseUrl: Base URL
-    resultSurface: 结果显示
-    surfaceFloating: 悬浮块
-    surfaceSidebar: 边栏
+    customSelfHostedNote: 该地址由你自行填写，请确认其运营方与数据处理方式。
+    providerUnavailable: 当前地区不提供
+    providerOpenai: OpenAI
+    providerDeepseek: DeepSeek
+    providerZhipu: 智谱 GLM
+    providerMoonshot: 月之暗面 Kimi
+    providerQwen: 阿里云通义千问
+    providerAnthropic: Anthropic Claude
+    providerGoogle: Google Gemini
+    providerXai: xAI Grok
+    providerCustom: 自定义（OpenAI 兼容）
+    edit: 编辑
+    cancel: 取消
+    save: 保存
+    remove: 删除
+    deleteConfirm: 确认删除？
+    incomplete: 请填写模型与 API Key（自定义服务还需要 Base URL）
+    saveFailed: 保存失败，请重试
     testConnection: 测试连接
     testSuccess: 连接成功
     testFailed: 连接失败
     testTimeout: 连接超时
-    keyStorageNote: API Key 以明文保存在本地配置文件中。
-    providerDesc: 选择 API 协议预设
-    providerOpenai: OpenAI
-    providerDeepseek: DeepSeek
-    providerCustom: 自定义（OpenAI 兼容）
-    modelDesc: 用于解释的模型
-    modelPlaceholder: 模型 id
-    apiKeyPlaceholder: sk-...
-    baseUrlDesc: OpenAI 兼容端点，例如 https://host/v1
-    resultSurfaceDesc: 结果展示位置
+    resultSurface: 结果显示
+    surfaceFloating: 悬浮块
+    surfaceSidebar: 边栏
+  aiConsent:
+    title: 第三方 AI 服务与个人信息出境告知
+    intro: 开启 AI 功能后，本机会把你的部分内容发送给下列服务商处理。
+    recipientsTitle: 会连接哪些服务
+    recipientDeepseek: DeepSeek（深度求索）
+    recipientZhipu: 智谱 GLM
+    recipientMoonshot: 月之暗面 Kimi
+    recipientQwen: 阿里云通义千问
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    recipientCustom: 你在模型配置中自行添加的自定义服务（地址由你填写）
+    privacyLink: 隐私政策
+    dataTitle: 会发送什么
+    dataBody: 选中文本（最多约 4000 字）、所在段落（最多约 2000 字）、标题层级与提示词。不会发送文档全文、文件路径或其他文档。
+    transportTitle: 怎么发送
+    transportBody: 请求由本机直接发往服务商的 API 端点，不经过 Textox 服务器。是否留存、是否用于训练由服务商政策决定。
+    crossBorderTitle: 个人信息出境
+    crossBorderBody: 若上述服务位于中国境外，这些内容可能构成个人信息出境。
+    controlTitle: 你的控制
+    controlBody: API Key 明文保存在本机配置文件中；你可以随时关闭总开关或删除配置。删除配置不会删除服务商侧已产生的数据。
+    acceptNotice: 我已阅读并同意上述第三方 AI 服务告知
+    acceptCrossBorder: 我同意将上述信息传输至境外（个人信息出境）
+    cancel: 不同意
+    agree: 同意并启用
+  aiProfile:
+    none: 未选择
+    disabled: （已停用）
+    deleted: 配置已删除，请重新选择
+    empty: 先到模型设置启用一条配置

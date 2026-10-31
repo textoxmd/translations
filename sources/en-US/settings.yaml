@@ -272,24 +272,72 @@ settings:
   pluginViewGrid: Grid view
   ai:
     title: Model settings
+    enabled: AI features
+    enabledDesc: When enabled, select text to run AI explain / translate
+    reconsent: The third-party AI service notice has changed. Please review and accept it again.
+    reconsentAction: Review and accept
+    profiles: Model profiles
+    addProfile: New profile
+    emptyProfiles: No model profiles yet — create one first.
+    enableProfile: Enable profile
+    name: Name
     provider: Provider
     model: Model
     apiKey: API Key
     baseUrl: Base URL
-    resultSurface: Result display
-    surfaceFloating: Floating card
-    surfaceSidebar: Sidebar
+    customSelfHostedNote: You provide this address yourself; make sure you trust its operator and how it handles data.
+    providerUnavailable: Not available in this region
+    providerOpenai: OpenAI
+    providerDeepseek: DeepSeek
+    providerZhipu: Zhipu GLM
+    providerMoonshot: Moonshot Kimi
+    providerQwen: Alibaba Cloud Qwen
+    providerAnthropic: Anthropic Claude
+    providerGoogle: Google Gemini
+    providerXai: xAI Grok
+    providerCustom: Custom (OpenAI-compatible)
+    edit: Edit
+    cancel: Cancel
+    save: Save
+    remove: Delete
+    deleteConfirm: Delete this profile?
+    incomplete: Fill in the model and API key (custom providers also need a base URL).
+    saveFailed: Save failed. Please try again.
     testConnection: Test connection
     testSuccess: Connection successful
     testFailed: Connection failed
     testTimeout: Connection timed out
-    keyStorageNote: The API key is stored in the local config file in plain text.
-    providerDesc: Choose the API protocol preset
-    providerOpenai: OpenAI
-    providerDeepseek: DeepSeek
-    providerCustom: Custom (OpenAI-compatible)
-    modelDesc: Model used for explanations
-    modelPlaceholder: Model id
-    apiKeyPlaceholder: sk-...
-    baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
-    resultSurfaceDesc: Where results appear
+    resultSurface: Result display
+    surfaceFloating: Floating card
+    surfaceSidebar: Sidebar
+  aiConsent:
+    title: Third-party AI services and cross-border data transfer notice
+    intro: When AI features are on, this device sends part of your content to the services below for processing.
+    recipientsTitle: Which services are contacted
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    recipientCustom: Custom services you added in Model settings (address provided by you)
+    privacyLink: Privacy policy
+    dataTitle: What is sent
+    dataBody: The selected text (up to about 4,000 characters), its paragraph (up to about 2,000 characters), the heading hierarchy, and the prompt. The full document, file paths, and other documents are never sent.
+    transportTitle: How it is sent
+    transportBody: Requests go from this device directly to the provider's API endpoint and do not pass through Textox servers. Whether data is retained or used for training is determined by the provider's policy.
+    crossBorderTitle: Cross-border transfer
+    crossBorderBody: If these services are located outside your country or region, this content may constitute a cross-border transfer of personal information.
+    controlTitle: Your control
+    controlBody: API keys are stored in plain text in the local config file. You can turn AI features off or delete a profile at any time. Deleting a profile does not delete data already held by the provider.
+    acceptNotice: I have read and agree to the third-party AI service notice above
+    acceptCrossBorder: I agree to transfer the information above outside my country or region (cross-border transfer of personal information)
+    cancel: Decline
+    agree: Agree and enable
+  aiProfile:
+    none: Not selected
+    disabled: (disabled)
+    deleted: This profile was deleted; select another one
+    empty: Enable a profile in Model settings first
