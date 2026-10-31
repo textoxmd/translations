@@ -6,7 +6,7 @@ agent:
   retry: Retry
   close: Close
   moveToSidebar: Move to sidebar
-  floatBack: Show as floating card
+  floatBack: 浮窗
   source: 原文
   switchModel: 切換模型
   error:

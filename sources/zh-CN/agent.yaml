@@ -6,7 +6,7 @@ agent:
   retry: 重试
   close: 关闭
   moveToSidebar: 移到边栏
-  floatBack: 浮回
+  floatBack: 浮窗
   source: 原文
   switchModel: 切换模型
   error:
