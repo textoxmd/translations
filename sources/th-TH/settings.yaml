@@ -245,7 +245,7 @@ settings:
   followAuthorFailed: ไม่สามารถเปิดหน้าผู้เขียนได้
   plugins: ปลั๊กอิน
   pluginManagement: การจัดการปลั๊กอิน
-  categoryAi: AI
+  categoryLlm: LLM
   categoryImageHosting: โฮสต์รูปภาพ
   categoryEditor: ตัวแก้ไข
   categoryExport: ส่งออก

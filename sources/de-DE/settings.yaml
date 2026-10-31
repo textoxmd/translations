@@ -251,7 +251,7 @@ settings:
   followAuthorFailed: Die Autorenseite konnte nicht geöffnet werden
   plugins: Plugins
   pluginManagement: Plugin-Verwaltung
-  categoryAi: AI
+  categoryLlm: LLM
   categoryImageHosting: Bildhosting
   categoryEditor: Editor
   categoryExport: Export

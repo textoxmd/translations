@@ -245,7 +245,7 @@ settings:
   followAuthorFailed: 作者ページを開けませんでした
   plugins: プラグイン
   pluginManagement: プラグイン管理
-  categoryAi: AI
+  categoryLlm: LLM
   categoryImageHosting: 画像ホスト
   categoryEditor: エディタ
   categoryExport: エクスポート

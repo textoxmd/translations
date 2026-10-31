@@ -245,7 +245,7 @@ settings:
   followAuthorFailed: تعذّر فتح صفحة المؤلف
   plugins: الإضافات
   pluginManagement: إدارة الإضافات
-  categoryAi: AI
+  categoryLlm: LLM
   categoryImageHosting: استضافة الصور
   categoryEditor: المحرر
   categoryExport: تصدير

@@ -251,7 +251,7 @@ settings:
   followAuthorFailed: Impossible d'ouvrir la page de l'auteur
   plugins: Extensions
   pluginManagement: Gestion des extensions
-  categoryAi: AI
+  categoryLlm: LLM
   categoryImageHosting: Hébergement d'images
   categoryEditor: Éditeur
   categoryExport: Exportation
