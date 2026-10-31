@@ -275,7 +275,7 @@ settings:
   pluginViewList: มุมมองรายการ
   pluginViewGrid: มุมมองตาราง
   ai:
-    title: AI
+    title: การตั้งค่าโมเดล
     provider: Provider
     model: Model
     apiKey: API Key

@@ -275,7 +275,7 @@ settings:
   pluginViewList: عرض القائمة
   pluginViewGrid: عرض الشبكة
   ai:
-    title: AI
+    title: إعدادات النموذج
     provider: Provider
     model: Model
     apiKey: API Key

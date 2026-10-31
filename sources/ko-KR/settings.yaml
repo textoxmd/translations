@@ -275,7 +275,7 @@ settings:
   pluginViewList: 목록 보기
   pluginViewGrid: 그리드 보기
   ai:
-    title: AI
+    title: 모델 설정
     provider: Provider
     model: Model
     apiKey: API Key

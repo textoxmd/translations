@@ -271,7 +271,7 @@ settings:
   pluginViewList: List view
   pluginViewGrid: Grid view
   ai:
-    title: AI
+    title: Model settings
     provider: Provider
     model: Model
     apiKey: API Key

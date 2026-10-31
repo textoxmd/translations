@@ -281,7 +281,7 @@ settings:
   pluginViewList: Listenansicht
   pluginViewGrid: Rasteransicht
   ai:
-    title: AI
+    title: Modelleinstellungen
     provider: Provider
     model: Model
     apiKey: API Key

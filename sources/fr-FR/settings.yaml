@@ -281,7 +281,7 @@ settings:
   pluginViewList: Vue liste
   pluginViewGrid: Vue grille
   ai:
-    title: AI
+    title: Paramètres du modèle
     provider: Provider
     model: Model
     apiKey: API Key

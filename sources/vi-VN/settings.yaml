@@ -279,7 +279,7 @@ settings:
   pluginViewList: Chế độ danh sách
   pluginViewGrid: Chế độ lưới
   ai:
-    title: AI
+    title: Cài đặt mô hình
     provider: Provider
     model: Model
     apiKey: API Key

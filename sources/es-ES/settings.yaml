@@ -279,7 +279,7 @@ settings:
   pluginViewList: Vista de lista
   pluginViewGrid: Vista de cuadrícula
   ai:
-    title: AI
+    title: Ajustes del modelo
     provider: Provider
     model: Model
     apiKey: API Key

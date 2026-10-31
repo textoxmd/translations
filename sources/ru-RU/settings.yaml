@@ -279,7 +279,7 @@ settings:
   pluginViewList: Вид списка
   pluginViewGrid: Вид сетки
   ai:
-    title: AI
+    title: Настройки модели
     provider: Provider
     model: Model
     apiKey: API Key

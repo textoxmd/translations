@@ -275,7 +275,7 @@ settings:
   pluginViewList: リスト表示
   pluginViewGrid: グリッド表示
   ai:
-    title: AI
+    title: モデル設定
     provider: Provider
     model: Model
     apiKey: API Key

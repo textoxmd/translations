@@ -269,7 +269,7 @@ settings:
   pluginViewList: 列表视图
   pluginViewGrid: 网格视图
   ai:
-    title: AI
+    title: 模型设置
     provider: 提供商
     model: 模型
     apiKey: API Key
