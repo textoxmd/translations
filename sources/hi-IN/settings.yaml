@@ -247,6 +247,7 @@ settings:
   followAuthorFailed: लेखक का पृष्ठ खोलने में विफल
   plugins: प्लगइन
   pluginManagement: प्लगइन प्रबंधन
+  categoryAi: AI
   categoryImageHosting: इमेज होस्ट
   categoryEditor: एडिटर
   categoryExport: निर्यात

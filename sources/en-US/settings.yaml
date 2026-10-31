@@ -234,6 +234,7 @@ settings:
   followAuthorFailed: Failed to open the author page
   plugins: Plugins
   pluginManagement: Plugin Management
+  categoryAi: AI
   categoryImageHosting: Image Hosting
   categoryEditor: Editor
   categoryExport: Export

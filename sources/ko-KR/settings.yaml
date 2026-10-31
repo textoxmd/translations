@@ -245,6 +245,7 @@ settings:
   followAuthorFailed: 작가 페이지를 열지 못했습니다
   plugins: 플러그인
   pluginManagement: 플러그인 관리
+  categoryAi: AI
   categoryImageHosting: 이미지 호스트
   categoryEditor: 편집기
   categoryExport: 내보내기

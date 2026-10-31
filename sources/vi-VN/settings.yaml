@@ -249,6 +249,7 @@ settings:
   followAuthorFailed: Không thể mở trang tác giả
   plugins: Plugin
   pluginManagement: Quản lý plugin
+  categoryAi: AI
   categoryImageHosting: Dịch vụ ảnh
   categoryEditor: Trình soạn thảo
   categoryExport: Xuất

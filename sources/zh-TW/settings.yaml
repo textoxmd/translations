@@ -245,6 +245,7 @@ settings:
   followAuthorFailed: 開啟作者主頁失敗
   plugins: 外掛
   pluginManagement: 外掛管理
+  categoryAi: AI
   categoryImageHosting: 圖床
   categoryEditor: 編輯器增強
   categoryExport: 匯出

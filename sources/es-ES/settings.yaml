@@ -249,6 +249,7 @@ settings:
   followAuthorFailed: No se pudo abrir la página del autor
   plugins: Complementos
   pluginManagement: Gestión de complementos
+  categoryAi: AI
   categoryImageHosting: Alojamiento de imágenes
   categoryEditor: Editor
   categoryExport: Exportar
