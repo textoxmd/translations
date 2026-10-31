@@ -8,6 +8,7 @@ agent:
   moveToSidebar: 移到边栏
   floatBack: 浮回
   source: 原文
+  switchModel: 切换模型
   error:
     auth: API Key 无效或无权限
     rateLimit: 请求过于频繁，请稍后再试

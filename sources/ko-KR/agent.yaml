@@ -8,6 +8,7 @@ agent:
   moveToSidebar: Move to sidebar
   floatBack: Show as floating card
   source: 원문
+  switchModel: 모델 전환
   error:
     auth: API key is invalid or lacks permission.
     rateLimit: Rate limit reached. Try again later.

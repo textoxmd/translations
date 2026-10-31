@@ -8,6 +8,7 @@ agent:
   moveToSidebar: Move to sidebar
   floatBack: Show as floating card
   source: ข้อความต้นฉบับ
+  switchModel: เปลี่ยนโมเดล
   error:
     auth: API key is invalid or lacks permission.
     rateLimit: Rate limit reached. Try again later.
