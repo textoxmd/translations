@@ -7,6 +7,7 @@ agent:
   close: Close
   moveToSidebar: Move to sidebar
   floatBack: Show as floating card
+  source: Texto original
   error:
     auth: API key is invalid or lacks permission.
     rateLimit: Rate limit reached. Try again later.
