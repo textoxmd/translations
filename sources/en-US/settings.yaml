@@ -328,7 +328,7 @@ settings:
     privacyLink: Privacy policy
     customRegionNote: You provide the address for a custom endpoint; check who runs it and how it handles data.
     dataTitle: What gets sent
-    dataBody: The current version only sends the selected text (up to about 4,000 characters), its paragraph (up to about 2,000 characters), the heading path above the selection and your prompt. It does not send the whole document, file paths, or other documents. Whether it is retained or used for training depends on the provider's policy.
+    dataBody: The selected text (up to about 4,000 characters), its paragraph (up to about 2,000 characters), the heading path above the selection and your prompt. Never the whole document, file paths, or other documents. Whether it is retained or used for training depends on the provider's policy.
     crossBorderTitle: Cross-border transfer
     crossBorderBody: These providers may sit outside your country or region. The selected text and prompt are sent to them and handled under their own policies.
     controlNote: Your API key is stored in plain text in the local config file. You can turn AI features off or delete a profile at any time; deleting a profile does not remove data the provider already holds.
