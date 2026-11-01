@@ -281,6 +281,9 @@ settings:
     name: 名称
     provider: 服务提供方
     model: 模型
+    modelPlaceholder: 搜索或输入模型 id
+    modelUseTyped: 直接使用「{{model}}」
+    noModelMatch: 没有匹配的预设模型
     apiKey: API Key
     baseUrl: Base URL
     customSelfHostedNote: 该地址由你自行填写，请确认其运营方与数据处理方式。

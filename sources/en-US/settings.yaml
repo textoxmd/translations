@@ -283,6 +283,9 @@ settings:
     name: Name
     provider: Provider
     model: Model
+    modelPlaceholder: Search or type a model id
+    modelUseTyped: Use "{{model}}"
+    noModelMatch: No matching preset models
     apiKey: API Key
     baseUrl: Base URL
     customSelfHostedNote: You provide this address yourself; make sure you trust its operator and how it handles data.
