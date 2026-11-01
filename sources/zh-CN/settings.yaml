@@ -272,8 +272,6 @@ settings:
     title: 模型设置
     enabled: AI 功能
     enabledDesc: 开启后，选中文字可调用 AI 解释 / 翻译
-    reconsent: 第三方 AI 服务告知已更新，请重新同意。
-    reconsentAction: 重新同意
     profiles: 模型配置
     addProfile: 新建配置
     emptyProfiles: 还没有模型配置，先新建一条。
@@ -312,9 +310,11 @@ settings:
     surfaceFloating: 悬浮块
     surfaceSidebar: 边栏
   aiConsent:
-    title: 第三方 AI 服务与个人信息出境告知
-    intro: 开启 AI 功能后，本机会把你的部分内容发送给下列服务商处理。
-    recipientsTitle: 会连接哪些服务
+    titleSingle: 开启 AI 功能
+    titleRecipients: 你的内容会发给这些服务商
+    stepOf: 第 {{current}} 步 / 共 {{total}} 步
+    transportNote: 请求由本机直接发往服务商，不经过 Textox 服务器。
+    recipientsTitle: 接收方
     recipientDeepseek: DeepSeek（深度求索）
     recipientZhipu: 智谱 GLM
     recipientMoonshot: 月之暗面 Kimi
@@ -323,19 +323,18 @@ settings:
     recipientAnthropic: Anthropic Claude
     recipientGoogle: Google Gemini
     recipientXai: xAI Grok
-    recipientCustom: 你在模型配置中自行添加的自定义服务（地址由你填写）
     privacyLink: 隐私政策
-    dataTitle: 会发送什么
+    dataTitle: 发送内容
     dataBody: 选中文本（最多约 4000 字）、所在段落（最多约 2000 字）、标题层级与提示词。不会发送文档全文、文件路径或其他文档。
-    transportTitle: 怎么发送
-    transportBody: 请求由本机直接发往服务商的 API 端点，不经过 Textox 服务器。是否留存、是否用于训练由服务商政策决定。
     crossBorderTitle: 个人信息出境
-    crossBorderBody: 若上述服务位于中国境外，这些内容可能构成个人信息出境。
-    controlTitle: 你的控制
-    controlBody: API Key 明文保存在本机配置文件中；你可以随时关闭总开关或删除配置。删除配置不会删除服务商侧已产生的数据。
+    crossBorderBody: 若上述服务位于中国境外，你选中的内容与提示词会构成个人信息出境，由服务商按其政策留存与处理。
+    controlNote: API Key 明文保存在本机配置文件中。你可以随时关闭 AI 功能或删除配置；删除配置不会删除服务商侧已经产生的数据。
+    customRegionNote: 自定义服务（地址由你填写）可能位于境外，请自行确认其运营者与数据处理方式。
     acceptNotice: 我已阅读并同意上述第三方 AI 服务告知
     acceptCrossBorder: 我同意将上述信息传输至境外（个人信息出境）
-    cancel: 不同意
+    decline: 暂不开启
+    next: 下一步
+    back: 返回
     agree: 同意并启用
   aiProfile:
     none: 未选择
