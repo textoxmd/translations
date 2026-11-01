@@ -312,28 +312,28 @@ settings:
     surfaceFloating: Floating card
     surfaceSidebar: Sidebar
   aiConsent:
-    titleSingle: Turn on AI features
-    titleRecipients: Your content goes to these providers
     stepOf: Step {{current}} of {{total}}
-    transportNote: Requests go straight from this device to the provider; they never pass through a Textox server.
+    titleEnable: Turn on AI features
+    titleRecipients: Your content goes to these providers
+    transportBody: Requests go straight from this device to the provider; they never pass through a Textox server.
     recipientsTitle: Recipients
     recipientDeepseek: DeepSeek
     recipientZhipu: Zhipu GLM
     recipientMoonshot: Moonshot Kimi
-    recipientQwen: Alibaba Qwen
+    recipientQwen: Alibaba Cloud Qwen
     recipientOpenai: OpenAI
     recipientAnthropic: Anthropic Claude
     recipientGoogle: Google Gemini
     recipientXai: xAI Grok
     privacyLink: Privacy policy
+    customRegionNote: You provide the address for a custom endpoint; check who runs it and how it handles data.
     dataTitle: What gets sent
-    dataBody: The selected text (up to ~4,000 characters), its paragraph (up to ~2,000), heading levels and your prompt. Never the whole document, file paths or other documents.
+    dataBody: The selected text (up to about 4,000 characters), its paragraph (up to about 2,000 characters), heading levels and your prompt. Never the whole document, file paths, or other documents. Whether it is retained or used for training depends on the provider's policy.
     crossBorderTitle: Cross-border transfer
-    crossBorderBody: If these providers sit outside mainland China, your selected text and prompt are transferred abroad and handled under their own policies.
+    crossBorderBody: These providers may sit outside your country or region. The selected text and prompt are sent to them and handled under their own policies.
     controlNote: Your API key is stored in plain text in the local config file. You can turn AI features off or delete a profile at any time; deleting a profile does not remove data the provider already holds.
-    customRegionNote: A custom endpoint (you provide the address) may sit outside mainland China; check who runs it and how it handles data.
     acceptNotice: I have read and agree to the notice above
-    acceptCrossBorder: I agree to transfer the above information abroad
+    acceptCrossBorder: I agree to the cross-border transfer of the selected text and prompt (personal information)
     decline: Not now
     next: Next
     back: Back

@@ -310,10 +310,10 @@ settings:
     surfaceFloating: 悬浮块
     surfaceSidebar: 边栏
   aiConsent:
-    titleSingle: 开启 AI 功能
-    titleRecipients: 你的内容会发给这些服务商
     stepOf: 第 {{current}} 步 / 共 {{total}} 步
-    transportNote: 请求由本机直接发往服务商，不经过 Textox 服务器。
+    titleEnable: 开启 AI 功能
+    titleRecipients: 你的内容会发送到这些服务商
+    transportBody: 请求由本机直接发往服务商，不经过 Textox 服务器。
     recipientsTitle: 接收方
     recipientDeepseek: DeepSeek（深度求索）
     recipientZhipu: 智谱 GLM
@@ -324,18 +324,18 @@ settings:
     recipientGoogle: Google Gemini
     recipientXai: xAI Grok
     privacyLink: 隐私政策
+    customRegionNote: 自定义服务由你填写地址，请自行确认其运营方与数据处理方式。
     dataTitle: 发送内容
-    dataBody: 选中文本（最多约 4000 字）、所在段落（最多约 2000 字）、标题层级与提示词。不会发送文档全文、文件路径或其他文档。
+    dataBody: 选中文本（最多约 4000 字）、所在段落（最多约 2000 字）、标题层级与提示词。不会发送文档全文、文件路径或其他文档；是否留存或用于训练由服务商政策决定。
     crossBorderTitle: 个人信息出境
-    crossBorderBody: 若上述服务位于中国境外，你选中的内容与提示词会构成个人信息出境，由服务商按其政策留存与处理。
+    crossBorderBody: 这些服务商可能位于你所在的国家或地区之外，选中的内容与提示词会传输给它们处理，并由其政策决定留存与使用。
     controlNote: API Key 明文保存在本机配置文件中。你可以随时关闭 AI 功能或删除配置；删除配置不会删除服务商侧已经产生的数据。
-    customRegionNote: 自定义服务（地址由你填写）可能位于境外，请自行确认其运营者与数据处理方式。
-    acceptNotice: 我已阅读并同意上述第三方 AI 服务告知
-    acceptCrossBorder: 我同意将上述信息传输至境外（个人信息出境）
+    acceptNotice: 我已阅读并同意本告知的全部内容
+    acceptCrossBorder: 我同意将选中的内容与提示词传输至我所在国家或地区之外（个人信息出境）
     decline: 暂不开启
     next: 下一步
-    back: 返回
-    agree: 同意并启用
+    back: 上一步
+    agree: 同意并开启
   aiProfile:
     none: 未选择
     disabled: （已停用）
