@@ -277,6 +277,7 @@ settings:
     profiles: Model profiles
     addProfile: New profile
     emptyProfiles: No model profiles yet — create one first.
+    enableFirst: Turn on AI features before adding a model profile.
     enableProfile: Enable profile
     name: Name
     provider: Provider

@@ -275,6 +275,7 @@ settings:
     profiles: 模型配置
     addProfile: 新建配置
     emptyProfiles: 还没有模型配置，先新建一条。
+    enableFirst: 先开启 AI 功能，再添加模型配置。
     enableProfile: 启用配置
     name: 名称
     provider: 服务提供方
