@@ -299,3 +299,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: चरण {{current}} / {{total}}
+    titleEnable: AI सुविधाएँ चालू करें
+    titleRecipients: आपकी सामग्री इन प्रदाताओं को जाती है
+    transportBody: अनुरोध इस डिवाइस से सीधे प्रदाता को जाते हैं और Textox सर्वर से नहीं गुज़रते।
+    recipientsTitle: प्राप्तकर्ता
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: गोपनीयता नीति
+    customRegionNote: कस्टम सेवा का पता आप भरते हैं; कृपया जाँचें कि उसे कौन चलाता है और डेटा कैसे संभालता है।
+    dataTitle: क्या भेजा जाता है
+    dataBody: क्या भेजा जाता है, यह आपकी चुनी सुविधा पर निर्भर करता है। मौजूदा सुविधाएँ केवल चुना हुआ पाठ (अधिकतम 4000 अक्षर), उसका अनुच्छेद (अधिकतम 2000 अक्षर), संबंधित अनुभाग के शीर्षकों का क्रम और आपका प्रॉम्प्ट भेजती हैं। यदि आगे कोई सुविधा पूरे दस्तावेज़, आपके चुने फ़ाइलों या कार्यक्षेत्र के दस्तावेज़ों को पढ़ेगी, तो Textox पहली बार उपयोग से पहले दायरा बताएगा और फिर से आपकी सहमति लेगा। सामग्री प्रदाता तक पहुँचने के बाद उसका संग्रहण और उपयोग उसी प्रदाता की गोपनीयता नीति से नियंत्रित होता है।
+    crossBorderTitle: सीमा-पार स्थानांतरण
+    crossBorderBody: ये प्रदाता आपके देश या क्षेत्र से बाहर हो सकते हैं। भेजी गई सामग्री और प्रॉम्प्ट वहाँ संसाधित होते हैं, और उनका संग्रहण व उपयोग उन प्रदाताओं की नीतियों से तय होता है।
+    controlNote: API कुंजी स्थानीय कॉन्फ़िग फ़ाइल में सादे पाठ में रखी जाती है। आप कभी भी AI सुविधाएँ बंद कर सकते हैं या प्रोफ़ाइल हटा सकते हैं; हटाने से प्रदाता के पास पहले से मौजूद डेटा नहीं मिटता।
+    acceptNotice: मैंने ऊपर की सूचना पढ़ ली है और उसकी सभी बातों से सहमत हूँ
+    acceptCrossBorder: मैं भेजी गई सामग्री और प्रॉम्प्ट को अपने देश या क्षेत्र से बाहर स्थानांतरित करने पर सहमत हूँ (व्यक्तिगत डेटा)
+    decline: अभी नहीं
+    next: आगे
+    back: पीछे
+    agree: सहमत हों और चालू करें

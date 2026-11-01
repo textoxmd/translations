@@ -303,3 +303,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: Schritt {{current}} von {{total}}
+    titleEnable: KI-Funktionen aktivieren
+    titleRecipients: Ihre Inhalte gehen an diese Anbieter
+    transportBody: Anfragen gehen direkt von diesem Gerät an den Anbieter und laufen nicht über einen Textox-Server.
+    recipientsTitle: Empfänger
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: Datenschutzerklärung
+    customRegionNote: Bei einem eigenen Dienst geben Sie die Adresse selbst an. Prüfen Sie Betreiber und Datenverarbeitung.
+    dataTitle: Gesendete Inhalte
+    dataBody: Was gesendet wird, hängt von der verwendeten Funktion ab. Die aktuellen Funktionen senden nur den ausgewählten Text (bis 4.000 Zeichen), den zugehörigen Absatz (bis 2.000 Zeichen), die Überschriftenstruktur des Abschnitts und Ihren Prompt. Sollte eine spätere Funktion das ganze Dokument, von Ihnen gewählte Dateien oder Dokumente im Arbeitsbereich lesen, beschreibt Textox den Umfang vor der ersten Nutzung und fragt erneut nach Ihrer Zustimmung. Nach Eingang beim Anbieter richten sich Speicherung und Nutzung nach dessen Datenschutzerklärung.
+    crossBorderTitle: Übermittlung in Drittländer
+    crossBorderBody: Diese Anbieter können außerhalb Ihres Landes oder Ihrer Region liegen. Die gesendeten Inhalte und Prompts werden dort verarbeitet; Speicherung und Nutzung richten sich nach ihren Richtlinien.
+    controlNote: Der API-Schlüssel liegt im Klartext in der lokalen Konfigurationsdatei. Sie können die KI-Funktionen jederzeit abschalten oder das Profil löschen; das Löschen entfernt keine Daten, die beim Anbieter bereits vorliegen.
+    acceptNotice: Ich habe den obigen Hinweis gelesen und stimme ihm zu
+    acceptCrossBorder: Ich stimme der Übermittlung der gesendeten Inhalte und Prompts in ein Drittland außerhalb meines Landes oder meiner Region zu (personenbezogene Daten)
+    decline: Jetzt nicht
+    next: Weiter
+    back: Zurück
+    agree: Zustimmen und aktivieren

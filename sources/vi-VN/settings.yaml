@@ -301,3 +301,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: Bước {{current}} / {{total}}
+    titleEnable: Bật tính năng AI
+    titleRecipients: Nội dung của bạn được gửi đến các nhà cung cấp này
+    transportBody: Yêu cầu đi trực tiếp từ thiết bị này đến nhà cung cấp và không đi qua máy chủ Textox.
+    recipientsTitle: Bên nhận
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: Chính sách quyền riêng tư
+    customRegionNote: Với dịch vụ tùy chỉnh, bạn tự nhập địa chỉ; hãy tự kiểm tra đơn vị vận hành và cách họ xử lý dữ liệu.
+    dataTitle: Nội dung được gửi
+    dataBody: Nội dung gửi đi phụ thuộc vào tính năng bạn dùng. Các tính năng hiện có chỉ gửi văn bản đã chọn (tối đa 4000 ký tự), đoạn chứa văn bản đó (tối đa 2000 ký tự), đường dẫn tiêu đề của mục tương ứng và câu lệnh của bạn. Nếu sau này có tính năng cần đọc toàn bộ tài liệu, tệp bạn chọn hoặc tài liệu trong không gian làm việc, Textox sẽ nêu rõ phạm vi trước lần dùng đầu tiên và xin ý kiến đồng ý lại. Sau khi nhà cung cấp nhận nội dung, việc lưu giữ và sử dụng tuân theo chính sách quyền riêng tư của họ.
+    crossBorderTitle: Chuyển dữ liệu ra nước ngoài
+    crossBorderBody: Các nhà cung cấp này có thể ở ngoài quốc gia hoặc khu vực của bạn. Nội dung và câu lệnh gửi đi được xử lý tại đó, việc lưu giữ và sử dụng theo chính sách của họ.
+    controlNote: Khóa API được lưu dưới dạng văn bản thuần trong tệp cấu hình cục bộ. Bạn có thể tắt tính năng AI hoặc xóa hồ sơ bất cứ lúc nào; việc xóa không gỡ dữ liệu mà nhà cung cấp đã có.
+    acceptNotice: Tôi đã đọc và đồng ý toàn bộ nội dung thông báo trên
+    acceptCrossBorder: Tôi đồng ý chuyển nội dung và câu lệnh gửi đi ra ngoài quốc gia hoặc khu vực của tôi (dữ liệu cá nhân)
+    decline: Để sau
+    next: Tiếp
+    back: Quay lại
+    agree: Đồng ý và bật

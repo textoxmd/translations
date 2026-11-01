@@ -303,3 +303,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: Étape {{current}} sur {{total}}
+    titleEnable: Activer les fonctions IA
+    titleRecipients: Vos contenus sont envoyés à ces fournisseurs
+    transportBody: Les requêtes partent directement de cet appareil vers le fournisseur et ne passent pas par un serveur Textox.
+    recipientsTitle: Destinataires
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: Politique de confidentialité
+    customRegionNote: Pour un service personnalisé, vous saisissez l'adresse ; vérifiez qui l'exploite et comment il traite les données.
+    dataTitle: Contenus envoyés
+    dataBody: Les contenus envoyés dépendent de la fonction utilisée. Les fonctions actuelles n'envoient que le texte sélectionné (4 000 caractères au plus), son paragraphe (2 000 caractères au plus), le fil des titres de la section concernée et votre prompt. Si une future fonction doit lire le document entier, des fichiers que vous choisissez ou des documents de votre espace de travail, Textox décrira l'étendue avant la première utilisation et redemandera votre consentement. Une fois le contenu reçu par un fournisseur, sa conservation et son usage relèvent de sa politique de confidentialité.
+    crossBorderTitle: Transfert hors de votre pays
+    crossBorderBody: Ces fournisseurs peuvent se trouver hors de votre pays ou région. Les contenus et prompts envoyés y sont traités, et leur conservation comme leur usage relèvent de leurs politiques.
+    controlNote: La clé API est stockée en clair dans le fichier de configuration local. Vous pouvez désactiver les fonctions IA ou supprimer le profil à tout moment ; la suppression ne retire pas les données déjà détenues par le fournisseur.
+    acceptNotice: J'ai lu et j'accepte l'intégralité de cet avis
+    acceptCrossBorder: J'accepte le transfert des contenus et prompts envoyés hors de mon pays ou de ma région (données personnelles)
+    decline: Pas maintenant
+    next: Suivant
+    back: Retour
+    agree: Accepter et activer

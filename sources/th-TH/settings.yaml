@@ -297,3 +297,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: ขั้นที่ {{current}} จาก {{total}}
+    titleEnable: เปิดใช้ฟีเจอร์ AI
+    titleRecipients: เนื้อหาของคุณจะถูกส่งไปยังผู้ให้บริการเหล่านี้
+    transportBody: คำขอส่งจากอุปกรณ์นี้ไปยังผู้ให้บริการโดยตรง ไม่ผ่านเซิร์ฟเวอร์ของ Textox
+    recipientsTitle: ผู้รับข้อมูล
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: นโยบายความเป็นส่วนตัว
+    customRegionNote: บริการที่กำหนดเองคุณเป็นผู้กรอกที่อยู่ โปรดตรวจสอบผู้ให้บริการและวิธีจัดการข้อมูลด้วยตนเอง
+    dataTitle: เนื้อหาที่ส่ง
+    dataBody: เนื้อหาที่ส่งขึ้นอยู่กับฟีเจอร์ที่คุณใช้ ฟีเจอร์ปัจจุบันส่งเฉพาะข้อความที่เลือก (ไม่เกิน 4000 ตัวอักษร) ย่อหน้าที่มีข้อความนั้น (ไม่เกิน 2000 ตัวอักษร) ลำดับหัวข้อของส่วนที่เกี่ยวข้อง และพรอมต์ของคุณ หากในอนาคตมีฟีเจอร์ที่ต้องอ่านเอกสารทั้งฉบับ ไฟล์ที่คุณเลือก หรือเอกสารในเวิร์กสเปซ Textox จะแจ้งขอบเขตก่อนใช้งานครั้งแรกและขอความยินยอมอีกครั้ง เมื่อเนื้อหาถึงผู้ให้บริการแล้ว การเก็บรักษาและการใช้งานเป็นไปตามนโยบายความเป็นส่วนตัวของผู้ให้บริการนั้น
+    crossBorderTitle: การส่งข้อมูลข้ามประเทศ
+    crossBorderBody: ผู้ให้บริการเหล่านี้อาจอยู่นอกประเทศหรือภูมิภาคของคุณ เนื้อหาและพรอมต์ที่ส่งจะถูกประมวลผลที่นั่น และการเก็บรักษากับการใช้งานเป็นไปตามนโยบายของผู้ให้บริการ
+    controlNote: คีย์ API ถูกเก็บเป็นข้อความธรรมดาในไฟล์ตั้งค่าภายในเครื่อง คุณปิดฟีเจอร์ AI หรือลบโปรไฟล์ได้ทุกเมื่อ การลบโปรไฟล์ไม่ลบข้อมูลที่ผู้ให้บริการมีอยู่แล้ว
+    acceptNotice: ฉันได้อ่านและยอมรับเนื้อหาทั้งหมดของประกาศข้างต้น
+    acceptCrossBorder: ฉันยอมรับการส่งเนื้อหาและพรอมต์ที่ส่งไปยังนอกประเทศหรือภูมิภาคของฉัน (ข้อมูลส่วนบุคคล)
+    decline: ยังไม่ตอนนี้
+    next: ถัดไป
+    back: ย้อนกลับ
+    agree: ยอมรับและเปิดใช้

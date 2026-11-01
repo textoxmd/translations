@@ -331,10 +331,10 @@ settings:
     dataTitle: What gets sent
     dataBody: What gets sent depends on the feature you use. The features available now send only the selected text (up to 4,000 characters), its paragraph (up to 2,000 characters), the heading path of the section it sits in, and your prompt. If a later feature needs to read the current document, files you choose, or documents in your workspace, Textox will describe the scope before you first use that feature and ask for your consent again. Once content reaches a provider, its retention and use are governed by that provider's privacy policy.
     crossBorderTitle: Cross-border transfer
-    crossBorderBody: These providers may sit outside your country or region. The selected text and prompt are sent to them and handled under their own policies.
+    crossBorderBody: These providers may sit outside your country or region. The content and prompts described above are sent to them and handled under their own policies.
     controlNote: Your API key is stored in plain text in the local config file. You can turn AI features off or delete a profile at any time; deleting a profile does not remove data the provider already holds.
     acceptNotice: I have read and agree to the notice above
-    acceptCrossBorder: I agree to the cross-border transfer of the selected text and prompt (personal information)
+    acceptCrossBorder: I agree to the transfer of the content and prompts described above outside my country or region (personal information)
     decline: Not now
     next: Next
     back: Back

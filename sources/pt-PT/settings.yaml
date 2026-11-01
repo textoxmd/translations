@@ -301,3 +301,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: Passo {{current}} de {{total}}
+    titleEnable: Ativar funcionalidades de IA
+    titleRecipients: Os seus conteúdos são enviados para estes fornecedores
+    transportBody: Os pedidos partem diretamente deste dispositivo para o fornecedor e não passam por um servidor Textox.
+    recipientsTitle: Destinatários
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: Política de privacidade
+    customRegionNote: Num serviço personalizado é o utilizador que indica o endereço; confirme quem o opera e como trata os dados.
+    dataTitle: Conteúdos enviados
+    dataBody: O que é enviado depende da funcionalidade que utilizar. As funcionalidades atuais enviam apenas o texto selecionado (até 4000 caracteres), o respetivo parágrafo (até 2000 caracteres), o percurso de títulos da secção e o seu prompt. Se uma funcionalidade futura precisar de ler o documento completo, ficheiros que escolher ou documentos do espaço de trabalho, a Textox descreve o âmbito antes da primeira utilização e volta a pedir o seu consentimento. Depois de o conteúdo chegar ao fornecedor, a conservação e a utilização regem-se pela política de privacidade desse fornecedor.
+    crossBorderTitle: Transferência para fora do país
+    crossBorderBody: Estes fornecedores podem estar fora do seu país ou região. Os conteúdos e prompts enviados são aí tratados, e a sua conservação e utilização regem-se pelas políticas desses fornecedores.
+    controlNote: A chave de API é guardada em texto simples no ficheiro de configuração local. Pode desativar as funcionalidades de IA ou eliminar o perfil a qualquer momento; eliminar o perfil não apaga dados que o fornecedor já detenha.
+    acceptNotice: Li e aceito a totalidade do aviso acima
+    acceptCrossBorder: Aceito a transferência dos conteúdos e prompts enviados para fora do meu país ou região (dados pessoais)
+    decline: Agora não
+    next: Seguinte
+    back: Anterior
+    agree: Aceitar e ativar

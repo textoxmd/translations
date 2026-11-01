@@ -301,3 +301,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: Paso {{current}} de {{total}}
+    titleEnable: Activar funciones de IA
+    titleRecipients: Tus contenidos se envían a estos proveedores
+    transportBody: Las solicitudes salen directamente de este dispositivo hacia el proveedor y no pasan por un servidor de Textox.
+    recipientsTitle: Destinatarios
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: Política de privacidad
+    customRegionNote: En un servicio personalizado la dirección la indicas tú; comprueba quién lo opera y cómo trata los datos.
+    dataTitle: Contenidos enviados
+    dataBody: Lo que se envía depende de la función que uses. Las funciones actuales envían solo el texto seleccionado (hasta 4000 caracteres), su párrafo (hasta 2000 caracteres), la ruta de títulos de la sección correspondiente y tu prompt. Si una función futura necesita leer el documento completo, archivos que elijas o documentos de tu espacio de trabajo, Textox describirá el alcance antes del primer uso y volverá a pedir tu consentimiento. Una vez que el contenido llega al proveedor, su conservación y uso se rigen por su política de privacidad.
+    crossBorderTitle: Transferencia internacional
+    crossBorderBody: Estos proveedores pueden estar fuera de tu país o región. Los contenidos y prompts enviados se tratan allí, y su conservación y uso se rigen por sus políticas.
+    controlNote: La clave de API se guarda en texto plano en el archivo de configuración local. Puedes desactivar las funciones de IA o borrar el perfil en cualquier momento; borrarlo no elimina los datos que el proveedor ya tenga.
+    acceptNotice: He leído y acepto todo el aviso anterior
+    acceptCrossBorder: Acepto la transferencia de los contenidos y prompts enviados fuera de mi país o región (datos personales)
+    decline: Ahora no
+    next: Siguiente
+    back: Atrás
+    agree: Aceptar y activar

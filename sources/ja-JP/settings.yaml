@@ -297,3 +297,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: ステップ {{current}} / {{total}}
+    titleEnable: AI 機能を有効にする
+    titleRecipients: コンテンツは次のサービスに送信されます
+    transportBody: リクエストはこのデバイスからサービスへ直接送信され、Textox のサーバーを経由しません。
+    recipientsTitle: 送信先
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: プライバシーポリシー
+    customRegionNote: カスタムサービスはお客様が接続先を入力します。運営者とデータの取り扱いをご自身で確認してください。
+    dataTitle: 送信される内容
+    dataBody: 送信される内容は、使用する機能によって異なります。現在の機能が送信するのは、選択したテキスト（最大 4,000 文字）、その段落（最大 2,000 文字）、属する見出しの階層、および入力したプロンプトです。今後、文書全体、お客様が指定したファイル、またはワークスペース内の文書を読み取る機能を追加する場合は、その機能の初回使用前に送信範囲を説明し、改めて同意を求めます。コンテンツがサービスに届いた後の保持と利用は、そのサービスのプライバシーポリシーに従います。
+    crossBorderTitle: 個人情報の国外移転
+    crossBorderBody: これらのサービスはお客様の国または地域の外にある場合があります。送信される内容とプロンプトはそれらのサービスで処理され、保持と利用は各サービスのポリシーに従います。
+    controlNote: API キーはローカル設定ファイルに平文で保存されます。AI 機能をいつでもオフにするか設定を削除できます。設定を削除しても、サービス側に既に存在するデータは削除されません。
+    acceptNotice: 上記の告知のすべてを読み、同意します
+    acceptCrossBorder: 送信される内容とプロンプトを、お客様の国または地域の外に移転することに同意します（個人情報の国外移転）
+    decline: 今はしない
+    next: 次へ
+    back: 戻る
+    agree: 同意して有効にする

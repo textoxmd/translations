@@ -297,3 +297,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: 第 {{current}} 步，共 {{total}} 步
+    titleEnable: 開啟 AI 功能
+    titleRecipients: 你的內容會傳送給這些服務商
+    transportBody: 請求由本機直接發往服務商，不經過 Textox 伺服器。
+    recipientsTitle: 接收方
+    recipientDeepseek: DeepSeek（深度求索）
+    recipientZhipu: 智譜 GLM
+    recipientMoonshot: 月之暗面 Kimi
+    recipientQwen: 阿里雲通義千問
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: 隱私權政策
+    customRegionNote: 自訂服務由你填寫位址，請自行確認其營運方與資料處理方式。
+    dataTitle: 傳送內容
+    dataBody: 傳送的內容取決於你使用的功能。目前的功能只傳送選取的文字（不超過 4000 字元）、選取文字所在的段落（不超過 2000 字元）、所在章節的標題，以及你輸入的提示詞。若後續功能需要讀取整份文件、你指定的檔案或工作區中的文件，Textox 會在那項功能首次使用前說明傳送範圍，並重新取得你的同意。內容送達服務商後，其留存與使用適用該服務商的隱私權政策。
+    crossBorderTitle: 個人資料跨境傳輸
+    crossBorderBody: 這些服務商可能位於你所在的國家或地區之外，所傳送的內容與提示詞會交由它們處理，留存與使用依其政策決定。
+    controlNote: API Key 以明文保存在本機設定檔中。你可以隨時關閉 AI 功能或刪除設定；刪除設定不會移除服務商端既有的資料。
+    acceptNotice: 我已閱讀並同意本告知的全部內容
+    acceptCrossBorder: 我同意將所傳送的內容與提示詞傳輸至我所在國家或地區之外（個人資料跨境傳輸）
+    decline: 暫不開啟
+    next: 下一步
+    back: 上一步
+    agree: 同意並開啟

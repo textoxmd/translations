@@ -297,3 +297,30 @@ settings:
     apiKeyPlaceholder: sk-...
     baseUrlDesc: OpenAI-compatible endpoint, e.g. https://host/v1
     resultSurfaceDesc: Where results appear
+  aiConsent:
+    stepOf: الخطوة {{current}} من {{total}}
+    titleEnable: تشغيل ميزات الذكاء الاصطناعي
+    titleRecipients: يُرسل محتواك إلى هؤلاء المزوّدين
+    transportBody: تُرسل الطلبات مباشرة من هذا الجهاز إلى المزوّد ولا تمر عبر خادم Textox.
+    recipientsTitle: الجهات المستلمة
+    recipientDeepseek: DeepSeek
+    recipientZhipu: Zhipu GLM
+    recipientMoonshot: Moonshot Kimi
+    recipientQwen: Alibaba Cloud Qwen
+    recipientOpenai: OpenAI
+    recipientAnthropic: Anthropic Claude
+    recipientGoogle: Google Gemini
+    recipientXai: xAI Grok
+    privacyLink: سياسة الخصوصية
+    customRegionNote: في الخدمة المخصصة تكتب العنوان بنفسك، فتحقّق من مشغّلها ومن طريقة معالجتها للبيانات.
+    dataTitle: المحتوى المُرسل
+    dataBody: يعتمد ما يُرسل على الميزة التي تستخدمها. ترسل الميزات الحالية النص المحدد فقط (حتى 4000 حرف)، والفقرة التي يقع فيها (حتى 2000 حرف)، ومسار العناوين في القسم، والنص التوجيهي الذي تكتبه. وإذا احتاجت ميزة لاحقة إلى قراءة المستند كاملًا أو ملفات تختارها أو مستندات في مساحة العمل، فستوضح Textox النطاق قبل أول استخدام وتطلب موافقتك مرة أخرى. وبعد وصول المحتوى إلى المزوّد، يخضع حفظه واستخدامه لسياسة الخصوصية الخاصة به.
+    crossBorderTitle: نقل البيانات إلى خارج البلاد
+    crossBorderBody: قد يوجد هؤلاء المزوّدون خارج بلدك أو منطقتك. تُرسل المحتويات والنصوص التوجيهية إليهم لمعالجتها، ويخضع حفظها واستخدامها لسياساتهم.
+    controlNote: يُحفظ مفتاح API كنص عادي في ملف الإعدادات المحلي. يمكنك إيقاف ميزات الذكاء الاصطناعي أو حذف الإعداد في أي وقت؛ والحذف لا يزيل بيانات موجودة بالفعل لدى المزوّد.
+    acceptNotice: قرأت الإشعار أعلاه وأوافق على جميع ما فيه
+    acceptCrossBorder: أوافق على نقل المحتوى والنصوص التوجيهية المُرسلة إلى خارج بلدي أو منطقتي (بيانات شخصية)
+    decline: ليس الآن
+    next: التالي
+    back: رجوع
+    agree: أوافق وأشغّل
